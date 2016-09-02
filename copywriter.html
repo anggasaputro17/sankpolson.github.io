@@ -10,20 +10,38 @@
         <title>Regional Content Copywriting</title>
         <style>
             .mtop {margin-top:50px;}
+            .jumbotron{background-color: #000; color:#fff;}
         </style>
     </head>
     <body>
-        
-        <div class="col-xs-12">
-            <h2>Decide the effect you want to produce in your reader.</h2>
+
+        <div class="jumbotron">
+            <div class="container">
+                <div class="col-xs-12 text-center">
+                    <img src="primary_logo_white.png" width="50%"/>
+                    <h3>Copywriting Tool</h3>
+                    <p class="lead">Decide the effect you want to produce in your reader.</p>
+                </div>
+            </div>
         </div>
-        
-        <div id="tweet-yo"></div>
-        
-        <div id="tweet-yo2"></div>
-        
-        <div id="tweet-yo3"></div>
-        
+
+        <div class="container">
+
+            <div class="col-xs-12">
+                <h4>Think your copy is valid ? Check if button is enabled !!</h4>
+            </div>
+            
+            <!-- Headline component -->
+            <div id="tweet-yo"></div>
+
+            <!-- Subline Component -->
+            <div id="tweet-yo2"></div>
+
+            <!-- Skinny Content -->
+            <div id="tweet-yo3"></div>
+        </div>
+
+
         <script type="text/jsx">
             var HeadlineBox = React.createClass({
                 getInitialState: function(){
@@ -37,7 +55,7 @@
                 render: function() {
                     return (
                         <div className="mtop col-xs-12">
-                            <label>Headline</label>
+                            <label>Headline (Greater than 0 but less than 25)</label>
                             <input type="text" className="form-control" onChange={this.handleChange}/>
                             <br/>
                             <span>{this.state.text.length}</span>
@@ -59,8 +77,8 @@
                 render: function() {
                     return (
                         <div className="mtop col-xs-12">
-                            <label>Subline (N1-N2, CU1-CU4)</label>
-                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <label>Subline (Greater than 70 but less than 120)</label>
+                            <textarea type="text" className="form-control" onChange={this.handleChange}></textarea>
                             <br/>
                             <span>{this.state.text.length}</span>
                             <button className="btn btn-primary pull-right" disabled={this.state.text.length<70 || this.state.text.length>120}>Copy</button>
@@ -81,7 +99,7 @@
                 render: function() {
                     return (
                         <div className="mtop col-xs-12">
-                            <label>Skinny</label>
+                            <label>Skinny (Greater than 50 but less than 100)</label>
                             <input type="text" className="form-control" onChange={this.handleChange}/>
                             <br/>
                             <span>{this.state.text.length}</span>
