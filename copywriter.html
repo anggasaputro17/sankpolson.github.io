@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <script src="https://code.jquery.com/jquery.min.js"></script>
+        <script src="https://fb.me/react-15.1.0.js"></script>
+        <script src="https://fb.me/react-dom-15.1.0.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.1/JSXTransformer.js"></script>        
+        <meta charset="utf-8">
+        <title>Regional Content Copywriting</title>
+        <style>
+            .mtop {margin-top:50px;}
+        </style>
+    </head>
+    <body>
+        
+        <div class="col-xs-12">
+            <h2>Decide the effect you want to produce in your reader.</h2>
+        </div>
+        
+        <div id="tweet-yo"></div>
+        
+        <div id="tweet-yo2"></div>
+        
+        <div id="tweet-yo3"></div>
+        
+        <script type="text/jsx">
+            var HeadlineBox = React.createClass({
+                getInitialState: function(){
+                    return{
+                        text: ""
+                    };
+                },
+                handleChange: function(event){
+                    this.setState({text: event.target.value});
+                },
+                render: function() {
+                    return (
+                        <div className="mtop col-xs-12">
+                            <label>Headline</label>
+                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <br/>
+                            <span>{this.state.text.length}</span>
+                            <button className="btn btn-primary pull-right" disabled={this.state.text.length==0 || this.state.text.length>25}>Copy</button>
+                        </div>
+                    );
+                }
+            });
+            
+            var SublineBox = React.createClass({
+                getInitialState: function(){
+                    return{
+                        text: ""
+                    };
+                },
+                handleChange: function(event){
+                    this.setState({text: event.target.value});
+                },
+                render: function() {
+                    return (
+                        <div className="mtop col-xs-12">
+                            <label>Subline (N1-N2, CU1-CU4)</label>
+                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <br/>
+                            <span>{this.state.text.length}</span>
+                            <button className="btn btn-primary pull-right" disabled={this.state.text.length<70 || this.state.text.length>120}>Copy</button>
+                        </div>
+                    );
+                }
+            });
+            
+            var SkinnyBox = React.createClass({
+                getInitialState: function(){
+                    return{
+                        text: ""
+                    };
+                },
+                handleChange: function(event){
+                    this.setState({text: event.target.value});
+                },
+                render: function() {
+                    return (
+                        <div className="mtop col-xs-12">
+                            <label>Skinny</label>
+                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <br/>
+                            <span>{this.state.text.length}</span>
+                            <button className="btn btn-primary pull-right" disabled={this.state.text.length<50 || this.state.text.length>100}>Copy</button>
+                        </div>
+                    );
+                }
+            });
+
+            ReactDOM.render(<HeadlineBox/>, document.getElementById("tweet-yo"));
+            ReactDOM.render(<SublineBox/>, document.getElementById("tweet-yo2"));
+            ReactDOM.render(<SkinnyBox/>, document.getElementById("tweet-yo3"));
+        </script>
+    </body>
+</html>
