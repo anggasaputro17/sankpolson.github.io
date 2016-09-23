@@ -56,7 +56,7 @@
                     return (
                         <div className="mtop col-xs-12">
                             <label>Headline (Greater than 0 but less than 25)</label>
-                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <input type="text" className="form-control" spellcheck="true" onChange={this.handleChange}/>
                             <br/>
                             <span>{this.state.text.length}</span>
                             <button className="btn btn-primary pull-right" disabled={this.state.text.length==0 || this.state.text.length>25}>Copy</button>
@@ -78,7 +78,7 @@
                     return (
                         <div className="mtop col-xs-12">
                             <label>Subline (Greater than 70 but less than 120)</label>
-                            <textarea type="text" className="form-control" onChange={this.handleChange}></textarea>
+                            <textarea type="text" className="form-control" spellcheck="true" onChange={this.handleChange}></textarea>
                             <br/>
                             <span>{this.state.text.length}</span>
                             <button className="btn btn-primary pull-right" disabled={this.state.text.length<70 || this.state.text.length>120}>Copy</button>
@@ -100,7 +100,7 @@
                     return (
                         <div className="mtop col-xs-12">
                             <label>Skinny (Greater than 50 but less than 100)</label>
-                            <input type="text" className="form-control" onChange={this.handleChange}/>
+                            <input type="text" className="form-control" spellcheck="true" onChange={this.handleChange}/>
                             <br/>
                             <span>{this.state.text.length}</span>
                             <button className="btn btn-primary pull-right" disabled={this.state.text.length<50 || this.state.text.length>100}>Copy</button>
