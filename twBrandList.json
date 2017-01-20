@@ -5,19 +5,24 @@
 		"url_key" : "cheap-monday"
 	},
 	{
+		"id_catalog_brand" : 20,
+		"name" : "Guess",
+		"url_key" : "guess"
+	},
+	{
 		"id_catalog_brand" : 54,
 		"name" : "The Academy Brand",
 		"url_key" : "the-academy-brand"
 	},
 	{
-		"id_catalog_brand" : 86,
-		"name" : "Dr. Martens",
-		"url_key" : "dr-martens"
-	},
-	{
 		"id_catalog_brand" : 87,
 		"name" : "ALDO",
 		"url_key" : "aldo"
+	},
+	{
+		"id_catalog_brand" : 90,
+		"name" : "Birkenstock",
+		"url_key" : "birkenstock"
 	},
 	{
 		"id_catalog_brand" : 95,
@@ -70,6 +75,11 @@
 		"url_key" : "seafolly"
 	},
 	{
+		"id_catalog_brand" : 221,
+		"name" : "Calvin Klein",
+		"url_key" : "calvin-klein"
+	},
+	{
 		"id_catalog_brand" : 265,
 		"name" : "Speedo",
 		"url_key" : "speedo"
@@ -105,6 +115,11 @@
 		"url_key" : "versace"
 	},
 	{
+		"id_catalog_brand" : 388,
+		"name" : "New Balance",
+		"url_key" : "new-balance"
+	},
+	{
 		"id_catalog_brand" : 418,
 		"name" : "Icons",
 		"url_key" : "icons"
@@ -130,11 +145,6 @@
 		"url_key" : "puma"
 	},
 	{
-		"id_catalog_brand" : 452,
-		"name" : "Dumond",
-		"url_key" : "dumond"
-	},
-	{
 		"id_catalog_brand" : 463,
 		"name" : "Nose",
 		"url_key" : "nose"
@@ -148,6 +158,11 @@
 		"id_catalog_brand" : 483,
 		"name" : "Rip Curl",
 		"url_key" : "rip-curl"
+	},
+	{
+		"id_catalog_brand" : 485,
+		"name" : "17:09",
+		"url_key" : "17-09"
 	},
 	{
 		"id_catalog_brand" : 528,
@@ -225,19 +240,9 @@
 		"url_key" : "albertini"
 	},
 	{
-		"id_catalog_brand" : 916,
-		"name" : "ONLY",
-		"url_key" : "only"
-	},
-	{
 		"id_catalog_brand" : 917,
 		"name" : "Purpur",
 		"url_key" : "purpur"
-	},
-	{
-		"id_catalog_brand" : 920,
-		"name" : "Selected",
-		"url_key" : "selected"
 	},
 	{
 		"id_catalog_brand" : 951,
@@ -248,11 +253,6 @@
 		"id_catalog_brand" : 958,
 		"name" : "Desigual",
 		"url_key" : "desigual"
-	},
-	{
-		"id_catalog_brand" : 959,
-		"name" : "Jack & Jones",
-		"url_key" : "jack-jones"
 	},
 	{
 		"id_catalog_brand" : 960,
@@ -273,6 +273,11 @@
 		"id_catalog_brand" : 968,
 		"name" : "Lavina",
 		"url_key" : "lavina"
+	},
+	{
+		"id_catalog_brand" : 971,
+		"name" : "Lipsy",
+		"url_key" : "lipsy"
 	},
 	{
 		"id_catalog_brand" : 975,
@@ -330,9 +335,9 @@
 		"url_key" : "vintage-fb"
 	},
 	{
-		"id_catalog_brand" : 1122,
-		"name" : "Vila",
-		"url_key" : "vila"
+		"id_catalog_brand" : 1196,
+		"name" : "Kayak Storm",
+		"url_key" : "kayak-storm-portugal"
 	},
 	{
 		"id_catalog_brand" : 1200,
@@ -378,11 +383,6 @@
 		"id_catalog_brand" : 1285,
 		"name" : "Spurr",
 		"url_key" : "spurr"
-	},
-	{
-		"id_catalog_brand" : 1287,
-		"name" : "Lilly's Closet",
-		"url_key" : "lilly-s-closet"
 	},
 	{
 		"id_catalog_brand" : 1295,
@@ -446,7 +446,7 @@
 	},
 	{
 		"id_catalog_brand" : 1373,
-		"name" : "Adidas",
+		"name" : "adidas",
 		"url_key" : "adidas"
 	},
 	{
@@ -460,11 +460,6 @@
 		"url_key" : "fbt"
 	},
 	{
-		"id_catalog_brand" : 1377,
-		"name" : "Embellish",
-		"url_key" : "embellish"
-	},
-	{
 		"id_catalog_brand" : 1380,
 		"name" : "MINISTRY OF RETAIL",
 		"url_key" : "ministry-of-retail"
@@ -475,19 +470,9 @@
 		"url_key" : "funfit"
 	},
 	{
-		"id_catalog_brand" : 1398,
-		"name" : "Ballerinas by s:w:k",
-		"url_key" : "ballerinas-by-s-w-k"
-	},
-	{
 		"id_catalog_brand" : 1402,
 		"name" : "Lafibre",
 		"url_key" : "lafibre"
-	},
-	{
-		"id_catalog_brand" : 1403,
-		"name" : "Salt - Korea",
-		"url_key" : "salt-korea"
 	},
 	{
 		"id_catalog_brand" : 1404,
@@ -580,11 +565,6 @@
 		"url_key" : "jane-shilton"
 	},
 	{
-		"id_catalog_brand" : 1492,
-		"name" : "Woo!",
-		"url_key" : "woo"
-	},
-	{
 		"id_catalog_brand" : 1495,
 		"name" : "Flesh Imp",
 		"url_key" : "flesh-imp"
@@ -608,11 +588,6 @@
 		"id_catalog_brand" : 1514,
 		"name" : "Knight",
 		"url_key" : "knight"
-	},
-	{
-		"id_catalog_brand" : 1519,
-		"name" : "MOONRIVER",
-		"url_key" : "moonriver"
 	},
 	{
 		"id_catalog_brand" : 1521,
@@ -663,11 +638,6 @@
 		"id_catalog_brand" : 1542,
 		"name" : "Marie Claire",
 		"url_key" : "marie-claire"
-	},
-	{
-		"id_catalog_brand" : 1544,
-		"name" : "Neon Rose",
-		"url_key" : "neon-rose"
 	},
 	{
 		"id_catalog_brand" : 1547,
@@ -795,11 +765,6 @@
 		"url_key" : "activa"
 	},
 	{
-		"id_catalog_brand" : 1586,
-		"name" : "CATWALK88",
-		"url_key" : "catwalk88"
-	},
-	{
 		"id_catalog_brand" : 1587,
 		"name" : "Thomas Earnshaw",
 		"url_key" : "thomas-earnshaw"
@@ -863,11 +828,6 @@
 		"id_catalog_brand" : 1609,
 		"name" : "Casio",
 		"url_key" : "casio"
-	},
-	{
-		"id_catalog_brand" : 1611,
-		"name" : "Miss Chase",
-		"url_key" : "miss-chase"
 	},
 	{
 		"id_catalog_brand" : 1614,
@@ -1630,11 +1590,6 @@
 		"url_key" : "flossyxflossy"
 	},
 	{
-		"id_catalog_brand" : 1773,
-		"name" : "Shellys London",
-		"url_key" : "shellys-london"
-	},
-	{
 		"id_catalog_brand" : 1774,
 		"name" : "Marzio Fiorini",
 		"url_key" : "marzio-fiorini"
@@ -1663,11 +1618,6 @@
 		"id_catalog_brand" : 1781,
 		"name" : "Modement",
 		"url_key" : "modement"
-	},
-	{
-		"id_catalog_brand" : 1782,
-		"name" : "Carbonii",
-		"url_key" : "carbonii"
 	},
 	{
 		"id_catalog_brand" : 1783,
@@ -2058,11 +2008,6 @@
 		"id_catalog_brand" : 1868,
 		"name" : "SPY OPTIC",
 		"url_key" : "spy-optic"
-	},
-	{
-		"id_catalog_brand" : 1870,
-		"name" : "in-leading",
-		"url_key" : "in-leading"
 	},
 	{
 		"id_catalog_brand" : 1871,
@@ -2470,11 +2415,6 @@
 		"url_key" : "let-s-reboot"
 	},
 	{
-		"id_catalog_brand" : 1956,
-		"name" : "Girls on Film",
-		"url_key" : "girls-on-film"
-	},
-	{
 		"id_catalog_brand" : 1957,
 		"name" : "Rene Mouris",
 		"url_key" : "rene-mouris"
@@ -2483,11 +2423,6 @@
 		"id_catalog_brand" : 1958,
 		"name" : "Goddiva",
 		"url_key" : "goddiva"
-	},
-	{
-		"id_catalog_brand" : 1959,
-		"name" : "Little Mistress",
-		"url_key" : "little-mistress"
 	},
 	{
 		"id_catalog_brand" : 1960,
@@ -2618,11 +2553,6 @@
 		"id_catalog_brand" : 1994,
 		"name" : "Celinz & Co",
 		"url_key" : "celinz-co"
-	},
-	{
-		"id_catalog_brand" : 1995,
-		"name" : "Love, Fire",
-		"url_key" : "love-fire"
 	},
 	{
 		"id_catalog_brand" : 1996,
@@ -2765,11 +2695,6 @@
 		"url_key" : "nukleus"
 	},
 	{
-		"id_catalog_brand" : 2032,
-		"name" : "Girlondon",
-		"url_key" : "girlondon"
-	},
-	{
 		"id_catalog_brand" : 2033,
 		"name" : "Preen & Proper",
 		"url_key" : "preen-proper"
@@ -2793,11 +2718,6 @@
 		"id_catalog_brand" : 2039,
 		"name" : "XIXILI",
 		"url_key" : "xixili"
-	},
-	{
-		"id_catalog_brand" : 2040,
-		"name" : "Nichii",
-		"url_key" : "nichii"
 	},
 	{
 		"id_catalog_brand" : 2041,
@@ -2875,11 +2795,6 @@
 		"url_key" : "milano"
 	},
 	{
-		"id_catalog_brand" : 2058,
-		"name" : "DressingPaula",
-		"url_key" : "dressingpaula"
-	},
-	{
 		"id_catalog_brand" : 2059,
 		"name" : "Cats Whiskers",
 		"url_key" : "cats-whiskers"
@@ -2915,19 +2830,9 @@
 		"url_key" : "vivacious"
 	},
 	{
-		"id_catalog_brand" : 2066,
-		"name" : "Kitschen",
-		"url_key" : "kitschen"
-	},
-	{
 		"id_catalog_brand" : 2067,
 		"name" : "Pink Evil's Fashion Supermarket",
 		"url_key" : "pink-evil-s-fashion-supermarket"
-	},
-	{
-		"id_catalog_brand" : 2069,
-		"name" : "BLUESKY LOVE",
-		"url_key" : "bluesky-love"
 	},
 	{
 		"id_catalog_brand" : 2070,
@@ -2958,11 +2863,6 @@
 		"id_catalog_brand" : 2075,
 		"name" : "Bagman",
 		"url_key" : "bagman"
-	},
-	{
-		"id_catalog_brand" : 2076,
-		"name" : "Caely",
-		"url_key" : "caely"
 	},
 	{
 		"id_catalog_brand" : 2077,
@@ -3035,11 +2935,6 @@
 		"url_key" : "louis-cuppers"
 	},
 	{
-		"id_catalog_brand" : 2091,
-		"name" : "NEVER GROW OLD",
-		"url_key" : "never-grow-old"
-	},
-	{
 		"id_catalog_brand" : 2092,
 		"name" : "Macerio",
 		"url_key" : "macerio"
@@ -3060,24 +2955,9 @@
 		"url_key" : "pink-n-proper"
 	},
 	{
-		"id_catalog_brand" : 2097,
-		"name" : "Rum Punch",
-		"url_key" : "rum-punch"
-	},
-	{
-		"id_catalog_brand" : 2098,
-		"name" : "Calvin Klein Underwear",
-		"url_key" : "calvin-klein-underwear"
-	},
-	{
-		"id_catalog_brand" : 2099,
-		"name" : "MONOLOCO",
-		"url_key" : "monoloco"
-	},
-	{
-		"id_catalog_brand" : 2100,
-		"name" : "FCUK Underwear",
-		"url_key" : "fcuk-underwear"
+		"id_catalog_brand" : 2101,
+		"name" : "Timberland",
+		"url_key" : "timberland"
 	},
 	{
 		"id_catalog_brand" : 2102,
@@ -3170,11 +3050,6 @@
 		"url_key" : "bagstationz"
 	},
 	{
-		"id_catalog_brand" : 2125,
-		"name" : "Cabochon",
-		"url_key" : "cabochon"
-	},
-	{
 		"id_catalog_brand" : 2127,
 		"name" : "seobean",
 		"url_key" : "seobean"
@@ -3205,11 +3080,6 @@
 		"url_key" : "yves-rocher"
 	},
 	{
-		"id_catalog_brand" : 2133,
-		"name" : "Ottilie",
-		"url_key" : "-ottilie"
-	},
-	{
 		"id_catalog_brand" : 2134,
 		"name" : "Billini",
 		"url_key" : "billini"
@@ -3238,11 +3108,6 @@
 		"id_catalog_brand" : 2140,
 		"name" : "Q&Q by Citizen",
 		"url_key" : "q-q-by-citizen"
-	},
-	{
-		"id_catalog_brand" : 2141,
-		"name" : "Tokyo Life",
-		"url_key" : "tokyo-life"
 	},
 	{
 		"id_catalog_brand" : 2142,
@@ -3315,11 +3180,6 @@
 		"url_key" : "gene-martino"
 	},
 	{
-		"id_catalog_brand" : 2163,
-		"name" : "PEPP",
-		"url_key" : "pepp"
-	},
-	{
 		"id_catalog_brand" : 2166,
 		"name" : "Titan",
 		"url_key" : "titan"
@@ -3333,11 +3193,6 @@
 		"id_catalog_brand" : 2168,
 		"name" : "#ZALORASG50",
 		"url_key" : "zalorasg50"
-	},
-	{
-		"id_catalog_brand" : 2169,
-		"name" : "FMFA x ZALORA",
-		"url_key" : "fmfa-x-zalora"
 	},
 	{
 		"id_catalog_brand" : 2170,
@@ -3420,16 +3275,6 @@
 		"url_key" : "ferragamo"
 	},
 	{
-		"id_catalog_brand" : 2187,
-		"name" : "Jawbone",
-		"url_key" : "jawbone"
-	},
-	{
-		"id_catalog_brand" : 2188,
-		"name" : "O.G.",
-		"url_key" : "o-g"
-	},
-	{
 		"id_catalog_brand" : 2189,
 		"name" : "Sammoni",
 		"url_key" : "sammoni"
@@ -3440,11 +3285,6 @@
 		"url_key" : "micffy"
 	},
 	{
-		"id_catalog_brand" : 2191,
-		"name" : "Amazonas Sandals",
-		"url_key" : "amazonas-sandals"
-	},
-	{
 		"id_catalog_brand" : 2192,
 		"name" : "South Beach",
 		"url_key" : "south-beach"
@@ -3453,16 +3293,6 @@
 		"id_catalog_brand" : 2193,
 		"name" : "Bagazilla",
 		"url_key" : "bagazilla"
-	},
-	{
-		"id_catalog_brand" : 2194,
-		"name" : "SEOULISTA",
-		"url_key" : "seoulista"
-	},
-	{
-		"id_catalog_brand" : 2195,
-		"name" : "Twist",
-		"url_key" : "twist"
 	},
 	{
 		"id_catalog_brand" : 2197,
@@ -3518,6 +3348,11 @@
 		"id_catalog_brand" : 2207,
 		"name" : "DC Shoes",
 		"url_key" : "dc-shoes"
+	},
+	{
+		"id_catalog_brand" : 2208,
+		"name" : "Quiksilver",
+		"url_key" : "quiksilver"
 	},
 	{
 		"id_catalog_brand" : 2209,
@@ -3626,8 +3461,8 @@
 	},
 	{
 		"id_catalog_brand" : 2232,
-		"name" : "Yoke & Theam",
-		"url_key" : "yoke-theam"
+		"name" : "Yoke & Theam old",
+		"url_key" : "yoke-theam-old"
 	},
 	{
 		"id_catalog_brand" : 2233,
@@ -3726,7 +3561,7 @@
 	},
 	{
 		"id_catalog_brand" : 2253,
-		"name" : "jucy judy",
+		"name" : "JUCY JUDY",
 		"url_key" : "jucy-judy"
 	},
 	{
@@ -3793,6 +3628,11 @@
 		"id_catalog_brand" : 2266,
 		"name" : "Gioseppo",
 		"url_key" : "gioseppo"
+	},
+	{
+		"id_catalog_brand" : 2267,
+		"name" : "Megane",
+		"url_key" : "megane"
 	},
 	{
 		"id_catalog_brand" : 2268,
@@ -3986,7 +3826,7 @@
 	},
 	{
 		"id_catalog_brand" : 2306,
-		"name" : "Billabong ",
+		"name" : "Billabong",
 		"url_key" : "billabong"
 	},
 	{
@@ -4008,5 +3848,465 @@
 		"id_catalog_brand" : 2310,
 		"name" : "Jeepers Peepers",
 		"url_key" : "jeepers-peepers"
+	},
+	{
+		"id_catalog_brand" : 2311,
+		"name" : "Wrung",
+		"url_key" : "wrung"
+	},
+	{
+		"id_catalog_brand" : 2312,
+		"name" : "Bata Heritage",
+		"url_key" : "bata-heritage"
+	},
+	{
+		"id_catalog_brand" : 2313,
+		"name" : "PLAYBOY BUNNY",
+		"url_key" : "playboy-bunny"
+	},
+	{
+		"id_catalog_brand" : 2314,
+		"name" : "knomo",
+		"url_key" : "knomo"
+	},
+	{
+		"id_catalog_brand" : 2315,
+		"name" : "Lavish Alice",
+		"url_key" : "lavish-alice"
+	},
+	{
+		"id_catalog_brand" : 2316,
+		"name" : "Smart Turnout London",
+		"url_key" : "smart-turnout-london"
+	},
+	{
+		"id_catalog_brand" : 2317,
+		"name" : "MACACA",
+		"url_key" : "macaca"
+	},
+	{
+		"id_catalog_brand" : 2318,
+		"name" : "Furla",
+		"url_key" : "furla"
+	},
+	{
+		"id_catalog_brand" : 2319,
+		"name" : "Seagull",
+		"url_key" : "seagull"
+	},
+	{
+		"id_catalog_brand" : 2320,
+		"name" : "Hanz de Fuko",
+		"url_key" : "hanz-de-fuko"
+	},
+	{
+		"id_catalog_brand" : 2321,
+		"name" : "CHERRYKOKO",
+		"url_key" : "cherrykoko"
+	},
+	{
+		"id_catalog_brand" : 2322,
+		"name" : "Faith",
+		"url_key" : "faith"
+	},
+	{
+		"id_catalog_brand" : 2323,
+		"name" : "H! by Henry Holland",
+		"url_key" : "h-by-henry-holland"
+	},
+	{
+		"id_catalog_brand" : 2324,
+		"name" : "Nine by Savannah Miller",
+		"url_key" : "nine-by-savannah-miller"
+	},
+	{
+		"id_catalog_brand" : 2325,
+		"name" : "Principles by Ben de Lisi",
+		"url_key" : "principles-by-ben-de-lisi"
+	},
+	{
+		"id_catalog_brand" : 2326,
+		"name" : "Mr. Tiger",
+		"url_key" : "mr-tiger"
+	},
+	{
+		"id_catalog_brand" : 2327,
+		"name" : "Elli Germany",
+		"url_key" : "elli-germany"
+	},
+	{
+		"id_catalog_brand" : 2328,
+		"name" : "Soleus",
+		"url_key" : "soleus"
+	},
+	{
+		"id_catalog_brand" : 2329,
+		"name" : "SOBDEALL",
+		"url_key" : "sobdeall"
+	},
+	{
+		"id_catalog_brand" : 2330,
+		"name" : "HEADWARE",
+		"url_key" : "headware"
+	},
+	{
+		"id_catalog_brand" : 2331,
+		"name" : "addicts anonymous",
+		"url_key" : "addicts-anonymous"
+	},
+	{
+		"id_catalog_brand" : 2332,
+		"name" : "florenzo",
+		"url_key" : "florenzo"
+	},
+	{
+		"id_catalog_brand" : 2333,
+		"name" : "love moschino",
+		"url_key" : "love-moschino"
+	},
+	{
+		"id_catalog_brand" : 2334,
+		"name" : "DAY SEVEN",
+		"url_key" : "day-seven"
+	},
+	{
+		"id_catalog_brand" : 2335,
+		"name" : "fashion union",
+		"url_key" : "fashion-union"
+	},
+	{
+		"id_catalog_brand" : 2336,
+		"name" : "JUSTONE",
+		"url_key" : "justone"
+	},
+	{
+		"id_catalog_brand" : 2337,
+		"name" : "MAGJAY",
+		"url_key" : "magjay"
+	},
+	{
+		"id_catalog_brand" : 2338,
+		"name" : "NANA JEAN",
+		"url_key" : "nana-jean"
+	},
+	{
+		"id_catalog_brand" : 2339,
+		"name" : "AIN ",
+		"url_key" : "ain"
+	},
+	{
+		"id_catalog_brand" : 2340,
+		"name" : "ssong by ssong",
+		"url_key" : "ssong-by-ssong"
+	},
+	{
+		"id_catalog_brand" : 2341,
+		"name" : "TOMONARI",
+		"url_key" : "tomonari"
+	},
+	{
+		"id_catalog_brand" : 2342,
+		"name" : "xexymix",
+		"url_key" : "xexymix"
+	},
+	{
+		"id_catalog_brand" : 2343,
+		"name" : "paperplanes",
+		"url_key" : "paperplanes"
+	},
+	{
+		"id_catalog_brand" : 2344,
+		"name" : "HOZ USA",
+		"url_key" : "hoz-usa"
+	},
+	{
+		"id_catalog_brand" : 2345,
+		"name" : "Maxstar",
+		"url_key" : "maxstar"
+	},
+	{
+		"id_catalog_brand" : 2346,
+		"name" : "WanyZ",
+		"url_key" : "wanyz"
+	},
+	{
+		"id_catalog_brand" : 2347,
+		"name" : "NUVO10",
+		"url_key" : "nuvo10"
+	},
+	{
+		"id_catalog_brand" : 2348,
+		"name" : "Wanderlust + Co",
+		"url_key" : "wanderlust-co"
+	},
+	{
+		"id_catalog_brand" : 2349,
+		"name" : "Chaps",
+		"url_key" : "chaps"
+	},
+	{
+		"id_catalog_brand" : 2350,
+		"name" : "DEVONINE",
+		"url_key" : "devonine"
+	},
+	{
+		"id_catalog_brand" : 2351,
+		"name" : "Crystal Korea Fashion",
+		"url_key" : "crystal-korea-fashion"
+	},
+	{
+		"id_catalog_brand" : 2352,
+		"name" : "Jacomola",
+		"url_key" : "jacomola"
+	},
+	{
+		"id_catalog_brand" : 2353,
+		"name" : "Test Integration Brand3",
+		"url_key" : "test-integration-brand3"
+	},
+	{
+		"id_catalog_brand" : 2354,
+		"name" : "NS Test",
+		"url_key" : "ns-test"
+	},
+	{
+		"id_catalog_brand" : 2355,
+		"name" : "TOPIXSHOP",
+		"url_key" : "topixshop"
+	},
+	{
+		"id_catalog_brand" : 2356,
+		"name" : "MYTHSCEUTICALS",
+		"url_key" : "mythsceuticals"
+	},
+	{
+		"id_catalog_brand" : 2357,
+		"name" : "Eccentric",
+		"url_key" : "eccentric"
+	},
+	{
+		"id_catalog_brand" : 2358,
+		"name" : "We Are Handsome",
+		"url_key" : "we-are-handsome"
+	},
+	{
+		"id_catalog_brand" : 2359,
+		"name" : "Klozet Kuala Lumpur",
+		"url_key" : "klozet-kuala-lumpur"
+	},
+	{
+		"id_catalog_brand" : 2360,
+		"name" : "Kree for ZALORA",
+		"url_key" : "kree-for-zalora"
+	},
+	{
+		"id_catalog_brand" : 2361,
+		"name" : "SHOKAY",
+		"url_key" : "shokay"
+	},
+	{
+		"id_catalog_brand" : 2362,
+		"name" : "Daniel Klein",
+		"url_key" : "daniel-klein"
+	},
+	{
+		"id_catalog_brand" : 2363,
+		"name" : "LANG&LU",
+		"url_key" : "lang-lu"
+	},
+	{
+		"id_catalog_brand" : 2364,
+		"name" : "SHEA RASOL",
+		"url_key" : "shea-rasol"
+	},
+	{
+		"id_catalog_brand" : 2365,
+		"name" : "Sweet One Eighty",
+		"url_key" : "sweet-one-eighty"
+	},
+	{
+		"id_catalog_brand" : 2366,
+		"name" : "SWEET180",
+		"url_key" : "sweet180"
+	},
+	{
+		"id_catalog_brand" : 2367,
+		"name" : "EJnolee",
+		"url_key" : "ejnolee"
+	},
+	{
+		"id_catalog_brand" : 2368,
+		"name" : "VIK",
+		"url_key" : "vik"
+	},
+	{
+		"id_catalog_brand" : 2370,
+		"name" : "LILY PETUNA",
+		"url_key" : "lily-petuna"
+	},
+	{
+		"id_catalog_brand" : 2371,
+		"name" : "NINETEENEIGHTY",
+		"url_key" : "nineteeneighty"
+	},
+	{
+		"id_catalog_brand" : 2372,
+		"name" : "Noirer",
+		"url_key" : "noirer"
+	},
+	{
+		"id_catalog_brand" : 2373,
+		"name" : "FAGUO",
+		"url_key" : "faguo"
+	},
+	{
+		"id_catalog_brand" : 2374,
+		"name" : "OUTSTANDING ORDINARY",
+		"url_key" : "outstanding-ordinary"
+	},
+	{
+		"id_catalog_brand" : 2375,
+		"name" : "SIDE PARTY",
+		"url_key" : "side-party"
+	},
+	{
+		"id_catalog_brand" : 2376,
+		"name" : "OUOR",
+		"url_key" : "ouor"
+	},
+	{
+		"id_catalog_brand" : 2377,
+		"name" : "ENVYLOOK",
+		"url_key" : "envylook"
+	},
+	{
+		"id_catalog_brand" : 2378,
+		"name" : "Hello Sweety",
+		"url_key" : "hello-sweety"
+	},
+	{
+		"id_catalog_brand" : 2379,
+		"name" : "French Connection",
+		"url_key" : "french-connection"
+	},
+	{
+		"id_catalog_brand" : 2380,
+		"name" : "Fareeda",
+		"url_key" : "fareeda"
+	},
+	{
+		"id_catalog_brand" : 2381,
+		"name" : "SHALS",
+		"url_key" : "shals"
+	},
+	{
+		"id_catalog_brand" : 2382,
+		"name" : "STIU",
+		"url_key" : "stiu"
+	},
+	{
+		"id_catalog_brand" : 2383,
+		"name" : "Boss Orange",
+		"url_key" : "boss-orange"
+	},
+	{
+		"id_catalog_brand" : 2384,
+		"name" : "Boss Green",
+		"url_key" : "boss-green"
+	},
+	{
+		"id_catalog_brand" : 2385,
+		"name" : "BOSS",
+		"url_key" : "boss"
+	},
+	{
+		"id_catalog_brand" : 2386,
+		"name" : "SYOMIRIZWA GUPTA",
+		"url_key" : "syomirizwa-gupta"
+	},
+	{
+		"id_catalog_brand" : 2387,
+		"name" : "Petra",
+		"url_key" : "petra"
+	},
+	{
+		"id_catalog_brand" : 2388,
+		"name" : "United Colors of Benetton",
+		"url_key" : "united-colors-of-benetton"
+	},
+	{
+		"id_catalog_brand" : 2389,
+		"name" : "People Footwear",
+		"url_key" : "people-footwear"
+	},
+	{
+		"id_catalog_brand" : 2390,
+		"name" : "Sisley",
+		"url_key" : "sisley"
+	},
+	{
+		"id_catalog_brand" : 2391,
+		"name" : "Carvela KG",
+		"url_key" : "carvela-kg"
+	},
+	{
+		"id_catalog_brand" : 2392,
+		"name" : "Miss KG",
+		"url_key" : "miss-kg"
+	},
+	{
+		"id_catalog_brand" : 2393,
+		"name" : "KG Kurt Geiger",
+		"url_key" : "kg-kurt-geiger"
+	},
+	{
+		"id_catalog_brand" : 2394,
+		"name" : "Dorina",
+		"url_key" : "dorina"
+	},
+	{
+		"id_catalog_brand" : 2395,
+		"name" : "Sunnydaysweety",
+		"url_key" : "sunnydaysweety"
+	},
+	{
+		"id_catalog_brand" : 2396,
+		"name" : "Tsyahmi for ZALORA",
+		"url_key" : "tsyahmi-for-zalora"
+	},
+	{
+		"id_catalog_brand" : 2397,
+		"name" : "Fiorelli",
+		"url_key" : "fiorelli"
+	},
+	{
+		"id_catalog_brand" : 2398,
+		"name" : "Nica",
+		"url_key" : "nica"
+	},
+	{
+		"id_catalog_brand" : 2399,
+		"name" : "桑黃美人(Soosul)",
+		"url_key" : "soosul"
+	},
+	{
+		"id_catalog_brand" : 2400,
+		"name" : "CR7",
+		"url_key" : "cr7"
+	},
+	{
+		"id_catalog_brand" : 2401,
+		"name" : "Rico Rinaldi for ZALORA",
+		"url_key" : "rico-rinaldi-for-zalora"
+	},
+	{
+		"id_catalog_brand" : 2402,
+		"name" : "Jaggad",
+		"url_key" : "jaggad"
+	},
+	{
+		"id_catalog_brand" : 2403,
+		"name" : "EKAN",
+		"url_key" : "ekan"
 	}
 ]
