@@ -4308,5 +4308,130 @@
 		"id_catalog_brand" : 2403,
 		"name" : "EKAN",
 		"url_key" : "ekan"
+	},
+	{
+		"id_catalog_brand" : 2404,
+		"name" : "A X A",
+		"url_key" : "a-x-a"
+	},
+	{
+		"id_catalog_brand" : 2405,
+		"name" : "Just Cavalli Watches",
+		"url_key" : "just-cavalli-watches"
+	},
+	{
+		"id_catalog_brand" : 2406,
+		"name" : "Just Cavalli Jewelry",
+		"url_key" : "just-cavalli-jewelry"
+	},
+	{
+		"id_catalog_brand" : 2407,
+		"name" : "Pepe Jeans Watches",
+		"url_key" : "pepe-jeans-watches"
+	},
+	{
+		"id_catalog_brand" : 2408,
+		"name" : "Maserati Watches",
+		"url_key" : "maserati-watches"
+	},
+	{
+		"id_catalog_brand" : 2409,
+		"name" : "Stuhrling",
+		"url_key" : "stuhrling"
+	},
+	{
+		"id_catalog_brand" : 2410,
+		"name" : "SO&CO",
+		"url_key" : "so-co"
+	},
+	{
+		"id_catalog_brand" : 2411,
+		"name" : "OFF THE RECORD",
+		"url_key" : "off-the-record"
+	},
+	{
+		"id_catalog_brand" : 2412,
+		"name" : "VENIMEUX",
+		"url_key" : "venimeux"
+	},
+	{
+		"id_catalog_brand" : 2413,
+		"name" : "SAMO ONDOH",
+		"url_key" : "samo-ondoh"
+	},
+	{
+		"id_catalog_brand" : 2414,
+		"name" : "BIBYSEOB",
+		"url_key" : "bibyseob"
+	},
+	{
+		"id_catalog_brand" : 2415,
+		"name" : "MILLOGREM",
+		"url_key" : "millogrem"
+	},
+	{
+		"id_catalog_brand" : 2416,
+		"name" : "DRAW.M",
+		"url_key" : "draw-m"
+	},
+	{
+		"id_catalog_brand" : 2417,
+		"name" : "ANDERSSON BELL",
+		"url_key" : "andersson-bell"
+	},
+	{
+		"id_catalog_brand" : 2418,
+		"name" : "RAYETOG",
+		"url_key" : "rayetog"
+	},
+	{
+		"id_catalog_brand" : 2419,
+		"name" : "OVERSIZE HAPPENING",
+		"url_key" : "oversize-happening"
+	},
+	{
+		"id_catalog_brand" : 2420,
+		"name" : "AT THE MOMENT",
+		"url_key" : "at-the-moment"
+	},
+	{
+		"id_catalog_brand" : 2421,
+		"name" : "SAKUN",
+		"url_key" : "sakun"
+	},
+	{
+		"id_catalog_brand" : 2422,
+		"name" : "13MONTH",
+		"url_key" : "13month"
+	},
+	{
+		"id_catalog_brand" : 2423,
+		"name" : "DIVATAIL",
+		"url_key" : "divatail"
+	},
+	{
+		"id_catalog_brand" : 2424,
+		"name" : "FAKEME",
+		"url_key" : "fakeme"
+	},
+	{
+		"id_catalog_brand" : 2425,
+		"name" : "OPTICAL W",
+		"url_key" : "optical-w"
+	},
+	{
+		"id_catalog_brand" : 2426,
+		"name" : "VTZ",
+		"url_key" : "vtz"
+	},
+	{
+		"id_catalog_brand" : 2427,
+		"name" : "BYTHER",
+		"url_key" : "byther"
+	},
+	{
+		"id_catalog_brand" : 2428,
+		"name" : "Stuhrlin",
+		"url_key" : "stuhrlin"
 	}
 ]
