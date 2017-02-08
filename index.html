@@ -1,24 +1,30 @@
 <link rel="stylesheet" href="https://static.zalora.com/css/global.css">
 <link rel="stylesheet" href="https://static.zalora.com/css/onsite.css">
+<style>.cms-half{width:48%;padding:1%;}</style>
 <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
 
 <div class="cms-container">
 
     <div class="cms-row">
 
-        <div class="cms-full txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Brand & Campaign Ones Desktop URL</div>
+        <div class="cms-half txtCenter mtxl">
+            <div class="cms-sub-heading mbl">Brand & cmpgn_one Desktop URL</div>
             <input type="text" id="js-desktop-url"/>
         </div> 
 
-        <div class="cms-full txtCenter mtxl">
+        <div class="cms-half txtCenter mtxl">
+            <div class="cms-sub-heading mbl">Brand DeepLink</div>
+            <input type="text" id="js-deeeplink-url"/>
+        </div>
+        
+        <div class="cms-half txtCenter mtxl">
             <div class="cms-sub-heading mbl">Category Desktop URL</div>
             <input type="text" id="js-desktop-category-url"/>
         </div> 
-
-        <div class="cms-full txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Generated DeepLink</div>
-            <input type="text" id="js-deeeplink-url"/>
+        
+        <div class="cms-half txtCenter mtxl">
+            <div class="cms-sub-heading mbl">Category DeepLink</div>
+            <input type="text" id="js-cat-deeeplink-url"/>
         </div>
 
     </div>
@@ -182,7 +188,7 @@
                     brandID = loadBrands[i].id_catalog_category_url;
                     brandDeepLink += brandID;
                     console.log(brandDeepLink);
-                    $("#js-deeeplink-url").val("" + brandDeepLink);
+                    $("#js-cat-deeeplink-url").val("" + brandDeepLink);
                     break;
                 }
             }
@@ -204,7 +210,7 @@
 
         $("input[type='text']#js-desktop-category-url").change(function () {
             var desktopCampaignURL = $(this).val();
-            $("#js-deeeplink-url").val("");
+            $("#js-cat-deeeplink-url").val("");
             getCategoryFinalDeepLink(desktopCampaignURL);
         });
     });
