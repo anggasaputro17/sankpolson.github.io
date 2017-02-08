@@ -185,7 +185,7 @@
             var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId[]=";
             for (var i = 0; i < loadBrands.length; i++) {
                 if (loadBrands[i].category_url == needle) {
-                    brandID = loadBrands[i].id_catalog_category_url;
+                    brandID = loadBrands[i].fk_catalog_category;
                     brandDeepLink += brandID;
                     console.log(brandDeepLink);
                     $("#js-cat-deeeplink-url").val("" + brandDeepLink);
