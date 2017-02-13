@@ -182,7 +182,7 @@
     function processCategoryURL(desktopURL, jsonDump, getCountry, getGender, needle) {
         var categoryID = null;
         $.getJSON(jsonDump, function (loadBrands) {
-            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId[]=";
+            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId=";
             for (var i = 0; i < loadBrands.length; i++) {
                 if (loadBrands[i].category_url == needle) {
                     brandID = loadBrands[i].fk_catalog_category;
