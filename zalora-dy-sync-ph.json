@@ -23,7 +23,7 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://trello-attachments.s3.amazonaws.com/586e0c0bbf2825e77637e05a/620x420/e5c134358e8a75bda3158b41cd232156/N2_NEWARRIVALS_620x420_(6).jpg.png",
+    "Image": "https://github.com/sankpolson/sankpolson.github.io/blob/master/zalora-dy-sync-ph.json",
     "Exit Url": "/women",
     "Headline": "Runaway Australia",
     "Subline": "Run now",
@@ -183,7 +183,7 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_highstreet_0210.jpg",
+    "Image": "https://trello-attachments.s3.amazonaws.com/55d6adc446d2fea9232a7b78/586b259c02fb3279632f7bbd/d73f8e55d886d93d550f849c58c9181a/V_DAY_Hero_2017.jpg",
     "Exit Url": "/men",
     "Headline": "NA",
     "Subline": "NA",
@@ -417,6 +417,46 @@
     "Exit Url": "/men",
     "Headline": "Men C2",
     "Subline": "NA",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstaticph01-a.akamaihd.net/cms/Evergage/20170121_Homepage_desktop.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/SEGMENT_HEADER_322x300_ValentinesDay.jpg",
+    "Exit Url": "/valentines-day/",
+    "Headline": "Valentine's day",
+    "Subline": "Dress to Impress",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/GetActive_322x300.jpg",
+    "Exit Url": "/men/sports/new-products/",
+    "Headline": "Get Active",
+    "Subline": "Dress to Impress",
+    "EventLabel": "THE|WC|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticph01-a.akamaihd.net/cms/Evergage/322x300_ReadyForMidi.jpg",
+    "Exit Url": "/women/clothing/midi-maxi-dresses/",
+    "Headline": "Ready for Midi",
+    "Subline": "Dress to Impress",
     "EventLabel": "THE|WC|VDAY2017|ALL|NA"
   }
 ]
