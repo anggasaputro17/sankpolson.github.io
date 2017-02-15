@@ -19,5 +19,40 @@
     "Name": "Shoes",
     "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
     "Copy": "Shoes"
+  },
+  {
+    "System ID": "b3464",
+    "Gender": "women",
+    "Name": "Max Studio",
+    "Image": "https://static-sg.zacdn.com/cms/brands/Max_Studio_sg.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b121",
+    "Gender": "women",
+    "Name": "Melissa",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-melissanov.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2551",
+    "Gender": "women",
+    "Name": "Miss Selfridge",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1400",
+    "Gender": "men",
+    "Name": "ESPRIT",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/LP_996x250-espritZAP-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2878",
+    "Gender": "men",
+    "Name": "Bonds",
+    "Image": "https://static-sg.zacdn.com/cms/brands/Bonds_LP_996x250.jpg",
+    "Copy": "NA"
   }
 ]
