@@ -462,10 +462,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/jackets-and-coats/",
     "EventLabel": "sub|na|jacketscoats|ALL|na",
-    "ENHeadline": "NA",
-    "ENSubline": "Jackets & Coats",
-    "ZHHeadline": "NA",
-    "ZHSubline": "選購外套及大䄛"
+    "ENHeadline": "Jackets & Coats",
+    "ENSubline": "NA",
+    "ZHHeadline": "選購外套及大䄛",
+    "ZHSubline": "NA"
   },
   {
     "Placement": "wc2",
@@ -475,10 +475,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/fashion-tops/",
     "EventLabel": "sub|na|tops|all|na",
-    "ENHeadline": "NA",
-    "ENSubline": "Tops",
-    "ZHHeadline": "NA",
-    "ZHSubline": "選購上衣"
+    "ENHeadline": "Tops",
+    "ENSubline": "NA",
+    "ZHHeadline": "選購上衣",
+    "ZHSubline": "NA"
   },
   {
     "Placement": "mh1",
@@ -527,10 +527,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/men/shoes/boots/",
     "EventLabel": "SUB|NA|boots|ALL|NA",
-    "ENHeadline": "NA",
-    "ENSubline": "Shop Boots >",
-    "ZHHeadline": "NA",
-    "ZHSubline": "選購靴 >"
+    "ENHeadline": "Shop Boots",
+    "ENSubline": "NA",
+    "ZHHeadline": "選購靴",
+    "ZHSubline": "NA"
   },
   {
     "Placement": "mc2",
@@ -540,10 +540,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/men/clothing/pants/",
     "EventLabel": "SUB|NA|pants|ALL|NA",
-    "ENHeadline": "NA",
-    "ENSubline": "Shop Pants >",
-    "ZHHeadline": "NA",
-    "ZHSubline": "選購長褲 >"
+    "ENHeadline": "Shop Pants",
+    "ENSubline": "NA",
+    "ZHHeadline": "選購長褲",
+    "ZHSubline": "NA"
   },
   {
     "Placement": "uh1",
