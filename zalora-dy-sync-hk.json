@@ -86,9 +86,9 @@
     "ExitUrl": "/women/all-products/?cmpgn_one=feb20offvc",
     "EventLabel": "SAL|NA|wfeb20offvc|ALL|NA",
     "ENHeadline": "Instant 20% Off",
-    "ENSubline": "Enter code INSTANT20 at checkout. Min. spend $100",
+    "ENSubline": "Use code INSTANT20 at checkout for 20% off (min. spend $550). Selected items only.",
     "ZHHeadline": "立即獲取8折優惠",
-    "ZHSubline": "結帳時輸入優惠碼INSTANT20。需購物滿$550"
+    "ZHSubline": "結帳時輸入優惠碼INSTANT20即享8折 (需購物滿$550)。只限指定貨品。"
   },
   {
     "Placement": "wfb1",
@@ -268,9 +268,9 @@
     "ExitUrl": "/men/all-products/?cmpgn_one=feb20offvc",
     "EventLabel": "SAL|NA|feb20offvc|ALL|NA",
     "ENHeadline": "Instant 20% off",
-    "ENSubline": "Enter code OFF20 at checkout",
+    "ENSubline": "Use code OFF20 at checkout for 20% off (no min.spend). Selected items only.",
     "ZHHeadline": "立即獲取8折優惠",
-    "ZHSubline": "結帳時輸入優惠碼OFF20"
+    "ZHSubline": "結帳時輸入優惠碼OFF20即享8折 (不設最低消費)。只限指定貨品。"
   },
   {
     "Placement": "mfb1",
