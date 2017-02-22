@@ -65,7 +65,7 @@
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-feboff20-vc.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=feb20offvc",
-    "Headline": "NA",
+    "Headline": "立即享有8折優惠",
     "Subline": "使用優惠編碼<b>INSTANT20</b>享<b>8折</b>優惠 (最低消費 NT$1,500)。僅限特定商品。",
     "EventLabel": "SAL|NA|wfeb20offvc|ALL|NA"
   },
@@ -318,5 +318,45 @@
     "Headline": "NA",
     "Subline": "靴子 &gt;",
     "EventLabel": "NewA|NA|mboots17|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/desktop_2017.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "THE|NA|NewArrival2017|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_vday2017.jpg",
+    "Exit Url": "/valentines-day/",
+    "Headline": "情人節浪漫約會",
+    "Subline": "最浪漫的選擇都在這裡！",
+    "EventLabel": "THE|NA|VDAY2017|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_women2017.jpg",
+    "Exit Url": "/women/clothing/new-products/",
+    "Headline": "最新時尚造型",
+    "Subline": "開始新季時尚，了解2017春季最新潮流趨勢。",
+    "EventLabel": "THE|WC|NewArrival2017|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_men2017.jpg",
+    "Exit Url": "/men/clothing/new-products/",
+    "Headline": "新季開展",
+    "Subline": "全新系列更新造型",
+    "EventLabel": "THE|MC|NewArrival2017|ALL|NA"
   }
 ]
