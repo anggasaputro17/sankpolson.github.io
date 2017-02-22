@@ -1,0 +1,418 @@
+[
+  {
+    "Name": "Velvet Crush",
+    "System ID": "c4 s=velvet",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-EN.jpg",
+    "Notes": "contains /women & /clothing & s=velvet"
+  },
+  {
+    "Name": "Velvet Crush",
+    "System ID": "c4 s=絲絨",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-ZH.jpg",
+    "Notes": "contains /women & /clothing & s=velvet"
+  },
+  {
+    "Name": "Spring Forward",
+    "System ID": "c4",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-EN.jpg",
+    "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
+  },
+  {
+    "Name": "Spring Forward",
+    "System ID": "c4",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-ZH.jpg",
+    "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
+  },
+  {
+    "Name": "Brand: Armani",
+    "System ID": "b3318",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-zalora-EA-connected-R1_06-996x250.jpg",
+    "Notes": "contains /armani"
+  },
+  {
+    "Name": "Brand: Diesel",
+    "System ID": "b95",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170201-Zalora-DZ-SPR17-R1_06-996x250.jpg",
+    "Notes": "contains /diesel"
+  },
+  {
+    "Name": "Brand: Misfit",
+    "System ID": "b1929",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170202-Zalora-Misfit-Spr17-R1_06-996x250.jpg",
+    "Notes": "contains /misfit"
+  },
+  {
+    "Name": "Brand: DKNY",
+    "System ID": "b97",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/201670113-Zalora-DKNY-spr-17-R2_06-996x250.jpg",
+    "Notes": "contains /dkny"
+  },
+  {
+    "Name": "Women Brand: Michael Kors",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250.jpg",
+    "Notes": "contains /women & /michael-kors"
+  },
+  {
+    "Name": "Brand: Michael Kors",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250copy.jpg",
+    "Notes": "contains /michael-kors"
+  },
+  {
+    "Name": "Brand: Mango Man",
+    "System ID": "b1612",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-men-feb2017.jpg",
+    "Notes": "contains /mango-man"
+  },
+  {
+    "Name": "Brand: Mango",
+    "System ID": "b1565",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-women-feb2017.jpg",
+    "Notes": "contains /mango"
+  },
+  {
+    "Name": "Brand: Fossil",
+    "System ID": "b1629",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-feb2017.jpg",
+    "Notes": "contains /fossil"
+  },
+  {
+    "Name": "Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-skagen-feb2017.jpg",
+    "Notes": "contains /skagen"
+  },
+  {
+    "Name": "Brand: Seafolly",
+    "System ID": "b198",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-seafolly-feb2017.jpg",
+    "Notes": "contains /seafolly"
+  },
+  {
+    "Name": "Men Vday Clothing Shirt",
+    "System ID": "c31",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hken.jpg",
+    "Notes": "contains /men & /clothing & /shirt"
+  },
+  {
+    "Name": "Men Vday Clothing Shirt",
+    "System ID": "c31",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hkzh.jpg",
+    "Notes": "contains /men & /clothing & /shirt"
+  },
+  {
+    "Name": "Men Vday Shoes",
+    "System ID": "c995 c2004",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hken.jpg",
+    "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
+  },
+  {
+    "Name": "Men Vday Shoes",
+    "System ID": "c995 c2004",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hkzh.jpg",
+    "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
+  },
+  {
+    "Name": "Fitness Unleashed",
+    "System ID": "c471",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hken.jpg",
+    "Notes": "contains /men/sports"
+  },
+  {
+    "Name": "Fitness Unleashed",
+    "System ID": "c471",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hkzh.jpg",
+    "Notes": "contains /men/sports"
+  },
+  {
+    "Name": "Hoodies & Sweatshirts Season",
+    "System ID": "c5968",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hken.jpg",
+    "Notes": "contains /women & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Hoodies & Sweatshirts Season",
+    "System ID": "c5968",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hkzh.jpg",
+    "Notes": "contains /women & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Brand: Ivy Park",
+    "System ID": "b2956",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-ivyparkwomen.jpg",
+    "Notes": "contains /ivy-park"
+  },
+  {
+    "Name": "Brand: ghd",
+    "System ID": "b846",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-ghdwomenfeb2017.jpg",
+    "Notes": "contains /ghd"
+  },
+  {
+    "Name": "Brand: Mimosa",
+    "System ID": "b985",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-mimosafeb2017.jpg",
+    "Notes": "contains /mimosa"
+  },
+  {
+    "Name": "Brand: Dorothy Perkins",
+    "System ID": "b1572",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-dorothyperkinsfeb2017.jpg",
+    "Notes": "contains /dorothy-perkins"
+  },
+  {
+    "Name": "Brand: Wallis",
+    "System ID": "b2810",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-wallisfeb2017.jpg",
+    "Notes": "contains /wallis"
+  },
+  {
+    "Name": "Brand: Topman",
+    "System ID": "b2269",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-topmanfeb2017.jpg",
+    "Notes": "contains /topman"
+  },
+  {
+    "Name": "Brand: Topshop",
+    "System ID": "b2268",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-topshopfeb17.jpg",
+    "Notes": "contains /topshop"
+  },
+  {
+    "Name": "Chill Factor",
+    "System ID": "c5953",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hken.jpg",
+    "Notes": "contains /men & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Chill Factor",
+    "System ID": "c5953",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hkzh.jpg",
+    "Notes": "contains /men & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Quality Made Leather",
+    "System ID": "c4159",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hken.jpg",
+    "Notes": "contains /women/feature/leather"
+  },
+  {
+    "Name": "Quality Made Leather",
+    "System ID": "c4159",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hkzh.jpg",
+    "Notes": "contains /women/feature/leather"
+  },
+  {
+    "Name": "Men Polos",
+    "System ID": "c434",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hken.jpg",
+    "Notes": "contains /men & /polos"
+  },
+  {
+    "Name": "Men Polos",
+    "System ID": "c434",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hkzh.jpg",
+    "Notes": "contains /men & /polos"
+  },
+  {
+    "Name": "Vday Evening Dresses",
+    "System ID": "c1762",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hken.jpg",
+    "Notes": "contains /women & /evening-dresses"
+  },
+  {
+    "Name": "Vday Evening Dresses",
+    "System ID": "c1762",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hkzh.jpg",
+    "Notes": "contains /women & /evening-dresses"
+  },
+  {
+    "Name": "Boots Envy",
+    "System ID": "c15",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hken.jpg",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Boots Envy",
+    "System ID": "c15",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hkzh.jpg",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Brand: Calvin Klein Fragrances",
+    "System ID": "b3451",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/CK%20zalora%20banner_20170110.jpg",
+    "Notes": "contains /calvin-klein-fragrances"
+  },
+  {
+    "Name": "Brand: Addicts Anonymous",
+    "System ID": "b3378",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/AddictsAnonymous_LP_996x250.jpg",
+    "Notes": "contains /addicts-anonymous"
+  },
+  {
+    "Name": "The Bags Trend",
+    "System ID": "c399",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hken.jpg",
+    "Notes": "contains /women/bags & /new-products"
+  },
+  {
+    "Name": "The Bags Trend",
+    "System ID": "c399",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hkzh.jpg",
+    "Notes": "contains /women/bags & /new-products"
+  },
+  {
+    "Name": "K-Fashion Update",
+    "System ID": "c4669",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Notes": "contains /women/korean-fashion & /new-products"
+  },
+  {
+    "Name": "K-Fashion Update",
+    "System ID": "c4669",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Notes": "contains /women/korean-fashion & /new-products"
+  },
+  {
+    "Name": "Dressed to Chill",
+    "System ID": "c5966",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-en.jpg",
+    "Notes": "contains /women & /jackets-and-coats"
+  },
+  {
+    "Name": "Dressed to Chill",
+    "System ID": "c5966",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-zh.jpg",
+    "Notes": "contains /women & /jackets-and-coats"
+  },
+  {
+    "Name": "Workwear Essential",
+    "System ID": "c2673",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-en.jpg",
+    "Notes": "contains /women & /workwear-edit"
+  },
+  {
+    "Name": "Workwear Essential",
+    "System ID": "c2673",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-zh.jpg",
+    "Notes": "contains /women & /workwear-edit"
+  },
+  {
+    "Name": "Brand: Sunnydaysweety",
+    "System ID": "b2443",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/Sunnydaysweety_996x250-za_20161220.png",
+    "Notes": "contains /sunnydaysweety"
+  },
+  {
+    "Name": "Brand: Lipsy",
+    "System ID": "b971",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-lipsy-women-jan2017.jpg",
+    "Notes": "contains /lipsy"
+  }
+]
