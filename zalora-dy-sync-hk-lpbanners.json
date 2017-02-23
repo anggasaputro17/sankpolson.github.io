@@ -452,7 +452,7 @@
     "System ID": "b1818",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-missselfridge-feb2017.jpg",
     "Notes": "contains /miss-selfridge"
   },
   {
@@ -668,7 +668,7 @@
     "System ID": "b2446",
     "Copy": "NA",
     "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_786x180_twenty_eight_shoes_women_1011.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-twenty-eight-shoes-feb2017.jpg",
     "Notes": "contains /twenty-eight-shoes"
   },
   {
@@ -758,6 +758,22 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
     "Notes": "contains /cotton-on & /men"
+  },
+  {
+    "Name": "Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_HKEN_cottonon_unisex.jpg",
+    "Notes": "does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_ZH_cottonon_unisex.jpg",
+    "Notes": "does not contain /men or /women"
   },
   {
     "Name": "Brand: Chelsea Peers",
@@ -886,5 +902,29 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/EA_Ilove8hr_LP%20996x250_v1-01.jpg",
     "Notes": "contains /elizabeth-arden"
+  },
+  {
+    "Name": "Brand: Melissa",
+    "System ID": "b121",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Melissa_LP_996x250-feb2017.jpg",
+    "Notes": "contains /melissa"
+  },
+  {
+    "Name": "Brand: Guess",
+    "System ID": "b20",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-guess-women-feb2017.jpg",
+    "Notes": "contains /guess & /women"
+  },
+  {
+    "Name": "Brand: Betsy",
+    "System ID": "b1432",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-betsy-feb2017.jpg",
+    "Notes": "contains /betsy"
   }
 ]
