@@ -414,5 +414,429 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-lipsy-women-jan2017.jpg",
     "Notes": "contains /lipsy"
+  },
+  {
+    "Name": "Women Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_aldo_nov4.jpg",
+    "Notes": "contains /aldo & /women"
+  },
+  {
+    "Name": "Men Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-aldo-men.jpg",
+    "Notes": "contains /aldo & /men"
+  },
+  {
+    "Name": "Brand: Converse",
+    "System ID": "b302",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-conversedecember.jpg",
+    "Notes": "contains /converse"
+  },
+  {
+    "Name": "Women Brand: Factorie",
+    "System ID": "b1914",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-womenfactorieDec.jpg",
+    "Notes": "contains /women & /factorie"
+  },
+  {
+    "Name": "Brand: Miss Selfridge",
+    "System ID": "b1818",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
+    "Notes": "contains /miss-selfridge"
+  },
+  {
+    "Name": "Brand: Indicode Jeans",
+    "System ID": "b2885",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-indicodejeans.jpg",
+    "Notes": "contains /indicode-jeans"
+  },
+  {
+    "Name": "Brand: Kayak Storm",
+    "System ID": "b1196",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/kayakstorm_lp_banner_996x250.jpg",
+    "Notes": "contains /kayak-storm"
+  },
+  {
+    "Name": "Brand: Kleeaisons",
+    "System ID": "b2358",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_EN.jpg",
+    "Notes": "contains /kleeaisons"
+  },
+  {
+    "Name": "Brand: Kleeaisons",
+    "System ID": "b2358",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_ZH-HK.jpg",
+    "Notes": "contains /kleeaisons"
+  },
+  {
+    "Name": "Brand: Itemms",
+    "System ID": "b2292",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-itemms-men.jpg",
+    "Notes": "contains /itemms"
+  },
+  {
+    "Name": "Brand: Stylenanda",
+    "System ID": "b3188",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-stylenanda-women.jpg",
+    "Notes": "contains /stylenanda"
+  },
+  {
+    "Name": "Brand: Millie's",
+    "System ID": "b3286",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-millie-s-women.jpg",
+    "Notes": "contains /millie-s"
+  },
+  {
+    "Name": "Brand: Warehouse",
+    "System ID": "b2199",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
+    "Notes": "contains /warehouse"
+  },
+  {
+    "Name": "Women Brand: Superdry",
+    "System ID": "b137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_superdry.jpg",
+    "Notes": "contains /superdry & /women"
+  },
+  {
+    "Name": "Men Brand: Superdry",
+    "System ID": "b137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_men_superdry.jpg",
+    "Notes": "contains /superdry & /men"
+  },
+  {
+    "Name": "Men Brand: New Look",
+    "System ID": "b1560",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_men_new_look.jpg",
+    "Notes": "contains /men & /new-look"
+  },
+  {
+    "Name": "Brand: We Are Handsome",
+    "System ID": "b3401",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome.jpg",
+    "Notes": "contains /we-are-handsome"
+  },
+  {
+    "Name": "Brand: We Are Handsome",
+    "System ID": "b3401",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Notes": "contains /we-are-handsome"
+  },
+  {
+    "Name": "Brand: Fashion Union",
+    "System ID": "b3382",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_fashion_union.jpg",
+    "Notes": "contains /fashion-union"
+  },
+  {
+    "Name": "Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_ESPRIT_UNISEX_NOV.jpg",
+    "Notes": "contains /esprit"
+  },
+  {
+    "Name": "Men Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_MEN_ESPRIT_NOV.jpg",
+    "Notes": "contains /esprit & /men"
+  },
+  {
+    "Name": "Brand: 24:01",
+    "System ID": "b1351",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_mockup_men_2401_singlesday_0911.jpg",
+    "Notes": "contains /24-01 & /men"
+  },
+  {
+    "Name": "Brand: !Solid",
+    "System ID": "b2760",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_men_solid_nov4.jpg",
+    "Notes": "contains /-solid"
+  },
+  {
+    "Name": "Men Brand: Timberland",
+    "System ID": "b2324",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_timberland_nov.jpg",
+    "Notes": "contains /timberland & /men"
+  },
+  {
+    "Name": "Women Brand: Timberland",
+    "System ID": "b2324",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/brands/LP_996x250_timberland_women_nov.jpg",
+    "Notes": "contains /timberland & /women"
+  },
+  {
+    "Name": "Women Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
+    "Notes": "contains /zalora"
+  },
+  {
+    "Name": "Brand: Ray Ban",
+    "System ID": "b370",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_EN.jpg",
+    "Notes": "contains /ray-ban"
+  },
+  {
+    "Name": "Brand: Ray Ban",
+    "System ID": "b370",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/brands/LP_996x250_ZH.jpg",
+    "Notes": "contains /ray-ban"
+  },
+  {
+    "Name": "Brand: Daniel Wellington",
+    "System ID": "b1884",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_DW_black_collection.jpg",
+    "Notes": "contains /daniel-wellington"
+  },
+  {
+    "Name": "Brand: Twenty Eight Shoes",
+    "System ID": "b2446",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_786x180_twenty_eight_shoes_women_1011.jpg",
+    "Notes": "contains /twenty-eight-shoes"
+  },
+  {
+    "Name": "Brand: Elli Germany",
+    "System ID": "b3369",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_women_elli_germany_nov10.jpg",
+    "Notes": "contains /elli-germany"
+  },
+  {
+    "Name": "Brand: Burton Menswear London",
+    "System ID": "b1430",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Notes": "contains /burton-menswear-london"
+  },
+  {
+    "Name": "Brand: Maud Frizon",
+    "System ID": "b3153",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/ZALORAbrandbanner_FW16_2_maud_frizon_paris_1011.jpg",
+    "Notes": "contains /maud-frizon"
+  },
+  {
+    "Name": "Women Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/SUNNIES_STUDIOS_WOMEN_LPBANNER_0911.png",
+    "Notes": "contains /sunnies-studios & /women"
+  },
+  {
+    "Name": "Men Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/SUNNIES_STUDIOS_MEN_LPBANNER_0911.png",
+    "Notes": "contains /sunnies-studios & /men"
+  },
+  {
+    "Name": "Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911.png",
+    "Notes": "contains /sunnies-studios"
+  },
+  {
+    "Name": "Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911_ZH.jpg",
+    "Notes": "contains /sunnies-studios"
+  },
+  {
+    "Name": "Brand: Invicta",
+    "System ID": "b1944",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_invita_brand_0911.jpg",
+    "Notes": "contains /invicta"
+  },
+  {
+    "Name": "Brand: Something Borrowed",
+    "System ID": "b1340",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_mockup_something_borrowed_singlesday_0911.jpg",
+    "Notes": "contains /something-borrowed"
+  },
+  {
+    "Name": "Women Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_cotton_on_women.jpg",
+    "Notes": "contains /cotton-on & /women"
+  },
+  {
+    "Name": "Men Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_cotton_on_men.jpg",
+    "Notes": "contains /cotton-on & /men"
+  },
+  {
+    "Name": "Brand: Chelsea Peers",
+    "System ID": "b3339",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250-chelseapeers.jpg",
+    "Notes": "contains /chelsea-peers"
+  },
+  {
+    "Name": "Brand: Faith",
+    "System ID": "b3360",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250-faith.jpg",
+    "Notes": "contains /faith"
+  },
+  {
+    "Name": "Brand: Principles by Ben De Lisi",
+    "System ID": "b3363",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_principles.jpg",
+    "Notes": "contains /principles-by-ben-de-lisi"
+  },
+  {
+    "Name": "Brand: H By Henry Holland",
+    "System ID": "b3361",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_HH.jpg",
+    "Notes": "contains /h-by-henry-holland"
+  },
+  {
+    "Name": "Brand: Nine By Savannah Miller",
+    "System ID": "b3362",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_nine.jpg",
+    "Notes": "contains /nine-by-savannah-miller"
+  },
+  {
+    "Name": "Brand: E8 By Miista",
+    "System ID": "b3229",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/Zalora_2-e8bymiista.jpg",
+    "Notes": "contains /e8-by-miista"
+  },
+  {
+    "Name": "Men Brand: Billabong",
+    "System ID": "b3335",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_billabong-men.jpg",
+    "Notes": "contains /billabong & /men"
+  },
+  {
+    "Name": "Women Brand: Billabong",
+    "System ID": "b3335",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_billabong.jpg",
+    "Notes": "contains /billabong & /women"
+  },
+  {
+    "Name": "Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_herschel_nov.jpg",
+    "Notes": "contains /herschel"
+  },
+  {
+    "Name": "Women Brand: New Balance",
+    "System ID": "b388",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_newbalance_women_nov4.jpg",
+    "Notes": "contains /new-balance & /women"
+  },
+  {
+    "Name": "Men Brand: New Balance",
+    "System ID": "b388",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_newbalance_men_nov4.jpg",
+    "Notes": "contains /new-balance & /men"
+  },
+  {
+    "Name": "Brand: Rubi",
+    "System ID": "b1618",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_rubi_women_nov4.jpg",
+    "Notes": "contains /rubi"
   }
 ]
