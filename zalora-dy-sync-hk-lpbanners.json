@@ -912,7 +912,7 @@
     "Notes": "contains /melissa"
   },
   {
-    "Name": "Brand: Guess",
+    "Name": "Women Brand: Guess",
     "System ID": "b20",
     "Copy": "NA",
     "Language": "EN ZH",
@@ -926,5 +926,229 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-betsy-feb2017.jpg",
     "Notes": "contains /betsy"
+  },
+  {
+    "Name": "Brand: Rawrow",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/rawrow_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /rawrow"
+  },
+  {
+    "Name": "Brand: Rawrow",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/rawrow_LPBANNER_996x250.jpg",
+    "Notes": "contains /rawrow"
+  },
+  {
+    "Name": "Brand: Another-a",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /another-a"
+  },
+  {
+    "Name": "Brand: Another-a",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250.jpg",
+    "Notes": "contains /another-a"
+  },
+  {
+    "Name": "Brand: Highfur",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /highfur"
+  },
+  {
+    "Name": "Brand: Highfur",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250.jpg",
+    "Notes": "contains /highfur"
+  },
+  {
+    "Name": "Brand: Among",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /among"
+  },
+  {
+    "Name": "Brand: Among",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250.jpg",
+    "Notes": "contains /among"
+  },
+  {
+    "Name": "Brand: Eone",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/eone_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /eone"
+  },
+  {
+    "Name": "Brand: 91-2",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /91-2"
+  },
+  {
+    "Name": "Brand: 91-2",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250.jpg",
+    "Notes": "contains /91-2"
+  },
+  {
+    "Name": "Brand: ilc",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /ilc"
+  },
+  {
+    "Name": "Brand: ilc",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250.jpg",
+    "Notes": "contains /ilc"
+  },
+  {
+    "Name": "Brand: Mag & Logan",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /mag-logan"
+  },
+  {
+    "Name": "Brand: Mag & Logan",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250.jpg",
+    "Notes": "contains /mag-logan"
+  },
+  {
+    "Name": "Brand: Debb",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /debb"
+  },
+  {
+    "Name": "Brand: Debb",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250.jpg",
+    "Notes": "contains /debb"
+  },
+  {
+    "Name": "Brand: Rocket X Launch",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/rocket%20lunch_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /rocket-x-launch"
+  },
+  {
+    "Name": "Brand: Rocket X Launch",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com//cms/Evergage/rocket%20lunch_LPBANNER_996x250.jpg",
+    "Notes": "contains /rocket-x-launch"
+  },
+  {
+    "Name": "Brand: Wnderkammer",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /wnderkammer"
+  },
+  {
+    "Name": "Brand: Wnderkammer",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250.jpg",
+    "Notes": "contains /wnderkammer"
+  },
+  {
+    "Name": "Brand: Jucy Judy",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /jucy-judy"
+  },
+  {
+    "Name": "Brand: Jucy Judy",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250.jpg",
+    "Notes": "contains /jucy-judy"
+  },
+  {
+    "Name": "Brand: Nohant",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250_zh.jpg",
+    "Notes": "contains /nohant"
+  },
+  {
+    "Name": "Brand: Nohant",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250.jpg",
+    "Notes": "contains /nohant"
+  },
+  {
+    "Name": "Brand: Lapalette",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250_ZH.jpg",
+    "Notes": "contains /lapalette"
+  },
+  {
+    "Name": "Brand: Lapalette",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250.jpg",
+    "Notes": "contains /lapalette"
+  },
+  {
+    "Name": "Brand: Call It Spring",
+    "System ID": "b2380",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_call_it_spring.jpg",
+    "Notes": "contains /call-it-spring"
   }
 ]
