@@ -1,20 +1,20 @@
 [
   {
-    "System ID": "b",
+    "System ID": "b1572",
     "Gender": "women",
     "Name": "Dorothy Perkins",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250-dpfeb.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1572",
     "Gender": "unisex",
     "Name": "Dorothy Perkins",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250-dpfeb.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b985",
     "Gender": "women",
     "Name": "Mimosa",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250-mimosafeb.jpg",
@@ -28,7 +28,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2331",
     "Gender": "women",
     "Name": "Addicts anonymous",
     "Image": "https://static-tw.zacdn.com/cms/brands/AddictsAnonymous_LP_996x250.jpg",
@@ -42,7 +42,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b20",
     "Gender": "women",
     "Name": "Guess",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_guess_women_tw.jpg",
@@ -56,49 +56,49 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2261",
     "Gender": "men",
     "Name": "Cotton On",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2261",
     "Gender": "women",
     "Name": "Cotton On",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_cotton_on_women.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2261",
     "Gender": "unisex",
     "Name": "Cotton On",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_786x180_unisex_tw_bundle.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "men",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/skagen_men_lp_786x180.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "women",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/skagen_women_lp_786x180.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "unisex",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_skagen_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1600",
     "Gender": "women",
     "Name": "mdscollections",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/mds_tw_LP_996x250.jpg",
@@ -112,7 +112,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b198",
     "Gender": "women",
     "Name": "seafolly",
     "Image": "https://static-tw.zacdn.com/cms/LPBanners/LP_996x250-seafolly-feb2017.jpg",
@@ -126,7 +126,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2202",
     "Gender": "women",
     "Name": "Ivy Park",
     "Image": "https://static-sg.zacdn.com/cms/Brands/IVYPARK_LP_996x250-ivyparkfeb.jpg",
@@ -140,7 +140,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2011",
     "Gender": "men",
     "Name": "Topman",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250-topmanfeb.jpg",
@@ -154,28 +154,28 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1884",
     "Gender": "women",
     "Name": "Daniel Wellington",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_daniel_wellington_nov7.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1884",
     "Gender": "men",
     "Name": "Daniel Wellington",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_daniel_wellington_nov7.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1884",
     "Gender": "unisex",
     "Name": "Daniel Wellington",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_daniel_wellington_nov7.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2010",
     "Gender": "women",
     "Name": "Topshop",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/lp_996x250_topshop12.jpg",
@@ -189,416 +189,528 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b302",
     "Gender": "women",
     "Name": "Converse",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Zalora_Converse_TW.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b302",
     "Gender": "men",
     "Name": "Converse",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Zalora_Converse_TW.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b302",
     "Gender": "unisex",
     "Name": "Converse",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Zalora_Converse_TW.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1914",
     "Gender": "unisex",
     "Name": "Factorie",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_factorie_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1914",
     "Gender": "women",
     "Name": "Factorie",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_factorie_women.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1914",
     "Gender": "men",
     "Name": "Factorie",
-    "Image": "",
-    "Copy": ""
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_factoriemen_LP_786x180.jpg",
+    "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1818",
     "Gender": "women",
     "Name": "Miss Selfridge",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1818",
     "Gender": "unisex",
     "Name": "Miss Selfridge",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b87",
     "Gender": "Women",
     "Name": "Aldo",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_aldo1111.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b87",
     "Gender": "Unisex",
     "Name": "Aldo",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_aldo1111.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
-    "Gender": "women",
-    "Name": "Casio",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "men",
-    "Name": "Casio",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Casio",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "women",
-    "Name": "Michael Kors",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "men",
-    "Name": "Michael Kors",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Michael Kors",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "women",
-    "Name": "We are handsome",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "We are handsome",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "women",
-    "Name": "Misfit",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "men",
-    "Name": "Misfit",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Misfit",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "women",
-    "Name": "Superdry",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_women.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "men",
-    "Name": "Superdry",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_men.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Superdry",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_mockup_superdry1103.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "men",
-    "Name": "Burton Menswear London",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Burton Menswear London",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
+    "System ID": "b87",
     "Gender": "men",
     "Name": "Aldo",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/0911/singlesday/lp/LP_996x250_mockup.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1609",
+    "Gender": "women",
+    "Name": "Casio",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1609",
+    "Gender": "men",
+    "Name": "Casio",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1609",
+    "Gender": "unisex",
+    "Name": "Casio",
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_casio_lp_786x180.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2279",
+    "Gender": "women",
+    "Name": "Michael Kors",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2279",
+    "Gender": "men",
+    "Name": "Michael Kors",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2279",
+    "Gender": "unisex",
+    "Name": "Michael Kors",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_michael_kors.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2358",
+    "Gender": "women",
+    "Name": "We are handsome",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2358",
+    "Gender": "unisex",
+    "Name": "We are handsome",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1929",
+    "Gender": "women",
+    "Name": "Misfit",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1929",
+    "Gender": "men",
+    "Name": "Misfit",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1929",
+    "Gender": "unisex",
+    "Name": "Misfit",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/102-Zalora-digital-Misfit-R1_06-996x250_lp.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b137",
+    "Gender": "women",
+    "Name": "Superdry",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b137",
+    "Gender": "men",
+    "Name": "Superdry",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b137",
+    "Gender": "unisex",
+    "Name": "Superdry",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_mockup_superdry1103.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1430",
+    "Gender": "men",
+    "Name": "Burton Menswear London",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1430",
+    "Gender": "unisex",
+    "Name": "Burton Menswear London",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2306",
     "Gender": "unisex",
     "Name": "Billabong",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_ZH-billabonguni.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2306",
     "Gender": "men",
     "Name": "Billabong",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_billabong-men.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2021",
     "Gender": "men",
     "Name": "Call it spring",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_callitspring1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2021",
     "Gender": "women",
     "Name": "Call it spring",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_callitspring1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2021",
     "Gender": "unisex",
     "Name": "Call it spring",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_callitspring1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b221",
     "Gender": "unisex",
     "Name": "Calvin Klein",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250unisexcalvinklein.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2122",
     "Gender": "men",
     "Name": "Solid",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250isolid1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2122",
     "Gender": "unisex",
     "Name": "Solid",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250isolid1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1560",
     "Gender": "women",
     "Name": "New Look",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250newlook1103.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2315",
     "Gender": "women",
     "Name": "Lavish Alice",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP996x250_lavish_alice.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2315",
     "Gender": "unisex",
     "Name": "Lavish Alice",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP996x250_lavish_alice.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b54",
     "Gender": "men",
     "Name": "The academy brand",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/entheacademybrand_LP_786x180_tw.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b54",
     "Gender": "unisex",
     "Name": "The academy brand",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/entheacademybrand_LP_786x180_tw.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2312",
     "Gender": "men",
     "Name": "Bata heritage",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_bata_heritage.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2312",
     "Gender": "women",
     "Name": "Bata heritage",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_bata_heritage.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2312",
     "Gender": "unisex",
     "Name": "Bata heritage",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_bata_heritage.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "men",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_skagen_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "women",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_skagen_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2278",
     "Gender": "unisex",
     "Name": "Skagen",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_skagen_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1521",
     "Gender": "men",
     "Name": "River Island",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_men_river_island.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2306",
     "Gender": "women",
     "Name": "Billabong",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_billabong.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1629",
     "Gender": "women",
     "Name": "Fossil",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/unisex_lp_786x180_fossil_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1629",
     "Gender": "men",
     "Name": "Fossil",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/unisex_lp_786x180_fossil_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1629",
     "Gender": "unisex",
     "Name": "Fossil",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/unisex_lp_786x180_fossil_unisex.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1560",
     "Gender": "unisex",
     "Name": "New Look",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/UNISEX_LP_996x250newlook0927.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2303",
     "Gender": "women",
     "Name": "Homebodii",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/homebodii_LP_996x250.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2303",
     "Gender": "unisex",
     "Name": "Homebodii",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/homebodii_LP_996x250.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2273",
     "Gender": "men",
     "Name": "Bonds",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Bonds_LP_996x250.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2128",
     "Gender": "women",
     "Name": "Max Studio",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Max_Studio_tw.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b2128",
     "Gender": "unisex",
     "Name": "Max Studio",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Max_Studio_tw.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1560",
     "Gender": "men",
     "Name": "New Look",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250newlook.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1521",
     "Gender": "women",
     "Name": "River Island",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/StaticPages/LP_996x250riverisalndv2.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Melissa",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Melissa_LP_996x250_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Melissa",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Melissa_LP_996x250_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Miss Selfridge",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_miss_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Miss Selfridge",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_miss_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Guess",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_guess_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Guess",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_guess_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Betsy",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_besty_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Betsy",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_besty_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Rawrow",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_TW_rawrow_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Rawrow",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_TW_rawrow_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Twenty Eight Shoes",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_28shoes_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Twenty Eight Shoes",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_28shoes_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Indicode Jeans",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Indicode_LP_996x250_indicode_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Indicode Jeans",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Indicode_LP_996x250_indicode_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Rubi",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_rubi_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Rubi",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_rubi_0227.jpg",
     "Copy": "NA"
   }
 ]
