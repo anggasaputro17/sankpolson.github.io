@@ -268,7 +268,7 @@
     "ExitUrl": "/men/all-products/?cmpgn_one=20offvc",
     "EventLabel": "THE-SAL|NA|men20offvcwithminspend|ALL|vcp",
     "ENHeadline": "Enjoy 20% Off",
-    "ENSubline": "Use code SPECIAL20 at checkout for 20% off (min. spend $550). <br> Selected items only.",
+    "ENSubline": "Use code SPECIAL20 for 20% off (min. spend $550). <br> Selected items only.",
     "ZHHeadline": "8折優惠",
     "ZHSubline": "結帳時輸入優惠碼SPECIAL20即享8折 (需購物滿$550) <br>只限指定貨"
   },
@@ -438,7 +438,7 @@
     "EventLabel": "BRA|WS|wsaddictsanonymouszap|ALL|NA|addicts-anonymous|ZAP",
     "ENHeadline": "Addicts Anonymous",
     "ENSubline": "NA",
-    "ZHHeadline": "ADDICTS ANONYMOUS",
+    "ZHHeadline": "Addicts Anonymous",
     "ZHSubline": "NA"
   },
   {
