@@ -31,14 +31,14 @@
     "System ID": "b121",
     "Gender": "women",
     "Name": "Melissa",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-melissanov.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-melissa-feb.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2551",
     "Gender": "women",
     "Name": "Miss Selfridge",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-miss-selfridge-feb.jpg",
     "Copy": "NA"
   },
   {
@@ -294,13 +294,6 @@
     "Copy": "NA"
   },
   {
-    "System ID": "c9382",
-    "Gender": "women",
-    "Name": "Yoga",
-    "Image": "https://static-sg.zacdn.com/cms/brands/Yoga_wear_sg.jpg",
-    "Copy": "NA"
-  },
-  {
     "System ID": "b3038",
     "Gender": "unisex",
     "Name": "Unisa",
@@ -399,7 +392,7 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b3730",
+    "System ID": "Yoco",
     "Gender": "women",
     "Name": "Wallis",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/LP_996x250-wallisfeb-women.jpg",
@@ -920,7 +913,7 @@
     "System ID": "b20",
     "Gender": "women",
     "Name": "Guess",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_guess_women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-gues-women-feb.jpg",
     "Copy": "NA"
   },
   {
@@ -1166,6 +1159,41 @@
     "Gender": "women",
     "Name": "Sunnies Studios",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_WOMEN_LPBANNER_0911.png",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1831",
+    "Gender": "women",
+    "Name": "Betsy",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-betsy-women-feb.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3725",
+    "Gender": "men",
+    "Name": "Indicode Jeans",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-indicode-jeans-men-feb.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2228",
+    "Gender": "women",
+    "Name": "Rubi",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-rubi-women-feb.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1879",
+    "Gender": "women",
+    "Name": "The North face",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-thenorthface-women-feb-2.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1879",
+    "Gender": "men",
+    "Name": "The North face",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-thenorthface-men-feb.jpg",
     "Copy": "NA"
   }
 ]
