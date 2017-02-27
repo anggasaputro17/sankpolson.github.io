@@ -73,11 +73,11 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/B1-6_322x165-lsforjovian.jpg",
-    "Exit Url": "/women/jovian-for-zalora/",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/B1_6_322x165_river-island-5-feb27.jpg",
+    "Exit Url": "/women/river-island-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|lsforjovian|ALL|NA"
+    "EventLabel": "NewA|NA|riverislandfeb|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -87,17 +87,17 @@
     "Exit Url": "/topshop-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
+    "EventLabel": "NewA|NA|topshopfeb|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/B1-6_322x165-melissafeb-women.jpg",
-    "Exit Url": "/women/melissa/",
+    "Exit Url": "/melissa/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WS|melissafeb|ALL|NA"
+    "EventLabel": "NewA|NA|melissafeb|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -107,7 +107,7 @@
     "Exit Url": "/women/puma/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WSP|pumass17|ALL|NA"
+    "EventLabel": "NewA|NA|pumafeb|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -117,7 +117,7 @@
     "Exit Url": "/women/casio/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WW|pumass17|ALL|NA|ray-ban"
+    "EventLabel": "NewA|NA|casiofeb|ALL|NA"
   },
   {
     "Placement": "wfb6",
@@ -127,7 +127,7 @@
     "Exit Url": "/women/something-borrowed/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|somethingborrowedss17|ALL|NA"
+    "EventLabel": "NewA|NA|somethingborrowedfeb|ALL|NA"
   },
   {
     "Placement": "wc1",
