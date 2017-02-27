@@ -3,71 +3,71 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/SEGMENT_HERO_996x500-blossomingsplendour-women.jpg",
-    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/Soft_Utility_Hero_Segment_27Feb.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
+    "EventLabel": "THE|NA|womenss17softutility|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/N1_NEWARRIVALS_360x420-forevernew-women.jpg",
-    "Exit Url": "/women/forever-new/",
-    "Headline": "Forever New",
-    "Subline": "Modern fashion styles inspired by today's creative trends.",
-    "EventLabel": "BRA|WC|wcforevernewzap2ss17|ALL|NA|forever-new|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/N1_NEWARRIVALS_360-420_AA_27thFeb.jpg",
+    "Exit Url": "/women/addicts-anonymous/",
+    "Headline": "Addicts Anonymous",
+    "Subline": "Get hooked on the latest assortment of contemporary women's shoes.",
+    "EventLabel": "BRA|WS|wsaddictsanonymouszap|ALL|NA|addicts-anonymous|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/N2_NEWARRIVALS_620x420-runwayaustralia-women.jpg",
-    "Exit Url": "/women/runway-australia/",
-    "Headline": "Runway Australia",
-    "Subline": "Dress for the holiday of a lifetime when you take off with CheapTickets.sg. Discover the best of the Land Down Under.",
-    "EventLabel": "LOC|WC|RunwayAustralia|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/N2_620-420_the_north_face.jpg",
+    "Exit Url": "/women/the-north-face/",
+    "Headline": "The North Face",
+    "Subline": "Gear up for your next big adventure.",
+    "EventLabel": "BRA|MSP|mspthenorthfacelaunch|ALL|NA|the-north-face"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/N2_NEWARRIVALS_620x420-velvetcrush-women.jpg",
-    "Exit Url": "/women/clothing/?s=velvet&classifier=false",
-    "Headline": "Velvet Crush",
-    "Subline": "This season's must-have fabric deserves a spot in your closet.",
-    "EventLabel": "NewA|WC|wfabricvelvetfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/N2_NEWARRIVALS_620x420-fitness-in-style.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=fitnessinstylewomen",
+    "Headline": "Fitness in Style",
+    "Subline": "Get back to the exercise drill, in performance wear with personality.",
+    "EventLabel": "THE|WSP|FitnessInStyleWomen|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/N1_NEWARRIVALS_360x420-pinkparadise-women.jpg",
-    "Exit Url": "/women/new-products/?color=pink",
-    "Headline": "Pink Paradise",
-    "Subline": "Stunning new arrivals in women’s favourite feminine shade.",
-    "EventLabel": "SUB-NewA|WC|pinkparadise|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/2017-02-22_1208_cu2_bags_na.png",
+    "Exit Url": "/women/bags/new-products/",
+    "Headline": "One Bag's Never Enough",
+    "Subline": "Stay ahead of the next occasion, with seasonal bags in all shapes and sizes.",
+    "EventLabel": "BRA-NewA|WB|WomenBagsNewAFeb17|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/N1_NEWARRIVALS_360x420-shoesthatthrill-women.jpg",
-    "Exit Url": "/women/shoes/new-products/?brand=addicts-anonymous--aldo--betsy--call-it-spring--clarks--guess--mango--nine-west--topshop",
-    "Headline": "Shoes That Thrill",
-    "Subline": "Put your best foot forward with these great additions.",
-    "EventLabel": "SUB-NewA|WS|womenshoesNAfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/N1_NEWARRIVALS_360x420_front_wrap_ss.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wrapfrontclothing",
+    "Headline": "The Front Wrap Edit",
+    "Subline": "Add a twist to your wardrobe with distinctive wrap-style detailing.",
+    "EventLabel": "SUB-THE|WC|WrapFrontClothing|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Feb2017/N2_NEWARRIVALS_620x420-tactical20-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=feb20offvc",
-    "Headline": "Instant 20% Off",
-    "Subline": "Use code INSTANT20 at checkout for 20% off (min. spend $100). Selected items only.",
-    "EventLabel": "SAL|NA|wfeb20offvc|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/fpseason/27th/N2_NEWARRIVALS_620x420_theseouleffect.png",
+    "Exit Url": "/women/all-products/?cmpgn_one=kfashionids",
+    "Headline": "The Seoul Effect",
+    "Subline": "Just for you: New brands and in-season apparel, shipped direct from Korea.",
+    "EventLabel": "THE|WC-WS-WA|wkfashionids|ALL|NA"
   },
   {
     "Placement": "wfb1",
