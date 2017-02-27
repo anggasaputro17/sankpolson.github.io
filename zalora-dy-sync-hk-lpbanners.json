@@ -5,6 +5,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-EN.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /clothing & s=velvet"
   },
   {
@@ -13,6 +14,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-ZH.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /clothing & s=velvet"
   },
   {
@@ -21,6 +23,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /feature & /floral"
   },
   {
@@ -29,6 +32,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /feature & /floral"
   },
   {
@@ -37,6 +41,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-EN.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
   },
   {
@@ -45,6 +50,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-ZH.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
   },
   {
@@ -53,6 +59,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-zalora-EA-connected-R1_06-996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /armani"
   },
   {
@@ -61,6 +68,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170201-Zalora-DZ-SPR17-R1_06-996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /diesel"
   },
   {
@@ -69,6 +77,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170202-Zalora-Misfit-Spr17-R1_06-996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /misfit"
   },
   {
@@ -77,6 +86,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/201670113-Zalora-DKNY-spr-17-R2_06-996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /dkny"
   },
   {
@@ -85,6 +95,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /michael-kors"
   },
   {
@@ -93,6 +104,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250copy.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /michael-kors"
   },
   {
@@ -101,6 +113,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-men-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /mango-man"
   },
   {
@@ -109,6 +122,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-women-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /mango"
   },
   {
@@ -117,6 +131,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /fossil"
   },
   {
@@ -125,6 +140,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-skagen-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /skagen"
   },
   {
@@ -133,6 +149,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-seafolly-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /seafolly"
   },
   {
@@ -141,6 +158,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hken.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /clothing & /shirt"
   },
   {
@@ -149,6 +167,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hkzh.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /clothing & /shirt"
   },
   {
@@ -157,6 +176,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hken.jpg",
+    "Gender": "Men",
     "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
   },
   {
@@ -165,6 +185,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hkzh.jpg",
+    "Gender": "Men",
     "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
   },
   {
@@ -173,6 +194,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hken.jpg",
+    "Gender": "Men",
     "Notes": "contains /men/sports"
   },
   {
@@ -181,6 +203,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hkzh.jpg",
+    "Gender": "Men",
     "Notes": "contains /men/sports"
   },
   {
@@ -189,6 +212,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /hoodies-sweatshirts"
   },
   {
@@ -197,6 +221,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /hoodies-sweatshirts"
   },
   {
@@ -205,6 +230,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-ivyparkwomen.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ivy-park"
   },
   {
@@ -213,6 +239,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-ghdwomenfeb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ghd"
   },
   {
@@ -221,6 +248,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-mimosafeb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /mimosa"
   },
   {
@@ -229,6 +257,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-dorothyperkinsfeb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /dorothy-perkins"
   },
   {
@@ -237,6 +266,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-wallisfeb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /wallis"
   },
   {
@@ -245,6 +275,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-topmanfeb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /topman"
   },
   {
@@ -253,6 +284,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-topshopfeb17.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /topshop"
   },
   {
@@ -261,6 +293,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hken.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /hoodies-sweatshirts"
   },
   {
@@ -269,6 +302,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hkzh.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /hoodies-sweatshirts"
   },
   {
@@ -277,6 +311,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/feature/leather"
   },
   {
@@ -285,6 +320,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/feature/leather"
   },
   {
@@ -293,6 +329,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hken.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /polos"
   },
   {
@@ -301,6 +338,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hkzh.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /polos"
   },
   {
@@ -309,6 +347,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /evening-dresses"
   },
   {
@@ -317,6 +356,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /evening-dresses"
   },
   {
@@ -325,6 +365,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /boots"
   },
   {
@@ -333,6 +374,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /boots"
   },
   {
@@ -341,6 +383,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/CK%20zalora%20banner_20170110.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /calvin-klein-fragrances"
   },
   {
@@ -349,6 +392,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/AddictsAnonymous_LP_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /addicts-anonymous"
   },
   {
@@ -357,6 +401,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/bags & /new-products"
   },
   {
@@ -365,6 +410,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hkzh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/bags & /new-products"
   },
   {
@@ -373,6 +419,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/korean-fashion & /new-products"
   },
   {
@@ -381,6 +428,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Gender": "Women",
     "Notes": "contains /women/korean-fashion & /new-products"
   },
   {
@@ -389,6 +437,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-en.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /jackets-and-coats"
   },
   {
@@ -397,6 +446,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-zh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /jackets-and-coats"
   },
   {
@@ -405,6 +455,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-en.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /workwear-edit"
   },
   {
@@ -413,6 +464,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-zh.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /workwear-edit"
   },
   {
@@ -421,6 +473,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/Sunnydaysweety_996x250-za_20161220.png",
+    "Gender": "Unisex",
     "Notes": "contains /sunnydaysweety"
   },
   {
@@ -429,6 +482,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-lipsy-women-jan2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /lipsy"
   },
   {
@@ -437,6 +491,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_aldo_nov4.jpg",
+    "Gender": "Women",
     "Notes": "contains /aldo & /women"
   },
   {
@@ -445,6 +500,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-aldo-men.jpg",
+    "Gender": "Men",
     "Notes": "contains /aldo & /men"
   },
   {
@@ -453,6 +509,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-conversedecember.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /converse"
   },
   {
@@ -461,6 +518,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-womenfactorieDec.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /factorie"
   },
   {
@@ -469,6 +527,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-missselfridge-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /miss-selfridge"
   },
   {
@@ -476,7 +535,8 @@
     "System ID": "b2885",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-indicodejeans.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-indicode-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /indicode-jeans"
   },
   {
@@ -485,6 +545,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/kayakstorm_lp_banner_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /kayak-storm"
   },
   {
@@ -493,6 +554,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_EN.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /kleeaisons"
   },
   {
@@ -501,6 +563,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_ZH-HK.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /kleeaisons"
   },
   {
@@ -509,6 +572,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-itemms-men.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /itemms"
   },
   {
@@ -517,6 +581,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-stylenanda-women.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /stylenanda"
   },
   {
@@ -525,6 +590,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-millie-s-women.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /millie-s"
   },
   {
@@ -533,6 +599,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /warehouse"
   },
   {
@@ -541,6 +608,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_superdry.jpg",
+    "Gender": "Women",
     "Notes": "contains /superdry & /women"
   },
   {
@@ -549,6 +617,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_men_superdry.jpg",
+    "Gender": "Men",
     "Notes": "contains /superdry & /men"
   },
   {
@@ -557,6 +626,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_women_newlook_nov4.jpg",
+    "Gender": "Women",
     "Notes": "contains /women & /new-look"
   },
   {
@@ -565,6 +635,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_men_new_look.jpg",
+    "Gender": "Men",
     "Notes": "contains /men & /new-look"
   },
   {
@@ -573,6 +644,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /we-are-handsome"
   },
   {
@@ -581,6 +653,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /we-are-handsome"
   },
   {
@@ -589,6 +662,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_fashion_union.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /fashion-union"
   },
   {
@@ -597,6 +671,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_ESPRIT_UNISEX_NOV.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /esprit"
   },
   {
@@ -605,6 +680,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_women_esprit_nov4.jpg",
+    "Gender": "Women",
     "Notes": "contains /esprit & /women"
   },
   {
@@ -613,6 +689,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_MEN_ESPRIT_NOV.jpg",
+    "Gender": "Men",
     "Notes": "contains /esprit & /men"
   },
   {
@@ -621,6 +698,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_mockup_men_2401_singlesday_0911.jpg",
+    "Gender": "Men",
     "Notes": "contains /24-01 & /men"
   },
   {
@@ -629,6 +707,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_men_solid_nov4.jpg",
+    "Gender": "",
     "Notes": "contains /-solid"
   },
   {
@@ -637,6 +716,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_timberland_nov.jpg",
+    "Gender": "Men",
     "Notes": "contains /timberland & /men"
   },
   {
@@ -645,6 +725,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_timberland_women_nov.jpg",
+    "Gender": "Women",
     "Notes": "contains /timberland & /women"
   },
   {
@@ -653,6 +734,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /zalora"
   },
   {
@@ -661,6 +743,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_EN.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ray-ban"
   },
   {
@@ -669,6 +752,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_ZH.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ray-ban"
   },
   {
@@ -677,6 +761,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_DW_black_collection.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /daniel-wellington"
   },
   {
@@ -685,6 +770,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-twenty-eight-shoes-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /twenty-eight-shoes"
   },
   {
@@ -693,6 +779,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_women_elli_germany_nov10.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /elli-germany"
   },
   {
@@ -701,6 +788,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /burton-menswear-london"
   },
   {
@@ -709,6 +797,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/ZALORAbrandbanner_FW16_2_maud_frizon_paris_1011.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /maud-frizon"
   },
   {
@@ -717,6 +806,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_WOMEN_LPBANNER_0911.png",
+    "Gender": "Women",
     "Notes": "contains /sunnies-studios & /women"
   },
   {
@@ -725,6 +815,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_MEN_LPBANNER_0911.png",
+    "Gender": "Men",
     "Notes": "contains /sunnies-studios & /men"
   },
   {
@@ -733,6 +824,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911.png",
+    "Gender": "Unisex",
     "Notes": "contains /sunnies-studios"
   },
   {
@@ -741,6 +833,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911_ZH.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /sunnies-studios"
   },
   {
@@ -749,6 +842,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_invita_brand_0911.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /invicta"
   },
   {
@@ -757,6 +851,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_mockup_something_borrowed_singlesday_0911.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /something-borrowed"
   },
   {
@@ -765,6 +860,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_cotton_on_women.jpg",
+    "Gender": "Women",
     "Notes": "contains /cotton-on & /women"
   },
   {
@@ -773,6 +869,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
+    "Gender": "Men",
     "Notes": "contains /cotton-on & /men"
   },
   {
@@ -781,6 +878,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_HKEN_cottonon_unisex.jpg",
+    "Gender": "Unisex",
     "Notes": "does not contain /men or /women"
   },
   {
@@ -789,6 +887,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_996x250_ZH_cottonon_unisex.jpg",
+    "Gender": "Unisex",
     "Notes": "does not contain /men or /women"
   },
   {
@@ -797,6 +896,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-chelseapeers.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /chelsea-peers"
   },
   {
@@ -805,6 +905,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-faith.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /faith"
   },
   {
@@ -813,6 +914,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_principles.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /principles-by-ben-de-lisi"
   },
   {
@@ -821,6 +923,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_HH.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /h-by-henry-holland"
   },
   {
@@ -829,6 +932,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_nine.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /nine-by-savannah-miller"
   },
   {
@@ -837,6 +941,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/Zalora_2-e8bymiista.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /e8-by-miista"
   },
   {
@@ -845,6 +950,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_billabong-men.jpg",
+    "Gender": "Men",
     "Notes": "contains /billabong & /men"
   },
   {
@@ -853,6 +959,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_billabong.jpg",
+    "Gender": "Women",
     "Notes": "contains /billabong & /women"
   },
   {
@@ -861,6 +968,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_herschel_nov.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /herschel"
   },
   {
@@ -869,6 +977,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_newbalance_women_nov4.jpg",
+    "Gender": "Women",
     "Notes": "contains /new-balance & /women"
   },
   {
@@ -877,6 +986,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_newbalance_men_nov4.jpg",
+    "Gender": "Men",
     "Notes": "contains /new-balance & /men"
   },
   {
@@ -884,7 +994,8 @@
     "System ID": "b1618",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_rubi_women_nov4.jpg",
+    "Image": "https://static-hk.zacdn.com//cms/LPBanners/LP_996x250-rubi-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /rubi"
   },
   {
@@ -893,6 +1004,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/XTI_LPBanner.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /xti"
   },
   {
@@ -901,6 +1013,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP996x250_lavish_alice.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /lavish-alice"
   },
   {
@@ -909,6 +1022,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/996x250_smash_hk.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /smash"
   },
   {
@@ -917,6 +1031,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/EA_Ilove8hr_LP%20996x250_v1-01.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /elizabeth-arden"
   },
   {
@@ -925,6 +1040,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/Melissa_LP_996x250-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /melissa"
   },
   {
@@ -933,6 +1049,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-guess-women-feb2017.jpg",
+    "Gender": "Women",
     "Notes": "contains /guess & /women"
   },
   {
@@ -941,6 +1058,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-betsy-feb2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /betsy"
   },
   {
@@ -949,6 +1067,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/rawrow_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /rawrow"
   },
   {
@@ -957,6 +1076,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/rawrow_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /rawrow"
   },
   {
@@ -965,6 +1085,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /another-a"
   },
   {
@@ -973,6 +1094,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /another-a"
   },
   {
@@ -981,6 +1103,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /highfur"
   },
   {
@@ -989,6 +1112,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /highfur"
   },
   {
@@ -997,6 +1121,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /among"
   },
   {
@@ -1005,6 +1130,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /among"
   },
   {
@@ -1013,6 +1139,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/eone_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /eone"
   },
   {
@@ -1021,6 +1148,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /91-2"
   },
   {
@@ -1029,6 +1157,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /91-2"
   },
   {
@@ -1037,6 +1166,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ilc"
   },
   {
@@ -1045,6 +1175,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /ilc"
   },
   {
@@ -1053,6 +1184,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /mag-logan"
   },
   {
@@ -1061,6 +1193,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /mag-logan"
   },
   {
@@ -1069,6 +1202,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /debb"
   },
   {
@@ -1077,6 +1211,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /debb"
   },
   {
@@ -1085,6 +1220,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/rocket%20lunch_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /rocket-x-launch"
   },
   {
@@ -1093,6 +1229,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com//cms/Evergage/rocket%20lunch_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /rocket-x-launch"
   },
   {
@@ -1101,6 +1238,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /wnderkammer"
   },
   {
@@ -1109,6 +1247,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /wnderkammer"
   },
   {
@@ -1117,6 +1256,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /jucy-judy"
   },
   {
@@ -1125,6 +1265,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /jucy-judy"
   },
   {
@@ -1133,6 +1274,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /nohant"
   },
   {
@@ -1141,6 +1283,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /nohant"
   },
   {
@@ -1149,6 +1292,7 @@
     "Copy": "NA",
     "Language": "ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250_ZH.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /lapalette"
   },
   {
@@ -1157,6 +1301,7 @@
     "Copy": "NA",
     "Language": "EN",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /lapalette"
   },
   {
@@ -1165,6 +1310,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_call_it_spring.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /call-it-spring"
   }
 ]
