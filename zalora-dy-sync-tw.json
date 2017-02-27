@@ -3,71 +3,71 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/SEGMENT_HERO_996-500-floral-2.jpg",
-    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_softutility_0224.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
+    "EventLabel": "THE|NA|womenss17softutility|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-warehouse-feb.jpg",
-    "Exit Url": "/warehouse-shop/",
-    "Headline": "Warehouse",
-    "Subline": "全新女裝系列 融合獨特英式風格",
-    "EventLabel": "BRA|WC|wwarehousexmas|ALL|NA|warehouse"
+    "Image": "https://s27.postimg.org/xboyyxkgz/N1_NEWARRIVALS_360x420_2.jpg",
+    "Exit Url": "/addicts-anonymous/",
+    "Headline": "Addicts Anonymous",
+    "Subline": "最新迷人時尚女性鞋款",
+    "EventLabel": "BRA|WS|wsaddictsanonymouszap|ALL|NA|addicts-anonymous|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-light-jackets.jpg",
-    "Exit Url": "/women/clothing/outerwear/",
-    "Headline": "擁抱春天",
-    "Subline": "精選時尚外套 伴妳應付驟變天氣",
-    "EventLabel": "NA|WC|wlightjacketfeb|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_floral_0204.jpg",
+    "Exit Url": "/women/floral",
+    "Headline": "耀眼花卉",
+    "Subline": "以往被視為老氣的印花圖騰再次回歸時尚舞台",
+    "EventLabel": "THE|NA|womenss17floralstrend|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-velvetcrush.jpg",
-    "Exit Url": "/women/catalog/?q=絲絨",
-    "Headline": "絲絨誘惑",
-    "Subline": "時尚搶眼 完美神秘",
-    "EventLabel": "NewA|WC|wfabricvelvetfeb|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_fitness_0224.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=fitnessinstylewomen",
+    "Headline": "時尚塑身",
+    "Subline": "換上個性運動服飾 重拾運動訓練",
+    "EventLabel": "THE|WSP|FitnessInStyleWomen|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-pink-paradise.jpg",
-    "Exit Url": "/women/new-products/?color=粉紅色&sort=popularity&dir=desc",
-    "Headline": "粉紅天堂",
-    "Subline": "女性最愛色調之時尚新品",
-    "EventLabel": "SUB-NewA|WC|pinkparadise|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_clearance_0224.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=winterclearance",
+    "Headline": "買3件或以上享額外8折",
+    "Subline": "時尚冬裝折扣出清 把握不敗流行款最後機會",
+    "EventLabel": "THE-SAL|NA|womenwinterclearance|ALL|maxp"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-shoes-that-thrill.jpg",
-    "Exit Url": "/women/shoes/new-products/?sort=popularity&dir=desc&category_id=4&brand=addicts-anonymous--aldo--betsy--call-it-spring--guess--topshop",
-    "Headline": "穿出新高度",
-    "Subline": "最佳系列鞋款 穿出迷人腿型",
-    "EventLabel": "SUB-NewA|WS|womenshoesNAfeb|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_wrap_0224.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wrapfrontclothing",
+    "Headline": "時尚交疊",
+    "Subline": "獨特層次細節 體現時尚深度",
+    "EventLabel": "SUB-THE|WC|WrapFrontClothing|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-feboff20-vc.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=feb20offvc",
-    "Headline": "立即享有8折優惠",
-    "Subline": "使用優惠編碼<b>INSTANT20</b>享<b>8折</b>優惠 (最低消費 NT$1,500)。僅限特定商品。",
-    "EventLabel": "SAL|NA|wfeb20offvc|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_korea_0224.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=kfashionids",
+    "Headline": "正韓效應",
+    "Subline": "韓國直送最新潮流韓貨",
+    "EventLabel": "THE|WC-WS-WA|wkfashionids|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -183,31 +183,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/SEGMENT_HERO_996_500-urban-classics.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanclassicstrend",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_newarrival_0224.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|UrbanClassicsMen|ALL|NA"
+    "EventLabel": "NA|NA|mnewarrivalfeb|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420withlogos.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=mspringmusthave",
-    "Headline": "春季要素",
-    "Subline": "時尚新品散發自信帥勁",
-    "EventLabel": "NewA|MC-MS|mspringmusthavewithlogos|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_urban_0224.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=urbanclassicstrend",
+    "Headline": "都市經典",
+    "Subline": "歷經時間浸禮 成就日常休閒經典",
+    "EventLabel": "THE|NA|UrbanClassicsMen|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-feb20offvc.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=feb20offvc",
-    "Headline": "立即享有8折優惠",
-    "Subline": "使用優惠編碼<b>OFF20</b>享<b>8折</b>優惠 (不設最低消費)。僅限特定商品。",
-    "EventLabel": "SAL|NA|feb20offvc|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_mensalw_0224.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=20offvc",
+    "Headline": "8折優惠",
+    "Subline": "使用優惠編碼 SPECIAL20 享8折優惠 (最低消費 NT$1,500)。僅限特定商品。",
+    "EventLabel": "THE-SAL|NA|men20offvcwithminspend|ALL|vcp"
   },
   {
     "Placement": "mfb1",
