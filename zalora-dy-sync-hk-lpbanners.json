@@ -16,6 +16,22 @@
     "Notes": "contains /women & /clothing & s=velvet"
   },
   {
+    "Name": "Flaunt Florals",
+    "System ID": "c4181",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hken.jpg",
+    "Notes": "contains /women & /feature & /floral"
+  },
+  {
+    "Name": "Flaunt Florals",
+    "System ID": "c4181",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hkzh.jpg",
+    "Notes": "contains /women & /feature & /floral"
+  },
+  {
     "Name": "Spring Forward",
     "System ID": "c4",
     "Copy": "NA",
