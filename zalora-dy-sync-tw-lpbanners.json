@@ -42,20 +42,6 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b20",
-    "Gender": "women",
-    "Name": "Guess",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_guess_women_tw.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Guess",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_guess_women_tw.jpg",
-    "Copy": "NA"
-  },
-  {
     "System ID": "b2261",
     "Gender": "men",
     "Name": "Cotton On",
@@ -228,20 +214,6 @@
     "Gender": "men",
     "Name": "Factorie",
     "Image": "http://zstatictw01-a.akamaihd.net/cms/Evergage/Duckling/newaug_factoriemen_LP_786x180.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b1818",
-    "Gender": "women",
-    "Name": "Miss Selfridge",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b1818",
-    "Gender": "unisex",
-    "Name": "Miss Selfridge",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-missselfridgeDec.jpg",
     "Copy": "NA"
   },
   {
@@ -616,14 +588,14 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1818",
     "Gender": "women",
     "Name": "Miss Selfridge",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_miss_0227.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b",
+    "System ID": "b1818",
     "Gender": "unisex",
     "Name": "Miss Selfridge",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_miss_0227.jpg",
