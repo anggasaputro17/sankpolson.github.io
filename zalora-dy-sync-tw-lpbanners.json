@@ -659,7 +659,7 @@
   },
   {
     "System ID": "b",
-    "Gender": "men",
+    "Gender": "women",
     "Name": "Indicode Jeans",
     "Image": "https://static-tw.zacdn.com/cms/brands/Indicode_LP_996x250_indicode_0227.jpg",
     "Copy": "NA"
@@ -683,6 +683,20 @@
     "Gender": "unisex",
     "Name": "Rubi",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_rubi_0227.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Women Clothing",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_CLOTHING.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Dresses",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_dresses_1212.jpg",
     "Copy": "NA"
   }
 ]
