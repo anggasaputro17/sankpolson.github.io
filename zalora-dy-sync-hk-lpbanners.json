@@ -1312,5 +1312,329 @@
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_call_it_spring.jpg",
     "Gender": "Unisex",
     "Notes": "contains /call-it-spring"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "Clothing",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_CLOTHING.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "服裝",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_CLOTHING.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "Clothing",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN CLOTHING.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men& /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "服裝",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN CLOTHING.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men& /clothing"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "Shoes",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "鞋",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "Shoes",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "鞋",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shoes"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "Accessories",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_ACC_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "女裝飾物",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_ACC_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "Accessories",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "飾物",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /accessories"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "Watches",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "手錶",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "Watches",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "手錶",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /watches"
+  },
+  {
+    "Name": "Category: Tops",
+    "System ID": "NA",
+    "Copy": "Tops",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_TOPS_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /fashion-tops"
+  },
+  {
+    "Name": "Category: Tops",
+    "System ID": "NA",
+    "Copy": "上衣",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_TOPS_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /fashion-tops"
+  },
+  {
+    "Name": "Category: Heels",
+    "System ID": "NA",
+    "Copy": "Heels",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_HEELS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /heels"
+  },
+  {
+    "Name": "Category: Heels",
+    "System ID": "NA",
+    "Copy": "高跟鞋",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_HEELS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /heels"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "Boots",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_BOOTS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "靴",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_BOOTS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "Boots",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_BOOTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "靴",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_BOOTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /boots"
+  },
+  {
+    "Name": "Category: Dresses",
+    "System ID": "NA",
+    "Copy": "Dresses",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_dresses_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /dresses"
+  },
+  {
+    "Name": "Category: Dresses",
+    "System ID": "NA",
+    "Copy": "連身裙",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/brands/LP_996x250_dresses_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /dresses"
+  },
+  {
+    "Name": "Category: Bags",
+    "System ID": "NA",
+    "Copy": "Bags",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_BAGS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /bags"
+  },
+  {
+    "Name": "Category: Bags",
+    "System ID": "NA",
+    "Copy": "男包",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_BAGS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /bags"
+  },
+  {
+    "Name": "Category: Jeans",
+    "System ID": "NA",
+    "Copy": "Jeans",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_JEANS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jeans"
+  },
+  {
+    "Name": "Category: Jeans",
+    "System ID": "NA",
+    "Copy": "牛仔褲",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_JEANS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jeans"
+  },
+  {
+    "Name": "Category: Pants",
+    "System ID": "NA",
+    "Copy": "Long Pants",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /pants"
+  },
+  {
+    "Name": "Category: Pants",
+    "System ID": "NA",
+    "Copy": "長褲",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /pants"
+  },
+  {
+    "Name": "Category: Shirt",
+    "System ID": "NA",
+    "Copy": "Shirts",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_SHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shirt"
+  },
+  {
+    "Name": "Category: Shirt",
+    "System ID": "NA",
+    "Copy": "恤衫",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_SHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shirt"
+  },
+  {
+    "Name": "Category: T-shirts",
+    "System ID": "NA",
+    "Copy": "T-Shirts",
+    "Language": "EN",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /t-shirts"
+  },
+  {
+    "Name": "Category: T-shirts",
+    "System ID": "NA",
+    "Copy": "T恤",
+    "Language": "ZH",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /t-shirts"
   }
 ]
