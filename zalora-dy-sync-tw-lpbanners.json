@@ -698,5 +698,75 @@
     "Name": "洋裝",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_dresses_1212.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "高跟鞋",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_MSS_996X250_WOMEN_HEELS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "上衣",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996X250_WOMEN_TOPS_HKTWNOV.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "女裝手錶",
+    "Image": "https://static-tw.zacdn.com/cms/1212onlinefever/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男性服飾",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "襯衫",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHIRTS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "長褲",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "休閒外套及風衣",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_LIGHTLAYERS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "牛仔褲",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_JEANS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男裝手錶",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "T恤",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Copy": "NA"
   }
 ]
