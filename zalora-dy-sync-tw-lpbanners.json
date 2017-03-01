@@ -768,5 +768,61 @@
     "Name": "T恤",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男鞋",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男裝配件",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男鞋",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "男包",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_BAGS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "女鞋",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "女包",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_womenbags_1212.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "女裝飾品",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996X250_WOMEN_ACC_HKTWNOV.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "平底鞋",
+    "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_WOMEN_LOAFERS&BOATSHOES.jpg",
+    "Copy": "NA"
   }
 ]
