@@ -824,5 +824,12 @@
     "Name": "平底鞋",
     "Image": "http://zstatichk01-a.akamaihd.net/cms/Evergage/LP_MSS_996X250_WOMEN_LOAFERS&BOATSHOES.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "裙子",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_SKIRTS.jpg",
+    "Copy": "NA"
   }
 ]
