@@ -772,6 +772,13 @@
   {
     "System ID": "b",
     "Gender": "men",
+    "Name": "男鞋",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
     "Name": "男裝配件",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
     "Copy": "NA"
@@ -823,6 +830,27 @@
     "Gender": "women",
     "Name": "裙子",
     "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_SKIRTS.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Zalora",
+    "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Zalora",
+    "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Zalora",
+    "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
     "Copy": "NA"
   }
 ]
