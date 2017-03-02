@@ -1286,5 +1286,19 @@
     "Name": "Sports",
     "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_SPORTSWEAR.jpg",
     "Copy": "Sports"
+  },
+  {
+    "System ID": "c256",
+    "Gender": "women",
+    "Name": "Accessories",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_WOMEN_ACCESSORIES.jpg",
+    "Copy": "Accessories"
+  },
+  {
+    "System ID": "c257",
+    "Gender": "men",
+    "Name": "Accessories",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Copy": "Accessories"
   }
 ]
