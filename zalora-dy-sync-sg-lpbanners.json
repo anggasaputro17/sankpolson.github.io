@@ -1300,5 +1300,19 @@
     "Name": "Accessories",
     "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
     "Copy": "Accessories"
+  },
+  {
+    "System ID": "c26",
+    "Gender": "men",
+    "Name": "Clothing",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_CLOTHING.jpg",
+    "Copy": "Clothing"
+  },
+  {
+    "System ID": "c27",
+    "Gender": "men",
+    "Name": "Shoes",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Copy": "Shoes"
   }
 ]
