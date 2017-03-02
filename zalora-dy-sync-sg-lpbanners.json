@@ -1195,5 +1195,96 @@
     "Name": "The North face",
     "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-thenorthface-men-feb.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "c8",
+    "Gender": "women",
+    "Name": "Heels",
+    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Copy": "Heels"
+  },
+  {
+    "System ID": "c190",
+    "Gender": "women",
+    "Name": "Playsuits & Jumpsuits",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250-playsuitsjumpsuits-eoss.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "c6",
+    "Gender": "women",
+    "Name": "Ballerinas & Flats",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996X250_WOMEN_LOAFERSBOATSHOES.jpg",
+    "Copy": "Ballerinas & Flats"
+  },
+  {
+    "System ID": "c16",
+    "Gender": "women",
+    "Name": "Skirts",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_WOMEN_SKIRTS.jpg",
+    "Copy": "Skirts"
+  },
+  {
+    "System ID": "c1434",
+    "Gender": "women",
+    "Name": "Ethnic Wear",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_MODERN%20ETHNIC%20WEAR.jpg",
+    "Copy": "Ethnic Wear"
+  },
+  {
+    "System ID": "c18",
+    "Gender": "women",
+    "Name": "Jeans",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_WOMEN_JEANS.jpg",
+    "Copy": "Jeans"
+  },
+  {
+    "System ID": "c296",
+    "Gender": "women",
+    "Name": "Watches",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Copy": "Watches"
+  },
+  {
+    "System ID": "c413",
+    "Gender": "men",
+    "Name": "Sneakers & Plimsolls",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SNEAKERS.jpg",
+    "Copy": "Sneakers & Plimsolls"
+  },
+  {
+    "System ID": "c28",
+    "Gender": "men",
+    "Name": "Jeans",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_JEANS_v2.jpg",
+    "Copy": "Jeans"
+  },
+  {
+    "System ID": "c30",
+    "Gender": "men",
+    "Name": "Pants",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Copy": "Pants"
+  },
+  {
+    "System ID": "c351",
+    "Gender": "men",
+    "Name": "Watches",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Copy": "Watches"
+  },
+  {
+    "System ID": "c2736",
+    "Gender": "men",
+    "Name": "Bags",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_BAGS1.jpg",
+    "Copy": "Bags"
+  },
+  {
+    "System ID": "c471",
+    "Gender": "men",
+    "Name": "Sports",
+    "Image": "https://static-sg.zacdn.com/cms/CategoryBanners/LP_MSS_996X250_MEN_SPORTSWEAR.jpg",
+    "Copy": "Sports"
   }
 ]
