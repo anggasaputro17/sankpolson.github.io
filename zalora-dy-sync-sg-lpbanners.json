@@ -1356,5 +1356,26 @@
     "Name": "Party Spotlight",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-partyspotlight-women.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b2022",
+    "Gender": "men",
+    "Name": "Mango Man",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-mangomarch-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2022",
+    "Gender": "women",
+    "Name": "Mango",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-mangomarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b198",
+    "Gender": "women",
+    "Name": "Seafolly",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-seafolly-women.jpg",
+    "Copy": "NA"
   }
 ]
