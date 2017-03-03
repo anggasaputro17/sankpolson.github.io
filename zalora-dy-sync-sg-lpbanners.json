@@ -556,7 +556,7 @@
     "System ID": "b305",
     "Gender": "men",
     "Name": "Herschel",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_unisexherschelnov.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-herschelmarch-men.jpg",
     "Copy": "NA"
   },
   {
@@ -584,14 +584,14 @@
     "System ID": "b4030",
     "Gender": "men",
     "Name": "Under Armour",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_UA-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-underarmourmarch-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b4030",
     "Gender": "women",
     "Name": "Under Armour",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_UA-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-underarmourmarch-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1130,7 +1130,7 @@
     "System ID": "b137",
     "Gender": "men",
     "Name": "Superdry",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_mensuperdrynov.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdrymarch-men.jpg",
     "Copy": "NA"
   },
   {
@@ -1314,5 +1314,47 @@
     "Name": "Shoes",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
     "Copy": "Shoes"
+  },
+  {
+    "System ID": "b2313",
+    "Gender": "men",
+    "Name": "Herschel",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/20170103-Zalora-Fossil-R1_06-996x250-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2313",
+    "Gender": "women",
+    "Name": "Herschel",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/20170103-Zalora-Fossil-R1_06-996x250-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "c1citycasual",
+    "Gender": "men",
+    "Name": "City Casual",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-citycasual-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "c1springwonder",
+    "Gender": "women",
+    "Name": "Spring Wonders",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-clothingnewarrivalsmarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "c1streetstyle",
+    "Gender": "women",
+    "Name": "Streetstyle",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-streetstyle-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "c1partyspotlight",
+    "Gender": "women",
+    "Name": "Party Spotlight",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-partyspotlight-women.jpg",
+    "Copy": "NA"
   }
 ]
