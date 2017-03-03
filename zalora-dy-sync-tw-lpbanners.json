@@ -852,5 +852,12 @@
     "Name": "Zalora",
     "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Playsuits",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_playsuit_0303.jpg",
+    "Copy": "NA"
   }
 ]
