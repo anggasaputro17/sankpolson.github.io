@@ -220,7 +220,7 @@
     "System ID": "b87",
     "Gender": "Women",
     "Name": "Aldo",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_aldo1111.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_AldoWomen_0306.jpg",
     "Copy": "NA"
   },
   {
@@ -234,7 +234,7 @@
     "System ID": "b87",
     "Gender": "men",
     "Name": "Aldo",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/0911/singlesday/lp/LP_996x250_mockup.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_AldoMen_0306.jpg",
     "Copy": "NA"
   },
   {
@@ -872,6 +872,34 @@
     "Gender": "women",
     "Name": "Midi Skirts",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_streetstyle_0303.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Nain",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_Nain_0306.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Nain",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_Nain_0306.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Stylenanda",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_stylenanda_0306.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Stylenanda",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_stylenanda_0306.jpg",
     "Copy": "NA"
   }
 ]
