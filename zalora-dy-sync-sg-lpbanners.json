@@ -1377,5 +1377,33 @@
     "Name": "Seafolly",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-seafolly-women.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b4038",
+    "Gender": "women",
+    "Name": "Stylenanda",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-stylenandamarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b87",
+    "Gender": "men",
+    "Name": "ALDO",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-aldomarch-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b87",
+    "Gender": "women",
+    "Name": "ALDO",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-aldomarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4026",
+    "Gender": "women",
+    "Name": "NAIN",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-nainmarch-women.jpg",
+    "Copy": "NA"
   }
 ]
