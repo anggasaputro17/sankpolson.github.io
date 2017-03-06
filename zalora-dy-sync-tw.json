@@ -3,131 +3,131 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_softutility_0224.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_internation_0303.jpg",
+    "Exit Url": "/women/international-womens-day",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|womenss17softutility|ALL|NA"
+    "EventLabel": "RET|WC|InternationalWomensDay|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://s27.postimg.org/xboyyxkgz/N1_NEWARRIVALS_360x420_2.jpg",
-    "Exit Url": "/addicts-anonymous/",
-    "Headline": "Addicts Anonymous",
-    "Subline": "最新迷人時尚女性鞋款",
-    "EventLabel": "BRA|WS|wsaddictsanonymouszap|ALL|NA|addicts-anonymous|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_partydress_0303.jpg",
+    "Exit Url": "/women/clothing/party-dresses/?getSKU=TO412AA57NICMY",
+    "Headline": "派對嬌點",
+    "Subline": "回頭率100%之焦點洋裝",
+    "EventLabel": "THE|WC|wpartydressfeb|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_floral_0204.jpg",
-    "Exit Url": "/women/floral",
-    "Headline": "耀眼花卉",
-    "Subline": "以往被視為老氣的印花圖騰再次回歸時尚舞台",
-    "EventLabel": "THE|NA|womenss17floralstrend|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/CU2_CAMPAIGN_620x420_midi_0303.jpg",
+    "Exit Url": "/women/clothing/midi-skirts/",
+    "Headline": "時裝週焦點",
+    "Subline": "及膝裙掀起街頭風潮",
+    "EventLabel": "TRE|Women|StreetStyleMidiSkirts|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_fitness_0224.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=fitnessinstylewomen",
-    "Headline": "時尚塑身",
-    "Subline": "換上個性運動服飾 重拾運動訓練",
-    "EventLabel": "THE|WSP|FitnessInStyleWomen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_playsuits_0303.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Headline": "連身散發魅力",
+    "Subline": "換上今季最熱門的連身褲",
+    "EventLabel": "CAT|WC|playsuitjumpsuitfeb2017|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_clearance_0224.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=winterclearance",
-    "Headline": "買3件或以上享額外8折",
-    "Subline": "時尚冬裝折扣出清 把握不敗流行款最後機會",
-    "EventLabel": "THE-SAL|NA|womenwinterclearance|ALL|maxp"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sportsnew_0303.jpg",
+    "Exit Url": "/women/sports/new-products/",
+    "Headline": "時尚雕塑",
+    "Subline": "當季運動服飾 從裡到外散發自信美",
+    "EventLabel": "CAT|WSP|SportsNewArrivalFeb2017|ALL|NA|"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_wrap_0224.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wrapfrontclothing",
-    "Headline": "時尚交疊",
-    "Subline": "獨特層次細節 體現時尚深度",
-    "EventLabel": "SUB-THE|WC|WrapFrontClothing|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/CU1_CAMPAIGN_360x420_multibrand_0303.jpg",
+    "Exit Url": "/women/clothing/new-products/?sort=popularity&dir=desc&category_id=4204&brand=cotton-on--cotton-on-body--dorothy-perkins--factorie--miss-selfridge--missguided--river-island--topshop",
+    "Headline": "春季新品亮相",
+    "Subline": "Dorothy Perkins, Topshop，Miss Selfridge等時尚品牌的最新系列等您來選購",
+    "EventLabel": "CAT|WC|FebMultiBrandsNewArrivals2017|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_korea_0224.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=kfashionids",
-    "Headline": "正韓效應",
-    "Subline": "韓國直送最新潮流韓貨",
-    "EventLabel": "THE|WC-WS-WA|wkfashionids|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/Soft_Utility_Visual_Update_CU4_0303.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
+    "Headline": "飄逸質感",
+    "Subline": "沉醉於喇叭袖、荷葉飾和飄逸下擺的完美融合",
+    "EventLabel": "THE|NA|womenss17softutilityupdate|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-river-island-women.jpg",
-    "Exit Url": "/river-island-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Desktop_Aldo_w_B1_6_322x165.jpg",
+    "Exit Url": "/women/aldo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WA|wriverislandss17|ALL|NA"
+    "EventLabel": "NewA|WA|aldo|ALL|NA"
   },
   {
     "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_b1_6.jpg",
+    "Exit Url": "/women/sisley/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wcsisleyss17|ALL|NA|sisley"
+  },
+  {
+    "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_topshop_0210.jpg",
     "Exit Url": "/topshop-taiwan/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WC|wtopshopss17|ALL|NA"
-  },
-  {
-    "Placement": "wfb3",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/Melissa_B_322x165.jpg",
-    "Exit Url": "/women/melissa/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|NA|wmelissass17|ALL|NA"
+    "EventLabel": "BRA|NA|topshop17|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165=we-are-handsome.jpg",
-    "Exit Url": "/women/we-are-handsome/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_19_benetton.jpg",
+    "Exit Url": "/women/united-colors-of-benetton/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|wearehandsome17|ALL|NA"
+    "EventLabel": "BRA|WC|wcbenettonss17|ALL|NA|united-colours-of-benetton"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/Casio-B1-6_322x165.jpg",
-    "Exit Url": "/women/watches/casio/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_13_warehouse.jpg",
+    "Exit Url": "/warehouse-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|casio|ALL|NA"
+    "EventLabel": "BRA|NA|warehouse|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-something-borrowed-women.jpg",
-    "Exit Url": "/women/something-borrowed/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_21-zalora.jpg",
+    "Exit Url": "/women/zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|somethingborrowed|ALL|NA"
+    "EventLabel": "BRA|NA|zalora|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,54 +183,44 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_newarrival_0224.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_mennew_0303.jpg",
     "Exit Url": "/men/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|NA|mnewarrivalfeb|ALL|NA"
+    "EventLabel": "TRE|Men|GenericNewAMar|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_urban_0224.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanclassicstrend",
-    "Headline": "都市經典",
-    "Subline": "歷經時間浸禮 成就日常休閒經典",
-    "EventLabel": "THE|NA|UrbanClassicsMen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_0303.jpg",
+    "Exit Url": "/superdry-taiwan/?from=men",
+    "Headline": "SUPERDRY",
+    "Subline": "向眾人展現您的風格魅力",
+    "EventLabel": "BRA|NA|superdry|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_mensalw_0224.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=20offvc",
-    "Headline": "8折優惠",
-    "Subline": "使用優惠編碼 SPECIAL20 享8折優惠 (最低消費 NT$1,500)。僅限特定商品。",
-    "EventLabel": "THE-SAL|NA|men20offvcwithminspend|ALL|vcp"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_emergency_0303.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=spendandget",
+    "Headline": "獨家優惠",
+    "Subline": "買滿NT$1,500享82折優惠 僅限指定商品",
+    "EventLabel": "SAL|NA|spendandget18off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-new-balance.jpg",
-    "Exit Url": "/men/new-balance/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_20.jpg",
+    "Exit Url": "/burton-menswear-london/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|newbalance|ALL|NA"
+    "EventLabel": "BRA|NA|burtonmenswear|ALL|NA"
   },
   {
     "Placement": "mfb2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-topman.jpg",
-    "Exit Url": "/topman-taiwan/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|NA|topman|ALL|NA"
-  },
-  {
-    "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-herschel.jpg",
@@ -240,34 +230,44 @@
     "EventLabel": "BRA|NA|herschel|ALL|NA"
   },
   {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_19_benetton.jpg",
+    "Exit Url": "/men/united-colors-of-benetton/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|wcbenettonss17|ALL|NA|united-colours-of-benetton"
+  },
+  {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-river-island.jpg",
-    "Exit Url": "/men/river-island/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_b1_6.jpg",
+    "Exit Url": "/men/sisley/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|riverisland|ALL|NA"
+    "EventLabel": "BRA|MC|wcsisleyss17|ALL|NA|sisley"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-cis.jpg",
-    "Exit Url": "/men/call-it-spring/",
+    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-river-island.jpg",
+    "Exit Url": "/river-island-taiwan/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|callitspring|ALL|NA"
+    "EventLabel": "BRA|NA|riverisland|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_ck_0210.jpg",
-    "Exit Url": "/calvin-klein-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_16.jpg",
+    "Exit Url": "/cotton-on-shop/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|calvinklein|ALL|NA"
+    "EventLabel": "BRA|NA|cottonon|ALL|NA"
   },
   {
     "Placement": "mc1",
