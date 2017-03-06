@@ -36,24 +36,6 @@
     "Notes": "contains /women & /feature & /floral"
   },
   {
-    "Name": "Spring Forward",
-    "System ID": "c4",
-    "Copy": "NA",
-    "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-EN.jpg",
-    "Gender": "Women",
-    "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
-  },
-  {
-    "Name": "Spring Forward",
-    "System ID": "c4",
-    "Copy": "NA",
-    "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-springforward-ZH.jpg",
-    "Gender": "Women",
-    "Notes": "contains /women & /clothing & getSKU=ES374AA68ONNMY"
-  },
-  {
     "Name": "Brand: Armani",
     "System ID": "b3318",
     "Copy": "NA",
@@ -490,7 +472,7 @@
     "System ID": "b87",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_aldo_nov4.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-aldo-women-mar2017.jpg",
     "Gender": "Women",
     "Notes": "contains /aldo & /women"
   },
@@ -499,7 +481,7 @@
     "System ID": "b87",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-aldo-men.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-aldo-men-mar2017.jpg",
     "Gender": "Men",
     "Notes": "contains /aldo & /men"
   },
@@ -580,7 +562,7 @@
     "System ID": "b3188",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-stylenanda-women.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-stylenanda-mar2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /stylenanda"
   },
@@ -1312,6 +1294,15 @@
     "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_call_it_spring.jpg",
     "Gender": "Unisex",
     "Notes": "contains /call-it-spring"
+  },
+  {
+    "Name": "Brand: Nain",
+    "System ID": "b3246",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-nain-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nain"
   },
   {
     "Name": "Category: Clothing",
