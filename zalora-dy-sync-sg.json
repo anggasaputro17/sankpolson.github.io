@@ -194,7 +194,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-superdrymarch-men.jpg",
-    "Exit Url": "/superdry-singapore/?from=men",
+    "Exit Url": "/men/superdry/?sort=latest%20arrival&dir=desc",
     "Headline": "SUPERDRY",
     "Subline": "Give the world another reason to admire your style capability.",
     "EventLabel": "BRA|MC|SuperdryMar|ALL|NA"
@@ -384,7 +384,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-superdrymarch-men.jpg",
-    "Exit Url": "/men/superdry",
+    "Exit Url": "/men/superdry/?sort=latest%20arrival&dir=desc",
     "Headline": "Men NCU1",
     "Subline": "Superdry",
     "EventLabel": "BRA|MC|SuperdryMar|ALL|NA"
