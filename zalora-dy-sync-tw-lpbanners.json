@@ -859,5 +859,19 @@
     "Name": "Playsuits",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_playsuit_0303.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Party Dress",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_partydress_0303.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Midi Skirts",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_streetstyle_0303.jpg",
+    "Copy": "NA"
   }
 ]
