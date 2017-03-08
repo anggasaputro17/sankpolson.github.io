@@ -895,11 +895,67 @@
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_stylenanda_0306.jpg",
     "Copy": "NA"
   },
-    {
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Stylenanda",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_stylenanda_0306.jpg",
+    "Copy": "NA"
+  },
+  {
     "System ID": "b",
     "Gender": "women",
-    "Name": "Esprit",
-    "Image": "https://static-tw.zacdn.com/cms/LPBanners/LP_996x250_women_esprit_nov4.jpg",
+    "Name": "美容保養",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_BEAUTY.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "運動",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_sports_0209.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Lipsy",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Zalora-996x250-lipsy.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Lipsy",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Zalora-996x250-lipsy.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Unisa",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/unisa_LP_996x250_tw.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Unisa",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/unisa_LP_996x250_tw.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Nose",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/nose_LP_996x250_tw.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Nose",
+    "Image": "https://static-tw.zacdn.com/cms/Evergage/nose_LP_996x250_tw.jpg",
     "Copy": "NA"
   },
   {
@@ -907,13 +963,6 @@
     "Gender": "men",
     "Name": "Esprit",
     "Image": "https://static-tw.zacdn.com/cms/LPBanners/LP_996x250_men_esprit_nov4.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
-    "Gender": "unisex",
-    "Name": "Stylenanda",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_stylenanda_0306.jpg",
     "Copy": "NA"
   }
 ]
