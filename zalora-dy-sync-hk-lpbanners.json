@@ -486,6 +486,15 @@
     "Notes": "contains /aldo & /men"
   },
   {
+    "Name": "Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-aldo-unisex-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /aldo & does not contain /men or /women"
+  },
+  {
     "Name": "Brand: Converse",
     "System ID": "b302",
     "Copy": "NA",
@@ -589,7 +598,7 @@
     "System ID": "b137",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mockup_women_superdry.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250superdry-women-mar2017.jpg",
     "Gender": "Women",
     "Notes": "contains /superdry & /women"
   },
@@ -625,7 +634,7 @@
     "System ID": "b3401",
     "Copy": "NA",
     "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-wearehandsome-mar2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /we-are-handsome"
   },
@@ -634,7 +643,7 @@
     "System ID": "b3401",
     "Copy": "NA",
     "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-wearehandsome-mar2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /we-are-handsome"
   },
@@ -769,7 +778,7 @@
     "System ID": "b1430",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-burton-menswear-london-mar2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /burton-menswear-london"
   },
@@ -1663,5 +1672,14 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-partydresses-women-mar2017-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /party-dresses"
+  },
+  {
+    "Name": "Men Brand: Bonds",
+    "System ID": "b3284",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-bonds-mar2017.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men& /bonds"
   }
 ]
