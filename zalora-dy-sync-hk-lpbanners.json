@@ -1717,5 +1717,14 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-beautyspotlight-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /beauty"
+  },
+  {
+    "Name": "Brand: Jaxon",
+    "System ID": "b2596",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/JAXON-FEB17-LP.jpg",
+    "Gender": "Men",
+    "Notes": "contains /jaxon"
   }
 ]
