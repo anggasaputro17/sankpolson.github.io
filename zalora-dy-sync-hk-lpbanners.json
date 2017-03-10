@@ -1386,6 +1386,24 @@
     "Notes": "contains /men & /shoes"
   },
   {
+    "Name": "Category: Eyewear",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-eyewear-hken.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /accessories & /eyewear"
+  },
+  {
+    "Name": "Category: Eyewear",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-eyewear-hkzh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /accessories & /eyewear"
+  },
+  {
     "Name": "Category: Accessories",
     "System ID": "NA",
     "Copy": "Accessories",
@@ -1680,6 +1698,24 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-bonds-mar2017.jpg",
     "Gender": "Men",
-    "Notes": "contains /men& /bonds"
+    "Notes": "contains /men & /bonds"
+  },
+  {
+    "Name": "Category: Beauty",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-beautyspotlight-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /beauty"
+  },
+  {
+    "Name": "Category: Beauty",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-beautyspotlight-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /beauty"
   }
 ]
