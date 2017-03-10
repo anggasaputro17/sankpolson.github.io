@@ -1726,5 +1726,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/JAXON-FEB17-LP.jpg",
     "Gender": "Men",
     "Notes": "contains /jaxon"
+  },
+  {
+    "Name": "Category: Bodycon Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-bodyconbeauty-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /bodycon-dresses"
+  },
+  {
+    "Name": "Category: Bodycon Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-bodyconbeauty-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /bodycon-dresses"
   }
 ]
