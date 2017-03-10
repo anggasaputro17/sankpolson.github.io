@@ -59,7 +59,7 @@
     "System ID": "b2878",
     "Gender": "men",
     "Name": "Bonds",
-    "Image": "https://static-sg.zacdn.com/cms/brands/Bonds_LP_996x250.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-bonds-men.jpg",
     "Copy": "NA"
   },
   {
@@ -696,28 +696,28 @@
     "System ID": "b4179",
     "Gender": "unisex",
     "Name": "We Are Handsome",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_wearehandsome.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-wearehandsome-women.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b4179",
     "Gender": "women",
     "Name": "We Are Handsome",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_wearehandsome.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-wearehandsome-women.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1838",
     "Gender": "unisex",
     "Name": "Burton Menswear London",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-burton-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1838",
     "Gender": "men",
     "Name": "Burton Menswear London",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-burton-men.jpg",
     "Copy": "NA"
   },
   {
@@ -1123,7 +1123,14 @@
     "System ID": "b137",
     "Gender": "men",
     "Name": "Superdry",
-    "Image": "https://static-sg.zacdn.com/cms/fpseason/LP_996x250-superdry-men-march2017.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdry-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b137",
+    "Gender": "women",
+    "Name": "Superdry",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdry-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1397,6 +1404,48 @@
     "Gender": "women",
     "Name": "NAIN",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-nainmarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4218",
+    "Gender": "women",
+    "Name": "Dorina",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-dorina-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3873",
+    "Gender": "women",
+    "Name": "Laneige",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-laneige-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2207",
+    "Gender": "women",
+    "Name": "Reebok",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-reebok-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2207",
+    "Gender": "men",
+    "Name": "Reebok",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-reebok-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4284",
+    "Gender": "women",
+    "Name": "Patagonia",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-patagonia-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4284",
+    "Gender": "men",
+    "Name": "Patagonia",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-patagonia-men.jpg",
     "Copy": "NA"
   }
 ]
