@@ -220,7 +220,7 @@
     "System ID": "b87",
     "Gender": "Women",
     "Name": "Aldo",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_AldoWomen_0306.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_aldo_0309.jpg",
     "Copy": "NA"
   },
   {
@@ -283,14 +283,14 @@
     "System ID": "b2358",
     "Gender": "women",
     "Name": "We are handsome",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_handsome_0310.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2358",
     "Gender": "unisex",
     "Name": "We are handsome",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_wearehandsome_zh.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_handsome_0310.jpg",
     "Copy": "NA"
   },
   {
@@ -318,7 +318,7 @@
     "System ID": "b137",
     "Gender": "women",
     "Name": "Superdry",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_mockup_women.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250px_superdry_women_0310.jpg",
     "Copy": "NA"
   },
   {
@@ -339,14 +339,14 @@
     "System ID": "b1430",
     "Gender": "men",
     "Name": "Burton Menswear London",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_burton_men_0310.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1430",
     "Gender": "unisex",
     "Name": "Burton Menswear London",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_burton_menswear_nov10.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_burton_men_0310.jpg",
     "Copy": "NA"
   },
   {
@@ -540,9 +540,16 @@
   },
   {
     "System ID": "b2273",
+    "Gender": "unisex",
+    "Name": "Bonds",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_bonds_0309.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b2273",
     "Gender": "men",
     "Name": "Bonds",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/Bonds_LP_996x250.jpg",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_bonds_0309.jpg",
     "Copy": "NA"
   },
   {
@@ -963,6 +970,41 @@
     "Gender": "men",
     "Name": "Esprit",
     "Image": "https://static-tw.zacdn.com/cms/LPBanners/LP_996x250_men_esprit_nov4.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Dorina",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_dorina_women_0310.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Reebok",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_reebok_women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Reebok",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_reebok_men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Patagonia",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_patagonia_0310_women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Patagonia",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_patagonia_0310_men.jpg",
     "Copy": "NA"
   }
 ]
