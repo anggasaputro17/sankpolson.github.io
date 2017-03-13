@@ -3,71 +3,71 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_international_0310.jpg",
-    "Exit Url": "/women/international-womens-day",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_women_0310.jpg",
+    "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|WC|InternationalWomensDay|ALL|NA"
+    "EventLabel": "THE|NA|5thAnniTequlia|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_partydress_0303.jpg",
-    "Exit Url": "/women/clothing/party-dresses/?getSKU=TO412AA57NICMY",
-    "Headline": "派對嬌點",
-    "Subline": "回頭率100%之焦點洋裝",
-    "EventLabel": "THE|WC|wpartydressfeb|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_topshop_0310.jpg",
+    "Exit Url": "/topshop-taiwan/",
+    "Headline": "Topshop",
+    "Subline": "時尚新品打造最潮街頭風",
+    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/CU2_CAMPAIGN_620x420_midi_0303.jpg",
-    "Exit Url": "/women/clothing/midi-skirts/",
-    "Headline": "時裝週焦點",
-    "Subline": "及膝裙掀起街頭風潮",
-    "EventLabel": "TRE|Women|StreetStyleMidiSkirts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_safari_0310.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
+    "Headline": "曠野旅行者",
+    "Subline": "野外風格和自然元素 喚醒渴望自由的心",
+    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_playsuits_0303.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
-    "Headline": "連身散發魅力",
-    "Subline": "換上今季最熱門的連身褲",
-    "EventLabel": "CAT|WC|playsuitjumpsuitfeb2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/CU1_NEWARRIVALS_620x420_under900_0310.jpg",
+    "Exit Url": "/women/all-products/?sort=popularity&price=1-899.99",
+    "Headline": "春季服飾低於NT$900",
+    "Subline": "不容錯過的購物狂歡時刻",
+    "EventLabel": "SAL|Women|wpricepointMar|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sportsnew_0303.jpg",
-    "Exit Url": "/women/sports/new-products/",
-    "Headline": "時尚雕塑",
-    "Subline": "當季運動服飾 從裡到外散發自信美",
-    "EventLabel": "CAT|WSP|SportsNewArrivalFeb2017|ALL|NA|"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sunglasses_0310.jpg",
+    "Exit Url": "/women/accessories/sunglasses/",
+    "Headline": "首選百搭墨鏡",
+    "Subline": "開拓時尚新視野",
+    "EventLabel": "CAT|WA|EyewearPushMarch2017|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/CU1_CAMPAIGN_360x420_multibrand_0303.jpg",
-    "Exit Url": "/women/clothing/new-products/?sort=popularity&dir=desc&category_id=4204&brand=cotton-on--cotton-on-body--dorothy-perkins--factorie--miss-selfridge--missguided--river-island--topshop",
-    "Headline": "春季新品亮相",
-    "Subline": "Dorothy Perkins, Topshop，Miss Selfridge等時尚品牌的最新系列等您來選購",
-    "EventLabel": "CAT|WC|FebMultiBrandsNewArrivals2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_beauty_0310.jpg",
+    "Exit Url": "/women/beauty/new-products/",
+    "Headline": "美麗新焦點",
+    "Subline": "春季新品塑造春日迷人妝容",
+    "EventLabel": "CAT|WBE|BeautyNewAMarch2017|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/Soft_Utility_Visual_Update_CU4_0303.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
-    "Headline": "飄逸質感",
-    "Subline": "沉醉於喇叭袖、荷葉飾和飄逸下擺的完美融合",
-    "EventLabel": "THE|NA|womenss17softutilityupdate|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_croptop.jpg",
+    "Exit Url": "women/all-products/?cmpgn_one=StreetStyleCropTop",
+    "Headline": "街頭風時尚焦點",
+    "Subline": "短版上衣狂卷今季時裝熱潮",
+    "EventLabel": "TRE|Women|StreetStyleCropTops|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -93,11 +93,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_topshop_0210.jpg",
-    "Exit Url": "/topshop-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_DP_0310.jpg",
+    "Exit Url": "/dorothy-perkins-taiwan/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|topshop17|ALL|NA"
+    "EventLabel": "BRA|NA|dorothyperkin17|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -183,31 +183,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_mennew_0303.jpg",
-    "Exit Url": "/men/new-products/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_men_0310.jpg",
+    "Exit Url": "/men/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|GenericNewAMar|ALL|NA"
+    "EventLabel": "THE|NA|5thAnniAustenTW|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_360x420px_superdry.jpg",
-    "Exit Url": "/superdry-taiwan/?from=men",
-    "Headline": "SUPERDRY",
-    "Subline": "向眾人展現您的風格魅力",
-    "EventLabel": "BRA|NA|superdry|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_shoes1500.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan1500&price=1-1500",
+    "Headline": "時尚鞋款低於 $1,500",
+    "Subline": "立即以優惠價格購入潮流鞋款！",
+    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_emergency_0303.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=spendandget",
-    "Headline": "獨家優惠",
-    "Subline": "買滿NT$1,500享82折優惠 僅限指定商品",
-    "EventLabel": "SAL|NA|spendandget18off|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_shirtnpolo.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
+    "Headline": "Polo衫& T恤",
+    "Subline": "基本款上衣回歸簡約潮流",
+    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -333,11 +333,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_vday2017.jpg",
-    "Exit Url": "/valentines-day/",
-    "Headline": "情人節浪漫約會",
-    "Subline": "最浪漫的選擇都在這裡！",
-    "EventLabel": "THE|NA|VDAY2017|ALL|NA"
+    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_floral_0313.jpg",
+    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
+    "Headline": "華麗綻放",
+    "Subline": "花卉點綴盛放浪漫魅力",
+    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
   },
   {
     "Placement": "ub2",
