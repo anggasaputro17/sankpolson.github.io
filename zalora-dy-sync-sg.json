@@ -4,70 +4,70 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-internationalwomensday2.jpg",
-    "Exit Url": "/women/international-womens-day/",
+    "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|WC|InternationalWomensDay|ALL|NA|"
+    "EventLabel": "TRE|NA|5thAnnivMar|ALL|NA|"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-partyspotlight-women.jpg",
-    "Exit Url": "/women/clothing/party-dresses/?getSKU=TO412AA57NICMY",
-    "Headline": "Party Spotlight",
-    "Subline": "Enjoy the glitz and glamour that comes with these figure-flattering dresses.",
-    "EventLabel": "NA|WC|wpartydressfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-clarksmarch-women.jpg",
+    "Exit Url": "/women/clarks",
+    "Headline": "Clarks",
+    "Subline": "Classic shoes built with the finest craftsmanship and comfort.",
+    "EventLabel": "NewA|WS|wsclarksss17|ALL|NA|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-streetstyle-women.jpg",
-    "Exit Url": "/women/clothing/midi-skirts/",
-    "Headline": "SPOTTED AT THE SHOWS",
-    "Subline": "Midi skirts hit the street as this month's it-piece.",
-    "EventLabel": "TRE|Women|StreetStyleMidiSkirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-safari-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
+    "Headline": "Safari Traveller",
+    "Subline": "Awaken your senses with a selection of desert tones and safari accents.",
+    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-onepieceoccasion-women.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
-    "Headline": "One-Piece Occasions",
-    "Subline": "Leap into this season's sleekest jumpsuits and flattering playsuits.",
-    "EventLabel": "CAT|WC|playsuitjumpsuitfeb2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-rplpricebucket-women.jpg",
+    "Exit Url": "/women/all-products/?sort=popularity&price=1-39.99",
+    "Headline": "Spring Steals Below $40",
+    "Subline": "Get a whole lot more out of your next shopping spree.",
+    "EventLabel": "SAL|Women|wpricepointMar|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-timetotrain-women.jpg",
-    "Exit Url": "/women/sports/new-products/",
-    "Headline": "Time To Train",
-    "Subline": "Work up a sweat with this season's all-new sportswear.",
-    "EventLabel": "CAT|WSP|SportsNewArrivalFeb2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-sunglasses-women.jpg",
+    "Exit Url": "/women/accessories/sunglasses/",
+    "Headline": "Finding The Right Shades",
+    "Subline": "Sunglasses that open your eyes to a whole new world.",
+    "EventLabel": "CAT|WA|EyewearPushMarch2017|ALL|NA|"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-clothingnewarrivalsmarch-women.jpg",
-    "Exit Url": "/women/clothing/new-products/?sort=popularity&dir=desc&category_id=3&brand=cotton-on--cotton-on-body--dorothy-perkins--factorie--mango--mayuki--miss-selfridge--missguided--river-island--topshop--zalora--something-borrowed",
-    "Headline": "Spring's New Wonders",
-    "Subline": "Shop the latest from brands like Dorothy Perkins, Topshop and Miss Selfridge.",
-    "EventLabel": "CAT|WC|FebMultiBrandsNewArrivals2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-beautyspotlight-women.jpg",
+    "Exit Url": "/women/beauty/new-products/",
+    "Headline": "Beauty Spotlight",
+    "Subline": "Spring’s latest makeup palettes and more, from the brands you’ll love.",
+    "EventLabel": "CAT|WBE|BeautyNewAMarch2017|ALL|NA|"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-softutilitymarch-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=softutility",
-    "Headline": "Soft Utility",
-    "Subline": "Indulge in a mix of fluted sleeves, light ruffles and flowy bottoms.",
-    "EventLabel": "THE|NA|womenss17softutilityupdate|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-croptops-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=StreetStyleCropTop",
+    "Headline": "STREET STYLE HIGHLIGHTS",
+    "Subline": "Get the latest on the crop top craze that’s been heating up fashion weeks.",
+    "EventLabel": "TRE|Women|StreetStyleCropTops|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -173,41 +173,41 @@
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-beautymarch-women.jpg",
-    "Exit Url": "/women/cosmetics/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-accemarch-women.jpg",
+    "Exit Url": "/women/accessories/",
     "Headline": "NA",
-    "Subline": "Shop Beauty >",
-    "EventLabel": "SUB|WBE|beautywomen|ALL|NA"
+    "Subline": "Shop Accessories >",
+    "EventLabel": "SUB|WA|accessorieswomen|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-citycasual-men.jpg",
-    "Exit Url": "/men/new-products/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-zaloraanniv-men.jpg",
+    "Exit Url": "/men/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|GenericNewAMar|ALL|NA"
+    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/fpseason/N1_360x420-superdry-men-march2017.jpg",
-    "Exit Url": "/men/superdry/?sort=latest%20arrival&dir=desc",
-    "Headline": "SUPERDRY",
-    "Subline": "Give the world another reason to admire your style capability.",
-    "EventLabel": "BRA|MC|SuperdryMar|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_360x420-shoesunder80-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan80&price=1-80",
+    "Headline": "Shoes Under $80",
+    "Subline": "Grab all the shoes you need - for less.",
+    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs|"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-spendandget-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=spendandget",
-    "Headline": "Exclusive This Week",
-    "Subline": "Get 18% off when you spend a minimum of SGD80. Selected items only.",
-    "EventLabel": "SAL|NA|spendandget18off|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-polostees17-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
+    "Headline": "Polos & Tees",
+    "Subline": "Get back to basics with our wide selection of essential tops.",
+    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA|"
   },
   {
     "Placement": "mfb1",
@@ -313,41 +313,41 @@
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-shoesmarch-men.jpg",
-    "Exit Url": "/men/shoes/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-backpacksmarch-men.jpg",
+    "Exit Url": "/men/bags/backpacks/",
     "Headline": "NA",
-    "Subline": "Shop Shoes >",
-    "EventLabel": "SUB|MS|shoesmen|ALL|NA"
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "SUB|MB|backpacksmen|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-internationalwomensday-women.jpg",
-    "Exit Url": "/women/international-womens-day/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-zaloraanniv-women.jpg",
+    "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|WC|InternationalWomensDay|ALL|NA|"
+    "EventLabel": "TRE|NA|5thAnnivMar|ALL|NA|"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-partyspotlight-women.jpg",
-    "Exit Url": "/women/clothing/party-dresses/?getSKU=TO412AA57NICMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-clarksmarch-women.jpg",
+    "Exit Url": "/women/clarks",
     "Headline": "Women NCU1",
-    "Subline": "Party Spotlight",
-    "EventLabel": "NA|WC|wpartydressfeb|ALL|NA"
+    "Subline": "Clarks",
+    "EventLabel": "NewA|WS|wsclarksss17|ALL|NA|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-streetstyle-women.jpg",
-    "Exit Url": "/women/clothing/midi-skirts/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-safari-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
     "Headline": "Women NCU2",
-    "Subline": "Spotted at the Shows",
-    "EventLabel": "TRE|Women|StreetStyleMidiSkirts|ALL|NA"
+    "Subline": "Safari Traveller",
+    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -373,31 +373,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-citycasual-men.jpg",
-    "Exit Url": "/men/new-products",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-zaloraanniv-men.jpg",
+    "Exit Url": "/men/zalora-anniversary",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|GenericNewAMar|ALL|NA"
+    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-superdrymarch-men.jpg",
-    "Exit Url": "/men/superdry/?sort=latest%20arrival&dir=desc",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-shoesunder80-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan80&price=1-80",
     "Headline": "Men NCU1",
-    "Subline": "Superdry",
-    "EventLabel": "BRA|MC|SuperdryMar|ALL|NA"
+    "Subline": "Shoes Under $80",
+    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs|"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-spendandget-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=spendandget",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-polostees17-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
     "Headline": "Men NCU2",
-    "Subline": "Exclusive This Week",
-    "EventLabel": "SAL|NA|spendandget18off|ALL|NA|"
+    "Subline": "Polos & Tees",
+    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA|"
   },
   {
     "Placement": "mc1",
@@ -423,7 +423,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/desktopFeb-unisex.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/HOMEPAGE_SPLASH_996x500-zaloraanniv.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
