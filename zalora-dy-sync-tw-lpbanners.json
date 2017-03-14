@@ -1006,5 +1006,33 @@
     "Name": "Patagonia",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_patagonia_0310_men.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Herschel",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_women_herschel_0314.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Herschel",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_men_hershcel_0314.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "warehouse",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "warehosue",
+    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
+    "Copy": "NA"
   }
 ]
