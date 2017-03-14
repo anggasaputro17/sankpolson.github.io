@@ -1034,5 +1034,33 @@
     "Name": "warehosue",
     "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "ray ban",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_ZH_rayban_0314.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "ray ban",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_ZH_rayban_0314.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "sunnies studios",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_WOMEN_LPBANNER_0911.png",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "sunnies studios",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_MEN_LPBANNER_0911.png",
+    "Copy": "NA"
   }
 ]
