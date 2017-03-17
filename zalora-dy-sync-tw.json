@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_topshop_0310.jpg",
-    "Exit Url": "/topshop-taiwan/",
-    "Headline": "Topshop",
-    "Subline": "時尚新品打造最潮街頭風",
-    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_patagonia_0316.jpg",
+    "Exit Url": "/women/patagonia/",
+    "Headline": "Patagonia",
+    "Subline": "專為戶外活動而設的時尚單品",
+    "EventLabel": "BRA|WSP-WC|wsp1wcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "wn2",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_men_0310.jpg",
-    "Exit Url": "/men/zalora-anniversary/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_patagonia_men.jpg",
+    "Exit Url": "/men/patagonia/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|5thAnniAustenTW|ALL|NA"
+    "EventLabel": "BRA|MSP-MC|msp1mcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "mn1",
