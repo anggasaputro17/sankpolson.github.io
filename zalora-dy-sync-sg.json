@@ -3,21 +3,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-zaloraanniv-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-ginette-women.jpg",
     "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|NA|5thAnnivMar|ALL|NA|"
+    "EventLabel": "TRE|NA|5thAnnivMarGinette|ALL|NA|"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-clarksmarch-women.jpg",
-    "Exit Url": "/women/clarks",
-    "Headline": "Clarks",
-    "Subline": "Classic shoes built with the finest craftsmanship and comfort.",
-    "EventLabel": "NewA|WS|wsclarksss17|ALL|NA|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-patagonia-women.jpg",
+    "Exit Url": "/women/patagonia",
+    "Headline": "Patagonia",
+    "Subline": "Gear that’s built to tackle the great outdoors can now be exclusively yours.",
+    "EventLabel": "BRA|WSP-WC|wsp1wcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "wn2",
@@ -56,7 +56,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-beautyspotlight-women.jpg",
     "Exit Url": "/women/beauty/new-products/",
     "Headline": "Beauty Spotlight",
-    "Subline": "Spring’s latest makeup palettes and more, from the brands you’ll love.",
+    "Subline": "Springâ€™s latest makeup palettes and more, from the brands youâ€™ll love.",
     "EventLabel": "CAT|WBE|BeautyNewAMarch2017|ALL|NA|"
   },
   {
@@ -66,7 +66,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-croptops-women.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=StreetStyleCropTop",
     "Headline": "STREET STYLE HIGHLIGHTS",
-    "Subline": "Get the latest on the crop top craze that’s been heating up fashion weeks.",
+    "Subline": "Get the latest on the crop top craze thatâ€™s been heating up fashion weeks.",
     "EventLabel": "TRE|Women|StreetStyleCropTops|ALL|NA"
   },
   {
@@ -83,11 +83,11 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-mangomarch-women.jpg",
-    "Exit Url": "/women/mango-shop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-tokichoi-women.jpg",
+    "Exit Url": "/women/tokichoi",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC-WB-WS|wcwbwsmangoss17|ALL|NA"
+    "EventLabel": "BRA|WC|wctokichoilaunch17|ALL|NA|tokichoi"
   },
   {
     "Placement": "wfb3",
@@ -183,31 +183,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-zaloraanniv-men.jpg",
-    "Exit Url": "/men/zalora-anniversary/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/SEGMENT_HERO_996x500-patagonia-men.jpg",
+    "Exit Url": "/men/patagonia",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
+    "EventLabel": "BRA|MSP-MC|msp1mcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-        "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-shoesunder80-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan80&price=1-80",
-    "Headline": "Shoes Under $80",
-    "Subline": "Grab all the shoes you need - for less.",
-    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-natho-men.jpg",
+    "Exit Url": "/men/zalora-anniversary",
+    "Headline": "#ZALORAICONS",
+    "Subline": "Actor/singer Nat Ho shows how he stays one step ahead of the fashion game.",
+    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-polostees17-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
-    "Headline": "Polos & Tees",
-    "Subline": "Get back to basics with our wide selection of essential tops.",
-    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-clarksmarch-men.jpg",
+    "Exit Url": "/men/clarks",
+    "Headline": "Clarks",
+    "Subline": "Classic shoes built with the finest craftsmanship and comfort.",
+    "EventLabel": "NewA|MS|msclarksss17|ALL|NA|ZAP"
   },
   {
     "Placement": "mfb1",
@@ -323,21 +323,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-zaloraanniv-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-ginette-women.jpg",
     "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|NA|5thAnnivMar|ALL|NA|"
+    "EventLabel": "TRE|NA|5thAnnivMarGinette|ALL|NA|"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-clarksmarch-women.jpg",
-    "Exit Url": "/women/clarks",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-patagonia-women.jpg",
+    "Exit Url": "/women/patagonia",
     "Headline": "Women NCU1",
-    "Subline": "Clarks",
-    "EventLabel": "NewA|WS|wsclarksss17|ALL|NA|ZAP"
+    "Subline": "Patagonia",
+    "EventLabel": "BRA|WSP-WC|wsp1wcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "wn2",
@@ -373,31 +373,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-zaloraanniv-men.jpg",
-    "Exit Url": "/men/zalora-anniversary",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/MOBILEWEB_HERO_600x600-patagonia-men.jpg",
+    "Exit Url": "/men/patagonia",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
+    "EventLabel": "BRA|MSP-MC|msp1mcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-shoesunder80-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan80&price=1-80",
+    "Exit Url": "/men/zalora-anniversary",
     "Headline": "Men NCU1",
-    "Subline": "Shoes Under $80",
-    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs|"
+    "Subline": "#ZALORAICONS",
+    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-polostees17-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-clarksmarch-men.jpg",
+    "Exit Url": "/men/clarks",
     "Headline": "Men NCU2",
-    "Subline": "Polos & Tees",
-    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA|"
+    "Subline": "Clarks",
+    "EventLabel": "NewA|MS|msclarksss17|ALL|NA|ZAP"
   },
   {
     "Placement": "mc1",
