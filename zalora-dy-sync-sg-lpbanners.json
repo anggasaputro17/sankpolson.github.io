@@ -1447,5 +1447,12 @@
     "Name": "Patagonia",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-patagonia-men.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b4265",
+    "Gender": "women",
+    "Name": "Tokichoi",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-tokichoi-women.jpg",
+    "Copy": "NA"
   }
 ]
