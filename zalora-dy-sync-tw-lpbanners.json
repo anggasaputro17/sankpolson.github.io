@@ -129,14 +129,14 @@
     "System ID": "b2011",
     "Gender": "men",
     "Name": "Topman",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250-topmanfeb.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/LP_996x250-topmanfeb-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b",
     "Gender": "unisex",
     "Name": "Topman",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250-topmanfeb.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/LP_996x250-topmanfeb-men.jpg",
     "Copy": "NA"
   },
   {
@@ -493,7 +493,7 @@
     "System ID": "b1521",
     "Gender": "men",
     "Name": "River Island",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_men_river_island.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/Brands/Men_LP_996x250-riverislandsept.jpg",
     "Copy": "NA"
   },
   {
@@ -584,7 +584,7 @@
     "System ID": "b1521",
     "Gender": "women",
     "Name": "River Island",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/StaticPages/LP_996x250riverisalndv2.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/Brands/Women_LP_996x250-riverislandsept.jpg",
     "Copy": "NA"
   },
   {
@@ -1089,6 +1089,34 @@
     "Gender": "unisex",
     "Name": "sigma",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_sigma_0320.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "something borrowed",
+    "Image": "https://static-sg.zacdn.com/cms/Brands/LP_996x250-somethingborrowedsept.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "new balance",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_men_NB_0320.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "new balance",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_women_NB_0320.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "new balance",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_men_NB_0320.jpg",
     "Copy": "NA"
   }
 ]
