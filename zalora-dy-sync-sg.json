@@ -23,61 +23,61 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-safari-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
-    "Headline": "Safari Traveller",
-    "Subline": "Awaken your senses with a selection of desert tones and safari accents.",
-    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-workwear-women.jpg",
+    "Exit Url": "/women/trends/office-wear/?getSKU=D6C54AA93236B8GS",
+    "Headline": "Workwear Extraordinaire",
+    "Subline": "Switch up your style and be the wonder of the workplace today.",
+    "EventLabel": "TRE|Women|marchworkwear|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-rplpricebucket-women.jpg",
-    "Exit Url": "/women/all-products/?sort=popularity&price=1-39.99",
-    "Headline": "Spring Steals Below $40",
-    "Subline": "Get a whole lot more out of your next shopping spree.",
-    "EventLabel": "SAL|Women|wpricepointMar|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-rusticdelicacy-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=rusticdelicacy",
+    "Headline": "Rustic Charm",
+    "Subline": "Classic colours meet bold styles in this country-inspired mix.",
+    "EventLabel": "TRE|Women|RusticDelicacy|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-sunglasses-women.jpg",
-    "Exit Url": "/women/accessories/sunglasses/",
-    "Headline": "Finding The Right Shades",
-    "Subline": "Sunglasses that open your eyes to a whole new world.",
-    "EventLabel": "CAT|WA|EyewearPushMarch2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-spendandsave-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=spendandsave",
+    "Headline": "Reward Yourself",
+    "Subline": "Spend $100, get 20% off (code GET20).Spend $150, get 30% off (code GET30).",
+    "EventLabel": "SAL|NA|womenspendandsave|ALL|NA|"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-beautyspotlight-women.jpg",
-    "Exit Url": "/women/beauty/new-products/",
-    "Headline": "Beauty Spotlight",
-    "Subline": "Spring's latest makeup palettes and more, from the brands you'll love.",
-    "EventLabel": "CAT|WBE|BeautyNewAMarch2017|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-sneakersbackpacks-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sneakersbackpacks",
+    "Headline": "Exploration Essentials",
+    "Subline": "Fresh sneakers and sturdy backpacks to start your next adventure.",
+    "EventLabel": "CAT|WA|sneakersandbackpacks|ALL|NA|"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-croptops-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=StreetStyleCropTop",
-    "Headline": "STREET STYLE HIGHLIGHTS",
-    "Subline": "Get the latest on the crop top craze that's been heating up fashion weeks.",
-    "EventLabel": "TRE|Women|StreetStyleCropTops|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-marcheditorspick-women.jpg",
+    "Exit Url": "/women/all-products/marcheditorspick",
+    "Headline": "Editor's Picks",
+    "Subline": "Spring into action with this month’s fashion highlights.",
+    "EventLabel": "TRE|NA|March17EditorPick|ALL|NA|"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-aldomarch-women.jpg",
-    "Exit Url": "/women/aldo/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-calvinkleinmarch-women.jpg",
+    "Exit Url": "/calvin-klein-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WS|aldomar|ALL|NA"
+    "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein"
   },
   {
     "Placement": "wfb2",
@@ -93,6 +93,26 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-dorina-women.jpg",
+    "Exit Url": "/women/dorina",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wcdorinass17|ALL|NA|dorina"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-sigma-women.jpg",
+    "Exit Url": "/women/sigma",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WBE|wbesigmass17|ALL|NA|sigma"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-underarmourmarch-women.jpg",
     "Exit Url": "/under-armour-shop/",
     "Headline": "NA",
@@ -100,34 +120,14 @@
     "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
   },
   {
-    "Placement": "wfb4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-warehousemarch-women.jpg",
-    "Exit Url": "/warehouse-shop/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|WC|wwarehousexmas|ALL|NA|warehouse"
-  },
-  {
-    "Placement": "wfb5",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-zaloramarch-women.jpg",
-    "Exit Url": "/women/zalora/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|NA|zaloramar|ALL|NA"
-  },
-  {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-sulwhasoomarch-women.jpg",
-    "Exit Url": "/sulwhasoo-shop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1_322x165-fossil-women.jpg",
+    "Exit Url": "/women/fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WBE|wbesulwhasooss17|ALL|NA|sulwhasoo-shop"
+    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
   },
   {
     "Placement": "wc1",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-natho-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-trailblazer-men.jpg",
     "Exit Url": "/men/zalora-anniversary",
     "Headline": "#ZALORAICONS",
-    "Subline": "Actor/singer Nat Ho shows how he stays one step ahead of the fashion game.",
-    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
+    "Subline": "Darren Ho of AUGUSTMAN pairs timeless ensembles for our 5th Anniversary.",
+    "EventLabel": "TRE|Men|5thAnnivMarDarren|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -213,6 +213,46 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-topman-men.jpg",
+    "Exit Url": "/topman-singapore",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-nike-men.jpg",
+    "Exit Url": "/men/nike-singapore/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NewA|MSP|mnewarrivalsnikeaw16|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-earnshaw-men.jpg",
+    "Exit Url": "/men/thomas-earnshaw/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MW-WW|mw1wwthomasearnshawss17|ALL|NA|thomas-earnshaw"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-callitspring-men.jpg",
+    "Exit Url": "/men/call-it-spring",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NewA|MS|callitspring|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-underarmourmarch-men.jpg",
     "Exit Url": "/under-armour-shop/?from=men",
     "Headline": "NA",
@@ -220,64 +260,24 @@
     "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
   },
   {
-    "Placement": "mfb2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1_322x165-herschelmarch-men.jpg",
-    "Exit Url": "/men/herschel",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MB-MA-MA|mb1ma1maherschelss17|ALL|NA"
-  },
-  {
-    "Placement": "mfb3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-espritmarch-men.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MC|esprit|ALL|NA"
-  },
-  {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-jackjonesmarch-men.jpg",
-    "Exit Url": "/men/jack-jones/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MC|jackandjonesmar|ALL|NA"
-  },
-  {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-riverislandmarch-men.jpg",
-    "Exit Url": "/river-island-singapore/?from=men",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MC|riverislandmar|ALL|NA"
-  },
-  {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-cottononmarch-men.jpg",
-    "Exit Url": "/cotton-on-shop/?from=men",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-riverisland-men.jpg",
+    "Exit Url": "/river-island-singapore/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC|cottononmar|ALL|NA"
+    "EventLabel": "BRA|Men|riverislandss17|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-shirtsmarch-men.jpg",
-    "Exit Url": "/men/clothing/shirts/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-sneakers-men.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls",
     "Headline": "NA",
-    "Subline": "Shop Shirts >",
-    "EventLabel": "SUB|MC|shirtsmen|ALL|NA"
+    "Subline": "Shop Sneakers >",
+    "EventLabel": "CAT|MC|sneakersmen|ALL|NA"
   },
   {
     "Placement": "mc2",
@@ -287,27 +287,27 @@
     "Exit Url": "/men/clothing/pants/",
     "Headline": "NA",
     "Subline": "Shop Pants >",
-    "EventLabel": "SUB|MC|pantsmen|ALL|NA"
+    "EventLabel": "CAT|MC|pantsmen|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C3_375x500-tshirtsmarch-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C3_375x500-sports-men.jpg",
+    "Exit Url": "/men/sports/",
     "Headline": "NA",
-    "Subline": "Shop T-Shirts >",
-    "EventLabel": "SUB|MC|tshirtsmen|ALL|NA"
+    "Subline": "Shop Sports >",
+    "EventLabel": "CAT|MSP|sportsmen|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-sportsmarch-men.jpg",
-    "Exit Url": "/men/sports/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-grooming-men.jpg",
+    "Exit Url": "/men/grooming",
     "Headline": "NA",
-    "Subline": "Shop Sports >",
-    "EventLabel": "SUB|MSP|sportsmen|ALL|NA"
+    "Subline": "Shop Grooming >",
+    "EventLabel": "CAT|MBE|groomingmen|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -343,18 +343,18 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-safari-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-workwear-women.jpg",
+    "Exit Url": "/women/trends/office-wear/?getSKU=D6C54AA93236B8GS",
     "Headline": "Women NCU2",
-    "Subline": "Safari Traveller",
-    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
+    "Subline": "Workwear Extraordinaire",
+    "EventLabel": "TRE|Women|marchworkwear|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-topsmarch-women.jpg",
-    "Exit Url": "",
+    "Exit Url": "/women/clothing/fashion-tops/",
     "Headline": "Women C1",
     "Subline": "Tops",
     "EventLabel": "SUB|WC|topsmarch|ALL|NA"
@@ -383,11 +383,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-shoesunder80-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N2_NEWARRIVALS_620x420-trailblazer-men.jpg",
     "Exit Url": "/men/zalora-anniversary",
     "Headline": "Men NCU1",
     "Subline": "#ZALORAICONS",
-    "EventLabel": "TRE|Men|5thAnnivMar|ALL|NA"
+    "EventLabel": "TRE|Men|5thAnnivMarDarren|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -403,21 +403,21 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-shirtsmarch-men.jpg",
-    "Exit Url": "/men/clothing/shirts/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-sneakers-men.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls",
     "Headline": "Men C1",
-    "Subline": "Shirts",
-    "EventLabel": "SUB|MC|shirtsmen|ALL|NA"
+    "Subline": "Sneakers",
+    "EventLabel": "CAT|MS|sneakersmen|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-tshirtsmarch-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-sportsmarch-men.jpg",
+    "Exit Url": "/men/sports/",
     "Headline": "Men C2",
-    "Subline": "T-Shirts",
-    "EventLabel": "SUB|MC|tshirtsmen|ALL|NA"
+    "Subline": "Sports",
+    "EventLabel": "CAT|MSP|sportsmen|ALL|NA"
   },
   {
     "Placement": "uh1",
