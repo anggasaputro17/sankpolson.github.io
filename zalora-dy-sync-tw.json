@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_women_0310.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_kwen_0317.jpg",
     "Exit Url": "/women/zalora-anniversary/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|5thAnniTequlia|ALL|NA"
+    "EventLabel": "THE|NA|5thAnniKwen|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,111 +23,111 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_safari_0310.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=safarianddesert",
-    "Headline": "曠野旅行者",
-    "Subline": "野外風格和自然元素 喚醒渴望自由的心",
-    "EventLabel": "TRE|Women|SafariTravellerandDesertMystic|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_workwear_0317.jpg",
+    "Exit Url": "/women/office-wear/?getSKU=D6C54AA93236B8GS",
+    "Headline": "職場新女性",
+    "Subline": "改變穿搭風格 全新魅力鎮壓職場",
+    "EventLabel": "TRE|Women|marchworkwear|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/CU1_NEWARRIVALS_620x420_under900_0310.jpg",
-    "Exit Url": "/women/all-products/?sort=popularity&price=1-899.99",
-    "Headline": "春季服飾低於NT$900",
-    "Subline": "不容錯過的購物狂歡時刻",
-    "EventLabel": "SAL|Women|wpricepointMar|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_rustic_delicacy_0317.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=rusticdelicacy",
+    "Headline": "復古魅力",
+    "Subline": "仿舊色調遇上大膽風格 完美演繹混搭造型",
+    "EventLabel": "TRE|Women|RusticDelicacy|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sunglasses_0310.jpg",
-    "Exit Url": "/women/accessories/sunglasses/",
-    "Headline": "首選百搭墨鏡",
-    "Subline": "開拓時尚新視野",
-    "EventLabel": "CAT|WA|EyewearPushMarch2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/CU2_NEWARRIVALS_360x420_spend_and_save.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=spendandsave",
+    "Headline": "獎勵自己",
+    "Subline": "買滿NT$1500享8折優惠 (優惠碼:GET20)<br>\n買滿NT$2500享7折優惠(優惠碼:GET30)",
+    "EventLabel": "SAL|NA|womenspendandsave|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_beauty_0313.jpg",
-    "Exit Url": "/women/beauty/",
-    "Headline": "美麗新焦點",
-    "Subline": "春季新品塑造春日迷人妝容",
-    "EventLabel": "CAT|WBE|BeautyNewAMarch2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sneakers_backpack.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sneakersbackpacks",
+    "Headline": "城市冒險",
+    "Subline": "百搭運動鞋與實用背包 展開下次的冒險之旅",
+    "EventLabel": "CAT|WA|sneakersandbackpacks|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_croptop.jpg",
-    "Exit Url": "women/all-products/?cmpgn_one=StreetStyleCropTop",
-    "Headline": "街頭風時尚焦點",
-    "Subline": "短版上衣狂卷今季時裝熱潮",
-    "EventLabel": "TRE|Women|StreetStyleCropTops|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_march_editor_0317.jpg",
+    "Exit Url": "/women/all-products/marcheditorspick",
+    "Headline": "編輯精選",
+    "Subline": "本月時尚新品 以全新姿態迎接春天",
+    "EventLabel": "TRE|NA|March17EditorPick|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/Desktop_Aldo_w_B1_6_322x165.jpg",
-    "Exit Url": "/women/aldo/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_38_ck_0317.jpg",
+    "Exit Url": "/women/calvin-klein/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WA|aldo|ALL|NA"
+    "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_b1_6.jpg",
-    "Exit Url": "/women/sisley/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_36_sb_0317.jpg",
+    "Exit Url": "/women/something-borrowed/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcsisleyss17|ALL|NA|sisley"
+    "EventLabel": "THE|WC|somethingborrowedcollection|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_DP_0310.jpg",
-    "Exit Url": "/dorothy-perkins-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_dorina_0317.jpg",
+    "Exit Url": "/women/dorina",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|dorothyperkin17|ALL|NA"
+    "EventLabel": "BRA|WC|wcdorinass17|ALL|NA|dorina"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_19_benetton.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_34_sigma_0317.jpg",
+    "Exit Url": "/women/sigma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcbenettonss17|ALL|NA|united-colours-of-benetton"
+    "EventLabel": "BRA|WBE|wbesigmass17|ALL|NA|sigma"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_13_warehouse.jpg",
-    "Exit Url": "/warehouse-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/IVYPARK_B1_6_322x165_ivy_park_0317.jpg",
+    "Exit Url": "/women/ivy-park/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|warehouse|ALL|NA"
+    "EventLabel": "BRA|WSP|wspivyparkss17|ALL|NA|ivy-park"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_21-zalora.jpg",
-    "Exit Url": "/women/zalora",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_322x165_1_fossil_0317.jpg",
+    "Exit Url": "/women/fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|zalora|ALL|NA"
+    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
   },
   {
     "Placement": "wc1",
@@ -143,11 +143,11 @@
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_top_0309.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_flats_0317.jpg",
+    "Exit Url": "/women/shoes/flats/",
     "Headline": "NA",
-    "Subline": "上衣 &gt;",
-    "EventLabel": "NewA|NA|wtops17|ALL"
+    "Subline": "平底鞋 &gt;",
+    "EventLabel": "NewA|NA|wflats17|ALL"
   },
   {
     "Placement": "wc3",
@@ -163,16 +163,6 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_boots_0309.jpg",
-    "Exit Url": "/women/shoes/boots/",
-    "Headline": "NA",
-    "Subline": "靴子 &gt;",
-    "EventLabel": "NewA|NA|wboots17|ALL"
-  },
-  {
-    "Placement": "wc5",
-    "Gender": "women",
-    "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_bags_0309.jpg",
     "Exit Url": "/women/bags/",
     "Headline": "NA",
@@ -180,10 +170,20 @@
     "EventLabel": "NewA|NA|wbags17|ALL"
   },
   {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_acc_0317.jpg",
+    "Exit Url": "/women/accessories/",
+    "Headline": "NA",
+    "Subline": "飾品配件 &gt;",
+    "EventLabel": "NewA|NA|wacc17|ALL"
+  },
+  {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/marchfp/SEGMENT_HERO_996-500-patagonia-men.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_patagonia_men.jpg",
     "Exit Url": "/men/patagonia/",
     "Headline": "NA",
     "Subline": "NA",
@@ -193,74 +193,64 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_shoes1500.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=shoesforlessthan1500&price=1-1500",
-    "Headline": "時尚鞋款低於 $1,500",
-    "Subline": "立即以優惠價格購入潮流鞋款！",
-    "EventLabel": "SAL|MS-|menshoesunder80|ALL|maxs"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_monochrome_0317.jpg",
+    "Exit Url": "/men/monochrome/",
+    "Headline": "反轉黑白勢力",
+    "Subline": "時尚忠誠 簡單俐落",
+    "EventLabel": "TRE|Men|Monocrome|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_shirtnpolo.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=polosandtees17",
-    "Headline": "Polo衫& T恤",
-    "Subline": "基本款上衣回歸簡約潮流",
-    "EventLabel": "CAT|MC|PolosandTeesMarch2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_ck0318.jpg",
+    "Exit Url": "/calvin-klein-shop/?from=men",
+    "Headline": "Calvin Klein",
+    "Subline": "打造全新造型 立即購入時尚界潮牌單品",
+    "EventLabel": "BRA|MC|mcalvinkleinss17|ALL|NA|calvin-klein"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_20.jpg",
-    "Exit Url": "/burton-menswear-london/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_topman_0319.jpg",
+    "Exit Url": "/topman-taiwan/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|burtonmenswear|ALL|NA"
+    "EventLabel": "BRA|NA|topman|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-herschel.jpg",
-    "Exit Url": "/men/herschel/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_newbalance_0319.jpg",
+    "Exit Url": "/men/new-balance/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|herschel|ALL|NA"
+    "EventLabel": "BRA|NA|newbalance|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_19_benetton.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_earnshaw_0318.jpg",
+    "Exit Url": "/men/thomas-earnshaw/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|wcbenettonss17|ALL|NA|united-colours-of-benetton"
+    "EventLabel": "BRA|MW-WW|mw1wwthomasearnshawss17|ALL|NA|thomas-earnshaw"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_b1_6.jpg",
-    "Exit Url": "/men/sisley/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_callit_0318.jpg",
+    "Exit Url": "/men/call-it-spring/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|wcsisleyss17|ALL|NA|sisley"
+    "EventLabel": "NewA|MS|callitspring|ALL|NA"
   },
   {
     "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-river-island.jpg",
-    "Exit Url": "/river-island-taiwan/?from=men",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|NA|riverisland|ALL|NA"
-  },
-  {
-    "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/B1_6_322x165_16.jpg",
@@ -270,14 +260,24 @@
     "EventLabel": "BRA|NA|cottonon|ALL|NA"
   },
   {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/fpseason/B1-6_322x165-river-island.jpg",
+    "Exit Url": "/river-island-taiwan/?from=men",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|NA|riverisland|ALL|NA"
+  },
+  {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_shirts_men.jpg",
-    "Exit Url": "/men/clothing/shirts/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_0318.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/",
     "Headline": "NA",
-    "Subline": "襯衫 &gt;",
-    "EventLabel": "NewA|NA|mshirts17|ALL|NA"
+    "Subline": "休閒鞋 &gt;",
+    "EventLabel": "NewA|NA|msneakers17|ALL|NA"
   },
   {
     "Placement": "mc2",
@@ -293,14 +293,24 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C3_DesktopOnly_300x500_jacket_men.jpg",
-    "Exit Url": "/men/clothing/jackets-and-coats/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C3_DesktopOnly_300x500_0318.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/",
     "Headline": "NA",
-    "Subline": "休閒外套 &gt;",
-    "EventLabel": "NewA|NA|mjacket17|ALL|NA"
+    "Subline": "連帽上衣及運動衫 &gt;",
+    "EventLabel": "NewA|NA|mhoodies17|ALL|NA"
   },
   {
     "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_0318watch.jpg",
+    "Exit Url": "/men/watch/",
+    "Headline": "NA",
+    "Subline": "手錶 &gt;",
+    "EventLabel": "NewA|NA|mwatches17|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_backpack_men.jpg",
@@ -308,16 +318,6 @@
     "Headline": "NA",
     "Subline": "後背包 &gt;",
     "EventLabel": "NewA|NA|mbackpacks17|ALL|NA"
-  },
-  {
-    "Placement": "mc5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_boot_men.jpg",
-    "Exit Url": "/men/shoes/boots/",
-    "Headline": "NA",
-    "Subline": "靴子 &gt;",
-    "EventLabel": "NewA|NA|mboots17|ALL|NA"
   },
   {
     "Placement": "uh1",
