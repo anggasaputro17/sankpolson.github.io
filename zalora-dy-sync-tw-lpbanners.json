@@ -1030,16 +1030,9 @@
   },
   {
     "System ID": "b",
-    "Gender": "women",
-    "Name": "warehouse",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b",
     "Gender": "unisex",
     "Name": "warehosue",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/Evergage/LP_996x250_women_warehouse_0212.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_warehouse_0320.jpg",
     "Copy": "NA"
   },
   {
