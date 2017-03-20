@@ -367,7 +367,7 @@
     "System ID": "b2021",
     "Gender": "men",
     "Name": "Call it spring",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_callitspring1103.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_callitspring_0318.jpg",
     "Copy": "NA"
   },
   {
@@ -381,7 +381,7 @@
     "System ID": "b2021",
     "Gender": "unisex",
     "Name": "Call it spring",
-    "Image": "http://zalora-media-live-tw.s3.amazonaws.com/cms/brands/LP_996x250_callitspring1103.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_callitspring_0318.jpg",
     "Copy": "NA"
   },
   {
@@ -1061,6 +1061,20 @@
     "Gender": "men",
     "Name": "sunnies studios",
     "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_MEN_LPBANNER_0911.png",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "earnshaw",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_earnshaw_0318.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "earnshaw",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_earnshaw_0318.jpg",
     "Copy": "NA"
   }
 ]
