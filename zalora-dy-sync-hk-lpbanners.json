@@ -1744,5 +1744,23 @@
     "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-bodyconbeauty-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /bodycon-dresses"
+  },
+  {
+    "Name": "Men Category: Jumpers and Cardigans",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-jumperlayergiovanni-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jumpers-and-cardigans"
+  },
+  {
+    "Name": "Men Category: Jumpers and Cardigans",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-jumperlayergiovanni-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jumpers-and-cardigans"
   }
 ]
