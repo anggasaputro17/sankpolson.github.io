@@ -185,14 +185,14 @@
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/brands/C5_300x198_top_0309.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-ballerinasflats200317.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/clothing/fashion-tops/",
-    "EventLabel": "sub|na|tops|all|na",
+    "ExitUrl": "/women/shoes/flats/",
+    "EventLabel": "sub|na|flats|all|na",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Tops >",
+    "ENSubline": "Shop Flats >",
     "ZHHeadline": "NA",
-    "ZHSubline": "選購上衣 >"
+    "ZHSubline": "選購平底鞋 >"
   },
   {
     "Placement": "wc3",
@@ -211,27 +211,27 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/brands/C5_300x198_boots_0309.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/brands/C5_300x198_bags_0309.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/shoes/boots/",
-    "EventLabel": "sub|na|boots|ALL|na",
+    "ExitUrl": "/women/bags/",
+    "EventLabel": "sub|na|bags|ALL|na",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Boots >",
+    "ENSubline": "Shop Bags >",
     "ZHHeadline": "NA",
-    "ZHSubline": "選購靴 >"
+    "ZHSubline": "選購袋 >"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/brands/C5_300x198_bags_0309.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-accessories200317.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/bags/",
-    "EventLabel": "sub|na|bags|all|na",
+    "ExitUrl": "/women/accessories/",
+    "EventLabel": "sub|wa|accessories|all|na",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Bags >",
+    "ENSubline": "Shop Accessories >",
     "ZHHeadline": "NA",
-    "ZHSubline": "選購袋 >"
+    "ZHSubline": "選購女裝飾物 >"
   },
   {
     "Placement": "mh1",
@@ -270,7 +270,7 @@
     "ENHeadline": "Calvin Klein",
     "ENSubline": "Get access to new looks from the fashion world’s leading brand.",
     "ZHHeadline": "Calvin Klein",
-    "ZHSubline": "彈性貼身剪裁 展現完美身型"
+    "ZHSubline": "現代風格x精緻剪裁 將潮流服飾重新定義"
   },
   {
     "Placement": "mfb1",
