@@ -399,6 +399,13 @@
     "Copy": "NA"
   },
   {
+    "System ID": "b221",
+    "Gender": "unisex",
+    "Name": "Calvin Klein",
+    "Image": "https://static-tw.zacdn.com/cms/brands/UNISEX_LP_996x250_ck_0321.jpg",
+    "Copy": "NA"
+  },
+  {
     "System ID": "b2122",
     "Gender": "men",
     "Name": "Solid",
@@ -493,7 +500,7 @@
     "System ID": "b1521",
     "Gender": "men",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/Men_LP_996x250-riverislandsept.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_rivermen_0321.jpg",
     "Copy": "NA"
   },
   {
@@ -584,7 +591,14 @@
     "System ID": "b1521",
     "Gender": "women",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/Women_LP_996x250-riverislandsept.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_riverwomen_0321.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1521",
+    "Gender": "unisex",
+    "Name": "River Island",
+    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250_riverisland_unisex_0321.jpg",
     "Copy": "NA"
   },
   {
@@ -974,9 +988,16 @@
   },
   {
     "System ID": "b",
+    "Gender": "women",
+    "Name": "Esprit",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_esprit_0321.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
     "Gender": "men",
     "Name": "Esprit",
-    "Image": "https://static-tw.zacdn.com/cms/LPBanners/LP_996x250_men_esprit_nov4.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_esprit_men_0321.jpg",
     "Copy": "NA"
   },
   {
@@ -1110,6 +1131,20 @@
     "Gender": "unisex",
     "Name": "new balance",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_men_NB_0320.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "avi 8",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_avi8_0321.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "life8",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Life8_LP_996X250_life8_0321.jpg",
     "Copy": "NA"
   }
 ]
