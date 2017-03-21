@@ -45,14 +45,14 @@
     "System ID": "b1400",
     "Gender": "men",
     "Name": "ESPRIT",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/LP_996x250-espritZAP-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-espritmar21-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1400",
     "Gender": "women",
     "Name": "ESPRIT",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-esprit-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-espritmar21-women.jpg",
     "Copy": "NA"
   },
   {
@@ -383,14 +383,7 @@
     "Name": "Perllini Mel",
     "Image": "https://static-sg.zacdn.com/cms/Brands/LP_996x250-perlliniandmelsept.jpg",
     "Copy": "NA"
-  },
-  {
-    "System ID": "b1923",
-    "Gender": "unisex",
-    "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/UNISEX_LP_996x250-riverislandsept.jpg",
-    "Copy": "NA"
-  },
+  },    
   {
     "System ID": "b1764",
     "Gender": "women",
@@ -458,14 +451,14 @@
     "System ID": "b1923",
     "Gender": "men",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/Men_LP_996x250-riverislandsept.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1923",
     "Gender": "women",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/Women_LP_996x250-riverislandsept.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21.jpg",
     "Copy": "NA"
   },
   {
@@ -486,14 +479,14 @@
     "System ID": "b2845",
     "Gender": "women",
     "Name": "Timberland",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250timber.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-timberlandmar21-women.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2845",
     "Gender": "men",
     "Name": "Timberland",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250timber.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-timberlandmar21-men.jpg",
     "Copy": "NA"
   },
   {
@@ -501,13 +494,6 @@
     "Gender": "women",
     "Name": "Rizalman Bridalwear For Zalora",
     "Image": "https://static-sg.zacdn.com/cms/Evergage/RizalmanBridal_LP996x250.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b221",
-    "Gender": "unisex",
-    "Name": "Calvin Klein",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250-unisexcalvinkleinnov.jpg",
     "Copy": "NA"
   },
   {
@@ -1095,14 +1081,14 @@
     "System ID": "b221",
     "Gender": "men",
     "Name": "Calvin Klein",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250-mencalvinkleinnov.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-ckmar21-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b221",
     "Gender": "women",
     "Name": "Calvin Klein",
-    "Image": "https://static-sg.zacdn.com/cms/brands/LP_996x250-womencalvinkleinnov.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-ckmar21-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1123,14 +1109,14 @@
     "System ID": "b137",
     "Gender": "men",
     "Name": "Superdry",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdry-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdrymar21-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b137",
     "Gender": "women",
     "Name": "Superdry",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdry-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-superdrymar21-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1453,6 +1439,20 @@
     "Gender": "women",
     "Name": "Tokichoi",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-tokichoi-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3598",
+    "Gender": "women",
+    "Name": "Guess Watches",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3598",
+    "Gender": "men",
+    "Name": "Guess Watches",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-men.jpg",
     "Copy": "NA"
   }
 ]
