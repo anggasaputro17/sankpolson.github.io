@@ -1,0 +1,132 @@
+[
+  {
+    "System ID": "b3169",
+    "Gender": "unisex",
+    "Name": "Seiko",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-seikomar21-unisex.jpg",
+    "Link 1": "/women/seiko",
+    "Link 2": "/men/seiko",
+    "Coordinate 1": "625,157,763,198",
+    "Coordinate 2": "793,157,931,198"
+  },
+  {
+    "System ID": "b3591",
+    "Gender": "unisex",
+    "Name": "Obaku",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-obakumar21-unisex.jpg",
+    "Link 1": "/women/obaku",
+    "Link 2": "/men/obaku",
+    "Coordinate 1": "623,183,761,224",
+    "Coordinate 2": "749,158,847,197"
+  },
+  {
+    "System ID": "b3179",
+    "Gender": "unisex",
+    "Name": "Guess Watches",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-unisex.jpg",
+    "Link 1": "/women/guess-watches",
+    "Link 2": "/men/guess-watches",
+    "Coordinate 1": "593,152,731,193",
+    "Coordinate 2": "774,152,912,193"
+  },
+  {
+    "System ID": "b3595",
+    "Gender": "unisex",
+    "Name": "Ellesse",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-ellessemar21-unisex.jpg",
+    "Link 1": "/women/ellesse",
+    "Link 2": "/men/ellesse",
+    "Coordinate 1": "609,159,747,201",
+    "Coordinate 2": "787,159,924,201"
+  },
+  {
+    "System ID": "b3599",
+    "Gender": "unisex",
+    "Name": "CYMA",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-cymamar21-unisex.jpg",
+    "Link 1": "/women/cyma",
+    "Link 2": "/men/cyma",
+    "Coordinate 1": "661,185,790,232",
+    "Coordinate 2": "808,185,910,232"
+  },
+  {
+    "System ID": "b3170",
+    "Gender": "unisex",
+    "Name": "Citizen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-citizenmar21-unisex.jpg",
+    "Link 1": "/women/citizen",
+    "Link 2": "/men/citizen",
+    "Coordinate 1": "525,154,663,195",
+    "Coordinate 2": "695,154,833,195"
+  },
+  {
+    "System ID": "b3594",
+    "Gender": "unisex",
+    "Name": "Alba",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-albamar21-unisex.jpg",
+    "Link 1": "/women/alba",
+    "Link 2": "/men/alba",
+    "Coordinate 1": "618,162,756,203",
+    "Coordinate 2": "791,162,927,203"
+  },
+  {
+    "System ID": "b221",
+    "Gender": "unisex",
+    "Name": "Calvin Klein",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-ckmar21-unisex.jpg",
+    "Link 1": "/women/calvin-klein",
+    "Link 2": "/men/calvin-klein",
+    "Coordinate 1": "0.0,498,250",
+    "Coordinate 2": "499,0,996,250"
+  },
+  {
+    "System ID": "b4025",
+    "Gender": "unisex",
+    "Name": "Sigma",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-sigmamar21-unisex.jpg",
+    "Link 1": "NA",
+    "Link 2": "NA",
+    "Coordinate 1": "NA",
+    "Coordinate 2": "NA"
+  },
+  {
+    "System ID": "b4283",
+    "Gender": "unisex",
+    "Name": "Life8",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-life8mar21-unisex.jpg",
+    "Link 1": "NA",
+    "Link 2": "NA",
+    "Coordinate 1": "NA",
+    "Coordinate 2": "NA"
+  },
+  {
+    "System ID": "b1985",
+    "Gender": "unisex",
+    "Name": "Thomas Earnshaw",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-earnshawmar21-unisex.jpg",
+    "Link 1": "NA",
+    "Link 2": "NA",
+    "Coordinate 1": "NA",
+    "Coordinate 2": "NA"
+  },
+  {
+    "System ID": "b1952",
+    "Gender": "unisex",
+    "Name": "Avi-8",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-avi8mar21-unisex.jpg",
+    "Link 1": "NA",
+    "Link 2": "NA",
+    "Coordinate 1": "NA",
+    "Coordinate 2": "NA"
+  },
+  {
+    "System ID": "b1923",
+    "Gender": "unisex",
+    "Name": "River Island",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21-unisex.jpg",
+    "Link 1": "NA",
+    "Link 2": "NA",
+    "Coordinate 1": "NA",
+    "Coordinate 2": "NA"
+  }
+]
