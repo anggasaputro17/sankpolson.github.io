@@ -451,14 +451,14 @@
     "System ID": "b1923",
     "Gender": "men",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1923",
     "Gender": "women",
     "Name": "River Island",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-riverislandmar21-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1439,20 +1439,6 @@
     "Gender": "women",
     "Name": "Tokichoi",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-tokichoi-women.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b3179",
-    "Gender": "women",
-    "Name": "Guess Watches",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-women.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b3179",
-    "Gender": "men",
-    "Name": "Guess Watches",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-men.jpg",
     "Copy": "NA"
   },
   {
