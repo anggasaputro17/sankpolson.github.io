@@ -1442,17 +1442,31 @@
     "Copy": "NA"
   },
   {
-    "System ID": "b3598",
+    "System ID": "b3179",
     "Gender": "women",
     "Name": "Guess Watches",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-women.jpg",
     "Copy": "NA"
   },
   {
-    "System ID": "b3598",
+    "System ID": "b3179",
     "Gender": "men",
     "Name": "Guess Watches",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-guessmar21-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3598",
+    "Gender": "women",
+    "Name": "Solvil et Titus",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-titusmar21-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3598",
+    "Gender": "men",
+    "Name": "Solvil et Titus",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-titusmar21-men.jpg",
     "Copy": "NA"
   }
 ]
