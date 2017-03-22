@@ -1762,5 +1762,95 @@
     "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-jumperlayergiovanni-hkzh.jpg",
     "Gender": "Men",
     "Notes": "contains /men & /jumpers-and-cardigans"
+  },
+  {
+    "Name": "Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-riverisland-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /river-island & does not contain /women or /men"
+  },
+  {
+    "Name": "Men Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-riverisland-men-mar17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /river-island & contains /men"
+  },
+  {
+    "Name": "Women Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-riverisland-women-mar17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /river-island & contains /women"
+  },
+  {
+    "Name": "Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-calvinklein-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /calvin-klein & does not contain /women or /men"
+  },
+  {
+    "Name": "Men Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-calvinklein-men-mar17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /calvin-klein & contains /men"
+  },
+  {
+    "Name": "Women Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-calvinklein-women-mar17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /calvin-klein & contains /women"
+  },
+  {
+    "Name": "Women Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-esprit-women-mar17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /esprit & contains /women"
+  },
+  {
+    "Name": "Men Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-esprit-men-mar17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /esprit & contains /men"
+  },
+  {
+    "Name": "Brand: Life8",
+    "System ID": "b3248",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-life8-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /life8"
+  },
+  {
+    "Name": "Brand: Thomas Earnshaw",
+    "System ID": "b1587",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-thomasearnshow-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /thomas-earnshaw"
   }
 ]
