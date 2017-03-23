@@ -55,14 +55,14 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchfp/CU2_NEWARRIVALS_360x420-spendandsave.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-wrapfrontclothing.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/all-products/?cmpgn_one=spendandsave",
-    "EventLabel": "SAL|Women|womenspendandsave|ALL|NA",
-    "ENHeadline": "Reward Yourself",
-    "ENSubline": "Spend $500, get 20% off (code GET20).Spend $700, get 30% off (code GET30)",
-    "ZHHeadline": "獎勵自己",
-    "ZHSubline": "買滿$500即享8折 (優惠碼GET20) 買滿$700即享7折 (優惠碼GET30)"
+    "ExitUrl": "/women/all-products/?cmpgn_one=wrapfrontclothing",
+    "EventLabel": "SUB-THE|WC|WrapFrontClothing|ALL|NA",
+    "ENHeadline": "The Front Wrap Edit",
+    "ENSubline": "Add a twist to your wardrobe with distinctive wrap-style detailing.",
+    "ZHHeadline": "時尚交疊",
+    "ZHSubline": "獨特裹疊細節 巧妙展現層次感"
   },
   {
     "Placement": "wcu3",
