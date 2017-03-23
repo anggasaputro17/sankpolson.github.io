@@ -43,11 +43,11 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/N1_NEWARRIVALS_360x420-spendandsave-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=spendandsave",
-    "Headline": "Reward Yourself",
-    "Subline": "Spend $100, get 20% off (code GET20).Spend $150, get 30% off (code GET30).",
-    "EventLabel": "SAL|NA|womenspendandsave|ALL|NA|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-wrapfront-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wrapfrontclothing",
+    "Headline": "The Front Wrap Edit",
+    "Subline": "Add a twist to your wardrobe with distinctive wrap-style detailing.",
+    "EventLabel": "CAT-TRE|WC|WrapFrontClothing|ALL|NA"
   },
   {
     "Placement": "wcu3",
