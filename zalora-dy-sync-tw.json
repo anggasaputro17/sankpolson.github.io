@@ -43,11 +43,11 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/CU2_NEWARRIVALS_360x420_spend_and_save.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=spendandsave",
-    "Headline": "獎勵自己",
-    "Subline": "買滿NT$1500享8折優惠 (優惠碼:GET20)<br>\n買滿NT$2500享7折優惠(優惠碼:GET30)",
-    "EventLabel": "SAL|NA|womenspendandsave|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_wrap_0323.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wrapfrontclothing",
+    "Headline": "時尚交疊",
+    "Subline": "獨特層次細節 體現時尚深度",
+    "EventLabel": "SUB-THE|WC|WrapFrontClothing|ALL|NA"
   },
   {
     "Placement": "wcu3",
