@@ -33,7 +33,7 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/special-price/?price=249-249",
     "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA",
-    "ENHeadline": "Fantastic Finds at $179 & $249",
+    "ENHeadline": "Fab Finds at $179 & $249",
     "ENSubline": "Wardrobe-worthy additions at unbeatable prices.",
     "ZHHeadline": "驚喜發現 只需$179或$249",
     "ZHSubline": "激安價格入手必買服飾"
@@ -46,7 +46,7 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/special-price/?cmpgn_one=topsandbottomssale&discount=1-50",
     "EventLabel": "SAL|Women|ss17msstopsandbottomsupto50off|ALL|NA",
-    "ENHeadline": "Tops & Bottoms Up to 50% Off",
+    "ENHeadline": "Style Picks Up To 50% Off",
     "ENSubline": "Complete your desired look with these wardrobe staples.",
     "ZHHeadline": "上衣與下裝 低至5折",
     "ZHSubline": "精選減價服飾 完美造型不費力氣"
@@ -59,7 +59,7 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/special-price/?cmpgn_one=mssheelsandwedges&discount=1-50",
     "EventLabel": "SAL|Women|ss17mssheelsandwedges50off|ALL|NA",
-    "ENHeadline": "Heels & Wedges Up To 50% Off",
+    "ENHeadline": "Heels Up To 50% Off",
     "ENSubline": "Fashion-forward footwear to elevate your style.",
     "ZHHeadline": "高跟鞋與船跟鞋 低至5折",
     "ZHSubline": "讓妳走在時尚前線"
@@ -73,7 +73,7 @@
     "ExitUrl": "/women/accessories/eyewear/special-price/",
     "EventLabel": "SAL|Women|ss17msssunglassesupto45off|ALL|NA",
     "ENHeadline": "Sunglasses Up To 45% Off",
-    "ENSubline": "Trendy shades to complement your dazzling outfit.",
+    "ENSubline": "The ultimate summer shades to complement your outfit.",
     "ZHHeadline": "太陽眼鏡 低至6折",
     "ZHSubline": "潮人必備 點綴個性造型"
   },
@@ -86,7 +86,7 @@
     "ExitUrl": "/women/clothing/dresses/special-price/?discount=1-50",
     "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA",
     "ENHeadline": "Dresses Up To 50% Off",
-    "ENSubline": "Glam up for all occasions with our assortment of dresses.",
+    "ENSubline": "Shine at any occasion with our selection of standout dresses.",
     "ZHHeadline": "連身裙低至5折",
     "ZHSubline": "各款時尚連身裙 讓妳不同場合以最靚造型示人"
   },
@@ -237,8 +237,8 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/HERO-omnibusupto50off-hken.jpg",
-    "ZHImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/HERO-omnibusupto50off-hkzh.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/HERO-omnibusupto50off-hkzh.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/HERO-omnibusupto50off-hken.jpg",
     "ExitUrl": "/men/special-price/?cmpgn_one=omnibusupto50off&discount=1-50",
     "EventLabel": "SAL|Men|ss17mssomnibus50off|ALL|NA",
     "ENHeadline": "NA",
@@ -255,9 +255,9 @@
     "ExitUrl": "/men/esprit/special-price/",
     "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP",
     "ENHeadline": "ESPRIT",
-    "ENSubline": "MID SEASON SALE – <br> Enjoy Up to 60% Off!",
+    "ENSubline": "MID SEASON SALE – Enjoy Up to 60% Off!",
     "ZHHeadline": "ESPRIT",
-    "ZHSubline": "春季限時特惠 – <br> 低至4折!"
+    "ZHSubline": "春季限時特惠 - 低至4折!"
   },
   {
     "Placement": "mn2",
