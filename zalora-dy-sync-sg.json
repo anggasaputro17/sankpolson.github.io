@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-esprit-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
     "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
-    "Headline": "ESPRIT",
-    "Subline": "Classic shoes built with the finest craftsmanship and comfort.",
-    "EventLabel": "NewA|MS|msclarksss17|ALL|NA|ZAP"
+    "Headline": "Buy 2 Or More, Get 20% Off",
+    "Subline": "Enjoy greater savings when you buy more. On selected items only.",
+    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-clarksmarch-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
     "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
     "Headline": "Men NCU2",
-    "Subline": "Clarks",
-    "EventLabel": "NewA|MS|msclarksss17|ALL|NA|ZAP"
+    "Subline": "Buy 2 Or More, Get 20% Off",
+    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
   },
   {
     "Placement": "mc1",
