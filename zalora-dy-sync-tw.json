@@ -213,11 +213,11 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165-topman-men.jpg",
-    "Exit Url": "/men/topman/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-superdry-men.jpg",
+    "Exit Url": "/men/superdry/special-price",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "NewA|MC-MA-MS|mcmamssuperdry17|ALL|NA"
   },
   {
     "Placement": "mfb2",
