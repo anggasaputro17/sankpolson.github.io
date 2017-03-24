@@ -65,7 +65,7 @@
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_dressesup_0322.jpg",
     "Exit Url": "/women/dresses/special-price/?discount=1-50",
-    "Headline": "魅力洋裝低至5折",
+    "Headline": "魅力洋裝低至5折/ 4折",
     "Subline": "讓妳輕鬆閃耀各種場合",
     "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA"
   },
@@ -323,11 +323,11 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/HOMEPAGE-SPLASH-996x500-TW-birthday.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/HERO_ZH_0324_desktop.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "THE|NA|birthday2017|ALL|NA"
+    "EventLabel": "THE|NA|eossmarch2017|ALL|NA"
   },
   {
     "Placement": "ub1",
@@ -346,8 +346,8 @@
     "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_women2017.jpg",
     "Exit Url": "/women/clothing/new-products/",
     "Headline": "最新時尚造型",
-    "Subline": "開始新季時尚, 了解2017春季最新潮流趨勢。",
-    "EventLabel": "THE|WC|NewArrivals2017|ALL|NA"
+    "Subline": "開始新季時尚，了解2017春季最新潮流趨勢。",
+    "EventLabel": "THE|WC|NewArrival2017|ALL|NA"
   },
   {
     "Placement": "ub3",
