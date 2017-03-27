@@ -35,8 +35,8 @@
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-mid20new-women.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=20offvcmss",
-    "Headline": "Take 20% Off Now",
-    "Subline": "Use code MID20 and give yourself this well-deserved reward.",
+    "Headline": "Take Extra 20% Off Now",
+    "Subline": "Use code MID20 on our curated edit of sale picks. No minimum spend needed.",
     "EventLabel": "SAL|Women|ss17mss20offvcnominspend|ALL|NA"
   },
   {
@@ -433,30 +433,30 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-florals-hp-dsk.jpg",
-    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
-    "Headline": "Blossoming Splendour",
-    "Subline": "Floral prints to keep your wardrobe in bloom.",
-    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-buy2get20off-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
+    "Headline": "Buy 2 Or More, Get 20% Off",
+    "Subline": "Enjoy greater savings when you buy more. On selected items only.",
+    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/SEGMENT_HEADER_326x304-womenclothingna-unisex.jpg",
-    "Exit Url": "/women/clothing/new-products/",
-    "Headline": "New-In looks",
-    "Subline": "Get a head start to new season trends. Discover the latest for Spring 2017.",
-    "EventLabel": "THE|WC|newinlooksfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-pricepoint-women.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=39.9-39.9&dir=desc&category_id=",
+    "Headline": "Fab Finds at $29.90 & $39.90",
+    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
+    "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/SEGMENT_HEADER_326x304-menclothingna-unisex.jpg",
-    "Exit Url": "/men/clothing/new-products/",
-    "Headline": "Season Start",
-    "Subline": "Our latest collection to update your look.",
-    "EventLabel": "THE|MC|seasonstartfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-dressessale-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?discount=1-50",
+    "Headline": "Dresses Up To 50% Off",
+    "Subline": "Shine at any occasion with our selection of standout dresses.",
+    "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA"
   }
 ]
