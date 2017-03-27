@@ -1109,7 +1109,14 @@
     "System ID": "b",
     "Gender": "unisex",
     "Name": "something borrowed",
-    "Image": "https://static-sg.zacdn.com/cms/Brands/LP_996x250-somethingborrowedsept.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/something-borrowed_0327.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "something borrowed",
+    "Image": "https://static-tw.zacdn.com/cms/brands/something-borrowed_0327.jpg",
     "Copy": "NA"
   },
   {
