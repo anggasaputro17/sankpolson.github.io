@@ -1153,5 +1153,19 @@
     "Name": "life8",
     "Image": "https://static-tw.zacdn.com/cms/brands/Life8_LP_996X250_life8_0321.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Jaxon",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/JAXON-FEB17-LP.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Jaxon",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/JAXON-FEB17-LP.jpg",
+    "Copy": "NA"
   }
 ]
