@@ -1834,5 +1834,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-thomasearnshow-mar17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /thomas-earnshaw"
+  },
+  {
+    "Name": "Brand: Avi-8",
+    "System ID": "b1590",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-avi8-march2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /avi-8"
+  },
+  {
+    "Name": "Brand: Sigma",
+    "System ID": "b3137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sigma-march2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sigma"
   }
 ]
