@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HERO_996x500-Omnibus-unisex.jpg",
-    "Exit Url": "/women/special-price/?cmpgn_one=omnibusupto50off&discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HERO_996x500-zaliaraya-women.jpg",
+    "Exit Url": "/women/zalia-shop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|mssomnibus50off|ALL|NA"
+    "EventLabel": "BRA|WC-WA|ZaliaSingapore|ALL|NA|Zalia|"
   },
   {
     "Placement": "wn1",
@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-omnibus-unisex.jpg",
-    "Exit Url": "/women/special-price/?cmpgn_one=omnibusupto50off&discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-zaliaraya-women.jpg",
+    "Exit Url": "/women/zalia-shop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|mssomnibus50off|ALL|NA"
+    "EventLabel": "BRA|WC-WA|ZaliaSingapore|ALL|NA|Zalia|"
   },
   {
     "Placement": "wn1",
