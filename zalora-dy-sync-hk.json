@@ -562,39 +562,39 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-blossomingsplendour.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/SEGMENT_HEADER_326x304-buy2get20off.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/feature/floral/?getSKU=ST343AA42ITPMY",
+    "ExitUrl": "/men/all-products/?cmpgn_one=buy2get20off",
     "EventLabel": "NA",
-    "ENHeadline": "Blossoming Splendour",
-    "ENSubline": "Floral prints to keep your wardrobe in bloom.",
-    "ZHHeadline": "花開季節",
-    "ZHSubline": "讓花卉在身上燦爛盛放"
+    "ENHeadline": "Buy 2 Or More, Get 20% Off",
+    "ENSubline": "Enjoy greater savings when you buy more."
+    "ZHHeadline": "買2件或以上享8折優惠",
+    "ZHSubline": "買得多慳得多!"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-springsummer.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/SEGMENT_HEADER_326x304-womenppmss.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/clothing/new-products/",
+    "ExitUrl": "/women/special-price/?price=249-249",
     "EventLabel": "NA",
-    "ENHeadline": "New-In Looks",
-    "ENSubline": "Get a head start to new season trends. <br> Discover the latest for Spring 2017.",
-    "ZHHeadline": "全新造型",
-    "ZHSubline": "新一年新一季, <br> 是時候發掘2017春季新潮流!"
+    "ENHeadline": "Fab Finds at $179 & $249",
+    "ENSubline": "Wardrobe-worthy additions at unbeatable prices.",
+    "ZHHeadline": "驚喜發現 只需$179或$249",
+    "ZHSubline": "激安價格入手必買服飾"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-men-na.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/322x300-dresses-less-than-50off.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/clothing/new-products/",
+    "ExitUrl": "/women/clothing/dresses/special-price/",
     "EventLabel": "NA",
-    "ENHeadline": "SEASON START",
-    "ENSubline": "Our latest collection to update your look.",
-    "ZHHeadline": "全新春夏系列",
-    "ZHSubline": "時尚造型換季"
+    "ENHeadline": "Dresses Up To 50% Off",
+    "ENSubline": "Shine at any occasion with our selection of standout dresses.",
+    "ZHHeadline": "連身裙低至5折",
+    "ZHSubline": "各款時尚連身裙 讓妳不同場合以最靚造型示人"
   }
 ]
