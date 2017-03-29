@@ -242,14 +242,14 @@
 	"Placement": "mn2",
 	"Gender": "men",
 	"Device": "desktop",
-	"ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/Life8_N2_620X420.jpg",
+	"ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/N2_NEWARRIVALS_620x420-buy2get20off-men.jpg",
 	"ZHImageUrl": "NA",
-	"ExitUrl": "/men/life8/",
-	"EventLabel": "BRA|Men|life8ss17|ALL|NA",
-	"ENHeadline": "Life8",
-	"ENSubline": "",
-	"ZHHeadline": "Life8",
-	"ZHSubline": ""
+	"ExitUrl": "/men/all-products/?cmpgn_one=buy2get20off",
+	"EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA",
+	"ENHeadline": "Buy 2 Or More, Get 20% Off",
+	"ENSubline": "Enjoy greater savings when you buy more.",
+	"ZHHeadline": "買2件或以上享8折優惠",
+	"ZHSubline": "買得多慳得多!"
 }, {
 	"Placement": "mfb1",
 	"Gender": "men",
