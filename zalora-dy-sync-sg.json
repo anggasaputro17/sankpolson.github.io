@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
-    "Headline": "Men NCU2",
-    "Subline": "Buy 2 Or More, Get 20% Off",
-    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/marchmss2017/Life8_N2_620X420.jpg",
+    "Exit Url": "/men/life8/",
+    "Headline": "Life8",
+    "Subline": "Life8",
+    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
   },
   {
     "Placement": "mc1",
