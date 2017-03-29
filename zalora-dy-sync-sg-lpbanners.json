@@ -1454,5 +1454,19 @@
     "Name": "Solvil et Titus",
     "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/LP_996x250-titusmar21-men.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b1919",
+    "Gender": "women",
+    "Name": "ZALORA",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/LP_996x250-zaloramarch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b1919",
+    "Gender": "men",
+    "Name": "ZALORA",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/LP_996x250-zaloramarch-men.jpg",
+    "Copy": "NA"
   }
 ]
