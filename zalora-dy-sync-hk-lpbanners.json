@@ -729,6 +729,24 @@
     "Notes": "contains /zalora"
   },
   {
+    "Name": "Women Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/lpbanner_996x250-women-zalora-march2017.jpg",
+    "Gender": "Women",
+    "Notes": "contains /zalora & /women"
+  },
+  {
+    "Name": "Men Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/lpbanner_996x250-men-zalora-march2017.jpg",
+    "Gender": "Men",
+    "Notes": "contains /zalora & /men"
+  },
+  {
     "Name": "Brand: Ray Ban",
     "System ID": "b370",
     "Copy": "NA",
