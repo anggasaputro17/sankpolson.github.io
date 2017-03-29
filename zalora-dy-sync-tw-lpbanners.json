@@ -948,14 +948,14 @@
     "System ID": "b",
     "Gender": "women",
     "Name": "Lipsy",
-    "Image": "https://static-tw.zacdn.com/cms/brands/Zalora-996x250-lipsy.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LIPSY_LP_996x250_0329.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b",
     "Gender": "unisex",
     "Name": "Lipsy",
-    "Image": "https://static-tw.zacdn.com/cms/brands/Zalora-996x250-lipsy.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LIPSY_LP_996x250_0329.jpg",
     "Copy": "NA"
   },
   {
@@ -1058,16 +1058,16 @@
   },
   {
     "System ID": "b",
-    "Gender": "unisex",
+    "Gender": "men",
     "Name": "ray ban",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_ZH_rayban_0314.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/RB3561_A_996x250_men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b",
     "Gender": "women",
     "Name": "ray ban",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_ZH_rayban_0314.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/RB3592_A_996x250_women.jpg",
     "Copy": "NA"
   },
   {
@@ -1173,6 +1173,13 @@
     "Gender": "women",
     "Name": "wallis",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_wallis_0329.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "NICA",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_nica_women.jpg",
     "Copy": "NA"
   }
 ]
