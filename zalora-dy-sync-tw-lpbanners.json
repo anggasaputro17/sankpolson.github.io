@@ -409,14 +409,14 @@
     "System ID": "b2122",
     "Gender": "men",
     "Name": "Solid",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250isolid1103.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/solid_LP_996%20x%20250_0330.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2122",
     "Gender": "unisex",
     "Name": "Solid",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250isolid1103.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/solid_LP_996%20x%20250_0330.jpg",
     "Copy": "NA"
   },
   {
@@ -976,14 +976,14 @@
     "System ID": "b",
     "Gender": "women",
     "Name": "Nose",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/nose_LP_996x250_tw.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Nose-Brand-LP-nose_0330.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b",
     "Gender": "unisex",
     "Name": "Nose",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/nose_LP_996x250_tw.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Nose-Brand-LP-nose_0330.jpg",
     "Copy": "NA"
   },
   {
@@ -1180,6 +1180,41 @@
     "Gender": "women",
     "Name": "NICA",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_nica_women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Jaggad",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_Jagged_0330.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Jaggad",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_Jagged_0330.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Jaggad",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_Jagged_0330.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "sunnydaysweety",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_sunnydaysweety_0330.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "sunnydaysweety",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_sunnydaysweety_0330.jpg",
     "Copy": "NA"
   }
 ]
