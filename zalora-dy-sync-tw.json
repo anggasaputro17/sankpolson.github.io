@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_esprit_0322.jpg",
-    "Exit Url": "/women/esprit/",
-    "Headline": "ESPRIT",
-    "Subline": "春季限時優惠 – 低至4折!",
-    "EventLabel": "BRA|Women|esprit2ss17|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_20ffvc_0331.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=20offvcmss",
+    "Headline": "立即獲得8折優惠",
+    "Subline": "使用優惠編碼MID8盡享精彩優惠 僅限指定商品 無低消限制",
+    "EventLabel": "SAL|Women|ss17mss20offvcnominspend|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_espritmen_0322.jpg",
-    "Exit Url": "/men/esprit/",
-    "Headline": "ESPRIT",
-    "Subline": "春季限時優惠 – 低至4折!",
-    "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_0330_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?sort=popularity&price=199-549&dir=desc&category_id=4219",
+    "Headline": "T恤低於NT$550",
+    "Subline": "基本百搭T恤 簡單有型!",
+    "EventLabel": "SAL|Men|ss17mssshirtsforless|ALL|NA"
   },
   {
     "Placement": "mn2",
