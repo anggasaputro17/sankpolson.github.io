@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-esprit-women.jpg",
-    "Exit Url": "/women/esprit/",
-    "Headline": "ESPRIT",
-    "Subline": "MID SEASON SALE – Enjoy Up to 60% Off!",
-    "EventLabel": "BRA|Women|esprit2ss17|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-timberlandapr-women.jpg",
+    "Exit Url": "/women/timberland/",
+    "Headline": "TIMBERLAND",
+    "Subline": "MID SEASON SALE – Enjoy 15% off regular priced items",
+    "EventLabel": "BRA|Women|timberlandss17|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-esprit-men.jpg",
-    "Exit Url": "/men/esprit/",
-    "Headline": "ESPRIT",
-    "Subline": "MID SEASON SALE – Enjoy Up to 60% Off!",
-    "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-timberlandapr-men.jpg",
+    "Exit Url": "/men/timberland/",
+    "Headline": "TIMBERLAND",
+    "Subline": "MID SEASON SALE – Enjoy 15% off regular priced items",
+    "EventLabel": "BRA|Men|timberlandss17|ALL|ZAP"
   },
   {
     "Placement": "mn2",
