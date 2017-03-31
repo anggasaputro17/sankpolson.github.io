@@ -250,14 +250,14 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/N1_NEWARRIVALS_360x420-espritzap-men.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/N1_NEWARRIVALS_360x420-tshirtsbelow130.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/esprit/",
-    "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP",
-    "ENHeadline": "ESPRIT",
-    "ENSubline": "MID SEASON SALE – Enjoy Up to 60% Off!",
-    "ZHHeadline": "ESPRIT",
-    "ZHSubline": "春季限時特惠 - 低至4折!"
+    "ExitUrl": "/men/clothing/t-shirts/?price=39-129",
+    "EventLabel": "SAL|Men|ss17mssshirtsforless|ALL|NA",
+    "ENHeadline": "T-Shirts Below $130",
+    "ENSubline": "Make some space for these everyday tees.",
+    "ZHHeadline": "T恤低於$130",
+    "ZHSubline": "百搭T恤 你的造型必需品"
   },
   {
     "Placement": "mn2",
@@ -497,14 +497,14 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/N2_NEWARRIVALS_620x420-espritzap-men.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/N2_NEWARRIVALS_620x420-tshirtsbelow130.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/esprit/",
-    "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP",
-    "ENHeadline": "ESPRIT",
-    "ENSubline": "MID SEASON SALE<br> Enjoy Up to 60% Off!",
-    "ZHHeadline": "ESPRIT",
-    "ZHSubline": "春季限時特惠 <br> 低至4折!"
+    "ExitUrl": "/men/clothing/t-shirts/?price=39-129",
+    "EventLabel": "SAL|Men|ss17mssshirtsforless|ALL|NA",
+    "ENHeadline": "T-Shirts Below $130",
+    "ENSubline": "Make some space for these everyday tees.",
+    "ZHHeadline": "T恤低於$130",
+    "ZHSubline": "百搭T恤 你的造型必需品"
   },
   {
     "Placement": "mn2",
