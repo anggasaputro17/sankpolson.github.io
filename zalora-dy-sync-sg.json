@@ -23,111 +23,111 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-zaliaraya-women.jpg",
-    "Exit Url": "/women/zalia-shop/",
-    "Headline": "Zalia Hari Raya Collection",
-    "Subline": "Make this occasion an enchanted one with Zalia's latest exclusive selections.",
-    "EventLabel": "RET|Women|ZaliaRayaLaunch|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-pricepoint2-women.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=29.9-29.9",
+    "Headline": "Steals at $19.90 and $29.90",
+    "Subline": "Here's the perfect reason to splurge.",
+    "EventLabel": "sal0women0ss17mssallat290all0na"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-mid20new-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=20offvcmss",
-    "Headline": "Take Extra 20% Off Now",
-    "Subline": "Use code MID20 on our curated edit of sale picks. No minimum spend needed.",
-    "EventLabel": "SAL|Women|ss17mss20offvcnominspend|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-shoesandbags-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=mss2for20wshoesandbags",
+    "Headline": "Buy 2 or More, Get 20% Off",
+    "Subline": "For selected bags and shoes only.",
+    "EventLabel": "SAL|Women|ss17mss2for20offshoesandbags|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-heelsandwedges-women.jpg",
-    "Exit Url": "/women/special-price/?cmpgn_one=mssheelsandwedges&discount=1-50",
-    "Headline": "Heels Up To 50% Off",
-    "Subline": "Fashion-forward footwear to elevate your style.",
-    "EventLabel": "SAL|Women|ss17mssheelsandwedges50off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-lastsizesale-women.jpg",
+    "Exit Url": "/women/clothing/all-products/?cmpgn_one=msslastsizesale",
+    "Headline": "Last Size Sale",
+    "Subline": "Limited sizes left on selected styles.",
+    "EventLabel": "SAL|Women|ss17msslastsizeclearance|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-sunglasses-women.jpg",
-    "Exit Url": "/women/accessories/sunglasses/special-price/",
-    "Headline": "Sunglasses Up To 45% Off",
-    "Subline": "The ultimate summer shades to complement your outfit.",
-    "EventLabel": "SAL|Women|ss17msssunglassesupto45off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-dressesupto60-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?discount=1-60",
+    "Headline": "Dresses Up To 60% Off",
+    "Subline": "Shine at any occasion with our selection of standout dresses.",
+    "EventLabel": "SAL|Women|ss17mssdressesupto60off|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-dresses-women.jpg",
-    "Exit Url": "/women/dresses/special-price/?discount=1-50",
-    "Headline": "Dresses Up To 50% Off",
-    "Subline": "Shine at any occasion with our selection of standout dresses.",
-    "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-jovianraya-women.jpg",
+    "Exit Url": "/women/jovian-mandagie-for-zalora/",
+    "Headline": "JOVIAN MANDAGIE FOR ZALORA",
+    "Subline": "Shop the 'Savannah' Collection now!",
+    "EventLabel": "RET|Women|JovianRayaLaunch|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-zalora-women.jpg",
-    "Exit Url": "/women/special-price/zalora",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-velvetapr-women.jpg",
+    "Exit Url": "/women/velvet/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Women|VelvetSS17|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-topshop-women.jpg",
-    "Exit Url": "/women/topshop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-sbapr-women.jpg",
+    "Exit Url": "/women/something-borrowed/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
+    "EventLabel": "BRA|Women|SomethingBorrowedSS17|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-dorothyperkins-women.jpg",
-    "Exit Url": "/women/dorothy-perkins/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-rubiapr-women.jpg",
+    "Exit Url": "/women/rubi/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WC|wdorothyperkinsss17|ALL|NA|dorothy-perkins"
+    "EventLabel": "NA-BRA|WS|wrubiss17|ALL|NA|rubi"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-mango-women.jpg",
-    "Exit Url": "/women/special-price/mango",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-betsyapr-women.jpg",
+    "Exit Url": "/women/betsy/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC-WB-WS|wcwbwsmangoss17|ALL|NA"
+    "EventLabel": "NewA|WS|betsy|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-aldo-women.jpg",
-    "Exit Url": "/women/special-price/aldo",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-missselfridgeapr-women.jpg",
+    "Exit Url": "/women/miss-selfridge/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|wsaldoss17|ALL|NA|aldo"
+    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-rayban-women.jpg",
-    "Exit Url": "/women/ray-ban/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-topshopapr-women.jpg",
+    "Exit Url": "/women/topshop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|raybanss17|ALL|NA"
+    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -203,44 +203,64 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
-    "Headline": "Buy 2 Or More, Get 20% Off",
-    "Subline": "Enjoy greater savings when you buy more. On selected items only.",
-    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy3get30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy3get30off",
+    "Headline": "Buy 3 or More, Get 30% Off",
+    "Subline": "Spend less when you add more to your order.",
+    "EventLabel": "SAL|Men|ss17mssbuy3get30off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-topman-men.jpg",
-    "Exit Url": "/men/topman/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-zaloraapr-men.jpg",
+    "Exit Url": "/men/zalora/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-northface-men.jpg",
-    "Exit Url": "/men/the-north-face/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-pumaapr-men.jpg",
+    "Exit Url": "/men/puma/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MSP|mspthenorthfacelaunch|ALL|NA|the-north-face"
+    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-underarmour-men.jpg",
-    "Exit Url": "/men/under-armour/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-jackjonesapr-men.jpg",
+    "Exit Url": "/men/jack-jones/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|MSP|munderarmourss17|ALL|NA|under-armour"
+    "EventLabel": "NewA|MC|jackandjonesaug|ALL|NA"
   },
   {
     "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-superdryapr-men.jpg",
+    "Exit Url": "/men/superdry/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-converse-men.jpg",
+    "Exit Url": "/men/converse/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+  },
+  {
+    "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-nike-men.jpg",
@@ -250,30 +270,10 @@
     "EventLabel": "NewA|MSP|mnewarrivalsnikeaw16|ALL|NA"
   },
   {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-life8-men.jpg",
-    "Exit Url": "/men/life8/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
-  },
-  {
-    "Placement": "mfb6",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/B1-6_322x165-superdry-men.jpg",
-    "Exit Url": "/men/superdry/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
-  },
-  {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shirts-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shirtsapr-men.jpg",
     "Exit Url": "/men/clothing/shirts/special-price/?discount=1-50",
     "Headline": "NA",
     "Subline": "Shirts up to 50% Off >",
@@ -283,27 +283,27 @@
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shoes-men.jpg",
-    "Exit Url": "/men/shoes/special-price/?discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-hoodiesapr-men.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/special-price/?discount=1-50",
     "Headline": "NA",
-    "Subline": "Shoes up to 50% Off >",
-    "EventLabel": "RET-SAL|Men|ss17mssshoes|ALL|NA"
+    "Subline": "Hoodies up to 50% Off >",
+    "EventLabel": "RET-SAL|Men|ss17msshoodies|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C3_375x500-sports-men.jpg",
-    "Exit Url": "/men/sports/special-price/?discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C3_375x500-sneakers-men.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/special-price/?discount=1-50",
     "Headline": "NA",
-    "Subline": "Sports up to 40% Off >",
-    "EventLabel": "RET-SAL|Men|ss17msssports|ALL|NA"
+    "Subline": "Sneakers up to 50% Off >",
+    "EventLabel": "RET-SAL|Men|ss17msssneakers|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-pants-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-pantsapr-men.jpg",
     "Exit Url": "/men/clothing/pants/special-price/?discount=1-50",
     "Headline": "NA",
     "Subline": "Pants up to 50% Off >",
@@ -313,41 +313,41 @@
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shorts-men.jpg",
-    "Exit Url": "/men/clothing/shorts/special-price/?discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-tshirtsapr-men.jpg",
+    "Exit Url": "/men/clothing/tshirts/special-price/?discount=1-50",
     "Headline": "NA",
-    "Subline": "Shorts up to 50% Off >",
-    "EventLabel": "RET-SAL|Men|ss17mssshorts|ALL|NA"
+    "Subline": "T-Shirts up to 50% Off >",
+    "EventLabel": "RET-SAL|Men|ss17msstshirts|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-zaliaraya-women.jpg",
-    "Exit Url": "/women/zalia-shop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-omnibus70-unisex.jpg",
+    "Exit Url": "/women/special-price/?cmpgn_one=omnibusupto70off&discount=1-70",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC-WA|ZaliaSingapore|ALL|NA|Zalia|"
+    "EventLabel": "SAL|Women|mssomnibus70off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-esprit-women.jpg",
-    "Exit Url": "/women/esprit/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-timberlandapr-women.jpg",
+    "Exit Url": "/women/timberland/",
     "Headline": "Women NCU1",
-    "Subline": "ESPRIT",
-    "EventLabel": "BRA|Women|esprit2ss17|ALL|ZAP"
+    "Subline": "TIMBERLAND",
+    "EventLabel": "BRA|Women|timberlandss17|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-pricepoint-women.jpg",
-    "Exit Url": "/women/special-price/?sort=popularity&price=39.9-39.9",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-pricepoint2-women.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=29.9-29.9",
     "Headline": "Women NCU2",
-    "Subline": "Fab Finds at $29.90 & $39.90",
-    "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA"
+    "Subline": "Steals at $19.90 and $29.90",
+    "EventLabel": "SAL|Women|ss17msspricepointweek2|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -373,37 +373,37 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-omnibus-unisex.jpg",
-    "Exit Url": "/men/special-price/?cmpgn_one=omnibusupto50off&discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/MOBILEWEB_HERO_600x600-omnibus70-unisex.jpg",
+    "Exit Url": "/men/special-price/?cmpgn_one=omnibusupto70off&discount=1-70",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|ss17mssomnibus50off|ALL|NA"
+    "EventLabel": "SAL|Men|mssomnibus70off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-esprit-men.jpg",
-    "Exit Url": "/men/esprit/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-timberlandapr-men.jpg",
+    "Exit Url": "/men/timberland/",
     "Headline": "Men NCU1",
-    "Subline": "MID SEASON SALE – Enjoy Up to 60% Off!",
-    "EventLabel": "BRA|Men|esprit2ss17|ALL|ZAP"
+    "Subline": "TIMBERLAND",
+    "EventLabel": "BRA|Men|timberlandss17|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/marchmss2017/Life8_N2_620X420.jpg",
-    "Exit Url": "/men/life8/",
-    "Headline": "Life8",
-    "Subline": "Life8",
-    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-buy3get30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy3get30off",
+    "Headline": "Men NCU2",
+    "Subline": "Buy 3 or More, Get 30% Off",
+    "EventLabel": "SAL|Men|ss17mssbuy3get30off|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shirts-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-shirtsapr-men.jpg",
     "Exit Url": "/men/clothing/shirts/special-price/?discount=1-50",
     "Headline": "Men C1",
     "Subline": "Shirts",
@@ -413,17 +413,17 @@
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-sports-men.jpg",
-    "Exit Url": "/men/sports/special-price/?discount=1-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/C1245_300x198-sneakersapr-men.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/special-price/?discount=1-50",
     "Headline": "Men C2",
-    "Subline": "Sports",
-    "EventLabel": "RET-SAL|Men|ss17msssports|ALL|NA"
+    "Subline": "Sneakers",
+    "EventLabel": "RET-SAL|Men|ss17msssneakers|ALL|NA"
   },
   {
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HERO_996x500-Omnibus-unisex.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HERO_996x500-omnibus70-unisex.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -434,29 +434,29 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-buy2get20off-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
-    "Headline": "Buy 2 Or More, Get 20% Off",
-    "Subline": "Enjoy greater savings when you buy more. On selected items only.",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy3get30off",
+    "Headline": "Buy 3 or More, Get 30% Off",
+    "Subline": "Spend less when you add more to your order.",
     "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-pricepoint-women.jpg",
-    "Exit Url": "/women/special-price/?sort=popularity&price=39.9-39.9&dir=desc&category_id=",
-    "Headline": "Fab Finds at $29.90 & $39.90",
-    "Subline": "Wardrobe-worthy additions at unbeatable prices.",
-    "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-pricepointweek2.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=29.9-29.9&dir=desc&category_id=",
+    "Headline": "Steals at $19.90 and $29.90",
+    "Subline": "Here's the perfect reason to splurge.",
+    "EventLabel": "SAL|Women|ss17msspricepointweek2|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/MSS/SEGMENT_HEADER_326x304-dressessale-women.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?discount=1-50",
-    "Headline": "Dresses Up To 50% Off",
+    "Exit Url": "/women/clothing/dresses/special-price/?discount=1-60",
+    "Headline": "Dresses Up To 60% Off",
     "Subline": "Shine at any occasion with our selection of standout dresses.",
-    "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA"
+    "EventLabel": "SAL|Women|ss17mssdressesupto60off|ALL|NA"
   }
 ]
