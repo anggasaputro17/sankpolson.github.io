@@ -564,11 +564,11 @@
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/SEGMENT_HEADER_326x304-buy2get20off.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/all-products/?cmpgn_one=buy2get20off",
+    "ExitUrl": "/men/all-products/?cmpgn_one=buy3get30off",
     "EventLabel": "NA",
-    "ENHeadline": "Buy 2 Or More, Get 20% Off",
-    "ENSubline": "Enjoy greater savings when you buy more.",
-    "ZHHeadline": "買2件或以上享8折優惠",
+    "ENHeadline": "Buy 3 Or More, Get 30% Off",
+    "ENSubline": "Spend less when you add more to your order.",
+    "ZHHeadline": "買3件或以上享7折優惠",
     "ZHSubline": "買得多慳得多!"
   },
   {
@@ -577,12 +577,12 @@
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/marchmss2017/SEGMENT_HEADER_326x304-womenppmss.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/special-price/?price=249-249",
+    "ExitUrl": "/women/special-price/?price=179-179",
     "EventLabel": "NA",
-    "ENHeadline": "Fab Finds at $179 & $249",
+    "ENHeadline": "Fab Finds at 99 & 179",
     "ENSubline": "Wardrobe-worthy additions at unbeatable prices.",
-    "ZHHeadline": "驚喜發現 只需$179或$249",
-    "ZHSubline": "激安價格入手必買服飾"
+    "ZHHeadline": "驚喜發現 只需99或$179",
+    "ZHSubline": "讓你盡情購物的藉口"
   },
   {
     "Placement": "ub3",
@@ -592,9 +592,9 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/dresses/special-price/",
     "EventLabel": "NA",
-    "ENHeadline": "Dresses Up To 50% Off",
+    "ENHeadline": "Dresses Up To 60% Off",
     "ENSubline": "Shine at any occasion with our selection of standout dresses.",
-    "ZHHeadline": "連身裙低至5折",
+    "ZHHeadline": "連身裙低至4折",
     "ZHSubline": "各款時尚連身裙 讓妳不同場合以最靚造型示人"
   }
 ]
