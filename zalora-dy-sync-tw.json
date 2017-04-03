@@ -25,7 +25,7 @@
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_399n699.jpg",
     "Exit Url": "/women/special-price/?sort=popularity&price=699-699",
-    "Headline": "流行單品特惠 只需NT$399和NT$699 ",
+    "Headline": "流行單品特惠 只需NT$399和NT$699",
     "Subline": "盡情購物的完美藉口",
     "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA"
   },
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_0330_TSHIRT.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?sort=popularity&price=199-549&dir=desc&category_id=4219",
-    "Headline": "T恤低於NT$550",
-    "Subline": "基本百搭T恤 簡單有型!",
-    "EventLabel": "SAL|Men|ss17mssshirtsforless|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_everythingunder550_0403.jpg",
+    "Exit Url": "/men/all-products/?price=120-549.90",
+    "Headline": "必入手商品",
+    "Subline": "低於NT$550",
+    "EventLabel": "SAL|Men|ss17msspricepoint|ALL|NA"
   },
   {
     "Placement": "mn2",
