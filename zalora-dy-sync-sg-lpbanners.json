@@ -1468,5 +1468,19 @@
     "Name": "ZALORA",
     "Image": "https://static-sg.zacdn.com/cms/DY/MSS/LP_996x250-zaloramarch-men.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b370",
+    "Gender": "women",
+    "Name": "Ray-Ban",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/LP_996x250-rayban-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b370",
+    "Gender": "men",
+    "Name": "Ray-Ban",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/LP_996x250-rayban-men.jpg",
+    "Copy": "NA"
   }
 ]
