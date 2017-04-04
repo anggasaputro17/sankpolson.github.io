@@ -1,21 +1,30 @@
 [
   {
-    "Name": "Velvet Crush",
-    "System ID": "c4 s=velvet",
+    "Name": "Brand: Jaggad",
+    "System ID": "b3460",
     "Copy": "NA",
-    "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-EN.jpg",
-    "Gender": "Women",
-    "Notes": "contains /women & /clothing & s=velvet"
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-jaggad-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /jaggad"
   },
   {
-    "Name": "Velvet Crush",
-    "System ID": "c4 s=絲絨",
+    "Name": "Brand: Nica",
+    "System ID": "b3456",
     "Copy": "NA",
-    "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-velvetcrush-ZH.jpg",
-    "Gender": "Women",
-    "Notes": "contains /women & /clothing & s=velvet"
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-nica-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nica"
+  },
+  {
+    "Name": "Brand: Nose",
+    "System ID": "b463",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Nose-Brand-LP-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nose"
   },
   {
     "Name": "Flaunt Florals",
@@ -396,22 +405,22 @@
     "Notes": "contains /women/bags & /new-products"
   },
   {
-    "Name": "K-Fashion Update",
+    "Name": "Korean Fashion",
     "System ID": "c4669",
     "Copy": "NA",
     "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/marchmss2017/LP_996x250-koreanfashionmss-hken.jpg",
     "Gender": "Women",
-    "Notes": "contains /women/korean-fashion & /new-products"
+    "Notes": "contains /women/korean-fashion & /special-price"
   },
   {
-    "Name": "K-Fashion Update",
+    "Name": "Korean Fashion",
     "System ID": "c4669",
     "Copy": "NA",
     "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-korean-fashion-women-new-hken.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/marchmss2017/LP_996x250-koreanfashionmss-hkzh.jpg",
     "Gender": "Women",
-    "Notes": "contains /women/korean-fashion & /new-products"
+    "Notes": "contains /women/korean-fashion & /special-price"
   },
   {
     "Name": "Dressed to Chill",
@@ -463,7 +472,7 @@
     "System ID": "b971",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-lipsy-women-jan2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LIPSY-LP996x250-april2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /lipsy"
   },
@@ -697,8 +706,8 @@
     "System ID": "b2760",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_men_solid_nov4.jpg",
-    "Gender": "",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/isolid_LP_996x250-april2017.jpg",
+    "Gender": "Unisex",
     "Notes": "contains /-solid"
   },
   {
@@ -747,22 +756,22 @@
     "Notes": "contains /zalora & /men"
   },
   {
-    "Name": "Brand: Ray Ban",
+    "Name": "Women Brand: Ray Ban",
     "System ID": "b370",
     "Copy": "NA",
-    "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_EN.jpg",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/RB3561_A__996x250-rayban-women-april17.jpg",
     "Gender": "Unisex",
-    "Notes": "contains /ray-ban"
+    "Notes": "contains /ray-ban & /women"
   },
   {
-    "Name": "Brand: Ray Ban",
+    "Name": "Men Brand: Ray Ban",
     "System ID": "b370",
     "Copy": "NA",
-    "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_ZH.jpg",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/RB3561_A__996x250-rayban-men-april17.jpg",
     "Gender": "Unisex",
-    "Notes": "contains /ray-ban"
+    "Notes": "contains /ray-ban & /men"
   },
   {
     "Name": "Brand: Daniel Wellington",
