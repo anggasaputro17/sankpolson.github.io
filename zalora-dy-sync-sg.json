@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-timberlandapr-women.jpg",
-    "Exit Url": "/women/timberland/",
-    "Headline": "TIMBERLAND",
-    "Subline": "MID SEASON SALE – Enjoy 15% off regular priced items",
-    "EventLabel": "BRA|Women|timberlandss17|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N1_NEWARRIVALS_360x420-rayastatic-women.jpg",
+    "Exit Url": "/hari-raya-puasa/",
+    "Headline": "HARI RAYA 2017",
+    "Subline": "Shop the runway looks & more",
+    "EventLabel": "RET|Women|HariRayaStaticPageLaunch|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -333,11 +333,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-timberlandapr-women.jpg",
-    "Exit Url": "/women/timberland/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/MSS/N2_NEWARRIVALS_620x420-rayastatic-women.jpg",
+    "Exit Url": "/hari-raya-puasa/",
     "Headline": "Women NCU1",
-    "Subline": "TIMBERLAND",
-    "EventLabel": "BRA|Women|timberlandss17|ALL|ZAP"
+    "Subline": "HARI RAYA 2017",
+    "EventLabel": "RET|Women|HariRayaStaticPageLaunch|ALL|NA"
   },
   {
     "Placement": "wn2",
