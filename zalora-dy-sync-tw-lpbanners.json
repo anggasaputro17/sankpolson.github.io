@@ -1286,5 +1286,19 @@
     "Name": "Versace",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP__996x250_versace_0411.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Coach",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP__996x250_coach_0411.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Funfit",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x300_funfit_0411.jpg",
+    "Copy": "NA"
   }
 ]
