@@ -3,14 +3,14 @@
     "System ID": "b1572",
     "Gender": "women",
     "Name": "Dorothy Perkins",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250-dpfeb.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_DP_0411.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1572",
     "Gender": "unisex",
     "Name": "Dorothy Perkins",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250-dpfeb.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_DP_0411.jpg",
     "Copy": "NA"
   },
   {
@@ -339,14 +339,14 @@
     "System ID": "b1430",
     "Gender": "men",
     "Name": "Burton Menswear London",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_burton_men_0310.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_burton_0410.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b1430",
     "Gender": "unisex",
     "Name": "Burton Menswear London",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_burton_men_0310.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_burton_0410.jpg",
     "Copy": "NA"
   },
   {
@@ -1215,6 +1215,76 @@
     "Gender": "men",
     "Name": "sunnydaysweety",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_sunnydaysweety_0330.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Abercrombie Fitch",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_unisex_fitch_0410.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Abercrombie Fitch",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_fitch_0410_women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Abercrombie Fitch",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_fitch_0410_men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Hollister",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Unisex_LP_996x250_hollister.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Hollister",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_women_hollister.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Hollister",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250%20men_hollister.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Emporio Armani",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP__996x250_emporio_armani_0411.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Armani Exchange",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_armani-exchange_0411.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Vogue",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP__996x250_vogue_0411.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Versace",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP__996x250_versace_0411.jpg",
     "Copy": "NA"
   }
 ]
