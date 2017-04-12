@@ -94,7 +94,7 @@
     "System ID": "b1612",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-men-feb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-mangoapr11-men.jpg",
     "Gender": "Unisex",
     "Notes": "contains /mango-man"
   },
@@ -103,7 +103,7 @@
     "System ID": "b1565",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mango-women-feb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-mangoapr11-women.jpg",
     "Gender": "Unisex",
     "Notes": "contains /mango"
   },
@@ -117,11 +117,29 @@
     "Notes": "contains /fossil"
   },
   {
+    "Name": "Women Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_995x250_skagen_women_0412.jpg",
+    "Gender": "",
+    "Notes": ""
+  },
+  {
+    "Name": "Men Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_skagen_men_0412.jpg",
+    "Gender": "",
+    "Notes": ""
+  },
+  {
     "Name": "Brand: Skagen",
     "System ID": "b2652",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-skagen-feb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_skagen_unisex_0412.jpg",
     "Gender": "Unisex",
     "Notes": "contains /skagen"
   },
@@ -220,7 +238,7 @@
     "System ID": "b846",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-ghdwomenfeb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_ghd_0412.jpg",
     "Gender": "Unisex",
     "Notes": "contains /ghd"
   },
@@ -796,7 +814,7 @@
     "System ID": "b1430",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-burton-menswear-london-mar2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_burton_0410.jpg",
     "Gender": "Unisex",
     "Notes": "contains /burton-menswear-london"
   },
@@ -1941,6 +1959,33 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_coach_0411.jpg",
     "Gender": "Women",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Abercrombie Fitch",
+    "System ID": "b",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_unisex_fitch_0410.jpg",
+    "Gender": "Unisex",
+    "Notes": ""
+  },
+  {
+    "Name": "Women Brand: Abercrombie Fitch",
+    "System ID": "b",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_women.jpg",
+    "Gender": "Women",
+    "Notes": ""
+  },
+  {
+    "Name": "Men Brand: Abercrombie Fitch",
+    "System ID": "b",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_men.jpg",
+    "Gender": "Men",
     "Notes": ""
   }
 ]
