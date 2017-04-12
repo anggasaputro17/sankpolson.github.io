@@ -45,15 +45,6 @@
     "Notes": "contains /women & /feature & /floral"
   },
   {
-    "Name": "Brand: Armani",
-    "System ID": "b3318",
-    "Copy": "NA",
-    "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-zalora-EA-connected-R1_06-996x250.jpg",
-    "Gender": "Unisex",
-    "Notes": "contains /armani"
-  },
-  {
     "Name": "Brand: Diesel",
     "System ID": "b95",
     "Copy": "NA",
@@ -247,7 +238,7 @@
     "System ID": "b1572",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPbanners/LP_996x250-dorothyperkinsfeb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_DP_0411.jpg",
     "Gender": "Unisex",
     "Notes": "contains /dorothy-perkins"
   },
@@ -1879,5 +1870,77 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sigma-march2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /sigma"
+  },
+  {
+    "Name": "Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Unisex_LP_996x250_hollister.jpg",
+    "Gender": "Unisex",
+    "Notes": ""
+  },
+  {
+    "Name": "Men Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250%20men_hollister.jpg",
+    "Gender": "Men",
+    "Notes": ""
+  },
+  {
+    "Name": "Women Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_women_hollister.jpg",
+    "Gender": "Women",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Vogue",
+    "System ID": "b1469",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_vogue_0411.jpg",
+    "Gender": "Unisex",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Versace",
+    "System ID": "b376",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_versace_0411.jpg",
+    "Gender": "Unisex",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Emporio Armani",
+    "System ID": "b2012",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_emporio_armani_0411.jpg",
+    "Gender": "Men",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Armani Exchange",
+    "System ID": "b1466",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_armani-exchange_0411.jpg",
+    "Gender": "Men",
+    "Notes": ""
+  },
+  {
+    "Name": "Brand: Coach",
+    "System ID": "b1435",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_coach_0411.jpg",
+    "Gender": "Women",
+    "Notes": ""
   }
 ]
