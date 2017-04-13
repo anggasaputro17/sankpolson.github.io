@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-jovian-women.jpg",
-    "Exit Url": "/women/jovian-mandagie-for-zalora/",
-    "Headline": "JOVIAN MANDAGIE FOR ZALORA",
-    "Subline": "Shop the \"Savannah\" Collection now!",
-    "EventLabel": "BRA|Women|jovianraya|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-kree.jpg",
+    "Exit Url": "/women/kree-for-zalora/",
+    "Headline": "KREE FOR ZALORA",
+    "Subline": "Presenting the \"Kampung is Where Our Heart is\" collection.",
+    "EventLabel": "BRA|Women|kreeraya|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -63,11 +63,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-kfashion-women.jpg",
-    "Exit Url": "/women/all-products/?sort=latest%20arrival&dir=desc&gender=women&category_id=&brand=a-x-a--hello-sweety--jucy-judy--nain--outstanding-ordinary--rawrow--stylenanda--sweet-one-eighty--topixshop--workwear",
-    "Headline": "Street Style Seoul",
-    "Subline": "See what’s new in Korea’s urban fashion world and make the look your own.",
-    "EventLabel": "TRE|Women|StreetStyleKorea|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-urbantailoring.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=urbantailoring",
+    "Headline": "Urban Catwalk",
+    "Subline": "Pleasing tones and roomy silhouettes for a relaxed tailoring look like no other.",
+    "EventLabel": "TRE|Women|UrbanTailoring|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -333,11 +333,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-jovian-women.jpg",
-    "Exit Url": "/women/jovian-mandagie-for-zalora/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-kree.jpg",
+    "Exit Url": "/women/kree-for-zalora/",
     "Headline": "Women NCU1",
-    "Subline": "Jovian Mandagie for ZALORA",
-    "EventLabel": "BRA|Women|jovianraya|ALL|NA"
+    "Subline": "Kree for ZALORA",
+    "EventLabel": "BRA|Women|kreeraya|ALL|NA"
   },
   {
     "Placement": "wn2",
