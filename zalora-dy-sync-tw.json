@@ -13,101 +13,101 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_benetton_0406.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/",
-    "Headline": "United Colors Of Benetton",
-    "Subline": "讓人著迷的最新時尚服飾",
-    "EventLabel": "BRA|WC|wcbenettonss17|ALL|NA|united-colors-of-benetton"
+    "Image": "https://static-tw.zacdn.com/cms/brands/Sisley_N1_320x420_0413.jpg",
+    "Exit Url": "/women/sisley/",
+    "Headline": "Sisley",
+    "Subline": "複雜卻迷人展現當代時尚魅力",
+    "EventLabel": "BRA|WC|wcsisleyss17|ALL|NA|sisley"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_urbantailoring_0407.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=urbantailoring",
-    "Headline": "城市化身為舞台",
-    "Subline": "舒適色調和寬鬆裁剪 打造獨一無二的風格",
-    "EventLabel": "TRE|Women|UrbanTailoring|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_hollister_0413.jpg",
+    "Exit Url": "/women/hollister/",
+    "Headline": "Hollister",
+    "Subline": "自由加州風格 放飛夏日靈魂",
+    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_ep2_0407.jpg",
-    "Exit Url": "/women/asias-next-top-model-5/",
-    "Headline": "第(2)集 潮流趨勢綜合",
-    "Subline": "愛與熱情之色調 於人群中脫穎而出",
-    "EventLabel": "MRC|Women|ASNTMS5Ep2RavishingRed|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_bohemian_0413.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=BohemianDreams&getSKU=E89C0AAE295C21GS",
+    "Headline": "夢幻波西米亞風",
+    "Subline": "以部落印花 迷幻色彩和復古造型 散發時尚誘惑",
+    "EventLabel": "TRE|Women|BohemianDreams|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_extension_women_0407.jpg",
-    "Exit Url": "/women/all-products/?sort=popularity&age=30-120&discount=30-70",
-    "Headline": "暢銷品低至3折",
-    "Subline": "限時優惠快購入 寵愛自己不等待",
-    "EventLabel": "SAL|Women|MSSAprExtension|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_dress_pricepoint_0413.jpg",
+    "Exit Url": "/clothing/dresses/?sort=popularity&price=1-900&dir=desc&gender=&category_id=4205",
+    "Headline": "春季洋裝低於NT$900",
+    "Subline": "立即點擊獲取您專屬的洋裝",
+    "EventLabel": "SAL-CAT|Women|AprilDressesPricePoint|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_bags_0407.jpg",
-    "Exit Url": "/women/bags/?price=450-450",
-    "Headline": "時尚包款一律NT$450",
-    "Subline": "立即入手難以抗拒的時尚手提包",
-    "EventLabel": "SAL-CAT|Women|BagsPricePointApril|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_multibrand_0413.jpg",
+    "Exit Url": "/product-index/multibrands-new-age/?age=0-30",
+    "Headline": "春季時尚新品",
+    "Subline": "立即查看Topshop, Miss Selfridge, Dorothy Perkins及其他品牌商品",
+    "EventLabel": "BRA-CAT|Women|AprilMultiBrands|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_korean_0407.jpg",
-    "Exit Url": "/women/all-products/?brand=13month--ain--magjay--millogrem--nain--off-the-record--stylenanda--wnderkammer&sort=latest%20arrival",
-    "Headline": "首爾街頭風格",
-    "Subline": "探索韓國都市時尚世界 獲取最新韓風潮流穿搭",
-    "EventLabel": "TRE|Women|StreetStyleKorea|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_athleisure_0413.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=aprilathleisure",
+    "Headline": "休閒運動態度",
+    "Subline": "發揮極致水準 秀出亮眼外表",
+    "EventLabel": "CAT|Women|AprilAthleisure2017|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_ck_0407.jpg",
-    "Exit Url": "/calvin-klein-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_factorie_0413.jpg",
+    "Exit Url": "/women/factorie/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ckss17|ALL|NA"
+    "EventLabel": "NewA|WC|factoriedec|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_dorina_0407.jpg",
-    "Exit Url": "/women/dorina/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_cottonon_0413.jpg",
+    "Exit Url": "/cotton-on-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorinass17|ALL|NA"
+    "EventLabel": "NewA|WC|cottononoct|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_rubi_0331.jpg",
-    "Exit Url": "/women/rubi",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_zalora_0413.jpg",
+    "Exit Url": "/women/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|rubiss17|ALL|NA"
+    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/IVYPARK_B1-6_322x165_0407.jpg",
-    "Exit Url": "/ivy-park-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_nain_0413.jpg",
+    "Exit Url": "/women/nain/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|ivyparkss17|ALL|NA"
+    "EventLabel": "BRA|WC|wcnainss17|ALL|NA|nain"
   },
   {
     "Placement": "wfb5",
@@ -117,17 +117,17 @@
     "Exit Url": "/women/nica/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|nicass17|ALL|NA"
+    "EventLabel": "BRA|WA|wanicass17|ALL|NA|nica"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_dorothy-perkins_0407.jpg",
-    "Exit Url": "/dorothy-perkins-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_reebok_0413.jpg",
+    "Exit Url": "/women/reebok/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkinsss17|ALL|NA"
+    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wc1",
@@ -183,71 +183,71 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_hugo_0407.jpg",
-    "Exit Url": "/men/all-products/?brand=boss--boss-green--boss-orange",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_hollister_0413.jpg",
+    "Exit Url": "/men/hollister/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_extension_men_0407.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&age=30-500&discount=20-70",
-    "Headline": "暢銷品低至3折",
-    "Subline": "限時優惠快購入 寵愛自己不等待",
-    "EventLabel": "SAL|Men|MSSAprExtension|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/Sisley_N1_320x420_0413.jpg",
+    "Exit Url": "/men/sisley/",
+    "Headline": "Sisley",
+    "Subline": "複雜卻迷人展現當代時尚魅力",
+    "EventLabel": "BRA|MC|mcsisleyss17|ALL|NA|sisley"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_benetton_0407.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/",
-    "Headline": "United Colors Of Benetton",
-    "Subline": "讓人著迷的最新時尚服飾",
-    "EventLabel": "BRA|MC|mcbenettonss17|ALL|NA|united-colors-of-benetton"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_denim_0413.jpg",
+    "Exit Url": "/men/denimpage/",
+    "Headline": "極致丹寧",
+    "Subline": "以精選丹寧展開春季旅程",
+    "EventLabel": "TRE|men|Aprildenimcampaign|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_newbalance_0407.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Life8_B1_322_X165_life8_0413.jpg",
     "Exit Url": "/men/new-balance/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MS|newbalancess17|ALL|NA"
+    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_riverisland_0407.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/ASICS_B_322x165_asics_0413.jpg",
     "Exit Url": "/men/river-island/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|riverislandss17|ALL|NA"
+    "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_callitspring_0407.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1_322x165_fossil_0413.jpg",
     "Exit Url": "/men/call-it-spring/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|callitspringss17|ALL|NA"
+    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_earnshaw_0407.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_call-it-spring_0413.jpg",
     "Exit Url": "/men/thomas-earnshaw/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MS|earnshawss17|ALL|NA"
+    "EventLabel": "NewA|MS|callitspring|ALL|NA"
   },
   {
     "Placement": "mfb5",
@@ -263,11 +263,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_cottonon_0407.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_reebok_0413_men.jpg",
     "Exit Url": "/men/cotton-on/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|cottononss17|ALL|NA"
+    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mc1",
@@ -333,30 +333,130 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_floral_0313.jpg",
-    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
-    "Headline": "華麗綻放",
-    "Subline": "花卉點綴盛放浪漫魅力",
-    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HEADER_buy2get20_0327.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy2get20off",
+    "Headline": "買2件或以上享8折優惠",
+    "Subline": "買更多省更多！僅限特定商品",
+    "EventLabel": "SAL|Men|ss17mssbuy2get20off|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_women2017.jpg",
-    "Exit Url": "/women/clothing/new-products/",
-    "Headline": "最新時尚造型",
-    "Subline": "開始新季時尚，了解2017春季最新潮流趨勢。",
-    "EventLabel": "THE|WC|NewArrival2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HEADER_326x304_everythinng999_0327.jpg",
+    "Exit Url": "/women/special-price/?sort=popularity&price=999-999",
+    "Headline": "驚喜發現 只需NT$699或NT$999",
+    "Subline": "超值單品低價入手！",
+    "EventLabel": "SAL|Women|ss17msspricepointweek1|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_men2017.jpg",
-    "Exit Url": "/men/clothing/new-products/",
-    "Headline": "新季開展",
-    "Subline": "全新系列更新造型",
-    "EventLabel": "THE|MC|NewArrival2017|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/322x300_dressesup_0327.jpg",
+    "Exit Url": "/women/dresses/special-price/?discount=1-50",
+    "Headline": "魅力洋裝低至5折",
+    "Subline": "讓妳輕鬆閃耀各種場合",
+    "EventLabel": "SAL|Women|ss17mssdressesupto50off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_denim_men_0413.jpg",
+    "Exit Url": "/men/denimpage/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|men|Aprildenimcampaign|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_N2_620x420_0413.jpg",
+    "Exit Url": "/men/sisley/",
+    "Headline": "Sisley",
+    "Subline": "複雜卻迷人展現當代時尚魅力",
+    "EventLabel": "BRA|MC|mcsisleyss17|ALL|NA|sisley"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_denim_0413.jpg",
+    "Exit Url": "/men/denimpage/",
+    "Headline": "極致丹寧",
+    "Subline": "以精選丹寧展開春季旅程",
+    "EventLabel": "TRE|men|Aprildenimcampaign|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300x198-backpacksmarch-men-0407.jpg",
+    "Exit Url": "/men/bags/backpacks/",
+    "Headline": "NA",
+    "Subline": "後背包 &gt;",
+    "EventLabel": "NewA|NA|mbackpackapr17|ALL"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-hk.zacdn.com/cms/brands/C5_300x198_pants_men.jpg",
+    "Exit Url": "/men/clothing/pants/",
+    "Headline": "NA",
+    "Subline": "長褲 &gt;",
+    "EventLabel": "NewA|NA|mpantsapr17|ALL"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_denim_0413.jpg",
+    "Exit Url": "/women/denimpage/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|Aprildenimcampaign1|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/sisley_N2_620x420_0413.jpg",
+    "Exit Url": "/women/sisley/",
+    "Headline": "Sisley",
+    "Subline": "複雜卻迷人展現當代時尚魅力",
+    "EventLabel": "BRA|WC|wcsisleyss17|ALL|NA|sisley"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_hollister_0413.jpg",
+    "Exit Url": "/women/hollister/",
+    "Headline": "Hollister",
+    "Subline": "自由加州風格 放飛夏日靈魂",
+    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_beauty_0407.jpg",
+    "Exit Url": "/women/beauty/",
+    "Headline": "NA",
+    "Subline": "美容保養 &gt;",
+    "EventLabel": "NewA|WA|wbeautyapr17|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_skirt_0407.jpg",
+    "Exit Url": "/women/clothing/skirts/",
+    "Headline": "NA",
+    "Subline": "裙子 &gt;",
+    "EventLabel": "NewA|NA|wskirtsapr17|ALL"
   }
 ]
