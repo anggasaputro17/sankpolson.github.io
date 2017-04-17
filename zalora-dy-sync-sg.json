@@ -3,111 +3,111 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-dresses-women.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-denimtrend-women.jpg",
+    "Exit Url": "/women/denimpage/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Aprilnewindresses|ALL|NA"
+    "EventLabel": "TRE|Women|Aprildenimcampaign1|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-kree.jpg",
-    "Exit Url": "/women/kree-for-zalora/",
-    "Headline": "KREE FOR ZALORA",
-    "Subline": "Presenting the \"Kampung is Where Our Heart is\" collection.",
-    "EventLabel": "BRA|Women|kreeraya|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-clarks-women.jpg",
+    "Exit Url": "/women/clarks/",
+    "Headline": "Clarks",
+    "Subline": "Let these contemporary shoes put a spring in your step.",
+    "EventLabel": "BRA|Women|clarks2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-levis-women.jpg",
-    "Exit Url": "/women/levis/",
-    "Headline": "Levi's",
-    "Subline": "Own the latest in denim from the world’s pioneering jeans maker.",
-    "EventLabel": "BRA|WC|wclevisss17|ALL|NA|levis"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-hollister-women.jpg",
+    "Exit Url": "/women/hollister/?getSKU=HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
+    "Headline": "Hollister",
+    "Subline": "A carefree California style that makes the spirit of Summer endless.",
+    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-asntmep2-women.jpg",
-    "Exit Url": "/women/asias-next-top-model-5/",
-    "Headline": "Trend Roundup - Episode 2",
-    "Subline": "Knock out the competition with the colour of love and passion.",
-    "EventLabel": "MRC|Women|ASNTMS5Ep2RavishingRed|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-bohemian-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=BohemianDreams&getSKU=E89C0AAE295C21GS",
+    "Headline": "Bohemian Dreams",
+    "Subline": "Be enticed by a mix of tribal prints, psychedelic colours and retro styling.",
+    "EventLabel": "TRE|Women|BohemianDreams|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-mssextension-women.jpg",
-    "Exit Url": "/women/all-products/?sort=popularity&age=30-120&discount=30-70",
-    "Headline": "Top Sellers Up To 70% Off",
-    "Subline": "Surprise yourself with these items, on sale for a limited time only.",
-    "EventLabel": "SAL|Women|MSSAprExtension|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-wapppricepoint-women.jpg",
+    "Exit Url": "/women/clothing/dresses/?sort=popularity&price=1-40&dir=desc&gender=&category_id=25",
+    "Headline": "Spring Dresses Below $40",
+    "Subline": "Say yes to finding the perfect dress.",
+    "EventLabel": "SAL-CAT|Women|AprilDressesPricePoint|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-bags-women.jpg",
-    "Exit Url": "/women/bags/?sort=popularity&price=20-20&dir=desc&category_id=2735",
-    "Headline": "Must-Grab Bags At $20",
-    "Subline": "Get a hold of these irresistible selections before they’re all gone.",
-    "EventLabel": "SAL-CAT|Women|BagsPricePointApril|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-wappbrandna-women.jpg",
+    "Exit Url": "/product-index/multibrands-new-age/?age=0-30",
+    "Headline": "Spring's Latest Arrivals",
+    "Subline": "See what's new from Topshop, Miss Selfridge, Dorothy Perkins and more.",
+    "EventLabel": "BRA-CAT|Women|AprilMultiBrands|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-urbantailoring.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=urbantailoring",
-    "Headline": "Urban Catwalk",
-    "Subline": "Pleasing tones and roomy silhouettes for a relaxed tailoring look like no other.",
-    "EventLabel": "TRE|Women|UrbanTailoring|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-athleisure-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=aprilathleisure",
+    "Headline": "Athleisure Attitude",
+    "Subline": "Reach peak performance and look absolutely stunning while you’re at it.",
+    "EventLabel": "CAT|Women|AprilAthleisure2017|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ck-women.jpg",
-    "Exit Url": "/calvin-klein-shop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-veromoda-women.jpg",
+    "Exit Url": "/women/vero-moda/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein"
+    "EventLabel": "BRA|Women|veromodassseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-dorina-women.jpg",
-    "Exit Url": "/women/dorina/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-only-women.jpg",
+    "Exit Url": "/women/only/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcdorinass17|ALL|NA|dorina"
+    "EventLabel": "BRA|Women|onlyssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-rubi-women.jpg",
-    "Exit Url": "/women/rubi/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-zalora-women.jpg",
+    "Exit Url": "/women/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WS|wrubiss17|ALL|NA|rubi"
+    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ua-women.jpg",
-    "Exit Url": "/under-armour-shop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-riapr-women.jpg",
+    "Exit Url": "/river-island-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
+    "EventLabel": "BRA|Women|riverislandss17|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-dp-women.jpg",
-    "Exit Url": "/dorothy-perkins-singapore",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ua-women.jpg",
+    "Exit Url": "/under-armour-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WC|wdorothyperkinsss17|ALL|NA|dorothy-perkins"
+    "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "wc1",
@@ -183,71 +183,71 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-hugoboss-men.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=&category_id=&brand=boss--boss-green--boss-orange",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-hollister-men.jpg",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-mssextension-men.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&age=30-500&discount=20-70",
-    "Headline": "Top Sellers Up To 70% Off",
-    "Subline": "Surprise yourself with these items, on sale for a limited time only.",
-    "EventLabel": "SAL|Men|MSSAprExtension|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-clarks-men.jpg",
+    "Exit Url": "/men/clarks/",
+    "Headline": "Clarks",
+    "Subline": "Let these contemporary shoes put a spring in your step.",
+    "EventLabel": "BRA|Men|clarks2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-levis-men.jpg",
-    "Exit Url": "/men/levis/",
-    "Headline": "Levi's",
-    "Subline": "Own the latest in denim from the world’s pioneering jeans maker.",
-    "EventLabel": "BRA|MC|mclevisss17|ALL|NA|levis"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-denim-men.jpg",
+    "Exit Url": "/men/denimpage/",
+    "Headline": "Destination Denim",
+    "Subline": "Start your journey with our best denim picks this Spring.",
+    "EventLabel": "TRE|men|Aprildenimcampaign|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-nike-men.jpg",
-    "Exit Url": "/men/nike-singapore/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-life8-men.jpg",
+    "Exit Url": "/men/life-8/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MSP|mnewarrivalsnikeaw16|ALL|NA"
+    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ri-men.jpg",
-    "Exit Url": "/river-island-singapore/?from=men",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ua-men.jpg",
+    "Exit Url": "/under-armour-shop/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|riverislandss17|ALL|NA"
+    "EventLabel": "NA-BRA|MSP|munderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-cis-men.jpg",
-    "Exit Url": "/men/call-it-spring",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-fossil-men.jpg",
+    "Exit Url": "/men/fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MS|callitspring|ALL|NA"
+    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-te-men.jpg",
-    "Exit Url": "/men/thomas-earnshaw",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-vans-men.jpg",
+    "Exit Url": "/men/vans",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MW-WW|mw1wwthomasearnshawss17|ALL|NA|thomas-earnshaw"
+    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
   },
   {
     "Placement": "mfb5",
@@ -263,11 +263,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-ua-men.jpg",
-    "Exit Url": "/under-armour-shop/?from=men",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-reebok-men.jpg",
+    "Exit Url": "/reebok-shop/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|MSP|munderarmourss17|ALL|NA|under-armour"
+    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mc1",
@@ -323,31 +323,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILE_WEB_HERO_600x600-dresses-women.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILEWEB_HERO_600x600-denimstory-women.jpg",
+    "Exit Url": "/women/denimpage/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Aprilnewindresses|ALL|NA"
+    "EventLabel": "TRE|Women|Aprildenimcampaign1|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-kree.jpg",
-    "Exit Url": "/women/kree-for-zalora/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-clarks-women.jpg",
+    "Exit Url": "/women/clarks/",
     "Headline": "Women NCU1",
-    "Subline": "Kree for ZALORA",
-    "EventLabel": "BRA|Women|kreeraya|ALL|NA"
+    "Subline": "Clarks",
+    "EventLabel": "BRA|Women|clarks2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-levis-women.jpg",
-    "Exit Url": "/women/levis/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-hollister-women.jpg",
+    "Exit Url": "/women/hollister/?getSKU=HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
     "Headline": "Women NCU2",
-    "Subline": "Levi's",
-    "EventLabel": "BRA|WC|wclevisss17|ALL|NA|levis"
+    "Subline": "Hollister",
+    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -373,31 +373,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILEWEB_HERO_600x600-hugoboss-men.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=&category_id=&brand=boss--boss-green--boss-orange",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILEWEB_HERO_600x600-hollister-men.jpg",
+    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-mssextension-men.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&age=30-500&discount=20-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-clarks-men.jpg",
+    "Exit Url": "/men/clarks/",
     "Headline": "Men NCU1",
-    "Subline": "Top Sellers Up To 70% Off",
-    "EventLabel": "SAL|Men|MSSAprExtension|ALL|NA"
+    "Subline": "Clarks",
+    "EventLabel": "BRA|Men|clarks2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-levis-men.jpg",
-    "Exit Url": "/men/levis/",
-    "Headline": "Levi's",
-    "Subline": "Own the latest in denim from the world’s pioneering jeans maker.",
-    "EventLabel": "BRA|MC|mclevisss17|ALL|NA|levis"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-life8-men.jpg",
+    "Exit Url": "/men/life8/",
+    "Headline": "Men NCU2",
+    "Subline": "Life8",
+    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
   },
   {
     "Placement": "mc1",
