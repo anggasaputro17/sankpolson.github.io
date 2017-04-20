@@ -1,5 +1,6 @@
 [
   {
+    "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/StaticPages/DenimStyle/EN_w_SEGMENT_HERO_996x500-spwomen-denimpage-hken.jpg",
@@ -12,6 +13,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-ghdapril2017.jpg",
@@ -24,6 +26,7 @@
     "ZHSubline": "完美髮型由造型工具開始"
   },
   {
+    "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/HOLLISTER_N2_620x420-april2017.jpg",
@@ -36,6 +39,20 @@
     "ZHSubline": "展現陽光沙灘的南加州衝浪氣息"
   },
   {
+    "Placement": "wlp",
+    "Gender": "women",
+    "Device": "desktop",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/LPBanners/lpbanner_996x250-women-zalora-march2017.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/LPBanners/lpbanner_996x250-women-zalora-march2017.jpg",
+    "ExitUrl": "/women/zalora/",
+    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA",
+    "ENHeadline": "NA",
+    "ENSubline": "NA",
+    "ZHHeadline": "NA",
+    "ZHSubline": "NA"
+  },
+  {
+    "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-BohemianDreams.jpg",
@@ -48,6 +65,7 @@
     "ZHSubline": "以民族印花"
   },
   {
+    "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-dressespp.jpg",
@@ -60,6 +78,7 @@
     "ZHSubline": "尋找專屬於你的完美連身裙"
   },
   {
+    "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-aprilmultibrands.jpg",
@@ -72,6 +91,7 @@
     "ZHSubline": "搶先瀏覽Topshop"
   },
   {
+    "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-aprilathleisure.jpg",
@@ -84,6 +104,7 @@
     "ZHSubline": "發揮極致水準 秀出亮眼外表"
   },
   {
+    "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-mango-april17.jpg",
@@ -96,6 +117,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-dorothyperkins-april2017.jpg",
@@ -108,6 +130,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-zalora-april17.jpg",
@@ -120,6 +143,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-cottonon-april17.jpg",
@@ -132,6 +156,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-nica-women.jpg",
@@ -144,6 +169,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-wearehandsome-april17.jpg",
@@ -156,6 +182,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-beauty-april2017-women.jpg",
@@ -168,6 +195,7 @@
     "ZHSubline": "選購美容 >"
   },
   {
+    "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-skirts-april2017-women.jpg",
@@ -180,6 +208,7 @@
     "ZHSubline": "選購半截裙 >"
   },
   {
+    "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C3_DesktopOnly_300x500-tops-april2017-women.jpg",
@@ -192,6 +221,7 @@
     "ZHSubline": "選購上衣 >"
   },
   {
+    "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-flats-april2017-women.jpg",
@@ -204,6 +234,7 @@
     "ZHSubline": "選購平底鞋 >"
   },
   {
+    "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-accessories-april2017-women.jpg",
@@ -216,6 +247,7 @@
     "ZHSubline": "選購女裝飾物 >"
   },
   {
+    "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HERO_996x500-hollister1704-hken.jpg",
@@ -228,6 +260,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N1_NEWARRIVALS_360x420-mennewa-april17.jpg",
@@ -240,6 +273,7 @@
     "ZHSubline": "購入最新時尚商品 打造吸睛型格配搭"
   },
   {
+    "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/StaticPages/DenimStyle/N2_NEWARRIVALS_620x420-denimpagemen.jpg",
@@ -252,6 +286,7 @@
     "ZHSubline": "以精選牛仔款式作為你的春季首選"
   },
   {
+    "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/Life8_B1_322X165-april17.jpg",
@@ -264,6 +299,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/ASICS_B_322x165-men-april17.jpg",
@@ -276,6 +312,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1_322x165-april17.jpg",
@@ -288,6 +325,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165_converse-april17.jpg",
@@ -300,6 +338,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-topman-april2017.jpg",
@@ -312,6 +351,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/B1-6_322x165-nb-men-april2017.jpg",
@@ -324,6 +364,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-backpacks-april2017-men.jpg",
@@ -336,6 +377,7 @@
     "ZHSubline": "選購背包 >"
   },
   {
+    "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-pants-april2017-men.jpg",
@@ -348,6 +390,7 @@
     "ZHSubline": "選購長褲 >"
   },
   {
+    "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C3_DesktopOnly_300x500-tshirts-april2017-men.jpg",
@@ -360,6 +403,7 @@
     "ZHSubline": "選購T恤 >"
   },
   {
+    "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-sports-april2017-men.jpg",
@@ -372,6 +416,7 @@
     "ZHSubline": "選購運動服飾 >"
   },
   {
+    "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-sneakers-april2017-men.jpg",
@@ -384,6 +429,7 @@
     "ZHSubline": "選購綁帶鞋與輕便鞋 >"
   },
   {
+    "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/StaticPages/DenimStyle/MOBILEWEB_HERO_600x600-spwomen-denimpage-hken.jpg",
@@ -396,6 +442,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-ghdapril2017.jpg",
@@ -408,6 +455,7 @@
     "ZHSubline": "完美髮型由造型工具開始"
   },
   {
+    "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/HOLLISTER_N2_620x420-april2017.jpg",
@@ -420,6 +468,7 @@
     "ZHSubline": "展現陽光沙灘的南加州衝浪氣息"
   },
   {
+    "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-beauty-april2017-women.jpg",
@@ -432,6 +481,7 @@
     "ZHSubline": "選購美容 >"
   },
   {
+    "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-tops-april2017-women.jpg",
@@ -444,6 +494,7 @@
     "ZHSubline": "選購上衣 >"
   },
   {
+    "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/HOLLISTER_M_APPH_600x600-april17.jpg",
@@ -456,6 +507,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/N2_NEWARRIVALS_620x420-mennewa-april17.jpg",
@@ -468,6 +520,7 @@
     "ZHSubline": "購入最新時尚商品 打造吸睛型格配搭"
   },
   {
+    "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/Life8_N2_620X420-april17.jpg",
@@ -480,6 +533,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C5_300x198-backpacks-april2017-men.jpg",
@@ -492,6 +546,7 @@
     "ZHSubline": "選購背包 >"
   },
   {
+    "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/C3_DesktopOnly_300x500-tshirts-april2017-men.jpg",
@@ -504,6 +559,7 @@
     "ZHSubline": "選購T恤 >"
   },
   {
+    "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/HOMEPAGE-HERO-996x500-SpringNewSeason.jpg",
@@ -516,6 +572,7 @@
     "ZHSubline": "NA"
   },
   {
+    "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-blossomingsplendour.jpg",
@@ -528,6 +585,7 @@
     "ZHSubline": "讓花卉在身上燦爛盛放"
   },
   {
+    "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-springsummer.jpg",
@@ -540,6 +598,7 @@
     "ZHSubline": "新一年新一季, <br> 是時候發掘2017春季新潮流!"
   },
   {
+    "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-men-na.jpg",
