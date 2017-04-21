@@ -154,10 +154,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C3_375x500-dresses-women.jpg",
-    "Exit Url": "/women/clothing/dresses/",
+    "Exit Url": "/women/clothing/fashion-tops/",
     "Headline": "NA",
-    "Subline": "Shop Dresses >",
-    "EventLabel": "SUB|WC|dressesswomen|ALL|NA"
+    "Subline": "Shop Tops >",
+    "EventLabel": "SUB|WC|topswomen|ALL|NA"
   },
   {
     "Placement": "wc4",
