@@ -823,7 +823,7 @@
     "System ID": "b3153",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Maud%20Frizon_brandbanner_SS17.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/LP_996x250-maudfrizon-women-april17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /maud-frizon"
   },
@@ -1896,7 +1896,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/Unisex_LP_996x250_hollister.jpg",
     "Gender": "Unisex",
-    "Notes": ""
+    "Notes": "contains /hollister"
   },
   {
     "Name": "Men Brand: Hollister",
@@ -1905,7 +1905,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250%20men_hollister.jpg",
     "Gender": "Men",
-    "Notes": ""
+    "Notes": "contains /hollister & /men"
   },
   {
     "Name": "Women Brand: Hollister",
@@ -1914,7 +1914,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_women_hollister.jpg",
     "Gender": "Women",
-    "Notes": ""
+    "Notes": "contains /hollister & /women"
   },
   {
     "Name": "Brand: Vogue",
@@ -1923,7 +1923,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_vogue_0411.jpg",
     "Gender": "Unisex",
-    "Notes": ""
+    "Notes": "contains /vogue"
   },
   {
     "Name": "Brand: Versace",
@@ -1932,7 +1932,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_versace_0411.jpg",
     "Gender": "Unisex",
-    "Notes": ""
+    "Notes": "contains /versace"
   },
   {
     "Name": "Brand: Emporio Armani",
@@ -1941,7 +1941,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_emporio_armani_0411.jpg",
     "Gender": "Men",
-    "Notes": ""
+    "Notes": "contains /emporio-armani"
   },
   {
     "Name": "Brand: Armani Exchange",
@@ -1950,7 +1950,7 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_armani-exchange_0411.jpg",
     "Gender": "Men",
-    "Notes": ""
+    "Notes": "contains /armani-exchange"
   },
   {
     "Name": "Brand: Coach",
@@ -1959,33 +1959,42 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP__996x250_coach_0411.jpg",
     "Gender": "Women",
-    "Notes": ""
+    "Notes": "contains /coach"
   },
   {
     "Name": "Brand: Abercrombie Fitch",
-    "System ID": "b",
+    "System ID": "b3521",
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_unisex_fitch_0410.jpg",
     "Gender": "Unisex",
-    "Notes": ""
+    "Notes": "contains /abercrombie-fitch"
   },
   {
     "Name": "Women Brand: Abercrombie Fitch",
-    "System ID": "b",
+    "System ID": "b3521",
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_women.jpg",
     "Gender": "Women",
-    "Notes": ""
+    "Notes": "contains /abercrombie-fitch & /women"
   },
   {
     "Name": "Men Brand: Abercrombie Fitch",
-    "System ID": "b",
+    "System ID": "b3521",
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_men.jpg",
     "Gender": "Men",
-    "Notes": ""
+    "Notes": "contains /abercrombie-fitch & /men"
+  },
+  {
+    "Name": "Brand: French Connection",
+    "System ID": "b2248",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-fcuk-april17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /french-connection"
   }
 ]
