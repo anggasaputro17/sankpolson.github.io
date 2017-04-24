@@ -27,9 +27,14 @@
             <input type="text" id="js-cat-deeeplink-url"/>
         </div>
         
-        <div class="cms-full txtCenter mtxl">            
+        <div class="cms-half txtCenter mtxl">            
             <div class="cms-sub-heading mbl">EventLabel</div>
             <input type="text" id="js-eventlabel-url"/>
+        </div>
+        
+        <div class="cms-half txtCenter mtxl">            
+            <div class="cms-sub-heading mbl">Main CSA</div>
+            <input type="text" id="js-eventlabelmain-url"/>
         </div>
     </div>
     
@@ -77,11 +82,10 @@
     }
     
     //Get CSA 
-    $('#js-eventlabel-url').on('keyup change', function() {
-     var eventLabelSplit = $(this).val().split("|");
+    function getCSAFinalDeepLink(desktopURL) {
+     var eventLabelSplit = desktopURL.split("|");
         var getCSA = eventLabelSplit[2];
-        console.log(getCSA);
-});
+};
        
     
     //Get Category URL Key 
@@ -234,6 +238,12 @@
             var desktopCampaignURL = $(this).val();
             $("#js-cat-deeeplink-url").val("");
             getCategoryFinalDeepLink(desktopCampaignURL);
+        });
+
+        $("input[type='text']#js-eventlabel-url").change(function () {
+            var desktopCampaignURL = $(this).val();
+            $("#js-eventlabelmain-url").val("");
+            getCSAFinalDeepLink(desktopCampaignURL);
         });
     });
 </script>
