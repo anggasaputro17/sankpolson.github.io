@@ -1300,5 +1300,33 @@
     "Name": "Funfit",
     "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x300_funfit_0411.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "French Connection",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_french_connection_0421.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Onitsuka Tiger",
+    "Image": "https://static-my.zacdn.com/cms/dy/ONITSUKATIGER-APR17-LP-UPDATED-2.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Asics",
+    "Image": "https://static-tw.zacdn.com/cms/brands/ASICS_LP_996x250.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Asics Tiger",
+    "Image": "https://static-tw.zacdn.com/cms/brands/ASICSTiger_LP_996x250.jpg",
+    "Copy": "NA"
   }
 ]
