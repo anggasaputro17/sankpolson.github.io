@@ -14,7 +14,7 @@
 
         <div class="cms-half txtCenter mtxl">            
             <div class="cms-sub-heading mbl">Main CSA</div>
-            <a id="js-eventlabelmain-url"></a>
+            <div id="js-eventlabelmain-url"></div>
         </div>
     </div>
     
@@ -74,7 +74,7 @@
         var jsonDump = getCountryJSON(getCountry);
         console.log(jsonDump);
                     
-        var csaMain = getCSA();
+        var csaMain = $( "#js-eventlabelmain-url" ).append(eventLabelMain);
         console.log(csaMain);
 
         //Generate Deeplink
@@ -172,8 +172,7 @@
     function getCSA() {
          var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
         var eventLabelMain = eventLabelSplit[2];
-        
-        var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
+        $( "#js-eventlabelmain-url" ).append(eventLabelMain);
     }
     function processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender) {
         var desktopBrandList = desktopURL.split("brand=")[1];
