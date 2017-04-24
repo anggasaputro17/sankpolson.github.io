@@ -3,81 +3,81 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-denimtrend-women.jpg",
-    "Exit Url": "/women/denimpage/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-aprilnewarrivals-women.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|Aprildenimcampaign1|ALL|NA"
+    "EventLabel": "NA|Women|aprilnewarrival|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-clarks-women.jpg",
-    "Exit Url": "/women/clarks/",
-    "Headline": "Clarks",
-    "Subline": "Let these contemporary shoes put a spring in your step.",
-    "EventLabel": "BRA|Women|clarks2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-denimwk2-women.jpg",
+    "Exit Url": "/women/denimpage/",
+    "Headline": "Destination Denim",
+    "Subline": "Fashion trends come and go, but denim is here to stay.",
+    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-hollister-women.jpg",
-    "Exit Url": "/women/hollister/?getSKU=HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
-    "Headline": "Hollister",
-    "Subline": "A carefree California style that makes the spirit of Summer endless.",
-    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-aandf-women.jpg",
+    "Exit Url": "/women/abercrombie-fitch/?getSKU=AB423AA48EMPMY--AB423AA31GLGMY--AB423AA30GLHMY--AB423AA24GLNMY--AB423AA19GLSMY--AB423AA27GLKMY",
+    "Headline": "Abercrombie & Fitch",
+    "Subline": "Shop the latest in casual luxury and bring out the confidence within you.",
+    "EventLabel": "BRA|Women|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-zaliarayavc-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=zaliaraya2017",
-    "Headline": "Zalia Hari Raya 2017",
-    "Subline": "Use code ZALIARAYA15 for 15% off (min. spend of $100, selected items only).",
-    "EventLabel": "SAL-RET|Women|ZaliaVCPushOne|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-bridesmaid-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bridesmaidscollection",
+    "Headline": "Bridesmaid Beautiful",
+    "Subline": "Captivate your senses with these unforgettable dresses.",
+    "EventLabel": "NA|Women|Bridesmaidscollection1|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-wapppricepoint-women.jpg",
-    "Exit Url": "/women/clothing/dresses/?sort=popularity&price=1-40&dir=desc&gender=&category_id=25",
-    "Headline": "Spring Dresses Below $40",
-    "Subline": "Say yes to finding the perfect dress.",
-    "EventLabel": "SAL-CAT|Women|AprilDressesPricePoint|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-enjoy18vc-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=enjoy18vc",
+    "Headline": "Get Rewarded With 18% Off",
+    "Subline": "Use code ENJOY18 (min. spend of SGD100) for more savings on your earnings.",
+    "EventLabel": "SAL|Women|ENJOYVC|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-wappbrandna-women.jpg",
-    "Exit Url": "/product-index/multibrands-new-age/?age=0-30",
-    "Headline": "Spring's Latest Arrivals",
-    "Subline": "See what's new from Topshop, Miss Selfridge, Dorothy Perkins and more.",
-    "EventLabel": "BRA-CAT|Women|AprilMultiBrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-sportsfootwear-women.jpg",
+    "Exit Url": "/women/sports/sports-footwear/",
+    "Headline": "Beyond The Finish Line",
+    "Subline": "Pound the pavement with sports shoes that go the extra distance.",
+    "EventLabel": "CAT|Women|AprilSportsShoes|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-athleisure-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=aprilathleisure",
-    "Headline": "Athleisure Attitude",
-    "Subline": "Reach peak performance and look absolutely stunning while you’re at it.",
-    "EventLabel": "CAT|Women|AprilAthleisure2017|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-asntmep4-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=retro-pinupgirl&getSKU=MI511AA02IBTMY--MA193AA70MGRMY--SU225AA60YOHMY--MA193SH55XJSMY--KL492AA29JUWMY--RI009AA90EKZMY",
+    "Headline": "Trend Roundup - Episode 4",
+    "Subline": "Grab these retro-esque staples for your very own wardrobe revival.",
+    "EventLabel": "MRC|Women|ASNTMS5Ep4Retro|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-veromoda-women.jpg",
-    "Exit Url": "/women/vero-moda/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-frenchconnection-women.jpg",
+    "Exit Url": "/women/french-connection/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|veromodassseventeen|ALL|NA"
+    "EventLabel": "BRA|WC-WA|wcwafrenchconnectionss17|ALL|NA|french-connection"
   },
   {
     "Placement": "wfb2",
@@ -103,21 +103,21 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-riapr-women.jpg",
-    "Exit Url": "/river-island-singapore/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-veromoda-women.jpg",
+    "Exit Url": "/women/vero-moda/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|riverislandss17|ALL|NA"
+    "EventLabel": "BRA|Women|veromodassseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-nica-women.jpg",
-    "Exit Url": "/women/nica/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-fossil-women.jpg",
+    "Exit Url": "/women/fossil/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WA|wanicass17|ALL|NA|nica"
+    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
   },
   {
     "Placement": "wfb6",
@@ -133,28 +133,28 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-beauty-women.jpg",
-    "Exit Url": "/women/cosmetics/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-skirtsapr-women.jpg",
+    "Exit Url": "/women/clothing/skirts",
     "Headline": "NA",
-    "Subline": "Shop Beauty >",
-    "EventLabel": "SUB|WBE|beautywomen|ALL|NA"
+    "Subline": "Shop Skirts >",
+    "EventLabel": "SUB|WC|skirtswomen|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-skirts-women.jpg",
-    "Exit Url": "/women/clothing/skirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-flatsapr-women.jpg",
+    "Exit Url": "/women/shoes/flats",
     "Headline": "NA",
-    "Subline": "Shop Skirts >",
-    "EventLabel": "SUB|WC|skirtsswomen|ALL|NA"
+    "Subline": "Shop Flats >",
+    "EventLabel": "SUB|WS|flatsswomen|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C3_375x500-dresses-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C3_375x500-topsapr-women.jpg",
+    "Exit Url": "/women/clothing/fashion-tops",
     "Headline": "NA",
     "Subline": "Shop Tops >",
     "EventLabel": "SUB|WC|topswomen|ALL|NA"
@@ -163,61 +163,61 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-flats-women.jpg",
-    "Exit Url": "/women/shoes/flats",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-playsuitapr-women.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits",
     "Headline": "NA",
-    "Subline": "Shop Flats >",
-    "EventLabel": "SUB|WS|flatswomen|ALL|NA"
+    "Subline": "Shop Playsuits & Jumpsuits >",
+    "EventLabel": "SUB|WC|jumpsuitswomen|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-acce-women.jpg",
-    "Exit Url": "/women/accessories/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-heelsapr-women.jpg",
+    "Exit Url": "/women/shoes/heels",
     "Headline": "NA",
-    "Subline": "Shop Accessories >",
-    "EventLabel": "SUB|WA|accessorieswomen|ALL|NA"
+    "Subline": "Shop Heels >",
+    "EventLabel": "SUB|WS|heelswomen|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-hollister-men.jpg",
-    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-aandf-men.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?getSKU=AB423AA13GLYMY--AB423AA93GMSMY--AB423AA83GNCMY--AB423AA63GNWMY--AB423AA58GOBMY--AB423AA52GOHMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
+    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-clarks-men.jpg",
-    "Exit Url": "/men/clarks/",
-    "Headline": "Clarks",
-    "Subline": "Let these contemporary shoes put a spring in your step.",
-    "EventLabel": "BRA|Men|clarks2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-jaxonapr-men.jpg",
+    "Exit Url": "/men/jaxon-shop",
+    "Headline": "Jaxon",
+    "Subline": "Get acquainted with casual wear that’s made to tackle work and play.",
+    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon|"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-denim-men.jpg",
-    "Exit Url": "/men/denimpage/",
-    "Headline": "Destination Denim",
-    "Subline": "Start your journey with our best denim picks this Spring.",
-    "EventLabel": "TRE|men|Aprildenimcampaign|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-enjoyvc-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=enjoy18vc",
+    "Headline": "Get Rewarded With 18% Off",
+    "Subline": "Use code ENJOY18 (min. spend of SGD100) for more savings on your earnings.",
+    "EventLabel": "SAL|Men|ENJOYVC|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-life81-men.jpg",
-    "Exit Url": "/men/life8/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-frenchconnection-men.jpg",
+    "Exit Url": "/men/french-connection/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
+    "EventLabel": "BRA|WC-WA|wcwafrenchconnectionss17|ALL|NA|french-connection"
   },
   {
     "Placement": "mfb2",
@@ -233,7 +233,7 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-fossil1-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-fossil-men.jpg",
     "Exit Url": "/men/fossil",
     "Headline": "NA",
     "Subline": "NA",
@@ -293,11 +293,11 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C3_375x500-tshirts-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C3_375x500-shirts-men.jpg",
+    "Exit Url": "/men/clothing/shirts",
     "Headline": "NA",
-    "Subline": "Shop T-Shirts >",
-    "EventLabel": "CAT|Men|ss17tshirts|ALL|NA"
+    "Subline": "Shop Shirts >",
+    "EventLabel": "CAT|Men|ss17shirts|ALL|NA"
   },
   {
     "Placement": "mc4",
@@ -323,47 +323,47 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILEWEB_HERO_600x600-denimstory-women.jpg",
-    "Exit Url": "/women/denimpage/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILE_WEB_HERO_600x600-aprilnewarrivals-women.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|Aprildenimcampaign1|ALL|NA"
+    "EventLabel": "NA|Women|aprilnewarrival|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-clarks-women.jpg",
-    "Exit Url": "/women/clarks/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-denimwk2-women.jpg",
+    "Exit Url": "/women/denimpage/",
     "Headline": "Women NCU1",
-    "Subline": "Clarks",
-    "EventLabel": "BRA|Women|clarks2ssseventeen|ALL|ZAP"
+    "Subline": "Destination Denim",
+    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-hollister-women.jpg",
-    "Exit Url": "/women/hollister/?getSKU=HO422AA47GKQMY--HO422AA44GKTMY--HO422AA42GKVMY--HO422AA72GVFMY--HO422AA46GKRMY--HO422AA53GKKMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-aandf-women.jpg",
+    "Exit Url": "/women/abercrombie-fitch/?getSKU=AB423AA48EMPMY--AB423AA31GLGMY--AB423AA30GLHMY--AB423AA24GLNMY--AB423AA19GLSMY--AB423AA27GLKMY",
     "Headline": "Women NCU2",
-    "Subline": "Hollister",
-    "EventLabel": "BRA|Women|hollisterlaunch|ALL|NA"
+    "Subline": "Abercrombie & Fitch",
+    "EventLabel": "BRA|Women|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-beauty-women.jpg",
-    "Exit Url": "/women/beauty",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-skirtsapr-women.jpg",
+    "Exit Url": "/women/clothing/skirts",
     "Headline": "Women C1",
-    "Subline": "Beauty",
-    "EventLabel": "CAT|WC|beautyapr|ALL|NA"
+    "Subline": "Skirts",
+    "EventLabel": "CAT|WC|skirtsapr|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C1245_300x198-topsmarch-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/C5_300x198-topsapr-women.jpg",
     "Exit Url": "/women/clothing/fashion-tops",
     "Headline": "Women C2",
     "Subline": "Tops",
@@ -383,41 +383,41 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-clarks-men.jpg",
-    "Exit Url": "/men/clarks/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-jaxonapr-men.jpg",
+    "Exit Url": "/men/jaxon-shop",
     "Headline": "Men NCU1",
-    "Subline": "Clarks",
-    "EventLabel": "BRA|Men|clarks2ssseventeen|ALL|ZAP"
+    "Subline": "Jaxon",
+    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon|"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-life8-men.jpg",
-    "Exit Url": "/men/life8/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N2_NEWARRIVALS_620x420-enjoyvc-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=enjoy18vc",
     "Headline": "Men NCU2",
-    "Subline": "Life8",
-    "EventLabel": "BRA|Men|life8ss17|ALL|NA"
+    "Subline": "Get Rewarded With 18% Off",
+    "EventLabel": "SAL|Men|ENJOYVC|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-backpacks-men.jpg",
-    "Exit Url": "/men/bags/backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-pants-men.jpg",
+    "Exit Url": "/men/clothing/pants",
     "Headline": "Men C1",
-    "Subline": "Backpacks",
-    "EventLabel": "CAT|Men|ss17backpacks|ALL|NA"
+    "Subline": "Pants",
+    "EventLabel": "CAT|Men|ss17pants|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-tshirts-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-shirts-men.jpg",
+    "Exit Url": "/men/clothing/shirts",
     "Headline": "Men C2",
-    "Subline": "T-Shirts",
-    "EventLabel": "CAT|Men|ss17tshirts|ALL|NA"
+    "Subline": "Shirts",
+    "EventLabel": "CAT|Men|ss17shirts|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -433,11 +433,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/fpseason/SEGMENT_HEADER_326x304-florals-hp-dsk.jpg",
-    "Exit Url": "/women/all-products/floral/?getSKU=ST343AA42ITPMY",
-    "Headline": "Blossoming Splendour",
-    "Subline": "Floral prints to keep your wardrobe in bloom.",
-    "EventLabel": "THE|NA|womenss17floralflowerstrend|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HEADER_326x304-denimwk2-women.jpg",
+    "Exit Url": "/women/denimpage/",
+    "Headline": "Destination Denim",
+    "Subline": "Fashion trends come and go, but denim is here to stay.",
+    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
   },
   {
     "Placement": "ub2",
