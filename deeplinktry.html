@@ -221,15 +221,16 @@
         });
     }
 
-    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain) {
-        var campaignName = desktopURL.split("cmpgn_one=")[1];
-
+    function getCSA(csaMain) {
         $('#js-eventlabel-url').keypress(function () {
             var eventLabelSplit = $(this).val().split("|");
             var eventLabelMain = eventLabelSplit[2];
-            var csaMain = $("#js-eventlabelmain-url").html(eventLabelMain);
+            
         });
-        
+    }
+    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain) {
+        var campaignName = desktopURL.split("cmpgn_one=")[1];
+        var csaMain = $("#js-eventlabelmain-url").html(eventLabelMain);
         var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName;
         $("#js-deeeplink-url").val("" + camapignDeepLink + "&csa=" + csaMain);
     }
