@@ -26,7 +26,17 @@
             <div class="cms-sub-heading mbl">Category DeepLink</div>
             <input type="text" id="js-cat-deeeplink-url"/>
         </div>
-
+        
+        <div class="cms-full txtCenter mtxl">            
+            <div class="cms-sub-heading mbl">EventLabel</div>
+            <input type="text" id="js-eventlabel-url"/>
+        </div>
+    </div>
+    
+    <div class="cms-row">
+        <div class="cms-full mtxxl">
+            <input type="text" />
+        </div>
     </div>
 
 </div>
@@ -64,6 +74,12 @@
                 processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle);
             }
         }
+    }
+    
+    //Get CSA 
+    function getCSA() {
+        var eventLabelSplit = $('input[type="text"]#js-eventlabel-url').text().split("|");
+        var eventLabelMain = eventLabelSplit[2];
     }
 
     //Get Category URL Key 
@@ -122,6 +138,10 @@
                 brandDeepLink = "/urlc/products/?specialKey=all&segment=";
                 break;
             }
+            else if (desktopSplitURL[i] == "new-products") {
+                brandDeepLink = "/urlc/products/?specialKey=new&segment=";
+                break;
+            }
             else
                 brandDeepLink = "/urlc/products/?segment=";
         }
@@ -166,7 +186,7 @@
     function processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle) {
         var brandID = null;
         $.getJSON(jsonDump, function (loadBrands) {
-            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&brandIds[]=";
+            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&brandIds[]="  + "&csa=" + eventLabelMain;
             for (var i = 0; i < loadBrands.length; i++) {
                 if (loadBrands[i].url_key == needle) {
                     brandID = loadBrands[i].id_catalog_brand;
@@ -182,7 +202,7 @@
     function processCategoryURL(desktopURL, jsonDump, getCountry, getGender, needle) {
         var categoryID = null;
         $.getJSON(jsonDump, function (loadBrands) {
-            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId=";
+            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId="  + "&csa=" + eventLabelMain;
             for (var i = 0; i < loadBrands.length; i++) {
                 if (loadBrands[i].category_url == needle) {
                     brandID = loadBrands[i].fk_catalog_category;
@@ -197,7 +217,7 @@
 
     function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender) {
         var campaignName = desktopURL.split("cmpgn_one=")[1];
-        var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName;
+        var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName  + "&csa=" + eventLabelMain;
         $("#js-deeeplink-url").val("" + camapignDeepLink);
     }
 
