@@ -16,25 +16,29 @@
             <div class="cms-sub-heading mbl">Main CSA</div>
             <a id="js-eventlabelmain-url"></a>
         </div>
+    </div>
+    
+    <div class="cms-row">
+        <div class="cms-full">
+            <div class="cms-half txtCenter mtxl">
+                <div class="cms-sub-heading mbl">Brand & cmpgn_one Desktop URL</div>
+                <input type="text" id="js-desktop-url"/>
+            </div> 
 
-        <div class="cms-half txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Brand & cmpgn_one Desktop URL</div>
-            <input type="text" id="js-desktop-url"/>
-        </div> 
+            <div class="cms-half txtCenter mtxl">
+                <div class="cms-sub-heading mbl">Brand DeepLink</div>
+                <input type="text" id="js-deeeplink-url"/>
+            </div>
 
-        <div class="cms-half txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Brand DeepLink</div>
-            <input type="text" id="js-deeeplink-url"/>
-        </div>
+            <div class="cms-half txtCenter mtxl">
+                <div class="cms-sub-heading mbl">Category Desktop URL</div>
+                <input type="text" id="js-desktop-category-url"/>
+            </div> 
 
-        <div class="cms-half txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Category Desktop URL</div>
-            <input type="text" id="js-desktop-category-url"/>
-        </div> 
-
-        <div class="cms-half txtCenter mtxl">
-            <div class="cms-sub-heading mbl">Category DeepLink</div>
-            <input type="text" id="js-cat-deeeplink-url"/>
+            <div class="cms-half txtCenter mtxl">
+                <div class="cms-sub-heading mbl">Category DeepLink</div>
+                <input type="text" id="js-cat-deeeplink-url"/>
+            </div>
         </div>
     </div>
 
@@ -51,7 +55,6 @@
     $('#js-eventlabel-url').keypress(function () {
         var eventLabelSplit = $(this).val().split("|");
         var eventLabelMain = eventLabelSplit[2];
-        var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
     });
 
     //Main I/O Function
@@ -221,7 +224,7 @@
 
     function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, getCSA) {
         var campaignName = desktopURL.split("cmpgn_one=")[1];
-        var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName + "&csa=" + getCSA;
+        var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName + "&csa=" + $('#js-eventlabelmain-url').html(eventLabelMain);
         $("#js-deeeplink-url").val("" + camapignDeepLink);
     }
 
