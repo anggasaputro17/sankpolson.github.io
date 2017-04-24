@@ -14,10 +14,10 @@
 
         <div class="cms-half txtCenter mtxl">            
             <div class="cms-sub-heading mbl">Main CSA</div>
-            <div id="js-eventlabelmain-url"></div>
+            <a id="js-eventlabelmain-url"></a>
         </div>
     </div>
-    
+
     <div class="cms-row">
         <div class="cms-full">
             <div class="cms-half txtCenter mtxl">
@@ -51,14 +51,14 @@
 </div>
 
 <script>
-   
+
 
     //Main I/O Function
-    function getBrandFinalDeepLink(desktopURL) { 
+    function getBrandFinalDeepLink(desktopURL) {
         var desktopSplitURL = desktopURL.split("/");
         var needle = desktopSplitURL[3];
         var getGender;
-        
+
 
         if (desktopSplitURL[3] == "women" || desktopSplitURL[3] == "men") {
             needle = desktopSplitURL[4];
@@ -73,8 +73,8 @@
         //Get Country Dump
         var jsonDump = getCountryJSON(getCountry);
         console.log(jsonDump);
-                    
-        var csaMain = $( "#js-eventlabelmain-url" ).append(eventLabelMain);
+
+        var csaMain = $("#js-eventlabelmain-url").append(eventLabelMain);
         console.log(csaMain);
 
         //Generate Deeplink
@@ -170,9 +170,12 @@
     }
 
     function getCSA() {
-         var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
-        var eventLabelMain = eventLabelSplit[2];
-        $( "#js-eventlabelmain-url" ).append(eventLabelMain);
+        $('#js-eventlabel-url').keypress(function () {
+            var eventLabelSplit = $(this).val().split("|");
+            var eventLabelMain = eventLabelSplit[2];
+
+            var csaMain = $("#js-eventlabelmain-url").append(eventLabelMain);
+        });
     }
     function processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender) {
         var desktopBrandList = desktopURL.split("brand=")[1];
@@ -229,7 +232,7 @@
     function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain) {
         var campaignName = desktopURL.split("cmpgn_one=")[1];
         var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName;
-        $("#js-deeeplink-url").val("" + camapignDeepLink  + "&csa=" + csaMain);
+        $("#js-deeeplink-url").val("" + camapignDeepLink + "&csa=" + csaMain);
     }
 
     $(function () {
