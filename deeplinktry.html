@@ -77,8 +77,11 @@
     }
     
     //Get CSA 
-        var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
+    $('#js-eventlabel-url').on('keyup change', function() {
+     var eventLabelSplit = $(this).val().split("|");
         var getCSA = eventLabelSplit[2];
+});
+       
     
     //Get Category URL Key 
     function getCategoryFinalDeepLink(desktopURL) {
