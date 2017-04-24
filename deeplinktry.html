@@ -174,7 +174,7 @@
             var eventLabelSplit = $(this).val().split("|");
             var eventLabelMain = eventLabelSplit[2];
 
-            var csaMain = $("#js-eventlabelmain-url").append(eventLabelMain);
+            var csaMain = $("#js-eventlabelmain-url").html(eventLabelMain);
         });
     }
     function processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender) {
