@@ -76,13 +76,13 @@
 
         //Generate Deeplink
         if (desktopURL.indexOf("cmpgn_one") > -1)
-            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
+            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender);
         else {
             if (desktopURL.indexOf("brand") > -1) {
-                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
+                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender);
             }
             else {
-                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, getCSA);
+                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle);
             }
         }
     }
