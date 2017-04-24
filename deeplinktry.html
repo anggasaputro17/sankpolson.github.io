@@ -162,10 +162,10 @@
     }
 
     function processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender) {  
-    var csaMain = $('#js-eventlabelmain-url').text();
     var desktopBrandList = desktopURL.split("brand=")[1];
     desktopBrandList = desktopBrandList.split("--");
     console.log(desktopBrandList);
+    
     $.getJSON(jsonDump, function (loadBrands) {
     var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender;
     for (var i = 0; i < loadBrands.length; i++) {
@@ -176,14 +176,14 @@
     brandDeepLink = brandDeepLink + "&brandIds[]=" + brandID;
     }
     }
-    }
+    }  
+    var csaMain = $('#js-eventlabelmain-url').text();
     $("#js-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
     });
     }
 
     function processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle) {
     var brandID = null;
-    var csaMain = $('#js-eventlabelmain-url').text();
     $.getJSON(jsonDump, function (loadBrands) {
     var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&brandIds[]="
             for (var i = 0; i < loadBrands.length; i++) {
@@ -191,6 +191,7 @@
     brandID = loadBrands[i].id_catalog_brand;
     brandDeepLink += brandID;
     console.log(brandDeepLink);
+    var csaMain = $('#js-eventlabelmain-url').text();
     $("#js-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
     break;
     }
@@ -200,7 +201,6 @@
 
     function processCategoryURL(desktopURL, jsonDump, getCountry, getGender, needle) {
     var categoryID = null;
-    var csaMain = $('#js-eventlabelmain-url').text();
     $.getJSON(jsonDump, function (loadBrands) {
     var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId=";
     for (var i = 0; i < loadBrands.length; i++) {
@@ -208,6 +208,7 @@
     brandID = loadBrands[i].fk_catalog_category;
     brandDeepLink += brandID;
     console.log(brandDeepLink);
+    var csaMain = $('#js-eventlabelmain-url').text();
     $("#js-cat-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
     break;
     }
