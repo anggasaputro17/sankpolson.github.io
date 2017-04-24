@@ -6,6 +6,16 @@
 <div class="cms-container">
 
     <div class="cms-row">
+        
+        <div class="cms-half txtCenter mtxl">            
+            <div class="cms-sub-heading mbl">EventLabel</div>
+            <input type="text" id="js-eventlabel-url"/>
+        </div>
+        
+        <div class="cms-half txtCenter mtxl">            
+            <div class="cms-sub-heading mbl">Main CSA</div>
+            <input type="text" id="js-eventlabelmain-url"/>
+        </div>
 
         <div class="cms-half txtCenter mtxl">
             <div class="cms-sub-heading mbl">Brand & cmpgn_one Desktop URL</div>
@@ -26,16 +36,6 @@
             <div class="cms-sub-heading mbl">Category DeepLink</div>
             <input type="text" id="js-cat-deeeplink-url"/>
         </div>
-        
-        <div class="cms-half txtCenter mtxl">            
-            <div class="cms-sub-heading mbl">EventLabel</div>
-            <input type="text" id="js-eventlabel-url"/>
-        </div>
-        
-        <div class="cms-half txtCenter mtxl">            
-            <div class="cms-sub-heading mbl">Main CSA</div>
-            <input type="text" id="js-eventlabelmain-url"/>
-        </div>
     </div>
     
     <div class="cms-row">
@@ -47,6 +47,12 @@
 </div>
 
 <script>
+      //Get CSA 
+    function getCSAFinalDeepLink(desktopURL) {
+     var eventLabelSplit = desktopURL.split("|");
+        var getCSA = eventLabelSplit[2];
+}
+     
     //Main I/O Function
     function getBrandFinalDeepLink(desktopURL) {
 
@@ -70,23 +76,18 @@
 
         //Generate Deeplink
         if (desktopURL.indexOf("cmpgn_one") > -1)
-            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender);
+            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
         else {
             if (desktopURL.indexOf("brand") > -1) {
-                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender);
+                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
             }
             else {
-                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle);
+                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, getCSA);
             }
         }
     }
     
-    //Get CSA 
-    function getCSAFinalDeepLink(desktopURL) {
-     var eventLabelSplit = desktopURL.split("|");
-        var getCSA = eventLabelSplit[2];
-}
-       
+    
     
     //Get Category URL Key 
     function getCategoryFinalDeepLink(desktopURL) {
