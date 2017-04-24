@@ -1996,5 +1996,23 @@
     "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-fcuk-april17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /french-connection"
+  },
+  {
+    "Name": "Brand: Adidas Women",
+    "System ID": "b1373",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-adidas-women-april2017.jpg",
+    "Gender": "Women",
+    "Notes": "contains /adidas & /women"
+  },
+  {
+    "Name": "Brand: Adidas Men",
+    "System ID": "b1373",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-adidas-men-april2017.jpg",
+    "Gender": "Men",
+    "Notes": "contains /adidas & /men"
   }
 ]
