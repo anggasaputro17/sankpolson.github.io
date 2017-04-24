@@ -74,17 +74,16 @@
         var jsonDump = getCountryJSON(getCountry);
         console.log(jsonDump);
 
-        var csaMain = $("#js-eventlabelmain-url").html(eventLabelMain);
-        console.log(csaMain);
+       
 
         //Generate Deeplink
         if (desktopURL.indexOf("cmpgn_one") > -1)
-            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain);
+            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender);
         else {
             if (desktopURL.indexOf("brand") > -1) {
-                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender, csaMain);
+                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender);
             } else {
-                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, csaMain);
+                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle);
             }
         }
     }
