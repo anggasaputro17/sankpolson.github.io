@@ -54,7 +54,7 @@
     //Get CSA 
     function getCSAFinalDeepLink(desktopURL) {
     
-        var eventLabelSplit = $(this).val().split("|");
+        var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
         var eventLabelMain = eventLabelSplit[2];
         
         var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
