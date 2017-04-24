@@ -77,10 +77,8 @@
     }
     
     //Get CSA 
-    function getCSA(eventLabel){
-        var eventLabelSplit = eventLabel.split("|");
+        var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
         var getCSA = eventLabelSplit[2];
-    }
     
     //Get Category URL Key 
     function getCategoryFinalDeepLink(desktopURL) {
@@ -226,13 +224,6 @@
             var desktopCampaignURL = $(this).val();
             $("#js-deeeplink-url").val("");
             getBrandFinalDeepLink(desktopCampaignURL);
-        });
-        
-        
-        $("input[type='text']#js-eventlabel-url").change(function () {
-            var desktopCampaignURL = $(this).val();
-            $("#js-eventlabel-url").val("");
-            getCSA(desktopCampaignURL);
         });
 
         $("input[type='text']#js-desktop-category-url").change(function () {
