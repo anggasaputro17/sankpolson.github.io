@@ -54,11 +54,7 @@
    
 
     //Main I/O Function
-    function getBrandFinalDeepLink(desktopURL) {
-        var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
-        var eventLabelMain = eventLabelSplit[2];
-        var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
-
+    function getBrandFinalDeepLink(desktopURL) { 
         var desktopSplitURL = desktopURL.split("/");
         var needle = desktopSplitURL[3];
         var getGender;
@@ -77,15 +73,18 @@
         //Get Country Dump
         var jsonDump = getCountryJSON(getCountry);
         console.log(jsonDump);
+                    
+        var csaMain = getCSA();
+        console.log(csaMain);
 
         //Generate Deeplink
         if (desktopURL.indexOf("cmpgn_one") > -1)
-            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
+            processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain);
         else {
             if (desktopURL.indexOf("brand") > -1) {
-                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender, getCSA);
+                processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender, csaMain);
             } else {
-                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, getCSA);
+                processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, csaMain);
             }
         }
     }
@@ -170,6 +169,12 @@
         return countryFileDump;
     }
 
+    function getCSA() {
+         var eventLabelSplit = $('#js-eventlabel-url').val().split("|");
+        var eventLabelMain = eventLabelSplit[2];
+        
+        var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
+    }
     function processBrandFilteredURL(desktopURL, jsonDump, getCountry, getGender) {
         var desktopBrandList = desktopURL.split("brand=")[1];
         desktopBrandList = desktopBrandList.split("--");
@@ -190,23 +195,23 @@
         });
     }
 
-    function processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, getCSA) {
+    function processBrandURL(desktopURL, jsonDump, getCountry, getGender, needle, csaMain) {
         var brandID = null;
         $.getJSON(jsonDump, function (loadBrands) {
-            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&brandIds[]=";
+            var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&brandIds[]="
             for (var i = 0; i < loadBrands.length; i++) {
                 if (loadBrands[i].url_key == needle) {
                     brandID = loadBrands[i].id_catalog_brand;
                     brandDeepLink += brandID;
                     console.log(brandDeepLink);
-                    $("#js-deeeplink-url").val("" + brandDeepLink) + "&csa=" + getCSA;
+                    $("#js-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
                     break;
                 }
             }
         });
     }
 
-    function processCategoryURL(desktopURL, jsonDump, getCountry, getGender, needle, getCSA) {
+    function processCategoryURL(desktopURL, jsonDump, getCountry, getGender, needle, csaMain) {
         var categoryID = null;
         $.getJSON(jsonDump, function (loadBrands) {
             var brandDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&categoryId=";
@@ -215,18 +220,17 @@
                     brandID = loadBrands[i].fk_catalog_category;
                     brandDeepLink += brandID;
                     console.log(brandDeepLink);
-                    $("#js-cat-deeeplink-url").val("" + brandDeepLink + "&csa=" + getCSA);
+                    $("#js-cat-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
                     break;
                 }
             }
         });
     }
 
-    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, getCSA) {
+    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain) {
         var campaignName = desktopURL.split("cmpgn_one=")[1];
-        var getCSA = $('#js-eventlabelmain-url').html(eventLabelMain);
         var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName;
-        $("#js-deeeplink-url").val("" + camapignDeepLink  + "&csa=" + getCSA);
+        $("#js-deeeplink-url").val("" + camapignDeepLink  + "&csa=" + csaMain);
     }
 
     $(function () {
