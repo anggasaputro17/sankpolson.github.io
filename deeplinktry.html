@@ -74,7 +74,7 @@
         var jsonDump = getCountryJSON(getCountry);
         console.log(jsonDump);
 
-        var csaMain = $("#js-eventlabelmain-url").append(eventLabelMain);
+        var csaMain = getCSA();
         console.log(csaMain);
 
         //Generate Deeplink
@@ -193,7 +193,7 @@
                     }
                 }
             }
-            $("#js-deeeplink-url").val("" + brandDeepLink);
+            $("#js-deeeplink-url").val("" + brandDeepLink + "&csa=" + csaMain);
         });
     }
 
