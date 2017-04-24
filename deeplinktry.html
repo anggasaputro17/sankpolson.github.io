@@ -212,10 +212,9 @@
     var eventLabelSplit = $(this).val().split("|");
     var eventLabelMain = eventLabelSplit[2];
     var getCSA = $("#js-eventlabelmain-url").html(eventLabelMain);
-    var csaMain = $('#js-eventlabelmain-url').text();
     });
 
-    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender, csaMain) {
+    function processCampaignOneURL(desktopURL, jsonDump, getCountry, getGender) {
     var campaignName = desktopURL.split("cmpgn_one=")[1]; 
     var csaMain = $('#js-eventlabelmain-url').text();
     var camapignDeepLink = getCountry + getBaseDeepLink(desktopURL) + getGender + "&cmpgnOne=" + campaignName;
