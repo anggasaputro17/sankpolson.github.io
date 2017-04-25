@@ -449,6 +449,16 @@
     "Subline": "裙子 &gt;",
     "EventLabel": "NewA|NA|wskirtsapr17|ALL"
   },
+   {
+    "Placement": "wlp1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_retro_0421.jpg",
+    "Exit Url": "/women/asias-next-top-model-5/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "MRC|Women|ASNTMS5Ep4Retro|ALL|NA"
+  },
   {
     "Placement": "wc2",
     "Gender": "women",
