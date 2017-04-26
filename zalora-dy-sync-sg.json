@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/RAYA-Rizalman-Jubilee_Desktop_Hero.jpg",
-    "Exit Url": "/women/rizalman-for-zalora/?sort=latest%20arrival",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/SEGMENT_HERO_996x500-aprilnewarrivals-women.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|Rizalman|ALL|NA"
+    "EventLabel": "NA|Women|aprilnewarrival|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/RAYA-Rizalman-Jubilee_Mobile_Hero.jpg",
-    "Exit Url": "/women/rizalman-for-zalora/?sort=latest%20arrival",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/MOBILE_WEB_HERO_600x600-aprilnewarrivals-women.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|Rizalman|ALL|NA"
+    "EventLabel": "NA|Women|aprilnewarrival|ALL|NA"
   },
   {
     "Placement": "wn1",
