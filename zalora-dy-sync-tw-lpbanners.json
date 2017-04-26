@@ -1328,5 +1328,33 @@
     "Name": "Asics Tiger",
     "Image": "https://static-tw.zacdn.com/cms/brands/ASICSTiger_LP_996x250.jpg",
     "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Love Moschino",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LoveMoschino_LP_996x250.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Miss KG",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MissKG_LP_996x250.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Carvela",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Carvela_LP_996x250.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Kurt Geiger",
+    "Image": "https://static-tw.zacdn.com/cms/brands/KGKurtGeiger_LP_996x250.jpg",
+    "Copy": "NA"
   }
 ]
