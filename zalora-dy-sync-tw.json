@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_denim_0424.jpg",
-    "Exit Url": "/women/denimpage/",
-    "Headline": "百變丹寧",
-    "Subline": "潮流時尚變遷 唯丹寧永不退色",
-    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_320x420_benetton_0428.jpg,
+    "Exit Url": "/women/united-colors-of-benetton/",
+    "Headline": "United Colors Of Benetton",
+    "Subline": "帶您玩味潮流世界",
+    "EventLabel": "BRA|Women|unitedcolorsofbenetton2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_jaxon_0421.jpg",
-    "Exit Url": "/men/jaxon/",
-    "Headline": "Jaxon",
-    "Subline": "一種風格 掌握上班和休閒場合",
-    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_320x420_benetton_0428.jpg",
+    "Exit Url": "/men/united-colors-of-benetton/",
+    "Headline": "United Colors Of Benetton",
+    "Subline": "帶您玩味潮流世界",
+    "EventLabel": "BRA|Men|unitedcolorsofbenetton2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
@@ -373,11 +373,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_jaxon_0421.jpg",
-    "Exit Url": "/men/jaxon/",
-    "Headline": "Jaxon",
-    "Subline": "一種風格 掌握上班和休閒場合",
-    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_620x420_benetton_0428.jpg",
+    "Exit Url": "/men/united-colors-of-benetton/",
+    "Headline": "United Colors Of Benetton",
+    "Subline": "帶您玩味潮流世界",
+    "EventLabel": "BRA|Men|unitedcolorsofbenetton2ssseventeen|ALL|ZAP
   },
   {
     "Placement": "mn2",
@@ -423,11 +423,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_denim_0421.jpg",
-    "Exit Url": "/women/denimpage/",
-    "Headline": "百變丹寧",
-    "Subline": "潮流時尚變遷 唯丹寧永不退色",
-    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_620x420_benetton_0428.jpg",
+    "Exit Url": "/women/united-colors-of-benetton/",
+    "Headline": "United Colors Of Benetton",
+    "Subline": "帶您玩味潮流世界",
+    "EventLabel": "BRA|Women|unitedcolorsofbenetton2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
