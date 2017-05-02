@@ -384,8 +384,8 @@
 		"Device": "mobile",
 		"Image": "https://static-hk.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_wingtai_0428.jpg",
 		"Exit Url": "/men/special-price/?sort=price&dir=desc&discount=45-100&brand=topman--burton-menswear-london",
-		"Headline": "低至5折優惠",
-		"Subline": "享有Topman和Burton Menswear London品牌獨家優惠",
+		"Headline": "NA",
+		"Subline": "低至5折優惠<br>享有Topman和Burton Menswear London<br>品牌獨家優惠",
 		"EventLabel": "BRA-SAL|Men|WingTaiMSSonessseventeen|ALL|NA"
 	},
 	{
@@ -434,8 +434,8 @@
 		"Device": "mobile",
 		"Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_mothers_day_2017.jpg",
 		"Exit Url": "/mothers-day/",
-		"Headline": "妳最珍貴",
-		"Subline": "選購母親節時尚禮品  向母親表達愛意",
+		"Headline": "NA",
+		"Subline": "妳最珍貴<br>\n選購母親節時尚禮品  向母親表達愛意",
 		"EventLabel": "RET|Women|MothersDay|ALL|NA"
 	},
 	{
@@ -463,7 +463,7 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_backtoblack_0502.jpg",
-		"Exit Url": "/women/asias-next-top-model-5/",
+		"Exit Url": "/women/asias-next-top-model-5",
 		"Headline": "NA",
 		"Subline": "NA",
 		"EventLabel": "MRC|Women|ASNTMS5Ep5BackInBlack|ALL|NA"
