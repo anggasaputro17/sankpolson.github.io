@@ -3,7 +3,7 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/May2017/SEGMENT_HERO_996x500-tops-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-tops-women.jpg",
     "Exit Url": "/women/clothing/fashion-tops/new-products/?getSKU=HI420AA61AFQMY",
     "Headline": "NA",
     "Subline": "NA",
@@ -14,7 +14,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-bridesmaidcollectionwk2-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=bridesmaidscollection",
+    "Exit Url": "/women/clothing/evening-dresses/",
     "Headline": "Bridesmaid Beautiful",
     "Subline": "Captivate your senses with these unforgettable dresses.",
     "EventLabel": "NA|Women|Bridesmaidscollection2|ALL|NA"
@@ -334,7 +334,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-bridesmaidcollectionwk2-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=bridesmaidscollection",
+    "Exit Url": "/women/clothing/evening-dresses/",
     "Headline": "Women NCU1",
     "Subline": "Bridesmaid Beautiful",
     "EventLabel": "NA|Women|Bridesmaidscollection2|ALL|NA"
