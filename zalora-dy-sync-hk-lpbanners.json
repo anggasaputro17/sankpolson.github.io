@@ -2014,5 +2014,41 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-adidas-men-april2017.jpg",
     "Gender": "Men",
     "Notes": "contains /adidas & /men"
+  },
+  {
+    "Name": "Brand: Love Moschino",
+    "System ID": "b3380",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LoveMoschino_LP_996x250-may17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /love-moschino"
+  },
+  {
+    "Name": "Brand: Asics",
+    "System ID": "b960",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICS_LP_996x250-may17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /asics"
+  },
+  {
+    "Name": "Brand: Asics Tiger",
+    "System ID": "b2772",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICSTiger_LP_996x250-may17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /asics-tiger"
+  },
+  {
+    "Name": "Brand: Onitsuka Tiger",
+    "System ID": "b762",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/OnitsukaTiger_LP_996x250-may17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /onitsuka-tiger"
   }
 ]
