@@ -2021,7 +2021,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LoveMoschino_LP_996x250-may17.jpg",
-    "Gender": "Men",
+    "Gender": "Unisex",
     "Notes": "contains /love-moschino"
   },
   {
@@ -2030,7 +2030,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICS_LP_996x250-may17.jpg",
-    "Gender": "Men",
+    "Gender": "Unisex",
     "Notes": "contains /asics"
   },
   {
@@ -2039,7 +2039,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICSTiger_LP_996x250-may17.jpg",
-    "Gender": "Men",
+    "Gender": "Unisex",
     "Notes": "contains /asics-tiger"
   },
   {
@@ -2048,7 +2048,16 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/OnitsukaTiger_LP_996x250-may17.jpg",
-    "Gender": "Men",
+    "Gender": "Unisex",
     "Notes": "contains /onitsuka-tiger"
+  },
+  {
+    "Name": "Brand: Levi's",
+    "System ID": "b1468",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-levis-may2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /levis"
   }
 ]
