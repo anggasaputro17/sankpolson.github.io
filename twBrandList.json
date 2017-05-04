@@ -540,6 +540,11 @@
 		"url_key" : "armani-exchange"
 	},
 	{
+		"id_catalog_brand" : 1468,
+		"name" : "Levi's",
+		"url_key" : "levis"
+	},
+	{
 		"id_catalog_brand" : 1469,
 		"name" : "Vogue",
 		"url_key" : "vogue"
@@ -4663,5 +4668,35 @@
 		"id_catalog_brand" : 2472,
 		"name" : "Kent & Crew",
 		"url_key" : "kent-crew"
+	},
+	{
+		"id_catalog_brand" : 2473,
+		"name" : "SHEISBACK",
+		"url_key" : "sheisback"
+	},
+	{
+		"id_catalog_brand" : 2474,
+		"name" : "CHENSON",
+		"url_key" : "chenson"
+	},
+	{
+		"id_catalog_brand" : 2475,
+		"name" : "Louis Quatorze",
+		"url_key" : "louis-quatorze"
+	},
+	{
+		"id_catalog_brand" : 2476,
+		"name" : "Yans Creation",
+		"url_key" : "yans-creation"
+	},
+	{
+		"id_catalog_brand" : 2477,
+		"name" : "Dune",
+		"url_key" : "dune"
+	},
+	{
+		"id_catalog_brand" : 2478,
+		"name" : "PAUL FRANK",
+		"url_key" : "paul-frank"
 	}
 ]
