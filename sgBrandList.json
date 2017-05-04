@@ -1330,11 +1330,6 @@
 		"url_key" : "stitch"
 	},
 	{
-		"id_catalog_brand" : 2137,
-		"name" : "Alpinepac",
-		"url_key" : "alpinepac"
-	},
-	{
 		"id_catalog_brand" : 2139,
 		"name" : "Miss Chase",
 		"url_key" : "miss-chase"
@@ -3648,11 +3643,6 @@
 		"id_catalog_brand" : 3243,
 		"name" : "Zuna Sports",
 		"url_key" : "zuna-sports"
-	},
-	{
-		"id_catalog_brand" : 3244,
-		"name" : "Mountainsmith",
-		"url_key" : "mountainsmith"
 	},
 	{
 		"id_catalog_brand" : 3246,
@@ -6380,11 +6370,6 @@
 		"url_key" : "eccentric"
 	},
 	{
-		"id_catalog_brand" : 4173,
-		"name" : "Contract Brand",
-		"url_key" : "contract-brand"
-	},
-	{
 		"id_catalog_brand" : 4174,
 		"name" : "NS Test",
 		"url_key" : "ns-test"
@@ -7103,5 +7088,35 @@
 		"id_catalog_brand" : 4317,
 		"name" : "Kent & Crew",
 		"url_key" : "kent-crew"
+	},
+	{
+		"id_catalog_brand" : 4318,
+		"name" : "toffee",
+		"url_key" : "toffee"
+	},
+	{
+		"id_catalog_brand" : 4319,
+		"name" : "SHEISBACK",
+		"url_key" : "sheisback"
+	},
+	{
+		"id_catalog_brand" : 4320,
+		"name" : "Sometime designed by Rizalman",
+		"url_key" : "sometime-designed-by-rizalman"
+	},
+	{
+		"id_catalog_brand" : 4321,
+		"name" : "Louis Quatorze",
+		"url_key" : "louis-quatorze"
+	},
+	{
+		"id_catalog_brand" : 4322,
+		"name" : "Yans Creation",
+		"url_key" : "yans-creation"
+	},
+	{
+		"id_catalog_brand" : 4323,
+		"name" : "Dune",
+		"url_key" : "dune"
 	}
 ]
