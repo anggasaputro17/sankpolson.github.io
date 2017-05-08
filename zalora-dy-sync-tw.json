@@ -133,21 +133,21 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_watches_0505.jpg",
-    "Exit Url": "/women/watches/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_beauty_0407.jpg",
+    "Exit Url": "/women/beauty/",
     "Headline": "NA",
-    "Subline": "女裝手錶 &gt;",
-    "EventLabel": "NewA|NA|wwatchesmay|ALL"
+    "Subline": "美容保養 &gt;",
+    "EventLabel": "NewA|NA|wbeautymay|ALL"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_1111_300X198_WOMENS_HEELS_0421.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_watches_0505.jpg",
+    "Exit Url": "/women/watches/",
     "Headline": "NA",
-    "Subline": "高跟鞋 &gt;",
-    "EventLabel": "NewA|NA|wheels17|ALL"
+    "Subline": "女裝手錶 &gt;",
+    "EventLabel": "NewA|NA|wwatchesmay|ALL"
   },
   {
     "Placement": "wc3",
@@ -443,21 +443,21 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_watches_0505.jpg",
-    "Exit Url": "/women/watches/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_beauty_0407.jpg",
+    "Exit Url": "/women/beauty/",
     "Headline": "NA",
-    "Subline": "女裝手錶 &gt;",
-    "EventLabel": "NewA|NA|wwatchesmay|ALL"
+    "Subline": "美容保養 &gt;",
+    "EventLabel": "NewA|NA|wbeautymay|ALL"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_1111_300X198_WOMENS_HEELS_0421.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_watches_0505.jpg",
+    "Exit Url": "/women/watches/",
     "Headline": "NA",
-    "Subline": "高跟鞋 &gt;",
-    "EventLabel": "NewA|NA|wheels17|ALL"
+    "Subline": "女裝手錶 &gt;",
+    "EventLabel": "NewA|NA|wwatchesmay|ALL"
   },
   {
     "Placement": "wlp1",
