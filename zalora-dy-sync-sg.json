@@ -3,81 +3,81 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-tops-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/new-products/?getSKU=HI420AA61AFQMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-mothersday-women.jpg",
+    "Exit Url": "/mothers-day/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Women|maytops|ALL|NA"
+    "EventLabel": "RET|Women|MothersDayTwo|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-bridesmaidcollectionwk2-women.jpg",
-    "Exit Url": "/women/clothing/evening-dresses/",
-    "Headline": "Bridesmaid Beautiful",
-    "Subline": "Captivate your senses with these unforgettable dresses.",
-    "EventLabel": "NA|Women|Bridesmaidscollection2|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/FOREVERNEW_N1_360x420-desktop.jpg",
+    "Exit Url": "/women/forever-new/",
+    "Headline": "Forever New",
+    "Subline": "Set your own trends when you bring home these signature styles.",
+    "EventLabel": "BRA|Women|ForeverNew3ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-mothersday-women.jpg",
-    "Exit Url": "/mothers-day/",
-    "Headline": "Mum’s The World",
-    "Subline": "Look nowhere else to find the perfect Mother’s Day present.",
-    "EventLabel": "RET|Women|MothersDay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-lovemoschino-women.jpg",
+    "Exit Url": "/women/love-moschino/",
+    "Headline": "Love Moschino",
+    "Subline": "Take your pick from an array of edgy designs and up your style game today.",
+    "EventLabel": "BRA|Women|lovemoschinossseventeen|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-borrowfromtheboys-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=borrowfromtheboys",
-    "Headline": "Borrowed From The Boys",
-    "Subline": "Broaden your style options with a range of menswear-inspired pieces.",
-    "EventLabel": "TRE|Women|borrowfromtheboys|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/CU1_NEWARRIVALS_620x420-daytonightlook-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=daytonightlook",
+    "Headline": "Day-to-Night Magic",
+    "Subline": "Add a dash of versatility to your outfit choices and stay fresh 24/7.",
+    "EventLabel": "TRE|Women|Daytonightlook|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-colouredheels-women.jpg",
-    "Exit Url": "/women/shoes/heels/?color=blue--green--multi--navy--orange--purple--red--yellow&sort=popularity&dir=desc&category_id=8",
-    "Headline": "Hued Heels",
-    "Subline": "Match your shoes to your outfit for some serious style elevation.",
-    "EventLabel": "CAT|Women|AprilColouredHeels|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-ruffles-women.jpg",
+    "Exit Url": "/product-index/mayruffle/",
+    "Headline": "The Ruffle Effect",
+    "Subline": "Flaunt those frills to add wavy layers to your outfit instantly.",
+    "EventLabel": "CAT|Women|RuffleMay|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-sportsfootwear-women.jpg",
-    "Exit Url": "/women/sports/sports-footwear/",
-    "Headline": "Beyond The Finish Line",
-    "Subline": "Pound the pavement with sports shoes that go the extra distance.",
-    "EventLabel": "CAT|Women|AprilSportsShoes|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-bags20-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bags20offvc",
+    "Headline": "It's In The Bag",
+    "Subline": "Use code BAGS20 for 20% off (no min. spend, selected items only).",
+    "EventLabel": "CAT|Women|BagsMay|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-bluesfeel-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=springtimeblues",
-    "Headline": "Springtime Blues",
-    "Subline": "Immerse yourself in dreamy patterns and tranquil colours this season.",
-    "EventLabel": "TRE|Women|BluesFeel|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-puresimplicity-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=puresimplicity&getSKU=B27CFAAF9C169FGS",
+    "Headline": "Pure Simplicity",
+    "Subline": "Less is more with this season’s understated minimalist trend.",
+    "EventLabel": "TRE|Women|PureSimplicity|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-frenchconnection-women.jpg",
-    "Exit Url": "/women/french-connection/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-mango-women.jpg",
+    "Exit Url": "/women/mango-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC-WA|wcwafrenchconnectionss17|ALL|NA|french-connection"
+    "EventLabel": "BRA|Women|mango2ss17|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -137,17 +137,17 @@
     "Exit Url": "/women/cosmetics",
     "Headline": "NA",
     "Subline": "Shop Beauty >",
-    "EventLabel": "SUB|WBE|beautywomen|ALL|NA"
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-heelsapr-women.jpg",
-    "Exit Url": "/women/shoes/heels",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-watches-women.jpg",
+    "Exit Url": "/women/watches",
     "Headline": "NA",
-    "Subline": "Shop Heels >",
-    "EventLabel": "SUB|WS|heelswomen|ALL|NA"
+    "Subline": "Shop Watches >",
+    "EventLabel": "CAT|Women|watches|ALL|NA"
   },
   {
     "Placement": "wc3",
@@ -157,17 +157,17 @@
     "Exit Url": "/women/clothing/dresses",
     "Headline": "NA",
     "Subline": "Shop Dresses >",
-    "EventLabel": "SUB|WC|dresseswomen|ALL|NA"
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-acce-women.jpg",
-    "Exit Url": "/women/accessories",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-topsapr-women.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/",
     "Headline": "NA",
-    "Subline": "Shop Accessories >",
-    "EventLabel": "SUB|WA|accewomen|ALL|NA"
+    "Subline": "Shop Tops >",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc5",
@@ -177,7 +177,7 @@
     "Exit Url": "/women/shoes/flats",
     "Headline": "NA",
     "Subline": "Shop Flats >",
-    "EventLabel": "SUB|WS|flatsswomen|ALL|NA"
+    "EventLabel": "CAT|Women|flats|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -193,31 +193,31 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-jaxonapr-men.jpg",
-    "Exit Url": "/men/jaxon-shop",
-    "Headline": "Jaxon",
-    "Subline": "Get acquainted with casual wear that’s made to tackle work and play.",
-    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon|"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-gentlemanschoice-men.jpg",
+    "Exit Url": "/gentlemans-choice/",
+    "Headline": "The Gentleman's Choice",
+    "Subline": "Dapper, daring or just plain dashing - get your desired look right here.",
+    "EventLabel": "TRE|Men|GentlemanChoice|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-bestseller-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=apparelbestsellers",
-    "Headline": "Season’s Finest",
-    "Subline": "Grab these top-selling items and be a fashion front-runner today.",
-    "EventLabel": "CAT|Men|BestSellerApparel|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-buy3get30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mbuy3get30off",
+    "Headline": "Buy 3 Or More, Get 30% Off",
+    "Subline": "We just made it easier to bring home selected items you’ve been eyeing.",
+    "EventLabel": "SAL|Men|buy3ormoreget30off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/B1-6_322x165-frenchconnection-men.jpg",
-    "Exit Url": "/men/french-connection/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/B1-6_322x165-topman-men.jpg",
+    "Exit Url": "/topman-singapore",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC-WA|wcwafrenchconnectionss17|ALL|NA|french-connection"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb2",
@@ -273,21 +273,21 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-jeans-men.jpg",
-    "Exit Url": "/men/clothing/jeans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-shirts-men.jpg",
+    "Exit Url": "/men/clothing/shirts",
     "Headline": "NA",
-    "Subline": "Shop Jeans >",
-    "EventLabel": "CAT|Men|ss17jeans|ALL|NA"
+    "Subline": "Shop Shirts >",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-acce-men.jpg",
-    "Exit Url": "/men/accessories",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-pants-men.jpg",
+    "Exit Url": "/men/clothing/pants",
     "Headline": "NA",
-    "Subline": "Shop Accessories >",
-    "EventLabel": "CAT|Men|ss17acce|ALL|NA"
+    "Subline": "Shop Pants >",
+    "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "mc3",
@@ -297,7 +297,7 @@
     "Exit Url": "/men/clothing/t-shirts",
     "Headline": "NA",
     "Subline": "Shop T-Shirts >",
-    "EventLabel": "CAT|Men|ss17tshirts|ALL|NA"
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
@@ -307,47 +307,47 @@
     "Exit Url": "/men/sports",
     "Headline": "NA",
     "Subline": "Shop Sports >",
-    "EventLabel": "CAT|Men|ss17sports|ALL|NA"
+    "EventLabel": "CAT|Men|sports|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-sneakers-men.jpg",
-    "Exit Url": "/men/shoes/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-shorts-men.jpg",
+    "Exit Url": "/men/clothing/shorts",
     "Headline": "NA",
-    "Subline": "Shop Footwear >",
-    "EventLabel": "CAT|Men|ss17shoes|ALL|NA"
+    "Subline": "Shop Shorts >",
+    "EventLabel": "CAT|Men|shorts|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-tops-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/new-products/?getSKU=HI420AA61AFQMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-mothersday-women.jpg",
+    "Exit Url": "/mothers-day/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Women|maytops|ALL|NA"
+    "EventLabel": "RET|Women|MothersDayTwo|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-bridesmaidcollectionwk2-women.jpg",
-    "Exit Url": "/women/clothing/evening-dresses/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/FOREVERNEW_N2_620x420.jpg",
+    "Exit Url": "/women/forever-new/",
     "Headline": "Women NCU1",
-    "Subline": "Bridesmaid Beautiful",
-    "EventLabel": "NA|Women|Bridesmaidscollection2|ALL|NA"
+    "Subline": "Forever New",
+    "EventLabel": "BRA|Women|ForeverNew3ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-mothersday-women.jpg",
-    "Exit Url": "/mothers-day/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-lovemoschino-women.jpg",
+    "Exit Url": "/women/love-moschino/",
     "Headline": "Women NCU2",
-    "Subline": "Mum’s The World",
-    "EventLabel": "RET|Women|MothersDay|ALL|NA"
+    "Subline": "Love Moschino",
+    "EventLabel": "BRA|Women|lovemoschinossseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -357,7 +357,7 @@
     "Exit Url": "/women/cosmetics",
     "Headline": "Women C1",
     "Subline": "Beauty",
-    "EventLabel": "CAT|WBE|beauty|ALL|NA"
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "wc2",
@@ -367,7 +367,7 @@
     "Exit Url": "/women/clothing/dresses",
     "Headline": "Women C2",
     "Subline": "Dresses",
-    "EventLabel": "CAT|WC|dressewomen|ALL|NA"
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -383,31 +383,31 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/N1_NEWARRIVALS_360x420-jaxonapr-men.jpg",
-    "Exit Url": "/men/jaxon-shop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-gentlemanschoice-men.jpg",
+    "Exit Url": "/gentlemans-choice/",
     "Headline": "Men NCU1",
-    "Subline": "Jaxon",
-    "EventLabel": "BRA|NA|JaxonMenSG|ALL|NA|Jaxon|"
+    "Subline": "The Gentleman's Choice",
+    "EventLabel": "TRE|Men|GentlemanChoice|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-bestseller-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=apparelbestsellers",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-buy3get30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mbuy3get30off",
     "Headline": "Men NCU2",
-    "Subline": "Season’s Finest",
-    "EventLabel": "CAT|Men|BestSellerApparel|ALL|NA"
+    "Subline": "Buy 3 Or More, Get 30% Off",
+    "EventLabel": "SAL|Men|buy3ormoreget30off|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-jeans-men.jpg",
-    "Exit Url": "/men/clothing/jeans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-shirts-men.jpg",
+    "Exit Url": "/men/clothing/shirts",
     "Headline": "Men C1",
-    "Subline": "Jeans",
-    "EventLabel": "CAT|Men|ss17jeans|ALL|NA"
+    "Subline": "Shirts",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
