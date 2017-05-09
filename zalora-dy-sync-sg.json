@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-unionpay-men.jpg",
-    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=abercrombie-fitch--boss--boss-green--boss-orange--burton-menswear-london--cotton-on--esprit--french-connection--hollister--levis--new-balance--pestle-mortar--reebok--river-island--superdry--tommy-hilfiger--topman--under-armour--vans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-sportsmay-men.jpg",
+    "Exit Url": "/men/sportswear/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Men|NewBrands|ALL|NA"
+    "EventLabel": "CAT|Men|SportsSiSMay|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-unionpay-men.jpg",
-    "Exit Url": "/men/new-products/?sort=popularity&dir=desc&gender=men&category_id=&brand=abercrombie-fitch--boss--boss-green--boss-orange--burton-menswear-london--cotton-on--esprit--french-connection--hollister--levis--new-balance--pestle-mortar--reebok--river-island--superdry--tommy-hilfiger--topman--under-armour--vans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-sportsmay-men.jpg",
+    "Exit Url": "/men/sportswear/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Men|NewBrands|ALL|NA"
+    "EventLabel": "CAT|Men|SportsSiSMay|ALL|NA"
   },
   {
     "Placement": "mn1",
