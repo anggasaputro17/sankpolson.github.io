@@ -303,11 +303,11 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-sports-men.jpg",
-    "Exit Url": "/men/sports",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-backpacks-men.jpg",
+    "Exit Url": "/men/bags/backpacks/",
     "Headline": "NA",
-    "Subline": "Shop Sports >",
-    "EventLabel": "CAT|Men|sports|ALL|NA"
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "mc5",
