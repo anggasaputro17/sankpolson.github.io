@@ -2059,5 +2059,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-levis-may2017.jpg",
     "Gender": "Unisex",
     "Notes": "contains /levis"
+  },
+  {
+    "Name": "Men Category: Sneakers",
+    "System ID": "c413",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-sneakerfever-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /sneakers-plimsolls"
+  },
+  {
+    "Name": "Men Category: Sneakers",
+    "System ID": "c413",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-sneakerfever-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /sneakers-plimsolls"
   }
 ]
