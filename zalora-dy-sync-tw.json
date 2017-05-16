@@ -4,7 +4,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_summer_fashion.jpg",
-    "Exit Url": "/women/new-products/?getSKU=MA193AA24KLJMY--RI009AA39HPSMY--AC5A4ACBE8F8EFGS--RI009SH68XPZMY",
+    "Exit Url": "/product-index/summer-new-arrivals/?age=0-30",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA|Women|Summer|ALL|NA"
@@ -414,7 +414,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_summer_fashion.jpg",
-    "Exit Url": "/women/new-products/?getSKU=MA193AA24KLJMY--RI009AA39HPSMY--AC5A4ACBE8F8EFGS--RI009SH68XPZMY",
+    "Exit Url": "/product-index/summer-new-arrivals/?age=0-30",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA|Women|Summer|ALL|NA"
