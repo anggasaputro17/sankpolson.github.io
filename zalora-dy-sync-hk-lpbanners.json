@@ -1696,7 +1696,7 @@
     "System ID": "NA",
     "Copy": "NA",
     "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-midiskirts-women-mar2017-hken.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-midiskirts-hken.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /midi-skirts"
   },
@@ -1705,7 +1705,7 @@
     "System ID": "NA",
     "Copy": "NA",
     "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-midiskirts-women-mar2017-hkzh.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-midiskirts-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /midi-skirts"
   },
@@ -2077,5 +2077,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-sneakerfever-hkzh.jpg",
     "Gender": "Men",
     "Notes": "contains /men & /sneakers-plimsolls"
+  },
+  {
+    "Name": "Category: Maxi Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-maxidresses-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /maxi-dresses"
+  },
+  {
+    "Name": "Category: Maxi Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-maxidresses-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /maxi-dresses"
   }
 ]
