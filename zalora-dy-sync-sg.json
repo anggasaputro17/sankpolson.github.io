@@ -24,7 +24,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-women.jpg",
-    "Exit Url": "/esprit-shop/",
+    "Exit Url": "/women/esprit/",
     "Headline": "Esprit - Buy 2 Get 30% Off",
     "Subline": "On the heritage-inspired RETRO COLLECTION or any full-priced item.",
     "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
@@ -194,7 +194,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-esprit-men.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
+    "Exit Url": "/men/esprit/",
     "Headline": "Esprit - Buy 2 Get 30% Off",
     "Subline": "On the heritage-inspired RETRO COLLECTION and any full-priced item.",
     "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
@@ -344,7 +344,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-women.jpg",
-    "Exit Url": "/esprit-shop/",
+    "Exit Url": "/women/esprit/",
     "Headline": "Women NCU2",
     "Subline": "Esprit - Buy 2 Get 30% Off",
     "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
@@ -384,7 +384,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-men.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
+    "Exit Url": "/men/esprit/",
     "Headline": "Men NCU1",
     "Subline": "Esprit - Buy 2 Get 30% Off",
     "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
