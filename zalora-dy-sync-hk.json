@@ -3,8 +3,8 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/slice_SEGMENT_HERO_996x500.jpg",
-    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw21/slice_SEGMENT_HERO_996x500.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/SEGMENT_HERO_996x500-newsummer-hken.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw21/SEGMENT_HERO_996x500-newsummer-hkzh.jpg",
     "ExitUrl": "/women/new-products/?getSKU=MA193AA24KLJMY--RI009AA39HPSMY--AC5A4ACBE8F8EFGS--RI009SH68XPZMY",
     "EventLabel": "NA|Women|Summer|ALL|NA",
     "ENHeadline": "NA",
@@ -72,10 +72,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/special-price/?sort=price&dir=desc&disc=1-50&brand=topshop--miss-selfridge--dorothy-perkins--warehouse--wallis",
     "EventLabel": "BRA|Women|wingtaimss2ssseventeen|ALL|NA",
-    "ENHeadline": "Up To 50% Off Sale",
-    "ENSubline": "",
-    "ZHHeadline": "低至5折優惠",
-    "ZHSubline": ""
+    "ENHeadline": "Exclusive Offer",
+    "ENSubline": "Get up to 50% off these selected items (no min. spend).",
+    "ZHHeadline": "獨家優惠",
+    "ZHSubline": "限定商品低至5折優惠 (不限最低消費)"
   },
   {
     "Placement": "wcu3",
@@ -280,10 +280,10 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/men/special-price/?sort=price&dir=desc&discount=1-50&brand=topman--burton-menswear-london",
     "EventLabel": "BRA|Men|wingtaimss2ssseventeen|ALL|NA",
-    "ENHeadline": "Up To 50% Off Sale",
-    "ENSubline": "",
-    "ZHHeadline": "低至5折優惠",
-    "ZHSubline": ""
+    "ENHeadline": "Exclusive Offer",
+    "ENSubline": "Get up to 50% off these selected items (no min. spend).",
+    "ZHHeadline": "獨家優惠",
+    "ZHSubline": "限定商品低至5折優惠 (不限最低消費)"
   },
   {
     "Placement": "mfb1",
