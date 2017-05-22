@@ -458,14 +458,14 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/N2_NEWARRIVALS_620x420-asntm5ep7.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N2_NEWARRIVALS_620x420-esprit-190517.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/all-products/?cmpgn_one=bohemian&getSKU=RI009AA33HPYMY--IN119AA88MKTMY--MA193AA48KOHMY--RI009AA28HQDMY--MA193GL60PBFMY--RI009AA94EKVMY--AL087AC88FLBMY",
-    "EventLabel": "MRC|Women|ASNTMS5Ep7Bohemian|ALL|NA",
-    "ENHeadline": "Trend Roundup - Episode 7",
-    "ENSubline": "Treat yourself to a Bohemian makeover and let your new style speak for itself.",
-    "ZHHeadline": "第七集  潮流趨勢綜合",
-    "ZHSubline": "投身波西米亞民族風情"
+    "ExitUrl": "/women/esprit/",
+    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP",
+    "ENHeadline": "Esprit - Buy 2 Get 30% Off",
+    "ENSubline": "On the heritage inspired RETRO COLLECTION or any full-priced item.",
+    "ZHHeadline": "ESPRIT – 2件或以上享有7折優惠",
+    "ZHSubline": "適用於RETRO COLLECTION及所有正價貨品"
   },
   {
     "Placement": "wc1",
@@ -510,14 +510,14 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/N2_NEWARRIVALS_620x420-sneakersonspmen.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N2_NEWARRIVALS_620x420-esprit-190517.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/shoes/sneakers-plimsolls/",
-    "EventLabel": "TRE-CAT|Men|MaySneakers|ALL|NA",
-    "ENHeadline": "Sneaker Fever",
-    "ENSubline": "Turn up the heat with the latest kicks.",
-    "ZHHeadline": "運動鞋熱潮",
-    "ZHSubline": "新款運動鞋 席捲時尚狂熱"
+    "ExitUrl": "/men/esprit/",
+    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP",
+    "ENHeadline": "Esprit - Buy 2 Get 30% Off",
+    "ENSubline": "On the heritage inspired RETRO COLLECTION or any full-priced item.",
+    "ZHHeadline": "ESPRIT – 2件或以上享有7折優惠",
+    "ZHSubline": "適用於RETRO COLLECTION及所有正價貨品"
   },
   {
     "Placement": "mn2",
