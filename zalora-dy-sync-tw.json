@@ -23,11 +23,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_bohemian_0511.jpg",
-    "Exit Url": "/women/asias-next-top-model-5/",
-    "Headline": "第七集 潮流趨勢綜合",
-    "Subline": "波西米亞風 打造優雅浪漫的風格",
-    "EventLabel": "MRC|Women|ASNTMS5Ep7Bohemian|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
+    "Exit Url": "/esprit-shop/",
+    "Headline": "ESPRIT – 2件或以上享有7折優惠",
+    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_sneakers_plimsolls.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/",
-    "Headline": "運動鞋熱潮",
-    "Subline": "時尚運動潮流旋風來襲",
-    "EventLabel": "TRE-CAT|Men|MaySneakers|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_esprit_0519.jpg",
+    "Exit Url": "/esprit-shop/?from=men",
+    "Headline": "ESPRIT – 2件或以上享有7折優惠",
+    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
@@ -373,11 +373,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_sneakers_plimsolls.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/",
-    "Headline": "運動鞋熱潮",
-    "Subline": "時尚運動潮流旋風來襲",
-    "EventLabel": "TRE-CAT|Men|MaySneakers|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
+    "Exit Url": "/esprit-shop/?from=men",
+    "Headline": "ESPRIT – 2件或以上享有7折優惠",
+    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
@@ -433,11 +433,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_bohemian_0511.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=bohemian&getSKU=DE160AA23SOYMY--AB423AA29GLIMY--HO422AA44GKTMY--RI009SH13LIWMY--IN119AA82MKZMY--MI302SH84HYPMY--RI009AA28HQDMY",
-    "Headline": "第七集 潮流趨勢綜合",
-    "Subline": "波西米亞風 打造優雅浪漫的風格",
-    "EventLabel": "MRC|Women|ASNTMS5Ep7Bohemian|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
+    "Exit Url": "/esprit-shop/",
+    "Headline": "ESPRIT – 2件或以上享有7折優惠",
+    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wc1",
