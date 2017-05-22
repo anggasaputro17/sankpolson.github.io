@@ -24,7 +24,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/esprit-shop/",
+    "Exit Url": "/women/esprit/",
     "Headline": "ESPRIT – 2件或以上享有7折優惠",
     "Subline": "適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
@@ -194,7 +194,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_esprit_0519.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
+    "Exit Url": "/men/esprit/",
     "Headline": "ESPRIT – 2件或以上享有7折優惠",
     "Subline": "適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
