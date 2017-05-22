@@ -374,9 +374,9 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
-    "Headline": "ESPRIT – 2件或以上享有7折優惠",
-    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "Exit Url": "/men/esprit/",
+    "Headline": "NA",
+    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
   },
   {
@@ -434,9 +434,9 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/esprit-shop/",
-    "Headline": "ESPRIT – 2件或以上享有7折優惠",
-    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
+    "Exit Url": "/women/esprit/",
+    "Headline": "NA",
+    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
   },
   {
