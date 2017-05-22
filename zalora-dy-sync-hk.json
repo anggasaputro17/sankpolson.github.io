@@ -16,14 +16,14 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/N1_NEWARRIVALS_360x420-adidas-women-may17.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N1_NEWARRIVALS_360x420-maudfrizon-may17.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/adidas-shop/",
-    "EventLabel": "BRA|Women|AdidasHKLaunchssseventeen|ALL|NA",
-    "ENHeadline": "adidas",
-    "ENSubline": "Make your next move and beat the competition.",
-    "ZHHeadline": "adidas",
-    "ZHSubline": "陪你達到巔峰 戰勝每一場比賽"
+    "ExitUrl": "/women/maud-frizon/",
+    "EventLabel": "BRA|Women|maudfrizonssseventeen|ALL|ZAP",
+    "ENHeadline": "Maud Frizon",
+    "ENSubline": "These Parisian-inspired shoes are a sure way to make your presence felt.",
+    "ZHHeadline": "Maud Frizon",
+    "ZHSubline": "巴黎風鞋款 增添個人魅力"
   },
   {
     "Placement": "wn2",
@@ -445,14 +445,14 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw21/N2_NEWARRIVALS_620x420-adidas-women-may17.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N2_NEWARRIVALS_620x420-maudfrizon-may17.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/adidas/",
-    "EventLabel": "BRA|Women|AdidasHKLaunchssseventeen|ALL|NA",
-    "ENHeadline": "adidas",
-    "ENSubline": "Make your next move and beat the competition.",
-    "ZHHeadline": "adidas",
-    "ZHSubline": "陪你達到巔峰 戰勝每一場比賽"
+    "ExitUrl": "/women/maud-frizon/",
+    "EventLabel": "BRA|Women|maudfrizonssseventeen|ALL|ZAP",
+    "ENHeadline": "Maud Frizon",
+    "ENSubline": "These Parisian-inspired shoes are a sure way to make your presence felt.",
+    "ZHHeadline": "Maud Frizon",
+    "ZHSubline": "巴黎風鞋款 增添個人魅力"
   },
   {
     "Placement": "wn2",
