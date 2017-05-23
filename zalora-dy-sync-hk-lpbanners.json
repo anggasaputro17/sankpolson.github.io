@@ -122,8 +122,8 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_995x250_skagen_women_0412.jpg",
-    "Gender": "",
-    "Notes": ""
+    "Gender": "Men",
+    "Notes": "contains /women & /skagen"
   },
   {
     "Name": "Men Brand: Skagen",
@@ -131,8 +131,8 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_skagen_men_0412.jpg",
-    "Gender": "",
-    "Notes": ""
+    "Gender": "Women",
+    "Notes": "contains /men & /skagen"
   },
   {
     "Name": "Brand: Skagen",
@@ -1336,9 +1336,18 @@
     "System ID": "b2380",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_call_it_spring.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-callitspring-may17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /call-it-spring"
+  },
+  {
+    "Name": "Brand: Mizuno",
+    "System ID": "b461",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mizuno-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mizuno"
   },
   {
     "Name": "Brand: Nain",
