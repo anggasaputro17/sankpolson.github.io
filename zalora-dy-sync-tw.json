@@ -376,7 +376,7 @@
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
     "Exit Url": "/men/esprit/",
     "Headline": "NA",
-    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>ESPRIT – 2件或以上享有7折優惠",
+    "Subline": "ESPRIT – 2件或以上享有7折優惠 <br>適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "TRE-CAT|Men|MaySneakers|ALL|NA"
   },
   {
@@ -385,8 +385,8 @@
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywesport_0522.jpg",
     "Exit Url": "/men/sports/special-price/",
-    "Headline": "May We Move",
-    "Subline": "型男時尚運動服飾低至6折",
+    "Headline": "NA",
+    "Subline": "May We Move<br>型男時尚運動服飾低至6折",
     "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
   },
   {
@@ -425,8 +425,8 @@
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywechill_0522.jpg",
     "Exit Url": "/product-index/casualwear/?price=699-999",
-    "Headline": "May We Chill",
-    "Subline": "提升妳的時尚休閒品味 精選單品一律NT$699和NT$999元",
+    "Headline": "NA",
+    "Subline": "May We Chill <br>精選單品一律NT$699和NT$999元",
     "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
   },
   {
@@ -435,8 +435,8 @@
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
     "Exit Url": "/women/esprit/",
-    "Headline": "ESPRIT – 2件或以上享有7折優惠",
-    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>ESPRIT – 2件或以上享有7折優惠",
+    "Headline": "NA",
+    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>適用於RETRO COLLECTION及所有正價貨品",
     "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
   },
   {
