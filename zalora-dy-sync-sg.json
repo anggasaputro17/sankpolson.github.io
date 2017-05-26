@@ -3,21 +3,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-summersensationv2-women.jpg",
-    "Exit Url": "/women/new-products/?getSKU=MA193AA24KLJMY--RI009AA39HPSMY--AC5A4ACBE8F8EFGS--RI009SH68XPZMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-mayweshop-women.jpg",
+    "Exit Url": "/women/special-price/?age=30-90",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Summer|ALL|NA"
+    "EventLabel": "SAL|Women|MayWeShop|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-sportswear-women.jpg",
-    "Exit Url": "/women/sportswear",
-    "Headline": "Sports Victory",
-    "Subline": "Be on the winning side of the fitness game.",
-    "EventLabel": "CAT|Women|SportsSiSMay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-maywechill-women.jpg",
+    "Exit Url": "/product-index/casualwear/?price=29.9-39.9",
+    "Headline": "May We Chill",
+    "Subline": "Stay on-trend during your off days with the best $29.90 and $39.90 picks.",
+    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -33,41 +33,41 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-daytonight-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=daytonightlook&getSKU=B8922AA0D0469BGS",
-    "Headline": "Day-to-Night Magic",
-    "Subline": "Add a dash of versatility to your outfit choices and stay fresh 24/7.",
-    "EventLabel": "TRE|Women|Daytonightlook|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-mayweplay-women.jpg",
+    "Exit Url": "/product-index/mayweplay/?age=90-200",
+    "Headline": "May We Play",
+    "Subline": "Dance the night away in party-worthy pieces at exclusive prices.",
+    "EventLabel": "SAL|Women|MayWePlay|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-midiskirt-women.jpg",
-    "Exit Url": "/women/clothing/midi-skirts/",
-    "Headline": "Midi Matchup",
-    "Subline": "You don’t have to go to great lengths to find the perfect midi skirt.",
-    "EventLabel": "CAT|Women|MidiSkirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-maywesplurge-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wmaywesplurge",
+    "Headline": "May We Splurge",
+    "Subline": "Use code MAY18 for 18% off with SGD140 min. spend.",
+    "EventLabel": "SAL|Women|MayWeSplurge|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-workwear-women.jpg",
-    "Exit Url": "/women/trends/office-wear/?getSKU=D0B5FAAE35EE9EGS",
-    "Headline": "Workwear Wonders",
-    "Subline": "Make a sartorial statement with these exceptional office-ready pieces.",
-    "EventLabel": "TRE|Women|mayworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-mayweaccessorise-women.jpg",
+    "Exit Url": "/product-index/mayweaccessorise/?discount=0-50",
+    "Headline": "May We Accessorise",
+    "Subline": "With bags and shoes up to 50% off, this is truly the perfect pick-me-up.",
+    "EventLabel": "SAL|Women|MayWeAccessorise|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-asntmep8-women.jpg",
-    "Exit Url": "/women/asias-next-top-model-5/",
-    "Headline": "Trend Roundup - Episode 8",
-    "Subline": "Challenge the conventional with looks that are both masculine and feminine.",
-    "EventLabel": "MRC|Women|ASNTMS5Ep8ModernAdrogyny|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywecelebrate-women.jpg",
+    "Exit Url": "/product-index/maywecelebrate/?discount=0-40",
+    "Headline": "May We Celebrate",
+    "Subline": "Usher in the Hari Raya festivities with up to 40% off this year’s collections.",
+    "EventLabel": "SAL-LOC|Women|MayWeCelebrate|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-terifictees-men.jpg",
-    "Exit Url": "/product-index/tshirtstoptenbrands/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-mayweshop-men.jpg",
+    "Exit Url": "/product-index/mayweshop/?discount=0-60",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Men|maytshirtstopbrands|ALL|NA"
+    "EventLabel": "SAL|Men|MayWeShop|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-nike-men.jpg",
-    "Exit Url": "/men/shoes/nike/?sort=latest%20arrival&dir=desc&gender=men&category_id=27&brand=nike",
-    "Headline": "Discover Nike",
-    "Subline": "Grab these new shoes and beat the competition from start to finish.",
-    "EventLabel": "BRA|Men|discovernikessseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywemove-men.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "May We Move",
+    "Subline": "Take up to 40% off this sportswear selection and sweat it out in style.",
+    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -323,21 +323,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-summersensationv2-women.jpg",
-    "Exit Url": "/women/new-products/?getSKU=MA193AA24KLJMY--RI009AA39HPSMY--AC5A4ACBE8F8EFGS--RI009SH68XPZMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-mayweshop-women.jpg",
+    "Exit Url": "/women/special-price/?age=30-90",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Summer|ALL|NA"
+    "EventLabel": "SAL|Women|MayWeShop|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-sportswear-women.jpg",
-    "Exit Url": "/women/sportswear",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywechill-women.jpg",
+    "Exit Url": "/product-index/casualwear/?price=29.9-39.9",
     "Headline": "Women NCU1",
-    "Subline": "Sports Victory",
-    "EventLabel": "CAT|Women|SportsSiSMay|ALL|NA"
+    "Subline": "May We Chill",
+    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-terrifictees-men.jpg",
-    "Exit Url": "/product-index/tshirtstoptenbrands/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-mayweshop-men.jpg",
+    "Exit Url": "/product-index/mayweshop/?discount=0-60",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Men|maytshirtstopbrands|ALL|NA"
+    "EventLabel": "SAL|Men|MayWeShop|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-nike-men.jpg",
-    "Exit Url": "/men/shoes/nike/?sort=latest%20arrival&dir=desc&gender=men&category_id=27&brand=nike",
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywemove-men.jpg",
+    "Exit Url": "/men/sports/special-price/",
     "Headline": "Men NCU2",
-    "Subline": "Discover Nike",
-    "EventLabel": "BRA|Men|discovernikessseventeen|ALL|NA"
+    "Subline": "May We Move",
+    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
   },
   {
     "Placement": "mc1",
