@@ -163,11 +163,11 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_WATCHES.jpg",
-    "Exit Url": "/women/watches/all-products/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/300X198_BAGS_0526_0526.jpg",
+    "Exit Url": "/women/bags/",
     "Headline": "NA",
-    "Subline": "手錶  &gt;",
-    "EventLabel": "NewA|NA|wwatchesmay|ALL"
+    "Subline": "女包  &gt;",
+    "EventLabel": "NewA|NA|wbagsmay|ALL"
   },
   {
     "Placement": "wc5",
