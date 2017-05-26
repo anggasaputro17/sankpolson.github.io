@@ -29,14 +29,14 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw23/N2_NEWARRIVALS_620x420-calvinklein.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N2_NEWARRIVALS_620x420-esprit-190517.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/calvin-klein-shop/",
-    "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein",
-    "ENHeadline": "Calvin Klein",
-    "ENSubline": "Shop the latest styles, featuring modern staples and redefined silhouettes.",
-    "ZHHeadline": "Calvin Klein",
-    "ZHSubline": "現代風格x精緻剪裁 將潮流服飾重新定義"
+    "ExitUrl": "/women/esprit/",
+    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP",
+    "ENHeadline": "Esprit - Buy 2 Get 30% Off",
+    "ENSubline": "On the heritage inspired RETRO COLLECTION or any full-priced item.",
+    "ZHHeadline": "ESPRIT – 2件或以上享有7折優惠",
+    "ZHSubline": "適用於RETRO COLLECTION及所有正價貨品"
   },
   {
     "Placement": "wlp",
@@ -276,14 +276,14 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw23/N2_NEWARRIVALS_620x420-calvinklein-men.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw22/N2_NEWARRIVALS_620x420-esprit-190517.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/calvin-klein-shop/?from=men",
-    "EventLabel": "BRA|MC|mcalvinkleinss17|ALL|NA|calvin-klein",
-    "ENHeadline": "Calvin Klein",
-    "ENSubline": "Shop the latest styles, featuring modern staples and redefined silhouettes.",
-    "ZHHeadline": "Calvin Klein",
-    "ZHSubline": "現代風格x精緻剪裁 將潮流服飾重新定義"
+    "ExitUrl": "/men/esprit/",
+    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP",
+    "ENHeadline": "Esprit - Buy 2 Get 30% Off",
+    "ENSubline": "On the heritage inspired RETRO COLLECTION or any full-priced item.",
+    "ZHHeadline": "ESPRIT – 2件或以上享有7折優惠",
+    "ZHSubline": "適用於RETRO COLLECTION及所有正價貨品"
   },
   {
     "Placement": "mfb1",
