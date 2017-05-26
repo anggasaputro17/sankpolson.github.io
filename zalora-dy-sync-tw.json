@@ -3,157 +3,157 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_summer_fashion.jpg",
-    "Exit Url": "/product-index/summer-new-arrivals/?age=0-30",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_maxi_dresses_0524.jpg",
+    "Exit Url": "/women/clothing/maxi-dresses/?getSKU=BB0D9AA5BB4B1AGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Summer|ALL|NA"
+    "EventLabel": "TRE|Women|maymaxidresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_maywechill_0519.jpg",
-    "Exit Url": "/product-index/casualwear/?price=699-999",
-    "Headline": "May We Chill",
-    "Subline": "提升妳的時尚休閒品味 精選單品一律NT$699和NT$999元",
-    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_nain_0524.jpg",
+    "Exit Url": "/women/korean-fashion/",
+    "Headline": "時尚韓風來襲",
+    "Subline": "當季韓系女裝 簡約時尚穿搭的不二之選",
+    "EventLabel": "TRE|Women|KoreanFashionTW|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/women/esprit/",
-    "Headline": "ESPRIT – 2件或以上享有7折優惠",
-    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
-    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_workwear_0524.jpg",
+    "Exit Url": "/women/office-wear/office-wear-clothing/?getSKU=TO412AA25ZLUMY",
+    "Headline": "完美辦公室女孩",
+    "Subline": "時尚單品讓妳散發成熟女人自信",
+    "EventLabel": "TRE|Women|mayworkwear|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_mayweplay_0519.jpg",
-    "Exit Url": "/product-index/mayweplay/?age=90-200",
-    "Headline": "May We Play",
-    "Subline": "派對時尚穿搭獨家優惠 讓妳亮麗閃耀全場",
-    "EventLabel": "SAL|Women|MayWePlay|ALL|NA"
+    "Exit Url": "/women/all-products/floral/",
+    "Headline": "浪漫花卉",
+    "Subline": "浪漫花卉印花凸顯優雅女人的一面",
+    "EventLabel": "TRE|Women|MayFlorals|Women|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_maywesplurge_0522.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wmaywesplurge",
-    "Headline": "May We Splurge",
-    "Subline": "滿足妳的購物狂想 使用優惠編碼MAY82享82折優惠 (需消費滿NT$1500, 限指定商品)",
-    "EventLabel": "SAL|Women|MayWeSplurge|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_occasion_0524.jpg",
+    "Exit Url": "/product-index/occasionwear/",
+    "Headline": "百搭時尚女裝",
+    "Subline": "百搭時尚聖品 讓妳從容應付各種社交場合",
+    "EventLabel": "CAT|Women|mayoccassion|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/NEWARRIVALS_360x420_mayweacc_0522.jpg",
-    "Exit Url": "/product-index/mayweaccessorise/?discount=0-50",
-    "Headline": "May We Accessorise",
-    "Subline": "百搭包包和設計美鞋低至5折 陪妳大步邁向時尚",
-    "EventLabel": "SAL|Women|MayWeAccessorise|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_watches_0524.jpg",
+    "Exit Url": "/women/watches/special-price/?discount=0-45",
+    "Headline": "永恆經典手錶",
+    "Subline": "簡約時尚手錶低至6折",
+    "EventLabel": "CAT|Women|maywatches|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywevcay_0519.jpg",
-    "Exit Url": "/women/special-price/?cmpgn_one=maywevacay",
-    "Headline": "May We Vacay",
-    "Subline": "準備夢幻旅程 盡情享受夏日之旅",
-    "EventLabel": "SAL|Women|MayWeVacay|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_ep9_0525.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=freshconfidence",
+    "Headline": "第九集 潮流趨勢綜合",
+    "Subline": "率性極簡風格 增添您的自信",
+    "EventLabel": "MRC|Women|ASNTMS5Ep9FreshConfidence|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/New_Balance_Women_B_322x165_0512.jpg",
-    "Exit Url": "/women/new-balance/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_cotton_on_0524.jpg",
+    "Exit Url": "/cotton-on-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|newbalancessseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_322x165_fossil_0512.jpg",
-    "Exit Url": "/fossil-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_aldo_0525.jpg",
+    "Exit Url": "/women/aldo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
+    "EventLabel": "BRA|WS|wsaldoss17|ALL|NA|aldo"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_reebok_0512.jpg",
-    "Exit Url": "/women/reebok/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/b1-6_322x165_betsy_0525.jpg",
+    "Exit Url": "/women/betsy/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok"
+    "EventLabel": "NewA|WS|betsy|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_addicts_anonymous_0512.jpg",
-    "Exit Url": "/women/addicts-anonymous/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_handsome_0525.jpg",
+    "Exit Url": "/women/we-are-handsome/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|waddictsanonymouslaunch|ALL|NA|addicts-anonymous"
+    "EventLabel": "BRA|WSP|wspwearehandsomess17|ALL|NA|we-are-handsome"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_warehouse_0512.jpg",
-    "Exit Url": "/warehouse-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_sigma_0525.jpg",
+    "Exit Url": "/women/sigma/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|warehousess17|ALL|NA"
+    "EventLabel": "BRA|Women|sigmass17|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/Wallis_B1-6_322x165_wallis_0512.jpg",
-    "Exit Url": "/women/wallis/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_DP_0525.jpg",
+    "Exit Url": "/dorothy-perkins-taiwan/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|wcwallisss17|ALL|NA"
+    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_1111_300X198_WOMENS_HEELS.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/",
     "Headline": "NA",
-    "Subline": "高跟鞋 &gt;",
-    "EventLabel": "NewA|NA|wheelsmay|ALL"
+    "Subline": "裙子 &gt;",
+    "EventLabel": "NewA|NA|wskirtsmay|ALL"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_jumpsuit.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_SANDALS.jpg",
+    "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "連身褲 &gt;",
-    "EventLabel": "NewA|NA|wjumpsuitmay|ALL"
+    "Subline": "涼鞋 &gt;",
+    "EventLabel": "NewA|NA|wsandalsmay|ALL"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C3_DesktopOnly_300x500_top_0522.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C3_375X500_TOPS.jpg",
     "Exit Url": "/women/clothing/fashion-tops/",
     "Headline": "NA",
     "Subline": "上衣 &gt;",
@@ -163,131 +163,131 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_shoes_0407.jpg",
-    "Exit Url": "/women/shoes/flats/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_WATCHES.jpg",
+    "Exit Url": "/women/watches/all-products/",
     "Headline": "NA",
-    "Subline": "平底鞋 &gt;",
-    "EventLabel": "NewA|NA|wflatsmay|ALL"
+    "Subline": "手錶  &gt;",
+    "EventLabel": "NewA|NA|wwatchesmay|ALL"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_acc_0522.jpg",
-    "Exit Url": "/women/bags/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
     "Headline": "NA",
-    "Subline": "女包 &gt;",
-    "EventLabel": "NewA|NA|wbagsmay|ALL"
+    "Subline": "連身褲 &gt;",
+    "EventLabel": "NewA|NA|wjumpsuitmay|ALL"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_men_newarrivals_0512.jpg",
-    "Exit Url": "/product-index/tshirtstoptenbrands/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HERO_996x500_workwear_men_0524.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=workwearmay&getSKU=0B483AA49E9F3FGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Men|maytshirtstopbrands|ALL|NA"
+    "EventLabel": "TRE|Men|WorkwearMen|Men|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_esprit_0519.jpg",
-    "Exit Url": "/men/esprit/",
-    "Headline": "ESPRIT – 2件或以上享有7折優惠",
-    "Subline": "適用於RETRO COLLECTION及所有正價貨品",
-    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_packinglist_0525.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
+    "Headline": "整裝出發",
+    "Subline": "夏日旅行型男必備單品",
+    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywesport_0522.jpg",
-    "Exit Url": "/men/sports/special-price/",
-    "Headline": "May We Move",
-    "Subline": "型男時尚運動服飾低至6折",
-    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_shirt_0524.jpg",
+    "Exit Url": "/men/clothing/?cmpgn_one=rplshirtsandtshirts",
+    "Headline": "型男襯衫魅力",
+    "Subline": "潮男造型不費吹灰之力",
+    "EventLabel": "CAT|Men|RPLshirts|Men|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-aandf-men.jpg",
-    "Exit Url": "/men/abercrombie-fitch/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/ASICS_B_322x165_0525.jpg",
+    "Exit Url": "/men/asics/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
+    "EventLabel": "BRA|Men|asics|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_zalora_0512.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_zalora_0526.jpg",
     "Exit Url": "/men/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|zaloraseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|zalora|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/New_Balance_Men_B_322x165_0512.jpg",
-    "Exit Url": "/men/new-balance/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_28_burton_0525.jpg",
+    "Exit Url": "/men/burton-menswear-london/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|burton|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_69_reebok_0512.jpg",
-    "Exit Url": "/men/reebok/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_aldo_0525_men.jpg",
+    "Exit Url": "/men/aldo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|Men|aldo|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_95_hollister_0512.jpg",
-    "Exit Url": "/men/hollister/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_18_topman_0526.jpg",
+    "Exit Url": "/topman-taiwan/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollister|ALL|NA"
+    "EventLabel": "BRA|Men|topmanss17|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/B1_322x165_fossil_0512.jpg",
-    "Exit Url": "/men/fossil/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_cottonon_0526.jpg",
+    "Exit Url": "/cotton-on-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
+    "EventLabel": "BRA|Men|cottononss17|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_shirts_0522.jpg",
-    "Exit Url": "/men/clothing/shirts/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
     "Headline": "NA",
     "Subline": "襯衫 &gt;",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_loafer_0522.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks/",
     "Headline": "NA",
-    "Subline": "船型鞋 &gt;",
-    "EventLabel": "CAT|Men|loafers|ALL|NA"
+    "Subline": "後背包 &gt;",
+    "EventLabel": "CAT|Men|backpack|ALL|NA"
   },
   {
     "Placement": "mc3",
@@ -303,21 +303,21 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_jean_0522.jpg",
-    "Exit Url": "/men/clothing/jeans/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
     "Headline": "NA",
-    "Subline": "牛仔褲 &gt;",
-    "EventLabel": "CAT|Men|jeans|ALL|NA"
+    "Subline": "涼鞋及拖鞋 &gt;",
+    "EventLabel": "CAT|Men|sandals|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_watches_0522.jpg",
-    "Exit Url": "/men/watch/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_SPORTS.jpg",
+    "Exit Url": "/men/sports/",
     "Headline": "NA",
-    "Subline": "手錶 &gt;",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "運動 &gt;",
+    "EventLabel": "CAT|Men|sports|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -363,101 +363,101 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_mayweshop_men_0522.jpg",
-    "Exit Url": "/product-index/may-we-shop/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/brands/TW_MOBILEWEB_HERO_600x600_workwear_0525.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=workwearmay&getSKU=0B483AA49E9F3FGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Men|WorkwearMen|Men|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/men/esprit/",
-    "Headline": "NA",
-    "Subline": "ESPRIT – 2件或以上享有7折優惠 <br>適用於RETRO COLLECTION及所有正價貨品",
-    "EventLabel": "TRE-CAT|Men|MaySneakers|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_packinglist_0525.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
+    "Headline": "整裝出發",
+    "Subline": "夏日旅行型男必備單品",
+    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywesport_0522.jpg",
-    "Exit Url": "/men/sports/special-price/",
-    "Headline": "NA",
-    "Subline": "May We Move<br>型男時尚運動服飾低至6折",
-    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_shirt_0524.jpg",
+    "Exit Url": "/men/clothing/?cmpgn_one=rplshirtsandtshirts",
+    "Headline": "型男襯衫魅力",
+    "Subline": "潮男造型不費吹灰之力",
+    "EventLabel": "CAT|Men|RPLshirts|Men|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_shirts_0522.jpg",
-    "Exit Url": "/men/clothing/shirts/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
     "Headline": "NA",
     "Subline": "襯衫 &gt;",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_loafer_0522.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks/",
     "Headline": "NA",
-    "Subline": "船型鞋 &gt;",
-    "EventLabel": "CAT|Men|loafers|ALL|NA"
+    "Subline": "後背包 &gt;",
+    "EventLabel": "CAT|Men|backpack|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_mayweshop_women_0522.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_maxi_0524.jpg",
+    "Exit Url": "/women/clothing/maxi-dresses/?getSKU=BB0D9AA5BB4B1AGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Women|maymaxidresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_maywechill_0522.jpg",
-    "Exit Url": "/product-index/casualwear/?price=699-999",
-    "Headline": "NA",
-    "Subline": "May We Chill <br>精選單品一律NT$699和NT$999元",
-    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_koreanfashion_0524.jpg",
+    "Exit Url": "/women/korean-fashion/",
+    "Headline": "時尚韓風來襲",
+    "Subline": "當季韓系女裝 簡約時尚穿搭的不二之選",
+    "EventLabel": "TRE|Women|KoreanFashionTW|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_esprit_0519.jpg",
-    "Exit Url": "/women/esprit/",
-    "Headline": "NA",
-    "Subline": "ESPRIT – 2件或以上享有7折優惠<br>適用於RETRO COLLECTION及所有正價貨品",
-    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_workwear_0524.jpg",
+    "Exit Url": "/women/office-wear/office-wear-clothing/?getSKU=TO412AA25ZLUMY",
+    "Headline": "完美辦公室女孩",
+    "Subline": "時尚單品讓妳散發成熟女人自信",
+    "EventLabel": "TRE|Women|mayworkwear|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_1111_300X198_WOMENS_HEELS.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/",
     "Headline": "NA",
-    "Subline": "高跟鞋 &gt;",
-    "EventLabel": "NewA|NA|wheelsmay|ALL"
+    "Subline": "裙子 &gt;",
+    "EventLabel": "NewA|NA|wskirtsmay|ALL"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C5_300x198_jumpsuit.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/C1245_300X198_SANDALS.jpg",
+    "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "連身褲 &gt;",
-    "EventLabel": "NewA|NA|wjumpsuitmay|ALL"
+    "Subline": "涼鞋 &gt;",
+    "EventLabel": "NewA|NA|wsandalsmay|ALL"
   },
   {
     "Placement": "wlp1",
