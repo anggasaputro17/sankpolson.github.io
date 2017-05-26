@@ -31,7 +31,7 @@
     "System ID": "c4181",
     "Copy": "NA",
     "Language": "EN",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hken.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-floralflair-hken.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /feature & /floral"
   },
@@ -40,7 +40,7 @@
     "System ID": "c4181",
     "Copy": "NA",
     "Language": "ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-flauntflorals-refresh-hkzh.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-floralflair-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /feature & /floral"
   },
@@ -886,7 +886,7 @@
     "System ID": "b3219",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_cotton_on_women.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-cottonon-women.jpg",
     "Gender": "Women",
     "Notes": "contains /cotton-on & /women"
   },
@@ -895,7 +895,7 @@
     "System ID": "b3219",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-cottonon-men.jpg",
     "Gender": "Men",
     "Notes": "contains /cotton-on & /men"
   },
