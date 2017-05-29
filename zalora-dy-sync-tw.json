@@ -508,5 +508,45 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|RiverIslandJun|ALL|NA|river-island"
+  },
+  {
+    "Placement": "mb1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/superdry_women_436x248.jpg",
+    "Exit Url": "/men/superdry/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|superdryJun|ALL|NA|superdry"
+  },
+  {
+    "Placement": "mb2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_topman.gif",
+    "Exit Url": "/men/topman",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|topmanJun|ALL|NA|topman"
+  },
+  {
+    "Placement": "mb3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/mobilebrandsesprit_men_436x248.jpg",
+    "Exit Url": "/men/esprit",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|espritJun|ALL|NA|esprit"
+  },
+  {
+    "Placement": "mb4",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/zalora_women_436x248_0220.jpg",
+    "Exit Url": "/men/zalora",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|zaloraJun|ALL|NA|zalora"
   }
 ]
