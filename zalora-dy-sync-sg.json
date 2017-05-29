@@ -3,157 +3,157 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-mayweshop-women.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-maxidress-women.jpg",
+    "Exit Url": "/women/clothing/maxi-dresses/?getSKU=BB0D9AA5BB4B1AGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Women|maymaxidresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-maywechill-women.jpg",
-    "Exit Url": "/product-index/casualwear/?price=29.9-39.9",
-    "Headline": "May We Chill",
-    "Subline": "Stay on-trend during your off days with the best $29.90 and $39.90 picks.",
-    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-gorman-women.jpg",
+    "Exit Url": "/women/gorman/",
+    "Headline": "Gorman",
+    "Subline": "Shoutout your style with signature prints and colours that pop.",
+    "EventLabel": "BRA|Women|gormanssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-women.jpg",
-    "Exit Url": "/women/esprit/",
-    "Headline": "Esprit - Buy 2 Get 30% Off",
-    "Subline": "On the heritage-inspired RETRO COLLECTION or any full-priced item.",
-    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-kurtgeiger-women.jpg",
+    "Exit Url": "/product-index/kurt-geiger/",
+    "Headline": "Kurt Geiger",
+    "Subline": "These dazzling shoes and accessories will leave you spoiled for choice.",
+    "EventLabel": "BRA|Women|kurtgeigerlaunchssseventeen|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-mayweplay-women.jpg",
-    "Exit Url": "/product-index/mayweplay/?age=90-200",
-    "Headline": "May We Play",
-    "Subline": "Dance the night away in party-worthy pieces at exclusive prices.",
-    "EventLabel": "SAL|Women|MayWePlay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-minaz-women.jpg",
+    "Exit Url": "/women/minaz-for-zalora/",
+    "Headline": "Minaz for Zalora",
+    "Subline": "Raya 2017 Collection",
+    "EventLabel": "RET|Women|MinazforZalora|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-maywesplurge-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wmaywesplurge",
-    "Headline": "May We Splurge",
-    "Subline": "Use code MAY18 for 18% off with SGD140 min. spend.",
-    "EventLabel": "SAL|Women|MayWeSplurge|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-occasionwear-women.jpg",
+    "Exit Url": "/product-index/occasionwear/",
+    "Headline": "Dressed For The Occasion",
+    "Subline": "Discover top to toe perfection with these 100% versatile picks.",
+    "EventLabel": "CAT|Women|mayoccassion|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-mayweaccessorise-women.jpg",
-    "Exit Url": "/product-index/mayweaccessorise/?discount=0-50",
-    "Headline": "May We Accessorise",
-    "Subline": "With bags and shoes up to 50% off, this is truly the perfect pick-me-up.",
-    "EventLabel": "SAL|Women|MayWeAccessorise|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-watchessale-women.jpg",
+    "Exit Url": "/women/watches/special-price/?discount=0-45",
+    "Headline": "Timepiece Treasures",
+    "Subline": "Hurry, take up to 45% off these watches before time runs out.",
+    "EventLabel": "CAT|Women|maywatches|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywecelebrate-women.jpg",
-    "Exit Url": "/product-index/maywecelebrate/?discount=0-40",
-    "Headline": "May We Celebrate",
-    "Subline": "Usher in the Hari Raya festivities with up to 40% off this year’s collections.",
-    "EventLabel": "SAL-LOC|Women|MayWeCelebrate|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-asntmep9-women",
+    "Exit Url": "/women/asias-next-top-model-5/",
+    "Headline": "Trend Roundup - Episode 9",
+    "Subline": "Switch up your style and let the new-found confidence take over.",
+    "EventLabel": "MRC|Women|ASNTMS5Ep9FreshConfidence|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-tokichoi-women.jpg",
-    "Exit Url": "/women/tokichoi/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-cottonon-women.jpg",
+    "Exit Url": "/cotton-on-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|tokichoi2ssseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-yvesrocher-women.jpg",
-    "Exit Url": "/women/yves-rocher/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-fitflop-women.jpg",
+    "Exit Url": "/women/fitflop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|yvesrocherssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|fitflopssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-addictsanonymous-women.jpg",
-    "Exit Url": "/women/addicts-anonymous/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-mango-women.jpg",
+    "Exit Url": "/women/mango-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|waddictsanonymouslaunch|ALL|NA|addicts-anonymous"
+    "EventLabel": "BRA|Women|mango2ss17|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-reebok-women.jpg",
-    "Exit Url": "/reebok-shop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-underarmour-women.jpg",
+    "Exit Url": "/under-armour-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-warehouse-women.jpg",
-    "Exit Url": "/warehouse-shop/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-aveda-women.jpg",
+    "Exit Url": "/women/aveda/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|warehousess17|ALL|NA"
+    "EventLabel": "BRA|Women|avedassseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-wallis-women.jpg",
-    "Exit Url": "/women/wallis/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-dorothyperkins-women.jpg",
+    "Exit Url": "/dorothy-perkins-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|wcwallisss17|ALL|NA"
+    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-heels-women.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts",
     "Headline": "NA",
-    "Subline": "Shop Heels >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "Shop Skirts >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-playsuitsjumpsuits-women.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_SANDALS.jpg",
+    "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "Shop Playsuits & Jumpsuits >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "Shop Sandals >",
+    "EventLabel": "CAT|Women|sandals|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C3_375x500-tops-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C3_375X500_TOPS.jpg",
     "Exit Url": "/women/clothing/fashion-tops",
     "Headline": "NA",
     "Subline": "Shop Tops >",
@@ -163,7 +163,7 @@
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-bags-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_BAGS.jpg",
     "Exit Url": "/women/bags",
     "Headline": "NA",
     "Subline": "Shop Bags >",
@@ -173,127 +173,127 @@
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C5_300x198-flatsapr-women.jpg",
-    "Exit Url": "/women/shoes/flats",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
     "Headline": "NA",
-    "Subline": "Shop Flats >",
-    "EventLabel": "CAT|Women|flats|ALL|NA"
+    "Subline": "Shop Playsuits & Jumpsuits >",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/SEGMENT_HERO_996x500-mayweshop-men.jpg",
-    "Exit Url": "/product-index/mayweshop/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-workwear-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=workwearmay&getSKU=0B483AA49E9F3FGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Men|WorkwearMen|Men|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N1_NEWARRIVALS_360x420-esprit-men.jpg",
-    "Exit Url": "/men/esprit/",
-    "Headline": "Esprit - Buy 2 Get 30% Off",
-    "Subline": "On the heritage-inspired RETRO COLLECTION and any full-priced item.",
-    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-packinglist-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
+    "Headline": "The Packing List",
+    "Subline": "Bring along a new sense of style for your next travel getaway.",
+    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywemove-men.jpg",
-    "Exit Url": "/men/sports/special-price/",
-    "Headline": "May We Move",
-    "Subline": "Take up to 40% off this sportswear selection and sweat it out in style.",
-    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-rplshirts-men.jpg",
+    "Exit Url": "/men/clothing/?cmpgn_one=rplshirtsandtshirts",
+    "Headline": "Shirt Season",
+    "Subline": "Slip on or button up - No fuss needed to style your perfect top.",
+    "EventLabel": "CAT|Men|RPLshirts|Men|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-aandf-men.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?getSKU=AB423AA13GLYMY--AB423AA93GMSMY--AB423AA83GNCMY--AB423AA63GNWMY--AB423AA58GOBMY--AB423AA52GOHMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-underarmour-men.jpg",
+    "Exit Url": "/under-armour-shop/?from=men",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
+    "EventLabel": "NA-BRA|MSP|munderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-yvesrocher-men.jpg",
-    "Exit Url": "/men/yves-rocher/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-esprit-men.jpg",
+    "Exit Url": "/men/esprit/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|yvesrocherssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-newbalance-men.jpg",
-    "Exit Url": "/new-balance-singapore/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-patagonia-men.jpg",
+    "Exit Url": "/men/patagonia/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA"
+    "EventLabel": "BRA|MSP-MC|msp1mcpatagoniass17|ALL|NA|patagonia"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-reebok-men.jpg",
-    "Exit Url": "/reebok-shop/?from=men",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-aldo-men.jpg",
+    "Exit Url": "/men/aldo-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|MS|msaldoss17|ALL|NA|aldo"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-hollister-men.jpg",
-    "Exit Url": "/men/hollister/?getSKU=HO422AA37GOWMY--HO422AA24GPJMY--HO422AA77GREMY--HO422AA69GRMMY--HO422US43GOQMY--HO422AA65GRQMY",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-topman-men.jpg",
+    "Exit Url": "/topman-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/B1-6_322x165-hugoboss-men.jpg",
-    "Exit Url": "/product-index/hugo-boss/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-mango-men.jpg",
+    "Exit Url": "/men/mango-shop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "BRA|Men|mango2ss17|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-shirts-men.jpg",
-    "Exit Url": "/men/clothing/shirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_POLO.jpg",
+    "Exit Url": "/men/clothing/polos",
     "Headline": "NA",
-    "Subline": "Shop Shirts >",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "Subline": "Shop Polos >",
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-loafers-men.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks",
     "Headline": "NA",
-    "Subline": "Shop Loafers >",
-    "EventLabel": "CAT|Men|boatshoe|ALL|NA"
+    "Subline": "Shop Backpacks >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C3_375x500-tshirts-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C3_375X500_MENS_TSHIRT.jpg",
     "Exit Url": "/men/clothing/t-shirts",
     "Headline": "NA",
     "Subline": "Shop T-Shirts >",
@@ -303,67 +303,67 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-jeans-men.jpg",
-    "Exit Url": "/men/clothing/jeans/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_SANDALS.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops",
     "Headline": "NA",
-    "Subline": "Shop Jeans >",
-    "EventLabel": "CAT|Men|jeans|ALL|NA"
+    "Subline": "Shop Sandals >",
+    "EventLabel": "CAT|Men|sandals|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/C1245_300x198-watches-men.jpg",
-    "Exit Url": "/men/watch/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_SPORTS.jpg",
+    "Exit Url": "/men/sportswear/",
     "Headline": "NA",
-    "Subline": "Shop Watches >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "Shop Sports >",
+    "EventLabel": "CAT|Men|sports|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-mayweshop-women.jpg",
-    "Exit Url": "/women/special-price/?age=30-90",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-maxidress-women.jpg",
+    "Exit Url": "/women/clothing/maxi-dresses/?getSKU=BB0D9AA5BB4B1AGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Women|maymaxidresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywechill-women.jpg",
-    "Exit Url": "/product-index/casualwear/?price=29.9-39.9",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gorman-women.jpg",
+    "Exit Url": "/women/gorman/",
     "Headline": "Women NCU1",
-    "Subline": "May We Chill",
-    "EventLabel": "SAL|Women|MayWeChill|ALL|NA"
+    "Subline": "Gorman",
+    "EventLabel": "BRA|Women|gormanssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-women.jpg",
-    "Exit Url": "/women/esprit/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-kurtgeiger-women.jpg",
+    "Exit Url": "/product-index/kurt-geiger/",
     "Headline": "Women NCU2",
-    "Subline": "Esprit - Buy 2 Get 30% Off",
-    "EventLabel": "BRA|Women|esprit2ssseventeen|ALL|ZAP"
+    "Subline": "Kurt Geiger",
+    "EventLabel": "BRA|Women|kurtgeigerlaunchssseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-heels-women.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts",
     "Headline": "Women C1",
-    "Subline": "Heels",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "Skirts",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-tops-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_TOPS.jpg",
     "Exit Url": "/women/clothing/fashion-tops",
     "Headline": "Women C2",
     "Subline": "Tops",
@@ -373,49 +373,49 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/MOBILEWEB_HERO_600x600-mayweshop-men.jpg",
-    "Exit Url": "/product-index/mayweshop/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-workwear-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=workwearmay&getSKU=0B483AA49E9F3FGS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|MayWeShop|ALL|NA"
+    "EventLabel": "TRE|Men|WorkwearMen|Men|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-esprit-men.jpg",
-    "Exit Url": "/men/esprit/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-packinglist-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
     "Headline": "Men NCU1",
-    "Subline": "Esprit - Buy 2 Get 30% Off",
-    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|ZAP"
+    "Subline": "The Packing List",
+    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/N2_NEWARRIVALS_620x420-maywemove-men.jpg",
-    "Exit Url": "/men/sports/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-rplshirts-men.jpg",
+    "Exit Url": "/men/clothing/?cmpgn_one=rplshirtsandtshirts",
     "Headline": "Men NCU2",
-    "Subline": "May We Move",
-    "EventLabel": "SAL|Men|MayWeMove|ALL|NA"
+    "Subline": "Shirt Season",
+    "EventLabel": "CAT|Men|RPLshirts|Men|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-shirts-men.jpg",
-    "Exit Url": "/men/clothing/shirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_POLO.jpg",
+    "Exit Url": "/men/clothing/polos",
     "Headline": "Men C1",
-    "Subline": "Shirts",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "Subline": "Polos",
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/C5_300x198-tshirts-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_TSHIRT.jpg",
     "Exit Url": "/men/clothing/t-shirts",
-    "Headline": "Men C1",
+    "Headline": "Men C2",
     "Subline": "T-Shirts",
     "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
