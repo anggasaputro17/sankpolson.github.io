@@ -478,5 +478,35 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|zaloraJun|ALL|NA|zalora"
+  },
+  {
+    "Placement": "wb2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Dorothyperkins_women_436x248.jpg",
+    "Exit Url": "/women/dorothy-perkins",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|DorothyPerkinsJun|ALL|NA|dorothy-perkins"
+  },
+  {
+    "Placement": "wb3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_topshop.gif",
+    "Exit Url": "/women/topshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|topshopJun|ALL|NA|topshop"
+  },
+  {
+    "Placement": "wb4",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/riverisland_women_436x248.jpg",
+    "Exit Url": "/women/river-island",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|RiverIslandJun|ALL|NA|river-island"
   }
 ]
