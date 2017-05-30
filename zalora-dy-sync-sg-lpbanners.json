@@ -183,23 +183,16 @@
   },
   {
     "System ID": "b4103",
-    "Gender": "unisex",
-    "Name": "Kapten & Son",
-    "Image": "https://static-sg.zacdn.com/cms/brands/kapten_son_unisex_LP_996x250_sg.jpg",
-    "Copy": "NA"
-  },
-  {
-    "System ID": "b4103",
     "Gender": "women",
     "Name": "Kapten & Son",
-    "Image": "https://static-sg.zacdn.com/cms/brands/kapten_son_women_LP_996x250_sg.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-kaptenson-women.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b4103",
     "Gender": "men",
     "Name": "Kapten & Son",
-    "Image": "https://static-sg.zacdn.com/cms/brands/kapten_son_men_LP_996x250_sg.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-kaptenson-men.jpg",
     "Copy": "NA"
   },
   {
@@ -1025,14 +1018,14 @@
     "System ID": "b4062",
     "Gender": "women",
     "Name": "Cotton On",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_cotton_on_women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-cottonon-women.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b4062",
     "Gender": "men",
     "Name": "Cotton On",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-cottonon-men.jpg",
     "Copy": "NA"
   },
   {
