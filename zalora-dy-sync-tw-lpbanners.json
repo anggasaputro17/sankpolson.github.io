@@ -45,21 +45,21 @@
     "System ID": "b2261",
     "Gender": "men",
     "Name": "Cotton On",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_cotton_on_men.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_cottonon_men_0530.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2261",
     "Gender": "women",
     "Name": "Cotton On",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_996x250_cotton_on_women.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_cottonon_women_0530.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2261",
     "Gender": "unisex",
     "Name": "Cotton On",
-    "Image": "https://static-tw.zacdn.com/cms/Evergage/LP_786x180_unisex_tw_bundle.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_cottonon_women_0530.jpg",
     "Copy": "NA"
   },
   {
@@ -1355,6 +1355,27 @@
     "Gender": "men",
     "Name": "Kurt Geiger",
     "Image": "https://static-tw.zacdn.com/cms/brands/KGKurtGeiger_LP_996x250.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "women",
+    "Name": "Kapten Son",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_kapten_women_0530.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "men",
+    "Name": "Kapten Son",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_kapten_men_0530.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b",
+    "Gender": "unisex",
+    "Name": "Kapten Son",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_kapten_0530.jpg",
     "Copy": "NA"
   }
 ]
