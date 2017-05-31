@@ -2104,5 +2104,95 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-maxidresses-hkzh.jpg",
     "Gender": "Women",
     "Notes": "contains /women & /maxi-dresses"
+  },
+  {
+    "Name": "Women Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-women-june17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /kapten-son & /women"
+  },
+  {
+    "Name": "Men Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-unisex-june17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /kapten-son & /men"
+  },
+  {
+    "Name": "Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-men-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /kapten-son & does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Swiss Polo",
+    "System ID": "b2539",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/Swiss-Polo-Brand-LP-SS17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /swiss-polo"
+  },
+  {
+    "Name": "Brand: Playboy",
+    "System ID": "b2702",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-playboy_june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /playboy"
+  },
+  {
+    "Name": "Brand: Lumberjacks",
+    "System ID": "b1322",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-lumberjacks-unisex-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lumberjacks"
+  },
+  {
+    "Name": "Brand: Uniqtee",
+    "System ID": "b3048",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-uniqtee-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /uniqtee"
+  },
+  {
+    "Name": "Brand: Sparrow Green",
+    "System ID": "b991",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-sparrow_green-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sparrowgreen"
+  },
+  {
+    "Name": "Brand: Fidelio",
+    "System ID": "b2515",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-fidelio-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fidelio"
+  },
+  {
+    "Name": "Brand: Pink n Proper",
+    "System ID": "b2433",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-pink-n-proper-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /pink-n-proper"
   }
 ]
