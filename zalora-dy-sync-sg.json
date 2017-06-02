@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-maxidress-women.jpg",
-    "Exit Url": "/women/clothing/maxi-dresses/?getSKU=BB0D9AA5BB4B1AGS",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-gss-women.jpg",
+    "Exit Url": "/women/special-price/?discount=20-50&age=30-90",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|maymaxidresses|ALL|NA"
+    "EventLabel": "SAL|Women|gssomnibusfifty|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-workwear-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=workwearmay&getSKU=0B483AA49E9F3FGS",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-gss-men.jpg",
+    "Exit Url": "/men/special-price/?discount=20-50&age=30-90",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|WorkwearMen|Men|NA"
+    "EventLabel": "SAL|Men|gssomnibusfifty|ALL|NA"
   },
   {
     "Placement": "mn1",
