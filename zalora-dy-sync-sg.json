@@ -324,7 +324,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-gss-women.jpg",
-    "Exit Url": "/women/special-price/?discount=20-50&age=30-90",
+    "Exit Url": "/women/special-price/?discount=20-50",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|gssomnibusfifty|ALL|NA"
@@ -374,7 +374,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-gss-men.jpg",
-    "Exit Url": "/men/special-price/?discount=20-50&age=30-90",
+    "Exit Url": "/men/special-price/?discount=20-50",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|gssomnibusfifty|ALL|NA"
