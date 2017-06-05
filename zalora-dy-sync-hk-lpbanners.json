@@ -153,7 +153,7 @@
     "Notes": "contains /seafolly"
   },
   {
-    "Name": "Men Vday Clothing Shirt",
+    "Name": "Men Category: Shirt",
     "System ID": "c31",
     "Copy": "NA",
     "Language": "EN",
@@ -162,7 +162,7 @@
     "Notes": "contains /men & /clothing & /shirt"
   },
   {
-    "Name": "Men Vday Clothing Shirt",
+    "Name": "Men Category: Shirt",
     "System ID": "c31",
     "Copy": "NA",
     "Language": "ZH",
@@ -189,7 +189,7 @@
     "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
   },
   {
-    "Name": "Fitness Unleashed",
+    "Name": "Men Category: Sports",
     "System ID": "c471",
     "Copy": "NA",
     "Language": "EN",
@@ -198,7 +198,7 @@
     "Notes": "contains /men/sports"
   },
   {
-    "Name": "Fitness Unleashed",
+    "Name": "Men Category: Sports",
     "System ID": "c471",
     "Copy": "NA",
     "Language": "ZH",
@@ -207,7 +207,7 @@
     "Notes": "contains /men/sports"
   },
   {
-    "Name": "Hoodies & Sweatshirts Season",
+    "Name": "Women Category: Hoodies & Sweatshirts",
     "System ID": "c5968",
     "Copy": "NA",
     "Language": "EN",
@@ -216,7 +216,7 @@
     "Notes": "contains /women & /hoodies-sweatshirts"
   },
   {
-    "Name": "Hoodies & Sweatshirts Season",
+    "Name": "Women Category: Hoodies & Sweatshirts",
     "System ID": "c5968",
     "Copy": "NA",
     "Language": "ZH",
@@ -288,7 +288,7 @@
     "Notes": "contains /topshop"
   },
   {
-    "Name": "Chill Factor",
+    "Name": "Category: Hoodies & Sweatshirts",
     "System ID": "c5953",
     "Copy": "NA",
     "Language": "EN",
@@ -297,7 +297,7 @@
     "Notes": "contains /men & /hoodies-sweatshirts"
   },
   {
-    "Name": "Chill Factor",
+    "Name": "Category: Hoodies & Sweatshirts",
     "System ID": "c5953",
     "Copy": "NA",
     "Language": "ZH",
@@ -306,7 +306,7 @@
     "Notes": "contains /men & /hoodies-sweatshirts"
   },
   {
-    "Name": "Quality Made Leather",
+    "Name": "Women Category: Feature Leather",
     "System ID": "c4159",
     "Copy": "NA",
     "Language": "EN",
@@ -315,7 +315,7 @@
     "Notes": "contains /women/feature/leather"
   },
   {
-    "Name": "Quality Made Leather",
+    "Name": "Women Category: Feature Leather",
     "System ID": "c4159",
     "Copy": "NA",
     "Language": "ZH",
@@ -324,7 +324,7 @@
     "Notes": "contains /women/feature/leather"
   },
   {
-    "Name": "Men Polos",
+    "Name": "Men Category: Polo",
     "System ID": "c434",
     "Copy": "NA",
     "Language": "EN",
@@ -333,7 +333,7 @@
     "Notes": "contains /men & /polos"
   },
   {
-    "Name": "Men Polos",
+    "Name": "Men Category: Polo",
     "System ID": "c434",
     "Copy": "NA",
     "Language": "ZH",
@@ -342,7 +342,7 @@
     "Notes": "contains /men & /polos"
   },
   {
-    "Name": "Vday Evening Dresses",
+    "Name": "Women Category: Evening Dresses",
     "System ID": "c1762",
     "Copy": "NA",
     "Language": "EN",
@@ -351,7 +351,7 @@
     "Notes": "contains /women & /evening-dresses"
   },
   {
-    "Name": "Vday Evening Dresses",
+    "Name": "Women Category: Evening Dresses",
     "System ID": "c1762",
     "Copy": "NA",
     "Language": "ZH",
@@ -360,7 +360,7 @@
     "Notes": "contains /women & /evening-dresses"
   },
   {
-    "Name": "Boots Envy",
+    "Name": "Women Category: Boots",
     "System ID": "c15",
     "Copy": "NA",
     "Language": "EN",
@@ -369,7 +369,7 @@
     "Notes": "contains /women & /boots"
   },
   {
-    "Name": "Boots Envy",
+    "Name": "Women Category: Boots",
     "System ID": "c15",
     "Copy": "NA",
     "Language": "ZH",
@@ -396,7 +396,7 @@
     "Notes": "contains /addicts-anonymous"
   },
   {
-    "Name": "The Bags Trend",
+    "Name": "Women Category: Bags New Products",
     "System ID": "c399",
     "Copy": "NA",
     "Language": "EN",
@@ -405,7 +405,7 @@
     "Notes": "contains /women/bags & /new-products"
   },
   {
-    "Name": "The Bags Trend",
+    "Name": "Women Category: Bags New Products",
     "System ID": "c399",
     "Copy": "NA",
     "Language": "ZH",
@@ -414,7 +414,7 @@
     "Notes": "contains /women/bags & /new-products"
   },
   {
-    "Name": "Korean Fashion",
+    "Name": "Women Category: Korean Fashion Special Price",
     "System ID": "c4669",
     "Copy": "NA",
     "Language": "EN",
@@ -423,7 +423,7 @@
     "Notes": "contains /women/korean-fashion & /special-price"
   },
   {
-    "Name": "Korean Fashion",
+    "Name": "Women Category: Korean Fashion Special Price",
     "System ID": "c4669",
     "Copy": "NA",
     "Language": "ZH",
@@ -432,7 +432,7 @@
     "Notes": "contains /women/korean-fashion & /special-price"
   },
   {
-    "Name": "Dressed to Chill",
+    "Name": "Women Category: Jackets & Coats",
     "System ID": "c5966",
     "Copy": "NA",
     "Language": "EN",
@@ -441,7 +441,7 @@
     "Notes": "contains /women & /jackets-and-coats"
   },
   {
-    "Name": "Dressed to Chill",
+    "Name": "Women Category: Jackets & Coats",
     "System ID": "c5966",
     "Copy": "NA",
     "Language": "ZH",
@@ -450,7 +450,7 @@
     "Notes": "contains /women & /jackets-and-coats"
   },
   {
-    "Name": "Workwear Essential",
+    "Name": "Women Category: Workwear Edit",
     "System ID": "c2673",
     "Copy": "NA",
     "Language": "EN",
@@ -459,7 +459,7 @@
     "Notes": "contains /women & /workwear-edit"
   },
   {
-    "Name": "Workwear Essential",
+    "Name": "Women Category: Workwear Edit",
     "System ID": "c2673",
     "Copy": "NA",
     "Language": "ZH",
@@ -2088,7 +2088,7 @@
     "Notes": "contains /men & /sneakers-plimsolls"
   },
   {
-    "Name": "Category: Maxi Dresses",
+    "Name": "Women Category: Maxi Dresses",
     "System ID": "NA",
     "Copy": "NA",
     "Language": "EN",
@@ -2097,7 +2097,7 @@
     "Notes": "contains /women & /maxi-dresses"
   },
   {
-    "Name": "Category: Maxi Dresses",
+    "Name": "Women Category: Maxi Dresses",
     "System ID": "NA",
     "Copy": "NA",
     "Language": "ZH",
@@ -2119,7 +2119,7 @@
     "System ID": "b3327",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-men-june17.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-unisex-june17.jpg",
     "Gender": "Men",
     "Notes": "contains /kapten-son & /men"
   },
@@ -2128,7 +2128,7 @@
     "System ID": "b3327",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-unisex-june17.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-men-june17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /kapten-son & does not contain /men or /women"
   },
@@ -2194,5 +2194,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-pink-n-proper-june17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /pink-n-proper"
+  },
+  {
+    "Name": "Women Category: Strappy Heels",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/cw24/LP_996x250-strappyheels-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /strappy-heels"
+  },
+  {
+    "Name": "Women Category: Strappy Heels",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw24/LP_996x250-strappyheels-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /strappy-heels"
   }
 ]
