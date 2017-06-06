@@ -23,11 +23,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-kurtgeiger-women.jpg",
-    "Exit Url": "/product-index/kurt-geiger/",
-    "Headline": "Kurt Geiger",
-    "Subline": "These dazzling shoes and accessories will leave you spoiled for choice.",
-    "EventLabel": "BRA|Women|kurtgeigerlaunchssseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw24/CU1_NEWARRIVALS_620x420-doublecartrule.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=doublecartrule",
+    "Headline": "Buy 2 Get 20% off <br> Buy 3 or more Get 30% off",
+    "Subline": "Take your pick from these top brands today!",
+    "EventLabel": "SAL|Women|gssdoublecartrule|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -193,11 +193,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-packinglist-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
-    "Headline": "The Packing List",
-    "Subline": "Bring along a new sense of style for your next travel getaway.",
-    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw24/N1_NEWARRIVALS_360x420-fathersday.jpg",
+    "Exit Url": "/men/fathers-day/",
+    "Headline": "Father’s Day Gift Guide",
+    "Subline": "With GSS deals up to 40% off, don’t forget to grab new stuff for dad now.",
+    "EventLabel": "RET|Men|FathersDay|Men|NA"
   },
   {
     "Placement": "mn2",
@@ -343,11 +343,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-kurtgeiger-women.jpg",
-    "Exit Url": "/product-index/kurt-geiger/",
+    "Image": "https://static-sg.zacdn.com/cms/cw24/CU1_NEWARRIVALS_620x420-doublecartrule.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=doublecartrule",
     "Headline": "Women NCU2",
-    "Subline": "Kurt Geiger",
-    "EventLabel": "BRA|Women|kurtgeigerlaunchssseventeen|ALL|NA"
+    "Subline": "Buy 2 Get 20% off <br> Buy 3 or more Get 30% off",
+    "EventLabel": "SAL|Women|gssdoublecartrule|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -383,11 +383,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-packinglist-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=summerpackinglist",
-    "Headline": "Men NCU1",
-    "Subline": "The Packing List",
-    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw24/N2_NEWARRIVALS_620x420-fathersday.jpg",
+    "Exit Url": "/men/fathers-day/",
+    "Headline": "Father’s Day Gift Guide",
+    "Subline": "With GSS deals up to 40% off, don’t forget to grab new stuff for dad now.",
+    "EventLabel": "RET|Men|FathersDay|Men|NA"
   },
   {
     "Placement": "mn2",
