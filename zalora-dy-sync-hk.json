@@ -263,14 +263,14 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw23/N1_NEWARRIVALS_360x420-thepackinglist.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw24/N1_NEWARRIVALS_360x420-fathersday.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/all-products/?cmpgn_one=summerpackinglist",
-    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA",
-    "ENHeadline": "The Packing List",
-    "ENSubline": "Bring along a new sense of style for your next travel getaway.",
-    "ZHHeadline": "型男必備",
-    "ZHSubline": "為造型加分 旅行也不忘時尚配搭"
+    "ExitUrl": "/men/fathers-day/",
+    "EventLabel": "RET|Men|FathersDay|Men|NA",
+    "ENHeadline": "Father’s Day Gift Guide",
+    "ENSubline": "With deals up to 40% off, don’t forget to grab some new stuff for dad now.",
+    "ZHHeadline": "父親節送禮指南",
+    "ZHSubline": "優惠低至6折 立即為父親選購精美禮物!"
   },
   {
     "Placement": "mn2",
@@ -510,14 +510,14 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw23/N2_NEWARRIVALS_620x420-thepackinglist.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw24/N2_NEWARRIVALS_620x420-fathersday.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/all-products/?cmpgn_one=summerpackinglist",
-    "EventLabel": "TRE|Men|Thepackinglist|ALL|NA",
-    "ENHeadline": "The Packing List",
-    "ENSubline": "Bring along a new sense of style for your next travel getaway.",
-    "ZHHeadline": "型男必備",
-    "ZHSubline": "為造型加分 旅行也不忘時尚配搭"
+    "ExitUrl": "/men/fathers-day/",
+    "EventLabel": "RET|Men|FathersDay|Men|NA",
+    "ENHeadline": "Father’s Day Gift Guide",
+    "ENSubline": "With deals up to 40% off, don’t forget to grab some new stuff for dad now.",
+    "ZHHeadline": "父親節送禮指南",
+    "ZHSubline": "優惠低至6折 立即為父親選購精美禮物!"
   },
   {
     "Placement": "mn2",
