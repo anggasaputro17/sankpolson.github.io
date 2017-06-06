@@ -453,11 +453,11 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/Feb2017/SEGMENT_HEADER_326x304-menclothingna-unisex.jpg",
-    "Exit Url": "/men/clothing/new-products/",
-    "Headline": "Season Start",
-    "Subline": "Our latest collection to update your look.",
-    "EventLabel": "THE|MC|seasonstartfeb|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw24/HOMEPAGE_326x304-fathersdaygiftguide-cw24.jpg",
+    "Exit Url": "/men/fathers-day/",
+    "Headline": "Father’s Day Gift Guide",
+    "Subline": "With GSS deals up to 40% off, don’t forget to grab new stuff for dad now.",
+    "EventLabel": "RET|Men|FathersDay|Men|NA"
   },
   {
     "Placement": "wb1",
