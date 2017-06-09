@@ -1270,14 +1270,14 @@
     "System ID": "b2313",
     "Gender": "men",
     "Name": "Fossil",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/20170103-Zalora-Fossil-R1_06-996x250-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-fossil-men.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b2313",
     "Gender": "women",
     "Name": "Fossil",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Mar2017/20170103-Zalora-Fossil-R1_06-996x250-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-fossil-women.jpg",
     "Copy": "NA"
   },
   {
@@ -1480,14 +1480,14 @@
     "System ID": "b3419",
     "Gender": "women",
     "Name": "Skagen",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/LP_996x250-skagenapr11-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-skagen-unisex.jpg",
     "Copy": "NA"
   },
   {
     "System ID": "b3419",
     "Gender": "men",
     "Name": "Skagen",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/LP_996x250-skagenapr11-men.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-skagen-unisex.jpg",
     "Copy": "NA"
   },
   {
@@ -1502,6 +1502,34 @@
     "Gender": "men",
     "Name": "Lubna",
     "Image": "https://static-sg.zacdn.com/cms/DY/Apr2017/Lubna-Men-Brand-LP.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4338",
+    "Gender": "women",
+    "Name": "Odlo",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-odlo-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4338",
+    "Gender": "men",
+    "Name": "Odlo",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-odlo-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3946",
+    "Gender": "women",
+    "Name": "Penshoppe",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-penshoppe-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b3946",
+    "Gender": "men",
+    "Name": "Penshoppe",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-penshoppe-women.jpg",
     "Copy": "NA"
   }
 ]
