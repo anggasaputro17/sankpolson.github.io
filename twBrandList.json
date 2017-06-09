@@ -70,6 +70,11 @@
 		"url_key" : "test-brand"
 	},
 	{
+		"id_catalog_brand" : 179,
+		"name" : "Edwin",
+		"url_key" : "edwin"
+	},
+	{
 		"id_catalog_brand" : 198,
 		"name" : "Seafolly",
 		"url_key" : "seafolly"
@@ -3225,11 +3230,6 @@
 		"url_key" : "wildcraft"
 	},
 	{
-		"id_catalog_brand" : 2173,
-		"name" : "Lubna",
-		"url_key" : "lubna"
-	},
-	{
 		"id_catalog_brand" : 2174,
 		"name" : "John Master",
 		"url_key" : "john-master"
@@ -3770,11 +3770,6 @@
 		"url_key" : "public-desire"
 	},
 	{
-		"id_catalog_brand" : 2293,
-		"name" : "DINT",
-		"url_key" : "dint"
-	},
-	{
 		"id_catalog_brand" : 2294,
 		"name" : "DABAGIRL",
 		"url_key" : "dabagirl"
@@ -4051,7 +4046,7 @@
 	},
 	{
 		"id_catalog_brand" : 2349,
-		"name" : "Chaps",
+		"name" : "CHAPS",
 		"url_key" : "chaps"
 	},
 	{
@@ -4698,5 +4693,200 @@
 		"id_catalog_brand" : 2478,
 		"name" : "PAUL FRANK",
 		"url_key" : "paul-frank"
+	},
+	{
+		"id_catalog_brand" : 2479,
+		"name" : "W.Lab",
+		"url_key" : "w-lab"
+	},
+	{
+		"id_catalog_brand" : 2480,
+		"name" : "Andre",
+		"url_key" : "andre"
+	},
+	{
+		"id_catalog_brand" : 2481,
+		"name" : "Akriboss XXIV",
+		"url_key" : "akriboss-xxiv"
+	},
+	{
+		"id_catalog_brand" : 2482,
+		"name" : "August Steiner",
+		"url_key" : "august-steiner"
+	},
+	{
+		"id_catalog_brand" : 2483,
+		"name" : "UMMA",
+		"url_key" : "umma"
+	},
+	{
+		"id_catalog_brand" : 2484,
+		"name" : "so that's me",
+		"url_key" : "so-that-s-me"
+	},
+	{
+		"id_catalog_brand" : 2485,
+		"name" : "Inspired Soul",
+		"url_key" : "inspired-soul"
+	},
+	{
+		"id_catalog_brand" : 2486,
+		"name" : "DYCTEAM",
+		"url_key" : "dycteam"
+	},
+	{
+		"id_catalog_brand" : 2487,
+		"name" : "Velvet Vanity Cosmetics",
+		"url_key" : "velvet-vanity-cosmetics"
+	},
+	{
+		"id_catalog_brand" : 2488,
+		"name" : "Victrinox",
+		"url_key" : "victrinox"
+	},
+	{
+		"id_catalog_brand" : 2489,
+		"name" : "Breena Beauty",
+		"url_key" : "breena-beauty"
+	},
+	{
+		"id_catalog_brand" : 2490,
+		"name" : "BRIC'S",
+		"url_key" : "brics"
+	},
+	{
+		"id_catalog_brand" : 2491,
+		"name" : "1818",
+		"url_key" : "1818"
+	},
+	{
+		"id_catalog_brand" : 2492,
+		"name" : "Every Second Counts",
+		"url_key" : "every-second-counts"
+	},
+	{
+		"id_catalog_brand" : 2493,
+		"name" : "Odlo",
+		"url_key" : "odlo"
+	},
+	{
+		"id_catalog_brand" : 2494,
+		"name" : "Folli Follie",
+		"url_key" : "folli-follie"
+	},
+	{
+		"id_catalog_brand" : 2495,
+		"name" : "DAZE DAYZ",
+		"url_key" : "daze-dayz"
+	},
+	{
+		"id_catalog_brand" : 2496,
+		"name" : "Xlash",
+		"url_key" : "xlash"
+	},
+	{
+		"id_catalog_brand" : 2497,
+		"name" : "Nina Armando",
+		"url_key" : "nina-armando"
+	},
+	{
+		"id_catalog_brand" : 2498,
+		"name" : "TSI",
+		"url_key" : "tsi"
+	},
+	{
+		"id_catalog_brand" : 2499,
+		"name" : "DVNT",
+		"url_key" : "dvnt"
+	},
+	{
+		"id_catalog_brand" : 2500,
+		"name" : "Cocinelle",
+		"url_key" : "cocinelle"
+	},
+	{
+		"id_catalog_brand" : 2501,
+		"name" : "viaSWEAT",
+		"url_key" : "viasweat"
+	},
+	{
+		"id_catalog_brand" : 2502,
+		"name" : "FORCAST",
+		"url_key" : "forcast"
+	},
+	{
+		"id_catalog_brand" : 2503,
+		"name" : "HANA BELLA",
+		"url_key" : "hana-bella"
+	},
+	{
+		"id_catalog_brand" : 2504,
+		"name" : "H:CONNECT",
+		"url_key" : "h-connect"
+	},
+	{
+		"id_catalog_brand" : 2505,
+		"name" : "SYNDEED",
+		"url_key" : "syndeed"
+	},
+	{
+		"id_catalog_brand" : 2506,
+		"name" : "Lizzy",
+		"url_key" : "lizzy"
+	},
+	{
+		"id_catalog_brand" : 2507,
+		"name" : "London Rag",
+		"url_key" : "london-rag"
+	},
+	{
+		"id_catalog_brand" : 2508,
+		"name" : "eq:iq",
+		"url_key" : "eq-iq"
+	},
+	{
+		"id_catalog_brand" : 2509,
+		"name" : "Naturally Jojo",
+		"url_key" : "naturally-jojo"
+	},
+	{
+		"id_catalog_brand" : 2510,
+		"name" : "TECHNOMARINE",
+		"url_key" : "technomarine"
+	},
+	{
+		"id_catalog_brand" : 2511,
+		"name" : "Lara",
+		"url_key" : "lara"
+	},
+	{
+		"id_catalog_brand" : 2512,
+		"name" : "Trendyshop",
+		"url_key" : "trendyshop"
+	},
+	{
+		"id_catalog_brand" : 2513,
+		"name" : "Kings Collection",
+		"url_key" : "kings-collection"
+	},
+	{
+		"id_catalog_brand" : 2514,
+		"name" : "Minelli",
+		"url_key" : "minelli"
+	},
+	{
+		"id_catalog_brand" : 2515,
+		"name" : "NBRAND",
+		"url_key" : "nbrand"
+	},
+	{
+		"id_catalog_brand" : 2516,
+		"name" : "AVEDA",
+		"url_key" : "aveda"
+	},
+	{
+		"id_catalog_brand" : 2517,
+		"name" : "Cakenis",
+		"url_key" : "cakenis"
 	}
 ]
