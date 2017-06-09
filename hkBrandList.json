@@ -7458,5 +7458,195 @@
 		"id_catalog_brand" : 3548,
 		"name" : "Dune",
 		"url_key" : "dune"
+	},
+	{
+		"id_catalog_brand" : 3549,
+		"name" : "W.Lab",
+		"url_key" : "w-lab"
+	},
+	{
+		"id_catalog_brand" : 3550,
+		"name" : "Andre",
+		"url_key" : "andre"
+	},
+	{
+		"id_catalog_brand" : 3551,
+		"name" : "Akriboss XXIV",
+		"url_key" : "akriboss-xxiv"
+	},
+	{
+		"id_catalog_brand" : 3552,
+		"name" : "August Steiner",
+		"url_key" : "august-steiner"
+	},
+	{
+		"id_catalog_brand" : 3553,
+		"name" : "CHENSON",
+		"url_key" : "chenson"
+	},
+	{
+		"id_catalog_brand" : 3554,
+		"name" : "UMMA",
+		"url_key" : "umma"
+	},
+	{
+		"id_catalog_brand" : 3555,
+		"name" : "so that's me",
+		"url_key" : "so-that-s-me"
+	},
+	{
+		"id_catalog_brand" : 3556,
+		"name" : "United Colors of Benetton",
+		"url_key" : "united-colors-of-benetton"
+	},
+	{
+		"id_catalog_brand" : 3557,
+		"name" : "Sisley",
+		"url_key" : "sisley"
+	},
+	{
+		"id_catalog_brand" : 3558,
+		"name" : "Inspired Soul",
+		"url_key" : "inspired-soul"
+	},
+	{
+		"id_catalog_brand" : 3559,
+		"name" : "DYCTEAM",
+		"url_key" : "dycteam"
+	},
+	{
+		"id_catalog_brand" : 3560,
+		"name" : "Velvet Vanity Cosmetics",
+		"url_key" : "velvet-vanity-cosmetics"
+	},
+	{
+		"id_catalog_brand" : 3561,
+		"name" : "Victrinox",
+		"url_key" : "victrinox"
+	},
+	{
+		"id_catalog_brand" : 3562,
+		"name" : "Breena Beauty",
+		"url_key" : "breena-beauty"
+	},
+	{
+		"id_catalog_brand" : 3563,
+		"name" : "BRIC'S",
+		"url_key" : "brics"
+	},
+	{
+		"id_catalog_brand" : 3564,
+		"name" : "1818",
+		"url_key" : "1818"
+	},
+	{
+		"id_catalog_brand" : 3565,
+		"name" : "Every Second Counts",
+		"url_key" : "every-second-counts"
+	},
+	{
+		"id_catalog_brand" : 3566,
+		"name" : "Odlo",
+		"url_key" : "odlo"
+	},
+	{
+		"id_catalog_brand" : 3567,
+		"name" : "Folli Follie",
+		"url_key" : "folli-follie"
+	},
+	{
+		"id_catalog_brand" : 3568,
+		"name" : "DAZE DAYZ",
+		"url_key" : "daze-dayz"
+	},
+	{
+		"id_catalog_brand" : 3569,
+		"name" : "Xlash",
+		"url_key" : "xlash"
+	},
+	{
+		"id_catalog_brand" : 3570,
+		"name" : "Nina Armando",
+		"url_key" : "nina-armando"
+	},
+	{
+		"id_catalog_brand" : 3571,
+		"name" : "TSI",
+		"url_key" : "tsi"
+	},
+	{
+		"id_catalog_brand" : 3572,
+		"name" : "DVNT",
+		"url_key" : "dvnt"
+	},
+	{
+		"id_catalog_brand" : 3573,
+		"name" : "Cocinelle",
+		"url_key" : "cocinelle"
+	},
+	{
+		"id_catalog_brand" : 3574,
+		"name" : "viaSWEAT",
+		"url_key" : "viasweat"
+	},
+	{
+		"id_catalog_brand" : 3575,
+		"name" : "FORCAST",
+		"url_key" : "forcast"
+	},
+	{
+		"id_catalog_brand" : 3576,
+		"name" : "HANA BELLA",
+		"url_key" : "hana-bella"
+	},
+	{
+		"id_catalog_brand" : 3577,
+		"name" : "H:CONNECT",
+		"url_key" : "h-connect"
+	},
+	{
+		"id_catalog_brand" : 3578,
+		"name" : "SYNDEED",
+		"url_key" : "syndeed"
+	},
+	{
+		"id_catalog_brand" : 3579,
+		"name" : "Naturally Jojo",
+		"url_key" : "naturally-jojo"
+	},
+	{
+		"id_catalog_brand" : 3580,
+		"name" : "AVEDA",
+		"url_key" : "aveda"
+	},
+	{
+		"id_catalog_brand" : 3581,
+		"name" : "eq:iq",
+		"url_key" : "eqiq"
+	},
+	{
+		"id_catalog_brand" : 3582,
+		"name" : "Minelli",
+		"url_key" : "minelli"
+	},
+	{
+		"id_catalog_brand" : 3583,
+		"name" : "Francis Test",
+		"url_key" : "francis-test"
+	},
+	{
+		"id_catalog_brand" : 3584,
+		"name" : "MaBelle",
+		"url_key" : "mabelle"
+	},
+	{
+		"id_catalog_brand" : 3585,
+		"name" : "Cakenis",
+		"url_key" : "cakenis"
+	},
+	{
+		"id_catalog_brand" : 3586,
+		"name" : "TOPGIRL",
+		"url_key" : "topgirl"
 	}
 ]
