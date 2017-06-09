@@ -100,6 +100,11 @@
 		"url_key" : "test-brand"
 	},
 	{
+		"id_catalog_brand" : 179,
+		"name" : "Edwin",
+		"url_key" : "edwin"
+	},
+	{
 		"id_catalog_brand" : 180,
 		"name" : "Pointer",
 		"url_key" : "pointer"
@@ -513,6 +518,11 @@
 		"id_catalog_brand" : 1425,
 		"name" : "Ripples",
 		"url_key" : "ripples"
+	},
+	{
+		"id_catalog_brand" : 1491,
+		"name" : "United Colors of Benetton",
+		"url_key" : "united-colors-of-benetton"
 	},
 	{
 		"id_catalog_brand" : 1497,
@@ -5641,7 +5651,7 @@
 	},
 	{
 		"id_catalog_brand" : 4021,
-		"name" : "Chaps",
+		"name" : "CHAPS",
 		"url_key" : "chaps"
 	},
 	{
@@ -5988,11 +5998,6 @@
 		"id_catalog_brand" : 4095,
 		"name" : "O.P.I",
 		"url_key" : "o-p-i"
-	},
-	{
-		"id_catalog_brand" : 4096,
-		"name" : "DINT",
-		"url_key" : "dint"
 	},
 	{
 		"id_catalog_brand" : 4097,
@@ -7118,5 +7123,225 @@
 		"id_catalog_brand" : 4323,
 		"name" : "Dune",
 		"url_key" : "dune"
+	},
+	{
+		"id_catalog_brand" : 4324,
+		"name" : "Andre",
+		"url_key" : "andre"
+	},
+	{
+		"id_catalog_brand" : 4325,
+		"name" : "Akriboss XXIV",
+		"url_key" : "akriboss-xxiv"
+	},
+	{
+		"id_catalog_brand" : 4326,
+		"name" : "August Steiner",
+		"url_key" : "august-steiner"
+	},
+	{
+		"id_catalog_brand" : 4327,
+		"name" : "CHENSON",
+		"url_key" : "chenson"
+	},
+	{
+		"id_catalog_brand" : 4328,
+		"name" : "UMMA",
+		"url_key" : "umma"
+	},
+	{
+		"id_catalog_brand" : 4329,
+		"name" : "so that's me",
+		"url_key" : "so-that-s-me"
+	},
+	{
+		"id_catalog_brand" : 4330,
+		"name" : "Inspired Soul",
+		"url_key" : "inspired-soul"
+	},
+	{
+		"id_catalog_brand" : 4331,
+		"name" : "DYCTEAM",
+		"url_key" : "dycteam"
+	},
+	{
+		"id_catalog_brand" : 4332,
+		"name" : "Velvet Vanity Cosmetics",
+		"url_key" : "velvet-vanity-cosmetics"
+	},
+	{
+		"id_catalog_brand" : 4333,
+		"name" : "Victrinox",
+		"url_key" : "victrinox"
+	},
+	{
+		"id_catalog_brand" : 4334,
+		"name" : "Breena Beauty",
+		"url_key" : "breena-beauty"
+	},
+	{
+		"id_catalog_brand" : 4335,
+		"name" : "BRIC'S",
+		"url_key" : "brics"
+	},
+	{
+		"id_catalog_brand" : 4336,
+		"name" : "1818",
+		"url_key" : "1818"
+	},
+	{
+		"id_catalog_brand" : 4337,
+		"name" : "Every Second Counts",
+		"url_key" : "every-second-counts"
+	},
+	{
+		"id_catalog_brand" : 4338,
+		"name" : "Odlo",
+		"url_key" : "odlo"
+	},
+	{
+		"id_catalog_brand" : 4339,
+		"name" : "Folli Follie",
+		"url_key" : "folli-follie"
+	},
+	{
+		"id_catalog_brand" : 4340,
+		"name" : "DAZE DAYZ",
+		"url_key" : "daze-dayz"
+	},
+	{
+		"id_catalog_brand" : 4341,
+		"name" : "Xlash",
+		"url_key" : "xlash"
+	},
+	{
+		"id_catalog_brand" : 4342,
+		"name" : "Nina Armando",
+		"url_key" : "nina-armando"
+	},
+	{
+		"id_catalog_brand" : 4343,
+		"name" : "TSI",
+		"url_key" : "tsi"
+	},
+	{
+		"id_catalog_brand" : 4344,
+		"name" : "DVNT",
+		"url_key" : "dvnt"
+	},
+	{
+		"id_catalog_brand" : 4345,
+		"name" : "Cocinelle",
+		"url_key" : "cocinelle"
+	},
+	{
+		"id_catalog_brand" : 4346,
+		"name" : "viaSWEAT",
+		"url_key" : "viasweat"
+	},
+	{
+		"id_catalog_brand" : 4347,
+		"name" : "FORCAST",
+		"url_key" : "forcast"
+	},
+	{
+		"id_catalog_brand" : 4348,
+		"name" : "HANA BELLA",
+		"url_key" : "hana-bella"
+	},
+	{
+		"id_catalog_brand" : 4349,
+		"name" : "H:CONNECT",
+		"url_key" : "h-connect"
+	},
+	{
+		"id_catalog_brand" : 4350,
+		"name" : "SYNDEED",
+		"url_key" : "syndeed"
+	},
+	{
+		"id_catalog_brand" : 4351,
+		"name" : "eq:iq",
+		"url_key" : "eqiq"
+	},
+	{
+		"id_catalog_brand" : 4352,
+		"name" : "Minelli",
+		"url_key" : "minelli"
+	},
+	{
+		"id_catalog_brand" : 4353,
+		"name" : "Trendyshop",
+		"url_key" : "trendyshop"
+	},
+	{
+		"id_catalog_brand" : 4354,
+		"name" : "Lizzy",
+		"url_key" : "lizzy"
+	},
+	{
+		"id_catalog_brand" : 4355,
+		"name" : "Lara",
+		"url_key" : "lara"
+	},
+	{
+		"id_catalog_brand" : 4356,
+		"name" : "NBRAND",
+		"url_key" : "nbrand"
+	},
+	{
+		"id_catalog_brand" : 4357,
+		"name" : "ENZODESIGN",
+		"url_key" : "enzodesign"
+	},
+	{
+		"id_catalog_brand" : 4358,
+		"name" : "Kings Collection",
+		"url_key" : "kings-collection"
+	},
+	{
+		"id_catalog_brand" : 4359,
+		"name" : "TECHNOMARINE",
+		"url_key" : "technomarine"
+	},
+	{
+		"id_catalog_brand" : 4360,
+		"name" : "London Rag",
+		"url_key" : "london-rag"
+	},
+	{
+		"id_catalog_brand" : 4361,
+		"name" : "Francis Test",
+		"url_key" : "francis-test"
+	},
+	{
+		"id_catalog_brand" : 4362,
+		"name" : "Dewi Sofiea",
+		"url_key" : "dewi-sofiea"
+	},
+	{
+		"id_catalog_brand" : 4363,
+		"name" : "Cakenis",
+		"url_key" : "cakenis"
+	},
+	{
+		"id_catalog_brand" : 4364,
+		"name" : "TOPGIRL",
+		"url_key" : "top-girl"
+	},
+	{
+		"id_catalog_brand" : 4365,
+		"name" : "Elisa Litz",
+		"url_key" : "elisa-litz"
+	},
+	{
+		"id_catalog_brand" : 4366,
+		"name" : "SALAD BOWLS",
+		"url_key" : "salad-bowls"
+	},
+	{
+		"id_catalog_brand" : 4367,
+		"name" : "AU REVOIR LES FILLES",
+		"url_key" : "au-revoir-les-filles"
 	}
 ]
