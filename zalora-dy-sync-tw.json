@@ -548,5 +548,15 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|zaloraJun|ALL|NA|zalora"
+  },
+  {
+    "Placement": "mlp",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N3_NEWARRIVALS_996x250-eossvcoff-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mvc18off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|EOSSVC18off|ALL|NA"
   }
 ]
