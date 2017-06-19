@@ -13,21 +13,31 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N1_NEWARRIVALS_360x420-footwearbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto50/?discount=0-50",
-    "Headline": "美鞋與時尚包款優惠",
-    "Subline": "優雅點綴 完美襯托妳的時尚氣息",
-    "EventLabel": "SAL|Women|gssfootwearbags|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N1_NEWARRIVALS_360x420-tops60-women.jpg",
+    "Exit Url": "/women/clothing/tops/special-price/?discount=0-60",
+    "Headline": "魅力上衣低至4折",
+    "Subline": "熱銷單品翻轉時尚魅力",
+    "EventLabel": "SAL|Women|eossskirts60off|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-wrapwonders.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wrappedpieces",
-    "Headline": "裹飾時尚",
-    "Subline": "裹飾細節提升質感和品位",
-    "EventLabel": "TRE|Women|WrapWonders|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-pp699-women.jpg",
+    "Exit Url": "/women/all-products/?price=699-699",
+    "Headline": "一律NT$699",
+    "Subline": "時尚聚焦 人氣單品統一眾人目光",
+    "EventLabel": "SAL|Women|eoss29pricepoint|ALL|NA"
+  },
+  {
+    "Placement": "wlp",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N3_NEWARRIVALS_996x250-summer82-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wsummervc18off&getSKU=RI009AA52NVRMY",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|eosssummervc|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -73,346 +83,116 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-factorie-women.jpg",
-    "Exit Url": "/women/factorie/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-topshop.jpg",
+    "Exit Url": "/women/topshop/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|factorie|ALL|NA"
+    "EventLabel": "BRA|Women|topshop|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-rubi-women.jpg",
-    "Exit Url": "/women/rubi/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-riverisland.jpg",
+    "Exit Url": "/women/river-island/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|rubi|ALL|NA"
+    "EventLabel": "BRA|Women|riverisland|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-misselfridge-women.jpg",
-    "Exit Url": "/women/miss-selfridge/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-calvinklein.jpg",
+    "Exit Url": "/women/calvin-klein/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|missselfridge|ALL|NA"
+    "EventLabel": "BRA|Women|calvinklein|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-reebok-women.jpg",
-    "Exit Url": "/women/reebok/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-raybanw.jpg",
+    "Exit Url": "/women/ray-ban/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|reebok|ALL|NA"
+    "EventLabel": "BRA|Women|rayban|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1_6-322x165-callitspring-women.jpg",
-    "Exit Url": "/women/call-it-spring/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-aldo.jpg",
+    "Exit Url": "/women/aldo/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|callitspring|ALL|NA"
+    "EventLabel": "BRA|Women|aldo|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-somethingborrowed-women.jpg",
-    "Exit Url": "/women/something-borrowed/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-ivypark.jpg",
+    "Exit Url": "/women/ivy-park/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|somethingborrowed|ALL|NA"
+    "EventLabel": "BRA|Women|ivypark|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_BLOUSES.jpg",
-    "Exit Url": "/women/clothing/blouses/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_BEAUTY-women.jpg",
+    "Exit Url": "/women/beauty/special-price/",
     "Headline": "NA",
-    "Subline": "上衣 >",
-    "EventLabel": "CAT|Women|summerblouse|ALL|NA"
+    "Subline": "美容保養 低至5折",
+    "EventLabel": "CAT|Women|eossbeauty|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_BAGS.jpg",
-    "Exit Url": "/women/bags/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_SPORTS-women.jpg",
+    "Exit Url": "/women/sports/special-price/",
     "Headline": "NA",
-    "Subline": "包 >",
-    "EventLabel": "CAT|Women|summerfashionbags|ALL|NA"
+    "Subline": "運動 低至5折",
+    "EventLabel": "CAT|Women|eosssports|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C3_375X500_JUMPSUIT.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C3_375X500_DRESSES-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/",
     "Headline": "NA",
-    "Subline": "連身褲 >",
-    "EventLabel": "CAT|Women|summerplaysuits|ALL|NA"
+    "Subline": "洋裝 低至4折",
+    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_SANDALS.jpg",
-    "Exit Url": "/women/shoes/sandals/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_SHOES-women.jpg",
+    "Exit Url": "/women/shoes/special-price/",
     "Headline": "NA",
-    "Subline": "涼鞋 >",
-    "EventLabel": "CAT|Women|summersandals|ALL|NA"
+    "Subline": "鞋 低至4折",
+    "EventLabel": "CAT|Women|eossshoes|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_BAGS-women.jpg",
+    "Exit Url": "/women/bags/special-price/",
     "Headline": "NA",
-    "Subline": "裙子 >",
-    "EventLabel": "CAT|Women|summerskirts|ALL|NA"
+    "Subline": "包 低至4折",
+    "EventLabel": "CAT|Women|eossfashionbags|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/SEGMENT_HERO_996x500-hitthestreets.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=hitthestreets",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Men|StreetStyle|Men|NA"
-  },
-  {
-    "Placement": "mn1",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N1_NEWARRIVALS_360x420-offduty.jpg",
-    "Exit Url": "/product-index/tshirtsandshorts/",
-    "Headline": "擺脫職場束縛",
-    "Subline": "T恤、短褲和運動鞋 打造率性簡約裝扮",
-    "EventLabel": "TRE|Men|CasualPairing|ALL|NA"
-  },
-  {
-    "Placement": "mn2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-buy3get30.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=gssbuy3get30off",
-    "Headline": "買3件享7折優惠",
-    "Subline": "好事成三 立即入手熱銷品牌單品",
-    "EventLabel": "SAL|Men|gssbuy3getthirty|ALL|NA"
-  },
-  {
-    "Placement": "mfb1",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x160-hugoboss-men.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=&category_id=&brand=boss--boss-green--boss-orange",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|hugoboss|ALL|NA"
-  },
-  {
-    "Placement": "mfb2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-rayban-men.jpg",
-    "Exit Url": "/men/ray-ban/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|rayban|ALL|NA"
-  },
-  {
-    "Placement": "mfb3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-onitsuka-men.jpg",
-    "Exit Url": "/men/onitsuka-tiger/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|onitsukatiger|ALL|NA"
-  },
-  {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-cis-men.jpg",
-    "Exit Url": "/men/call-it-spring/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|callitspring|ALL|NA"
-  },
-  {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-ck-men.jpg",
-    "Exit Url": "/calvin-klein-shop/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|calvinklein|ALL|ZAP"
-  },
-  {
-    "Placement": "mfb6",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/B1-6_322x165-af-men.jpg",
-    "Exit Url": "/men/abercrombie-fitch/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitch|ALL|NA"
-  },
-  {
-    "Placement": "mc1",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/",
-    "Headline": "NA",
-    "Subline": "牛仔褲 >",
-    "EventLabel": "CAT|Men|summerjeans|ALL|NA"
-  },
-  {
-    "Placement": "mc2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_SNEAKERS.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/",
-    "Headline": "NA",
-    "Subline": "休閒鞋 >",
-    "EventLabel": "CAT|Men|summersneakers|ALL|NA"
-  },
-  {
-    "Placement": "mc3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C3_375X500_MENS_TSHIRT.jpg",
-    "Exit Url": "/men/clothing/t-shirts/",
-    "Headline": "NA",
-    "Subline": "T恤 >",
-    "EventLabel": "CAT|Men|summertshirts|ALL|NA"
-  },
-  {
-    "Placement": "mc4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_BACKPACKS.jpg",
-    "Exit Url": "/men/bags/backpacks/",
-    "Headline": "NA",
-    "Subline": "後背包 >",
-    "EventLabel": "CAT|Men|summerbackpacks|ALL|NA"
-  },
-  {
-    "Placement": "mc5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_SHORTS.jpg",
-    "Exit Url": "/men/clothing/shorts/",
-    "Headline": "NA",
-    "Subline": "短褲 >",
-    "EventLabel": "CAT|Men|summershorts|ALL|NA"
-  },
-  {
-    "Placement": "uh1",
-    "Gender": "unisex",
-    "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/desktop_2017.jpg",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "THE|NA|NewArrival2017|ALL|NA"
-  },
-  {
-    "Placement": "ub1",
-    "Gender": "unisex",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/SEGMENT_HEADER_326x304_denim_0421.jpg",
-    "Exit Url": "/women/denimpage/",
-    "Headline": "百變單寧",
-    "Subline": "潮流時尚變遷 唯單寧永不退色",
-    "EventLabel": "TRE|Women|Aprildenimcampaign2|ALL|NA"
-  },
-  {
-    "Placement": "ub2",
-    "Gender": "unisex",
-    "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_women2017.jpg",
-    "Exit Url": "/women/clothing/new-products/",
-    "Headline": "最新時尚造型",
-    "Subline": "開始新季時尚，了解2017春季最新潮流趨勢。",
-    "EventLabel": "THE|WC|NewArrival2017|ALL|NA"
-  },
-  {
-    "Placement": "ub3",
-    "Gender": "unisex",
-    "Device": "desktop",
-    "Image": "http://zstatictw01-a.akamaihd.net/cms/brands/SEGMENT_HEADER_326x304_men2017.jpg",
-    "Exit Url": "/men/clothing/new-products/",
-    "Headline": "新季開展",
-    "Subline": "全新系列更新造型",
-    "EventLabel": "THE|MC|NewArrival2017|ALL|NA"
-  },
-  {
-    "Placement": "mh1",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/MOBILEWEB_HERO_600x600-hitthestreets.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=hitthestreets",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Men|StreetStyle|Men|NA"
-  },
-  {
-    "Placement": "mn1",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-offduty.jpg",
-    "Exit Url": "/product-index/tshirtsandshorts/",
-    "Headline": "擺脫職場束縛",
-    "Subline": "T恤、短褲和運動鞋 打造率性簡約裝扮",
-    "EventLabel": "TRE|Men|CasualPairing|ALL|NA"
-  },
-  {
-    "Placement": "mn2",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-buy3get30.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=gssbuy3get30off",
-    "Headline": "買3件享7折優惠",
-    "Subline": "好事成三 立即入手熱銷品牌單品",
-    "EventLabel": "SAL|Men|gssbuy3getthirty|ALL|NA"
-  },
-  {
-    "Placement": "mc1",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/",
-    "Headline": "NA",
-    "Subline": "牛仔褲 >",
-    "EventLabel": "CAT|Men|summerjeans|ALL|NA"
-  },
-  {
-    "Placement": "mc2",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_MENS_TSHIRT.jpg",
-    "Exit Url": "/men/clothing/t-shirts/",
-    "Headline": "NA",
-    "Subline": "T恤 >",
-    "EventLabel": "CAT|Men|summertshirts|ALL|NA"
-  },
-  {
-    "Placement": "wh1",
-    "Gender": "women",
-    "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/june/cw25/Mobile_Hero_600x600-monochrome.jpg",
     "Exit Url": "/women/monochrome/",
     "Headline": "NA",
@@ -420,54 +200,284 @@
     "EventLabel": "TRE|Women|Monochrome|ALL|NA"
   },
   {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N1_NEWARRIVALS_360x420-summerchill-men.jpg",
+    "Exit Url": "/men/clothing/special-price/?price=0-1000",
+    "Headline": "夏日服裝優惠1000元以下",
+    "Subline": "迎接夏日 輕鬆轉換型男新風格",
+    "EventLabel": "SAL|Men|EOSSSummerchillbelow45|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-footwearbags-men.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "型男潮包和鞋款低至4折",
+    "Subline": "熱銷自有品牌彰顯你的自我風格",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+  },
+  {
+    "Placement": "mlp",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N3_NEWARRIVALS_996x250-eoss18-men-v2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=mvc18off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|EOSSVC18off|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-superdry.jpg",
+    "Exit Url": "/men/superdry/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|superdry|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B_322x165-newbalance.jpg",
+    "Exit Url": "/men/new-balance/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|newbalance|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-reebok.jpg",
+    "Exit Url": "/men/reebok/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|reebok|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-converse.jpg",
+    "Exit Url": "/men/converse/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|converse|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-topman.jpg",
+    "Exit Url": "/men/topman/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|topman|ALL|ZAP"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-hollister.jpg",
+    "Exit Url": "/men/hollister/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|hollister|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_SHORTS.jpg",
+    "Exit Url": "/men/clothing/shorts/special-price/",
+    "Headline": "NA",
+    "Subline": "短褲 低至4折",
+    "EventLabel": "CAT|Men|eossshorts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polos/special-price/",
+    "Headline": "NA",
+    "Subline": "性服飾 低至4折",
+    "EventLabel": "CAT|Men|eosspolo|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C3_375X500_MENS_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/t-shirts/special-price/",
+    "Headline": "NA",
+    "Subline": "性服飾 低至4折",
+    "EventLabel": "CAT|Men|eosstshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_SPORTS.jpg",
+    "Exit Url": "/men/sports/special-price/",
+    "Headline": "NA",
+    "Subline": "運動 低至5折",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpack/special-price/",
+    "Headline": "NA",
+    "Subline": "後背包 低至4折",
+    "EventLabel": "CAT|Men|eossbackpacks|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/HOMEPAGE_SPLASH_996x500-omnibus.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|eossomnibus|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/HOMEPAGE_BOTTOMBANNER_326x304-pp699-women.jpg",
+    "Exit Url": "/women/all-products/?price=699-699",
+    "Headline": "一律NT$699",
+    "Subline": "時尚聚焦 人氣單品統一眾人目光",
+    "EventLabel": "SAL|Women|eoss29pricepoint|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/HOMEPAGE_BOTTOMBANNER_326x304-footwearbags60-men.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "型男潮包和鞋款低至4折",
+    "Subline": "熱銷自有品牌彰顯你的自我風格",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/SEGMENT_HEADER_326x304-top60-women.jpg",
+    "Exit Url": "/women/clothing/tops/special-price/?discount=0-60&csa=eossskirts60off",
+    "Headline": "魅力上衣低至4折",
+    "Subline": "熱銷單品翻轉時尚魅力",
+    "EventLabel": "SAL|Women|eossskirts60off|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/MOBILEWEB_HERO_600x600-omnibus-men.jpg",
+    "Exit Url": "/men/special-price/?discount=0-60&csa=eossuptosixtyoff",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|eossuptosixtyoff|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-summerchill-men.jpg",
+    "Exit Url": "/men/clothing/special-price/?price=0-1000",
+    "Headline": "夏日服裝優惠1000元以下",
+    "Subline": "迎接夏日 輕鬆轉換型男新風格",
+    "EventLabel": "SAL|Men|EOSSSummerchillbelow45|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-footwearbags-men.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "型男潮包和鞋款低至4折",
+    "Subline": "熱銷自有品牌彰顯你的自我風格",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/t-shirts/special-price/",
+    "Headline": "NA",
+    "Subline": "性服飾 低至4折",
+    "EventLabel": "CAT|Men|eosstshirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_MENS_SHORTS.jpg",
+    "Exit Url": "/men/clothing/shorts/special-price/",
+    "Headline": "NA",
+    "Subline": "短褲 低至4折",
+    "EventLabel": "CAT|Men|eossshorts|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/MOBILEWEB_HERO_600x600-omnibus-women.jpg",
+    "Exit Url": "/women/all-products/special-price/?cmpgn_one=omnibus60off&csa=eossuptosixtyoff",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|eossuptosixtyoff|ALL|NA"
+  },
+  {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-footwearbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto50/?discount=0-50",
-    "Headline": "美鞋與時尚包款優惠",
-    "Subline": "優雅點綴 完美襯托妳的時尚氣息",
-    "EventLabel": "SAL|Women|gssfootwearbags|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-tops60-women.jpg",
+    "Exit Url": "/women/clothing/tops/special-price/?discount=0-60&csa=eossskirts60off",
+    "Headline": "魅力上衣低至4折",
+    "Subline": "熱銷單品翻轉時尚魅力",
+    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-wrapwonders.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wrappedpieces",
-    "Headline": "裹飾時尚",
-    "Subline": "裹飾細節提升質感和品位",
-    "EventLabel": "TRE|Women|WrapWonders|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N2_NEWARRIVALS_620x420-pp699-women.jpg",
+    "Exit Url": "/women/all-products/?price=699-699",
+    "Headline": "一律NT$699",
+    "Subline": "時尚聚焦 人氣單品統一眾人目光",
+    "EventLabel": "SAL|Women|eoss29pricepoint|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw25/C1245_300X198_BLOUSES.jpg",
-    "Exit Url": "/women/clothing/blouses/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_DRESSES-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/",
     "Headline": "NA",
-    "Subline": "上衣 >",
-    "EventLabel": "CAT|Women|summerblouse|ALL|NA"
+    "Subline": "洋裝 低至4折",
+    "EventLabel": "CAT|Women|eosssports|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/june/vw25/C1245_300X198_JUMPSUIT.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw226/C1245_300X198_BEAUTY-women.jpg",
+    "Exit Url": "/women/beauty/special-price/?csa=eossbeauty",
     "Headline": "NA",
-    "Subline": "連身褲 >",
-    "EventLabel": "CAT|Women|summerplaysuits|ALL|NA"
-  },
-  {
-    "Placement": "wlp1",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_allwhite_0508.jpg",
-    "Exit Url": "/women/asias-next-top-model-5/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "MRC|Women|ASNTMS5Ep6AllWhiteEverything|ALL|NA"
+    "Subline": "美容保養 低至5折",
+    "EventLabel": "CAT|Women|eossbeauty|ALL|NA"
   },
   {
     "Placement": "wb1",
@@ -548,15 +558,5 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|zaloraJun|ALL|NA|zalora"
-  },
-  {
-    "Placement": "mlp",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/N3_NEWARRIVALS_996x250-eossvcoff-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=mvc18off",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|EOSSVC18off|ALL|NA"
   }
 ]
