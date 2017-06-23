@@ -369,7 +369,7 @@
     "Name": "Perllini Mel",
     "Image": "https://static-sg.zacdn.com/cms/Brands/LP_996x250-perlliniandmelsept.jpg",
     "Copy": "NA"
-  },    
+  },
   {
     "System ID": "b1764",
     "Gender": "women",
@@ -1530,6 +1530,20 @@
     "Gender": "men",
     "Name": "Penshoppe",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-penshoppe-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4321",
+    "Gender": "women",
+    "Name": "Louis Quatorze",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-louisquatorzessseventeen-women-juness17.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4321",
+    "Gender": "men",
+    "Name": "Louis Quatorze",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-louisquatorzessseventeen-men-juness17.jpg",
     "Copy": "NA"
   }
 ]
