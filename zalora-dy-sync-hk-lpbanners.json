@@ -2284,5 +2284,23 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-reebok-women-june17.jpg",
     "Gender": "Women",
     "Notes": "contains /reebok & contains /women"
+  },
+  {
+    "Name": "Men Brand: Louis Quatorze",
+    "System ID": "b3544",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-louisquatorzessseventeen-men-juness17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & contains /louis-quatorze"
+  },
+  {
+    "Name": "Women Brand: Louis Quatorze",
+    "System ID": "b3544",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-louisquatorzessseventeen-women-juness17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /louis-quatorze"
   }
 ]
