@@ -69,7 +69,25 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/201670113-Zalora-DKNY-spr-17-R2_06-996x250.jpg",
     "Gender": "Unisex",
-    "Notes": "contains /dkny"
+    "Notes": "contains /dkny & /watches"
+  },
+  {
+    "Name": "Brand: DKNY beauty",
+    "System ID": "b97",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DKNY - Brand Banner 2017-05-11 v3.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /dkny & /beauty"
+  },
+  {
+    "Name": "Brand: Michael Kors beauty",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Michael Kors - Brand Banner 2017-05-11 v3.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /michael-kors & /beauty"
   },
   {
     "Name": "Women Brand: Michael Kors",
@@ -2302,5 +2320,50 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-louisquatorzessseventeen-women-juness17.jpg",
     "Gender": "Women",
     "Notes": "contains /women & contains /louis-quatorze"
+  },
+  {
+    "Name": "Brand: Maserati",
+    "System ID": "b3310",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-maserati-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /maserati"
+  },
+  {
+    "Name": "Brand: Fiorelli",
+    "System ID": "b3455",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fiorelli-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fiorelli"
+  },
+  {
+    "Name": "Brand: Perch",
+    "System ID": "b3541",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-perch-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /perch"
+  },
+  {
+    "Name": "Men Brand: Dune",
+    "System ID": "b3548",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-dune-men-june17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & contains /dune"
+  },
+  {
+    "Name": "Women Brand: Dune",
+    "System ID": "b3548",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-dune-women-june17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /dune"
   }
 ]
