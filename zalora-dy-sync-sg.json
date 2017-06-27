@@ -356,7 +356,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_JUMPSUIT_2.jpg",
     "Exit Url": "/women/clothing/playsuits-jumpsuits/special-price/?discount=0-60",
     "Headline": "Women C1",
-    "Subline": "Jumpsuits",
+    "Subline": "Jumpsuits<br>Up to 60% off",
     "EventLabel": "CAT|Women|eossplaysuits|ALL|NA"
   },
   {
@@ -366,7 +366,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_DRESSESNEW.jpg",
     "Exit Url": "/women/clothing/dresses/special-price/?discount=0-60",
     "Headline": "Women C2",
-    "Subline": "Dresses",
+    "Subline": "Dresses<br>Up to 60% off",
     "EventLabel": "CAT|Women|eossdresses|ALL|NA"
   },
   {
@@ -406,7 +406,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_LONGPANTS.jpg",
     "Exit Url": "/men/clothing/pants/special-price/",
     "Headline": "Men C1",
-    "Subline": "Pants",
+    "Subline": "Pants<br>Up to 60% off",
     "EventLabel": "CAT|Men|eosspants|ALL|NA"
   },
   {
@@ -416,7 +416,7 @@
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_CLOTHING.jpg",
     "Exit Url": "/men/clothing/special-price/",
     "Headline": "Men C2",
-    "Subline": "Clothing",
+    "Subline": "Clothing<br>Up to 60% off",
     "EventLabel": "CAT|Men|eossclothing|ALL|NA"
   },
   {
