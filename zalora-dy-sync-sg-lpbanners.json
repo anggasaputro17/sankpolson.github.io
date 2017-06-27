@@ -1545,5 +1545,47 @@
     "Name": "Louis Quatorze",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/LP_996x250-louisquatorzessseventeen-men-juness17.jpg",
     "Copy": "NA"
-  }
+  },
+  {
+    "System ID": "b4323",
+    "Gender": "men",
+    "Name": "Dune London",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-dunelondon-men.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4323",
+    "Gender": "women",
+    "Name": "Dune London",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-dunelondon-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4221",
+    "Gender": "women",
+    "Name": "Fiorelli",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-fiorelli-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4221",
+    "Gender": "unisex",
+    "Name": "Fiorelli",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-fiorelli-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4315",
+    "Gender": "women",
+    "Name": "Perch",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-perch-women.jpg",
+    "Copy": "NA"
+  },
+  {
+    "System ID": "b4315",
+    "Gender": "unisex",
+    "Name": "Perch",
+    "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-perch-women.jpg",
+    "Copy": "NA"
+  }  
 ]
