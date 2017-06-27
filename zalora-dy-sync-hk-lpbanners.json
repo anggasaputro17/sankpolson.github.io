@@ -2365,5 +2365,14 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-dune-women-june17.jpg",
     "Gender": "Women",
     "Notes": "contains /women & contains /dune"
+  },
+  {
+    "Name": "Brand: Vacae",
+    "System ID": "b3314",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-vacae-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /vacae"
   }
 ]
