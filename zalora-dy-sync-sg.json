@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-everythingbelow40-women.jpg",
-    "Exit Url": "/women/special-price/?price=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-get18-unisex.jpg",
+    "Exit Url": "/women/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eosseverythingunderforty|ALL|NA"
+    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-everythingbelow40-men.jpg",
-    "Exit Url": "/men/special-price/?price=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-get18-unisex.jpg",
+    "Exit Url": "/men/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|eosseverythingunderforty|ALL|NA"
+    "EventLabel": "SAL|Men|sitewidesale|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-buy3for60-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy3for60&getSKU=D1199AAA9B5020GS",
-    "Headline": "Grab 3 For Just $60",
-    "Subline": "Why pick one for $24.90 when you can get any three at an irresistible price?",
-    "EventLabel": "SAL|Men|eossrpl3forsixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "Shoes & Bags Up to 60% Off",
+    "Subline": "No outfit is complete without some additions from our in-house labels.",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-everythingbelow40-women.jpg",
-    "Exit Url": "/women/special-price/?price=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-get18-unisex.jpg",
+    "Exit Url": "/women/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eosseverythingunderforty|ALL|NA"
+    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-everythingbelow40-men.jpg",
-    "Exit Url": "/men/all-products/?price=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-get18-unisex.jpg",
+    "Exit Url": "/men/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|eosseverythingunderforty|ALL|NA"
+    "EventLabel": "SAL|Men|sitewidesale|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-buy3for60-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy3for60&getSKU=D1199AAA9B5020GS",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
     "Headline": "Men NCU2",
-    "Subline": "Grab 3 For Just $60",
-    "EventLabel": "SAL|Men|eossrpl3forsixty|ALL|NA"
+    "Subline": "Shoes & Bags Up to 60% Off",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
   },
   {
     "Placement": "mc1",
