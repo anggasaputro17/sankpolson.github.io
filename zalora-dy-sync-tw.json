@@ -383,11 +383,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_men888_0627.jpg",
-    "Exit Url": "/men/all-products/?price=0-880",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_82discount_0630.jpg",
+    "Exit Url": "/men/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|eosseverythingunder880|ALL|NA"
+    "EventLabel": "SAL|Men|sitewidesale|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -433,11 +433,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_880_0627.jpg",
-    "Exit Url": "/women/special-price/?price=0-880",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_82discount_0630.jpg",
+    "Exit Url": "/women/special-price/?age=30-100",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eosseverythingunder880|ALL|NA"
+    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
   },
   {
     "Placement": "wn1",
