@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_beauty_0622.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eossbeauty",
-    "Headline": "寵愛自己-美妝產品8折優惠",
-    "Subline": "使用優惠編碼: BEAUTY8 (滿NT$2000即享8折優惠,限指定商品)",
-    "EventLabel": "SAL|Women|eossbeautydeal|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_tops_0629.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
+    "Headline": "魅力上衣低至4折",
+    "Subline": "熱銷單品翻轉時尚魅力",
+    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy3_0622.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=rplbuy3for1200&getSKU=D8AB4AAA8E5226GS",
-    "Headline": "買3件NT$1200",
-    "Subline": "加油小資女孩 時尚單品一件NT$499 買越多省更多",
-    "EventLabel": "SAL|Women|eossbuy3forsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_0629.jpg",
+    "Exit Url": "/women/all-products/?price=699-699",
+    "Headline": "一律NT$699",
+    "Subline": "時尚聚焦 人氣單品統一眾人目光",
+    "EventLabel": "SAL|Women|eoss699pricepoint|ALL|NA"
   },
   {
     "Placement": "wlp",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy3_men_0622.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy3for1200&getSKU=D1199AAA9B5020GS",
-    "Headline": "買3件NT$1200",
-    "Subline": "立即選購潮男單品一件NT$499 買越多省更多",
-    "EventLabel": "SAL|Men|eossrpl3forsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "型男潮包和鞋款低至4折",
+    "Subline": "熱銷自有品牌彰顯你的自我風格",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
   },
   {
     "Placement": "mlp",
@@ -403,11 +403,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy3_men_0622.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy3for1200&getSKU=D1199AAA9B5020GS",
-    "Headline": "買3件NT$1200",
-    "Subline": "立即選購潮男單品一件NT$499 買越多省更多",
-    "EventLabel": "SAL|Men|eossrpl3forsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
+    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Headline": "型男潮包和鞋款低至4折",
+    "Subline": "熱銷自有品牌彰顯你的自我風格",
+    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -443,21 +443,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_beauty_0622.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eossbeauty",
-    "Headline": "寵愛自己-美妝產品8折優惠",
-    "Subline": "使用優惠編碼: BEAUTY8 (滿NT$2000即享8折優惠,限指定商品)",
-    "EventLabel": "SAL|Women|eossbeautydeal|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_tops_0629.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
+    "Headline": "魅力上衣低至4折",
+    "Subline": "熱銷單品翻轉時尚魅力",
+    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy3_0622.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=rplbuy3for1200&getSKU=D8AB4AAA8E5226GS",
-    "Headline": "買3件NT$1200",
-    "Subline": "加油小資女孩 時尚單品一件NT$499 買越多省更多",
-    "EventLabel": "SAL|Women|eossbuy3forsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_0629.jpg",
+    "Exit Url": "/women/all-products/?price=699-699",
+    "Headline": "一律NT$699",
+    "Subline": "時尚聚焦 人氣單品統一眾人目光",
+    "EventLabel": "SAL|Women|eoss699pricepoint|ALL|NA"
   },
   {
     "Placement": "wc1",
