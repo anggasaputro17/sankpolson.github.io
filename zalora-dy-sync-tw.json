@@ -13,31 +13,31 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_tops_0629.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
-    "Headline": "魅力上衣低至4折",
-    "Subline": "熱銷單品翻轉時尚魅力",
-    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_dorina_0630.jpg",
+    "Exit Url": "/women/dorina/special-price/",
+    "Headline": "Dorina",
+    "Subline": "性感優雅款式 展現誘人魅力 低至5折優惠",
+    "EventLabel": "BRA|Women|dorina2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_0629.jpg",
-    "Exit Url": "/women/all-products/?price=699-699",
-    "Headline": "一律NT$699",
-    "Subline": "時尚聚焦 人氣單品統一眾人目光",
-    "EventLabel": "SAL|Women|eoss699pricepoint|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_dressbelow_880.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?price=0-880",
+    "Headline": "熱賣洋裝一律NT$880及以下",
+    "Subline": "限時優惠 快速入手絕美洋裝",
+    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
   },
   {
     "Placement": "wlp",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_N3_996x250_women_0622.jpg",
-    "Exit Url": "/product-index/eosswomentopbrands/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996x250.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=eossbagsshoesaccessories",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eosstopbrands|ALL|NA"
+    "EventLabel": "SAL|Women|BagsShoesAccessoriesCR|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -203,31 +203,31 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_backtooffice_0622.jpg",
-    "Exit Url": "/men/back-to-basics/?sort=discount",
-    "Headline": "簡約造型低至5折",
-    "Subline": "嚴選單品讓你回歸簡單帥勁",
-    "EventLabel": "SAL|Men|eosscasualwearfiftyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_firsttime_discount_0703.jpg",
+    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
+    "Headline": "新品首次折扣",
+    "Subline": "新品折扣搶先入手 機會只有一次",
+    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "型男潮包和鞋款低至4折",
-    "Subline": "熱銷自有品牌彰顯你的自我風格",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "夏日限時優惠",
+    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mlp",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_996x250_men_0622.jpg",
-    "Exit Url": "/product-index/eossmenstopbrands/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996x250_backtostock_0703.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|eosstopbrands|ALL|NA"
+    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -383,31 +383,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_82discount_0630.jpg",
-    "Exit Url": "/men/special-price/?age=30-100",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_upto700_men_0703.jpg",
+    "Exit Url": "/men/special-price/?discount=0-70",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|sitewidesale|ALL|NA"
+    "EventLabel": "SAL|Men|SeventyOffEOSS|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_backtooffice_0622.jpg",
-    "Exit Url": "/men/back-to-basics/?sort=discount",
-    "Headline": "簡約造型低至5折",
-    "Subline": "簡約造型低至5折<br>嚴選單品讓你回歸簡單帥勁",
-    "EventLabel": "SAL|Men|eosscasualwearfiftyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_firsttime_0703.jpg",
+    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
+    "Headline": "新品首次折扣",
+    "Subline": "新品折扣搶先入手 機會只有一次",
+    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "型男潮包和鞋款低至4折",
-    "Subline": "型男潮包和鞋款低至4折<br>熱銷自有品牌彰顯你的自我風格",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "夏日限時優惠",
+    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -433,31 +433,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_82discount_0630.jpg",
-    "Exit Url": "/women/special-price/?age=30-100",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_upto70_0630.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=eossuptoseventyoff",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
+    "EventLabel": "SAL|Women|SeventyOffEOSS|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_tops_0629.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
-    "Headline": "魅力上衣低至4折",
-    "Subline": "魅力上衣低至4折<br>熱銷單品翻轉時尚魅力",
-    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_dorina_0630.jpg",
+    "Exit Url": "/women/dorina/special-price/",
+    "Headline": "Dorina",
+    "Subline": "性感優雅款式 展現誘人魅力 低至5折優惠",
+    "EventLabel": "BRA|Women|dorina2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_0629.jpg",
-    "Exit Url": "/women/all-products/?price=699-699",
-    "Headline": "一律NT$699",
-    "Subline": "一律NT$699<br>時尚聚焦 人氣單品統一眾人目光",
-    "EventLabel": "SAL|Women|eoss699pricepoint|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_dressbelow_880.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?price=0-880",
+    "Headline": "熱賣洋裝一律NT$880及以下",
+    "Subline": "限時優惠 快速入手絕美洋裝",
+    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
   },
   {
     "Placement": "wc1",
