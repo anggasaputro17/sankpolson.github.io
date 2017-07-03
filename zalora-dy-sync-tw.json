@@ -343,7 +343,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/HOMEPAGE_SPLASH_996x500-omnibus.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/brands/HOMEPAGE_SPLASH_996x500_saleupto70_0703.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -363,11 +363,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/HOMEPAGE_BOTTOMBANNER_326x304-footwearbags60-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "型男潮包和鞋款低至4折",
-    "Subline": "熱銷自有品牌彰顯你的自我風格",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-firsttimediscount-men.jpg",
+    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
+    "Headline": "新品首次折扣",
+    "Subline": "新品折扣搶先入手 機會只有一次",
+    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
   },
   {
     "Placement": "ub3",
