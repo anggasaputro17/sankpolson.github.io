@@ -73,111 +73,111 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-dorothyperkins-women.jpg",
-    "Exit Url": "/women/dorothy-perkins/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-mango-women.jpg",
+    "Exit Url": "/women/mango/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|mango2ss17|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/june/cw28/B1-6_322x165-mango-women-wk27.jpg",
-    "Exit Url": "/women/mango/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Women|mangoss17|ALL|NA"
-  },
-  {
-    "Placement": "wfb3",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-topshop-women.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-topshop-women.jpg",
     "Exit Url": "/women/topshop/special-price/",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
   },
   {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-missselfridge-women.jpg",
+    "Exit Url": "/women/miss-selfridge/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
+  },
+  {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-rayban-women.jpg",
-    "Exit Url": "/women/ray-ban/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-rubi-women.jpg",
+    "Exit Url": "/women/rubi/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|raybanssseventeen|ALL|NA"
+    "EventLabel": "NA-BRA|WS|wrubiss17|ALL|NA|rubi"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-aldo-women.jpg",
-    "Exit Url": "/women/aldo/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-cis-women.jpg",
+    "Exit Url": "/women/call-it-spring/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|wsaldoss17|ALL|NA|aldo"
+    "EventLabel": "BRA|Women|callitspringssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-nike-women.jpg",
-    "Exit Url": "/women/nike/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-ua-women.jpg",
+    "Exit Url": "/women/under-armour/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WSP|wnewarrivalsnikeaw16|ALL|NA"
+    "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_JUMPSUIT_2.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/special-price/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_JEANS.jpg",
+    "Exit Url": "/women/clothing/jeans/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Jumpsuits up to 60% off >",
-    "EventLabel": "CAT|Women|eossplaysuits|ALL|NA"
+    "Subline": "Jeans up to 70% off >",
+    "EventLabel": "CAT|Women|eossjeans|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_TRADITIONALWEAR.jpg",
-    "Exit Url": "/women/clothing/ethnic-wear/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_WSPORTS.jpg",
+    "Exit Url": "/women/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "Ethnic Wear up to 60% off >",
-    "EventLabel": "CAT|Women|eosstraditionalwear|ALL|NA"
+    "Subline": "Sports up to 50% off >",
+    "EventLabel": "CAT|Women|eosssports|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C3_375X500_DRESSES2.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_CLOTHING.jpg",
+    "Exit Url": "/women/clothing/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Dresses up to 60% off >",
-    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
+    "Subline": "Clothing up to 70% off >",
+    "EventLabel": "CAT|Women|eossclothing|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/june/cw27/C1245_300X198_FOOTWEAR-shoes-v8.jpg",
-    "Exit Url": "/women/shoes/special-price/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_TOPS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Shoes up to 60% off >",
-    "EventLabel": "CAT|Women|eossshoes|ALL|NA"
+    "Subline": "Tops up to 70% off >",
+    "EventLabel": "CAT|Women|eosstops|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_SPORTS2.jpg",
-    "Exit Url": "/women/sports/special-price/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Sports up to 50% off >",
-    "EventLabel": "CAT|Women|eosssports|ALL|NA"
+    "Subline": "Skirts up to 70% off >",
+    "EventLabel": "CAT|Women|eossskirts|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -213,111 +213,111 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-superdry-men.jpg",
-    "Exit Url": "/men/superdry/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-burton-men.jpg",
+    "Exit Url": "/men/burton-menswear-london/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
+    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-reebok-men.jpg",
-    "Exit Url": "/men/reebok/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-aandf-men.jpg",
+    "Exit Url": "/men/abercrombie-fitch/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-nike-men.jpg",
-    "Exit Url": "/men/nike/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-hugoboss-men.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=&category_id=&brand=boss--boss-green--boss-orange",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MSP|mnewarrivalsnikeaw16|ALL|NA"
+    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-timberland-men.jpg",
-    "Exit Url": "/men/timberland/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-vans-men.jpg",
+    "Exit Url": "/men/vans/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|timberlandss17|ALL|ZAP"
+    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-topman-men.jpg",
-    "Exit Url": "/men/topman/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-puma-men.jpg",
+    "Exit Url": "/men/puma/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-hollister.jpg",
-    "Exit Url": "/men/hollister/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-ua-men.jpg",
+    "Exit Url": "/men/under-armour/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterlaunch|ALL|NA"
+    "EventLabel": "NA-BRA|MSP|munderarmourss17|ALL|NA|under-armour"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_LONGPANTS.jpg",
-    "Exit Url": "/men/clothing/pants/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
+    "Exit Url": "/men/clothing/jeans/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Pants up to 60% off >",
-    "EventLabel": "CAT|Men|eosspants|ALL|NA"
+    "Subline": "Jeans up to 70% off >",
+    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_FOOTWEAR.jpg",
-    "Exit Url": "/men/shoes/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Shoes up to 60% off >",
-    "EventLabel": "CAT|Men|eossshoes|ALL|NA"
+    "Subline": "Sneakers up to 70% off >",
+    "EventLabel": "CAT|Men|eosssneakers|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C3_375X500_MENS_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/special-price/",
+    "Exit Url": "/men/clothing/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Clothing up to 60% off >",
+    "Subline": "Clothing up to 70% off >",
     "EventLabel": "CAT|Men|eossclothing|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_WATCHES.jpg",
-    "Exit Url": "/men/watches/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SPORTS.jpg",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "Watches up to 60% off >",
-    "EventLabel": "CAT|Men|eosswatches|ALL|NA"
+    "Subline": "Sports up to 50% off >",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_ACCESSORIES.jpg",
-    "Exit Url": "/men/accessories/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Accessories up to 60% off >",
-    "EventLabel": "CAT|Men|eossaccessories|ALL|NA"
+    "Subline": "Backpacks up to 70% off >",
+    "EventLabel": "CAT|Men|eossbackpacks|ALL|NA"
   },
   {
     "Placement": "wh1",
@@ -353,21 +353,21 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_JUMPSUIT_2.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/special-price/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_JEANS.jpg",
+    "Exit Url": "/women/clothing/jeans/?discount=0-70",
     "Headline": "Women C1",
-    "Subline": "Jumpsuits<br>Up to 60% off",
-    "EventLabel": "CAT|Women|eossplaysuits|ALL|NA"
+    "Subline": "Jeans<br>up to 70% off",
+    "EventLabel": "CAT|Women|eossjeans|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_DRESSESNEW.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_TOPS.jpg",
+    "Exit Url": "/women/clothing/?discount=0-70",
     "Headline": "Women C2",
-    "Subline": "Dresses<br>Up to 60% off",
-    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
+    "Subline": "Clothing<br>up to 70% off",
+    "EventLabel": "CAT|Women|eossclothing|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -403,20 +403,20 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_LONGPANTS.jpg",
-    "Exit Url": "/men/clothing/pants/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
+    "Exit Url": "/men/clothing/jeans/?discount=0-70",
     "Headline": "Men C1",
-    "Subline": "Pants<br>Up to 60% off",
-    "EventLabel": "CAT|Men|eosspants|ALL|NA"
+    "Subline": "Jeans<br>up to 70% off",
+    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/special-price/",
+    "Exit Url": "/men/clothing/?discount=0-70",
     "Headline": "Men C2",
-    "Subline": "Clothing<br>Up to 60% off",
+    "Subline": "Clothing<br>up to 70% off",
     "EventLabel": "CAT|Men|eossclothing|ALL|NA"
   },
   {
