@@ -154,7 +154,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-hk.zacdn.com/cms/cw26/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/women/sports/?discount=0-50",
+    "Exit Url": "/women/sports/?discount=0-70",
     "Headline": "NA",
     "Subline": "女裝運動服飾 低至5折 >",
     "EventLabel": "CAT|Women|eosssports|ALL|NA"
@@ -324,7 +324,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/men/sports/?discount=0-50",
+    "Exit Url": "/men/sports/sports-clothing/?discount=0-70",
     "Headline": "NA",
     "Subline": "男裝運動服飾 低至5折 >",
     "EventLabel": "CAT|Men|eosssports|ALL|NA"
@@ -334,7 +334,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_BACKPACKS.jpg",
-    "Exit Url": "/men/bags/backpack/?discount=0-70",
+    "Exit Url": "/men/bags/backpacks/?discount=0-70",
     "Headline": "NA",
     "Subline": "後背包 低至3折 >",
     "EventLabel": "CAT|Men|eossbackpacks|ALL|NA"
@@ -474,7 +474,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-hk.zacdn.com/cms/cw26/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/women/sports/?discount=0-50",
+    "Exit Url": "/women/sports/?discount=0-70",
     "Headline": "NA",
     "Subline": "女裝運動服飾 低至5折 >",
     "EventLabel": "CAT|Women|eosssports|ALL|NA"
