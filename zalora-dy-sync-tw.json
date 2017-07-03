@@ -113,31 +113,31 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-raybanw.jpg",
-    "Exit Url": "/women/ray-ban/special-price/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/B1-6_322x165_57_rubi.jpg",
+    "Exit Url": "/women/rubi/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|rayban|ALL|NA"
+    "EventLabel": "BRA|Women|rubi|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-aldo.jpg",
-    "Exit Url": "/women/aldo/special-price/",
+    "Image": "https://static-tw.zacdn.com/cms/brands/BRA-_Women-callitspringssseventeen-_ALL-_NA_B1_322x.jpg",
+    "Exit Url": "/women/call-it-spring/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldo|ALL|NA"
+    "EventLabel": "BRA|Women|callitspring|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-ivypark.jpg",
-    "Exit Url": "/women/ivy-park/special-price/",
+    "Image": "https://static-hk.zacdn.com/cms/cw28/B1-6_322x165-we-are-handsome.jpg",
+    "Exit Url": "/women/we-are-handsome/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ivypark|ALL|NA"
+    "EventLabel": "BRA|Women|wearehandsome|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -233,24 +233,54 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-superdry.jpg",
-    "Exit Url": "/men/superdry/special-price/",
+    "Image": "https://static-hk.zacdn.com/cms/cw28/B1-6_322x165-burtonss17.jpg",
+    "Exit Url": "/men/burton-menswear-london/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|superdry|ALL|NA"
+    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B_322x165-newbalance.jpg",
-    "Exit Url": "/men/new-balance/special-price/",
+    "Image": "https://static-hk.zacdn.com/cms/cw28/B1-6_322x165-anf-men.jpg",
+    "Exit Url": "/men/abercrombie-fitch/special-price/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalance|ALL|NA"
+    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-hk.zacdn.com/cms/cw28/B1-6_322x165-hugoboss.jpg",
+    "Exit Url": "/men/all-products/?brand=boss--boss-green--boss-orange",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-hk.zacdn.com/cms/cw28/B1-6_322x165-aldo-men.jpg",
+    "Exit Url": "/men/aldo/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MS|msaldoss17|ALL|NA|aldo"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-hk.zacdn.com/cms/cw26/ASICS_B_322x165.jpg",
+    "Exit Url": "/men/asics/special-price/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-reebok.jpg",
@@ -258,36 +288,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|reebok|ALL|NA"
-  },
-  {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-converse.jpg",
-    "Exit Url": "/men/converse/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|converse|ALL|NA"
-  },
-  {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-topman.jpg",
-    "Exit Url": "/men/topman/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|topman|ALL|ZAP"
-  },
-  {
-    "Placement": "mfb6",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/june/cw226/B1-6_322x165-hollister.jpg",
-    "Exit Url": "/men/hollister/special-price/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|hollister|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -484,7 +484,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw28/Logo_436x248-vacae.jpg",
-    "Exit Url": "/women/vacae/",
+    "Exit Url": "/women/vacae",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|vacaessseventeen|ALL|ZAP"
