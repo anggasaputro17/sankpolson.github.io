@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-lq-women.jpg",
-    "Exit Url": "/women/louis-quatorze/",
-    "Headline": "Louis Quatorze",
-    "Subline": "Signature bags made with top craftsmanship, now up to 30% off.",
-    "EventLabel": "BRA|Women|louisquatorzessseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-timberland-women.jpg",
+    "Exit Url": "/women/timberland/special-price/",
+    "Headline": "Timberland",
+    "Subline": "Rugged gear that will take you through the year, now up to 50% off.",
+    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/june/cw28/N2_NEWARRIVALS_620x420-gorman.jpg",
-    "Exit Url": "/women/gorman/",
-    "Headline": "Gorman",
-    "Subline": "Enjoy up to 40% off this season’s must-have wardrobe pieces.",
-    "EventLabel": "BRA|Women|gorman2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-dressessale-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?price=0-40",
+    "Headline": "Dresses Below $40",
+    "Subline": "Get your hands on all the dresses you desire, while stocks last.",
+    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -193,21 +193,21 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-lq-men.jpg",
-    "Exit Url": "/men/louis-quatorze/",
-    "Headline": "Louis Quatorze",
-    "Subline": "Enjoy up to 30% off these premium accessories now.",
-    "EventLabel": "BRA|Men|louisquatorzessseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-timberland-men.jpg",
+    "Exit Url": "/men/timberland/special-price/",
+    "Headline": "Men NCU1",
+    "Subline": "Timberland",
+    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "Shoes & Bags Up to 60% Off",
-    "Subline": "No outfit is complete without some additions from our in-house labels.",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "Summer Steals",
+    "Subline": "Spend $80 get 20% off (use JUNE20). Spend $100 get 30% off (use JUNE30).",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -323,31 +323,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-get18-unisex.jpg",
-    "Exit Url": "/women/special-price/?age=30-100",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-gssupto70off-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=gssuptoseventyoff",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
+    "EventLabel": "SAL|Women|SeventyOffEOSS|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-lq-women.jpg",
-    "Exit Url": "/women/louis-quatorze/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-timberland-women.jpg",
+    "Exit Url": "/women/timberland/special-price/",
     "Headline": "Women NCU1",
-    "Subline": "Louis Quatorze",
-    "EventLabel": "BRA|Women|louisquatorzessseventeen|ALL|ZAP"
+    "Subline": "Timberland",
+    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/june/cw28/N2_NEWARRIVALS_620x420-gorman.jpg",
-    "Exit Url": "/women/gorman/",
-    "Headline": "Gorman",
-    "Subline": "Enjoy up to 40% off this season’s must-have wardrobe pieces.",
-    "EventLabel": "BRA|Women|gorman2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-dressessale-women.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?price=0-40",
+    "Headline": "Women NCU2",
+    "Subline": "Dresses Below $40",
+    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -373,31 +373,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/MOBILEWEB_HERO_600x600-get18-unisex.jpg",
-    "Exit Url": "/men/special-price/?age=30-100",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-gssupto70off-men.jpg",
+    "Exit Url": "/men/special-price/clothing/?discount=20-70",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|sitewidesale|ALL|NA"
+    "EventLabel": "SAL|Men|SeventyOffEOSS|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-lq-men.jpg",
-    "Exit Url": "/men/louis-quatorze/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-timberland-men.jpg",
+    "Exit Url": "/men/timberland/special-price/",
     "Headline": "Men NCU1",
-    "Subline": "Louis Quatorze",
-    "EventLabel": "BRA|Men|louisquatorzessseventeen|ALL|ZAP"
+    "Subline": "Timberland",
+    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
     "Headline": "Men NCU2",
-    "Subline": "Shoes & Bags Up to 60% Off",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Subline": "Summer Steals",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -443,18 +443,18 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/HOMEPAGE_BOTTOM_326x304-shoesandbags-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "Shoes & Bags Up to 60% Off",
-    "Subline": "No outfit is complete without some additions from our in-house labels.",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-firsttimediscount-men.jpg",
+    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
+    "Headline": "First-Time Markdowns",
+    "Subline": "Don’t blink, or you’ll miss out on discounts of up to 60% on new items.",
+    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HEADER_326x304-topsupto60-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-50",
+    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
     "Headline": "Tops Up to 60% Off",
     "Subline": "Give yourself a closet upgrade with these fashion hot picks.",
     "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
