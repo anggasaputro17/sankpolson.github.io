@@ -276,14 +276,14 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw27/N2_NEWARRIVALS_620x420-eossfootwearbagssixtyoff.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw28/N2_NEWARRIVALS_620x420-eossdoublevc.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/product-index/footwearbagsupto60/?discount=0-60",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA",
-    "ENHeadline": "Shoes & Bags Up to 60% Off",
-    "ENSubline": "No outfit is complete without some additions from our in-house labels.",
-    "ZHHeadline": "型男鞋款及潮袋低至4折",
-    "ZHSubline": "各式自家品牌潮款 提升型男個性"
+    "ExitUrl": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA",
+    "ENHeadline": "Summer Steals",
+    "ENSubline": "Spend $450 get 20% off (use JUNE20). Spend $550 get 30% off (use JUNE30).",
+    "ZHHeadline": "夏日限時優惠",
+    "ZHSubline": "消費滿HKD450享8折優惠(使用JUNE20) / 消費滿HKD550享7折優惠(使用JUNE30) "
   },
   {
     "Placement": "mn3",
@@ -536,14 +536,14 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw27/N2_NEWARRIVALS_620x420-eossfootwearbagssixtyoff.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw28/N2_NEWARRIVALS_620x420-eossdoublevc.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/product-index/footwearbagsupto60/?discount=0-60",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA",
-    "ENHeadline": "Shoes & Bags Up to 60% Off",
-    "ENSubline": "No outfit is complete without some additions from our in-house labels.",
-    "ZHHeadline": "型男鞋款及潮袋低至4折",
-    "ZHSubline": "各式自家品牌潮款 提升型男個性"
+    "ExitUrl": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA",
+    "ENHeadline": "Summer Steals <br> Spend $450 get 20% off (use JUNE20). Spend $550 get 30% off (use JUNE30).",
+    "ENSubline": "Spend $450 get 20% off (use JUNE20). Spend $550 get 30% off (use JUNE30).",
+    "ZHHeadline": "夏日限時優惠 <br> 消費滿HKD450享8折優惠(使用JUNE20) / 消費滿HKD550享7折優惠(使用JUNE30)",
+    "ZHSubline": "消費滿HKD450享8折優惠(使用JUNE20) / 消費滿HKD550享7折優惠(使用JUNE30)"
   },
   {
     "Placement": "mc1",
