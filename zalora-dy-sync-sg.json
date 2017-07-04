@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "Shoes & Bags Up to 60% Off",
-    "Subline": "No outfit is complete without some additions from our in-house labels.",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "Summer Steals",
+    "Subline": "Spend $80 get 20% off (use JUNE20). Spend $100 get 30% off (use JUNE30).",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-gssbagsshoes-men.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
     "Headline": "Men NCU2",
-    "Subline": "Shoes & Bags Up to 60% Off",
-    "EventLabel": "SAL|Men|eossfootwearbagssixtyoff|ALL|NA"
+    "Subline": "Summer Steals",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mc1",
