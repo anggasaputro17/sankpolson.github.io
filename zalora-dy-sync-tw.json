@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "型男潮包和鞋款低至4折",
-    "Subline": "熱銷自有品牌彰顯你的自我風格",
-    "EventLabel": "SAL|MEN|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "m/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "夏日限時優惠",
+    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mlp",
@@ -403,11 +403,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_footwearnbags.jpg",
-    "Exit Url": "/product-index/footwearbagsupto60/?discount=0-60",
-    "Headline": "型男潮包和鞋款低至4折",
-    "Subline": "熱銷自有品牌彰顯你的自我風格",
-    "EventLabel": "SAL|MEN|eossfootwearbagssixtyoff|ALL|NA"
+    "Image": "m/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Headline": "夏日限時優惠",
+    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
+    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
   },
   {
     "Placement": "mc1",
