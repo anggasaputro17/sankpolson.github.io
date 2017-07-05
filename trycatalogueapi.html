@@ -15,8 +15,10 @@
     <body>
         <script>
             $.get("https://sephora-api-frontend-test.herokuapp.com/products", function (data) {
-                alert("Data Loaded: " + data);
-            });
+                $("body")
+                        .append("Name: " + data.name)
+                        .append("Time: " + data.price);
+            }, "json");
         </script>
     </body>
 </html>
