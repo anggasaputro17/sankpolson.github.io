@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="cms-row">
+                <div class="cms-skus-container cms-full mtxl lfloat">
+                    <div class="txtLeft lfloat">
+                        <img data-load="lazy" data-url="[MEDIA_BASE_URL]/cms/StaticPages/asntm5/ASNTM_LANDINGPAGE_07.jpg" width="421" height="628">
+                        <div class="cms-ep-banner-copy txtLeft">
+                            <div style="padding:0px 10px">Get a headstart with neutral hues that were front and centre in the season premiere.</div>      
+                        </div>
+                    </div>
+                    <div class="cms-skus-row lfloat">
+                        <div class="txtCenter pll lfloat">
+                            <a id="sku0-url" href="/zalora-premium-high-low-wrap-playsuit-beige-605980.html" class="cms-top-brands">
+                                <img id="sku0-img" data-load="lazy" data-url="https://placehold.it" width="171" height="230">
+                                <div class="cms-skus-txt mtm">
+                                    <div id="sku0-name"></div>
+                                    <div id="sku0-price"></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="txtCenter pll lfloat">
+                            <a id="sku1-url" href="/warehouse-crushed-velvet-cami-dress-beige-555396.html" class="cms-top-brands">
+                                <img id="sku1-img" data-load="lazy" data-url="https://placehold.it" width="171" height="230">
+                                <div class="cms-skus-txt mtm">
+                                    <div id="sku1-name"></div>
+                                    <div id="sku1-price"></div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="txtCenter pll lfloat">
+                            <a id="sku2-url" href="/mango-off-shoulder-dress-pink-505564.html" class="cms-top-brands">
+                                <img id="sku2-img" data-load="lazy" data-url="https://placehold.it" width="171" height="230">
+                                <div class="cms-skus-txt mtm">
+                                    <div id="sku2-name"></div>
+                                    <div id="sku2-price"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+        <script>
+    $(document).ready(function () {
+
+        /* week1 sku api script */
+        function week1skus() {
+            
+            for (var i = 0; i < 6; i++) {
+                var week1API = "https://sephora-api-frontend-test.herokuapp.com/products";
+                (function (i) {
+                    $.getJSON(week1API, function (data) {
+                        $('.jsTab-1 #sku' + [i] + '-name').append(data.data.name);
+                        $('.jsTab-1 #sku' + [i] + '-price').append(data.data.price);
+                    });
+                })(i);
+            }
+        }
+        week1skus();
+        /* end of week1 sku api script */
+    });
+        </script>
+    </body>
+</html>
