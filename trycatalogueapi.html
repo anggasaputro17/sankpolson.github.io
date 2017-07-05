@@ -56,16 +56,15 @@ and open the template in the editor.
                 /* week1 sku api script */
                 function week1skus() {
 
-                    for (var i = 0; i < 4; i++) {
-                        var week1API = "https://sephora-api-frontend-test.herokuapp.com/products";
-                        (function (i) {
+
+                    var week1API = "https://sephora-api-frontend-test.herokuapp.com/products";
                             $.getJSON(week1API, function (data) {
-                                $('#sku' + [i] + '-name').append(data.attributes.name);
-                                $('#sku' + [i] + '-price').append(data.attributes.price);
+                                $('#sku1-name').append(data.attributes.name);
+                                $('#sku1-price').append(data.attributes.price);
                             });
-                        })(i);
-                    }
-                }
+                           
+    }
+
                 week1skus();
                 /* end of week1 sku api script */
             });
