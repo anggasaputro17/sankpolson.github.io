@@ -60,8 +60,8 @@ and open the template in the editor.
                         var week1API = "https://sephora-api-frontend-test.herokuapp.com/products";
                         (function (i) {
                             $.getJSON(week1API, function (data) {
-                                $('.jsTab-1 #sku' + [i] + '-name').append(data.attributes.name);
-                                $('.jsTab-1 #sku' + [i] + '-price').append(data.attributes.price);
+                                $('#sku' + [i] + '-name').append(data.attributes.name);
+                                $('#sku' + [i] + '-price').append(data.attributes.price);
                             });
                         })(i);
                     }
