@@ -14,17 +14,21 @@
 </head>
 <body>
  
-<div id="images"></div>
+    <div id="images">
+        <div class="name"></div>
+        <div class="price"></div>
+    </div>
  
 <script>
 (function() {
   var flickerAPI = "https://sephora-api-frontend-test.herokuapp.com/products";
   $.getJSON( flickerAPI, {
-    category: "tools"
+    "category": "tools"
   })
     .done(function( data ) {
-      $.each( data.items, function( i, item ) {
-        $('#images').append(item.name);
+      $.each( data.attributes, function( i, attribute ) {
+        $('#images .name').append(attribute.name);
+        $('#images .price').append(attribute.price);
         if ( i === 3 ) {
           return false;
         }
