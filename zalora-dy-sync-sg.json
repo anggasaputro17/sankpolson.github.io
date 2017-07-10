@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-timberland-women.jpg",
-    "Exit Url": "/women/timberland/special-price/",
-    "Headline": "Timberland",
-    "Subline": "Rugged gear that will take you through the year, now up to 50% off.",
-    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-rayaagain-women.jpg",
+    "Exit Url": "/women/all-products/?s=raya&classifier=false&brand=zalia--lubna",
+    "Headline": "Timeless Celebrations",
+    "Subline": "Make your next occasion a special one with up to 60% off Zalia and Lubna.",
+    "EventLabel": "RET|Women|LubnaZaliaMarkdowns|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-dressessale-women.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?price=0-40",
-    "Headline": "Dresses Below $40",
-    "Subline": "Get your hands on all the dresses you desire, while stocks last.",
-    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-lastsize-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "Last Size Clearance",
+    "Subline": "Limited pieces left - grab them before stocks run out.",
+    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -133,51 +133,51 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_JEANS.jpg",
-    "Exit Url": "/women/clothing/jeans/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Jeans up to 70% off >",
-    "EventLabel": "CAT|Women|eossjeans|ALL|NA"
+    "Subline": "Heels up to 70% off >",
+    "EventLabel": "CAT|Women|eossheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_WSPORTS.jpg",
-    "Exit Url": "/women/sports/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Sports up to 50% off >",
-    "EventLabel": "CAT|Women|eosssports|ALL|NA"
+    "Subline": "Dresses up to 70% off >",
+    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_CLOTHING.jpg",
-    "Exit Url": "/women/clothing/?discount=0-70",
-    "Headline": "NA",
-    "Subline": "Clothing up to 70% off >",
-    "EventLabel": "CAT|Women|eossclothing|ALL|NA"
-  },
-  {
-    "Placement": "wc4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_TOPS.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_TOPSNEW.jpg",
     "Exit Url": "/women/clothing/fashion-tops/?discount=0-70",
     "Headline": "NA",
     "Subline": "Tops up to 70% off >",
     "EventLabel": "CAT|Women|eosstops|ALL|NA"
   },
   {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_BAGS.jpg",
+    "Exit Url": "/women/bags/?discount=0-70",
+    "Headline": "NA",
+    "Subline": "Bags up to 70% off >",
+    "EventLabel": "CAT|Women|eossbags|ALL|NA"
+  },
+  {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SPORTSNEW.jpg",
+    "Exit Url": "/women/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "Skirts up to 70% off >",
-    "EventLabel": "CAT|Women|eossskirts|ALL|NA"
+    "Subline": "Sports up to 50% off >",
+    "EventLabel": "CAT|Women|eosssports|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -193,21 +193,21 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-timberland-men.jpg",
-    "Exit Url": "/men/timberland/special-price/",
-    "Headline": "Timberland",
-    "Subline": "Rugged gear that will take you through the year, now up to 50% off.",
-    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-lastsize-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "Last Size Clearance",
+    "Subline": "Limited pieces left - grab them before stocks run out.",
+    "EventLabel": "SAL|men|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
-    "Headline": "Summer Steals",
-    "Subline": "Spend SGD80 get 20% off (use JUNE20). Spend SGD100 get 30% off (use JUNE30).",
-    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=multibrandbuy2for20off",
+    "Headline": "Buy 2 and Save Extra 20%",
+    "Subline": "Keep this markdown in your sights and make your next move now.",
+    "EventLabel": "SAL|Men|eossbuy2gettwentyoff|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -273,17 +273,17 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_MENS_SPORTSNEW.jpg",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "Jeans up to 70% off >",
-    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
+    "Subline": "Sports up to 50% off >",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_SNEAKERSNEW.jpg",
     "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-70",
     "Headline": "NA",
     "Subline": "Sneakers up to 70% off >",
@@ -293,7 +293,7 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C3_375X500_MENS_CLOTHING.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_CLOTHING_3.jpg",
     "Exit Url": "/men/clothing/?discount=0-70",
     "Headline": "NA",
     "Subline": "Clothing up to 70% off >",
@@ -303,117 +303,117 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/men/sports/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_MENS_SUNGLASSESNEW.jpg",
+    "Exit Url": "/men/accessories/sunglasses/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Sports up to 50% off >",
-    "EventLabel": "CAT|Men|eosssports|ALL|NA"
+    "Subline": "Sunglasses up to 70% off >",
+    "EventLabel": "CAT|Men|eosssunglasses|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_BACKPACKS.jpg",
-    "Exit Url": "/men/bags/backpacks/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_MENS_BAGSNEW.jpg",
+    "Exit Url": "/men/bags/?discount=0-70",
     "Headline": "NA",
-    "Subline": "Backpacks up to 70% off >",
-    "EventLabel": "CAT|Men|eossbackpacks|ALL|NA"
+    "Subline": "Bags up to 70% off >",
+    "EventLabel": "CAT|Men|eossbags|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-gssupto70off-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=gssuptoseventyoff",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-everythingbelow30-women.jpg",
+    "Exit Url": "/women/clothing/special-price/?price=0-30",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|SeventyOffEOSS|ALL|NA"
+    "EventLabel": "SAL|Women|everythingbelowthirty|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-timberland-women.jpg",
-    "Exit Url": "/women/timberland/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-rayaagain-women.jpg",
+    "Exit Url": "/women/all-products/?s=raya&classifier=false&brand=zalia--lubna",
     "Headline": "Women NCU1",
-    "Subline": "Timberland",
-    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
+    "Subline": "Timeless Celebrations",
+    "EventLabel": "RET|Women|LubnaZaliaMarkdowns|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-dressessale-women.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?price=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-lastsize-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
     "Headline": "Women NCU2",
-    "Subline": "Dresses Below $40",
-    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
+    "Subline": "Last Size Clearance",
+    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_JEANS.jpg",
-    "Exit Url": "/women/clothing/jeans/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/?discount=0-70",
     "Headline": "Women C1",
-    "Subline": "Jeans<br>up to 70% off",
-    "EventLabel": "CAT|Women|eossjeans|ALL|NA"
+    "Subline": "Heels<br>up to 70% off",
+    "EventLabel": "CAT|Women|eossheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_TOPS.jpg",
-    "Exit Url": "/women/clothing/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_TOPSNEW.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?discount=0-70",
     "Headline": "Women C2",
-    "Subline": "Clothing<br>up to 70% off",
-    "EventLabel": "CAT|Women|eossclothing|ALL|NA"
+    "Subline": "Tops<br>up to 70% off",
+    "EventLabel": "CAT|Women|eosstops|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-gssupto70off-men.jpg",
-    "Exit Url": "/men/special-price/clothing/?discount=20-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600-gssupto80off-men.jpg",
+    "Exit Url": "/men/all-products/?discount=20-80",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|SeventyOffEOSS|ALL|NA"
+    "EventLabel": "SAL|Men|everythinguptoeightyoff|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-timberland-men.jpg",
-    "Exit Url": "/men/timberland/special-price/",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-lastsize-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=lastsizeclearance",
     "Headline": "Men NCU1",
-    "Subline": "Timberland",
-    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
+    "Subline": "Last Size Clearance",
+    "EventLabel": "SAL|men|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-spendandget30-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-buy2get20-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=multibrandbuy2for20off",
     "Headline": "Men NCU2",
-    "Subline": "Summer Steals",
-    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
+    "Subline": "Buy 2 and Save Extra 20%",
+    "EventLabel": "SAL|Men|eossbuy2gettwentyoff|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_MENS_SPORTSNEW.jpg",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "Men C1",
-    "Subline": "Jeans<br>up to 70% off",
-    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
+    "Subline": "Sports<br>up to 50% off",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/C1245_300X198_MENS_CLOTHING.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300x198_MENS_CLOTHINGNEW.jpg",
     "Exit Url": "/men/clothing/?discount=0-70",
     "Headline": "Men C2",
     "Subline": "Clothing<br>up to 70% off",
@@ -433,11 +433,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/HOMEPAGE_BOTTOM_326x304-everythingat2990-women.jpg",
-    "Exit Url": "/women/all-products/?price=29.90-29.90",
-    "Headline": "Everything at $29.90",
-    "Subline": "Here’s every new wardrobe addition you can get at this attractive price.",
-    "EventLabel": "SAL|Women|eoss29pricepoint|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-lastsize-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "Last Size Clearance",
+    "Subline": "Limited pieces left - grab them before stocks run out.",
+    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "ub2",
