@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_dorina_0630.jpg",
-    "Exit Url": "/women/dorina/special-price/",
-    "Headline": "Dorina",
-    "Subline": "性感優雅款式 展現誘人魅力 低至5折優惠",
-    "EventLabel": "BRA|Women|dorina2ssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_KF_0710.jpg",
+    "Exit Url": "/women/korean-fashion/special-price/?getSKU=ST343AA53BBYMY",
+    "Headline": "韓系時尚低至5折",
+    "Subline": "首爾街頭風來襲 帶妳玩轉韓系時尚",
+    "EventLabel": "SAL|Women|EOSSKoreanFashion|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_dressbelow_880.jpg",
-    "Exit Url": "/women/clothing/dresses/special-price/?price=0-880",
-    "Headline": "熱賣洋裝一律NT$880及以下",
-    "Subline": "限時優惠 快速入手絕美洋裝",
-    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_lastchance_0710_women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "時裝大清倉",
+    "Subline": "立即搶購零碼尺寸 時尚不落人後",
+    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "wlp",
@@ -203,11 +203,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_firsttime_discount_0703.jpg",
-    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
-    "Headline": "新品首次折扣",
-    "Subline": "新品折扣搶先入手 機會只有一次",
-    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_lastchance_0710.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "時裝大清倉",
+    "Subline": "立即搶購零碼尺寸 時尚不落人後",
+    "EventLabel": "SAL|men|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -223,11 +223,11 @@
     "Placement": "mlp",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996x250_backtostock_0703.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996X250_coldsummer.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=summeroutfitupto70",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
+    "EventLabel": "SAL|Men|eosssummeroutfit|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -383,8 +383,8 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_upto700_men_0703.jpg",
-    "Exit Url": "/men/special-price/?discount=0-70",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_699_0710.jpg",
+    "Exit Url": "/women/special-price/?price=0-699",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|SeventyOffEOSS|ALL|NA"
@@ -393,11 +393,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_firsttime_0703.jpg",
-    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
-    "Headline": "新品首次折扣",
-    "Subline": "新品折扣搶先入手 機會只有一次",
-    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_lastchance_0710.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=lastsizeclearance",
+    "Headline": "時裝大清倉",
+    "Subline": "立即搶購零碼尺寸 時尚不落人後",
+    "EventLabel": "SAL|men|lastsizeclearance|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -433,11 +433,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_upto70_0630.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eossuptoseventyoff",
+    "Image": "https://static-tw.zacdn.com/cms/brands/MOBILEWEB_HERO_600x600_699_0710.jpg",
+    "Exit Url": "/women/special-price/?price=0-699",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|SeventyOffEOSS|ALL|NA"
+    "EventLabel": "SAL|Women|everythingbelowthirty|ALL|NA"
   },
   {
     "Placement": "wn1",
