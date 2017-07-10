@@ -143,51 +143,51 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_JEANS.jpg",
-    "Exit Url": "/women/clothing/jeans/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/?discount=0-70",
     "Headline": "NA",
-    "Subline": "牛仔褲 低至3折 >",
-    "EventLabel": "CAT|Women|eossjeans|ALL|NA"
+    "Subline": "高跟鞋 低至3折 >",
+    "EventLabel": "CAT|Women|eossheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw26/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/women/sports/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=0-70",
     "Headline": "NA",
-    "Subline": "女裝運動服飾 低至5折 >",
-    "EventLabel": "CAT|Women|eosssports|ALL|NA"
+    "Subline": "洋裝 低至3折 >",
+    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/C3_375X500_CLOTHING_0704.jpg",
-    "Exit Url": "/women/clothing/dresses/?discount=0-70",
-    "Headline": "NA",
-    "Subline": "服飾低至3折 >",
-    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
-  },
-  {
-    "Placement": "wc4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw27/C1245_300X198_TOPS.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C3_375X500_TOPS.jpg",
     "Exit Url": "/women/clothing/fashion-tops/?discount=0-70",
     "Headline": "NA",
     "Subline": "上衣 低至3折 >",
     "EventLabel": "CAT|Women|eosstops|ALL|NA"
   },
   {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_BAGS.jpg",
+    "Exit Url": "/women/bags/?discount=0-70",
+    "Headline": "NA",
+    "Subline": "女包 低至3折 >",
+    "EventLabel": "CAT|Women|eossbags|ALL|NA"
+  },
+  {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_SPORTS.jpg",
+    "Exit Url": "/women/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "裙子低至3折 >",
-    "EventLabel": "CAT|Women|eossskirts|ALL|NA"
+    "Subline": "運動服裝 低至3折 >",
+    "EventLabel": "CAT|Women|eosssports|ALL|NA"
   },
   {
     "Placement": "mh1",
@@ -293,17 +293,17 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C5_300x198_SPORTS.jpg",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "牛仔褲 低至3折 >",
-    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
+    "Subline": "運動服裝 低至3折 >",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_SNEAKERS.jpg",
     "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-70",
     "Headline": "NA",
     "Subline": "休閒鞋 低至3折 >",
@@ -313,8 +313,8 @@
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw27/C3_375X500_MENS_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/special-price/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C3_375X500_CLOTHING_3.jpg",
+    "Exit Url": "/men/clothing/?discount=0-70",
     "Headline": "NA",
     "Subline": "服裝 低至3折 >",
     "EventLabel": "CAT|Men|eossclothing|ALL|NA"
@@ -323,21 +323,21 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/men/sports/sports-clothing/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C5_300x198_BAGS.jpg",
+    "Exit Url": "/men/bags/?discount=0-70",
     "Headline": "NA",
-    "Subline": "男裝運動服飾 低至5折 >",
-    "EventLabel": "CAT|Men|eosssports|ALL|NA"
+    "Subline": "女包 低至3折 >",
+    "EventLabel": "CAT|Men|eossbags|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_BACKPACKS.jpg",
-    "Exit Url": "/men/bags/backpacks/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_MENS_SUNGLASSES.jpg",
+    "Exit Url": "/men/accessories/sunglasses/?discount=0-70",
     "Headline": "NA",
-    "Subline": "後背包 低至3折 >",
-    "EventLabel": "CAT|Men|eossbackpacks|ALL|NA"
+    "Subline": "太陽眼鏡 低至3折 >",
+    "EventLabel": "CAT|Men|eosssunglasses|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -413,17 +413,17 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?discount=0-70",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C5_300x198_SPORTS.jpg",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "NA",
-    "Subline": "牛仔褲 低至3折 >",
-    "EventLabel": "CAT|Men|eossjeans|ALL|NA"
+    "Subline": "運動服裝 低至3折 >",
+    "EventLabel": "CAT|Men|eosssports|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-hk.zacdn.com/cms/cw28/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_SNEAKERS.jpg",
     "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-70",
     "Headline": "NA",
     "Subline": "休閒鞋 低至3折 >",
@@ -443,21 +443,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N1_NEWARRIVALS_360x420_KF_0710.jpg",
-    "Exit Url": "/women/korean-fashion/special-price/?getSKU=ST343AA53BBYMY",
-    "Headline": "韓系時尚低至5折",
-    "Subline": "首爾街頭風來襲 帶妳玩轉韓系時尚",
-    "EventLabel": "SAL|Women|EOSSKoreanFashion|ALL|NA"
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/?discount=0-70",
+    "Headline": "NA",
+    "Subline": "高跟鞋 低至3折 >",
+    "EventLabel": "CAT|Women|eossheels|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_lastchance_0710_women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
-    "Headline": "時裝大清倉",
-    "Subline": "立即搶購零碼尺寸 時尚不落人後",
-    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
+    "Image": "https://static-hk.zacdn.com/cms/cw29/C1245_300X198_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=0-70",
+    "Headline": "NA",
+    "Subline": "洋裝 低至3折 >",
+    "EventLabel": "CAT|Women|eossdresses|ALL|NA"
   },
   {
     "Placement": "wc1",
