@@ -33,11 +33,11 @@
     "Placement": "wlp",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996x250.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=eossbagsshoesaccessoriesv2",
+    "Image": "https://static-tw.zacdn.com/cms/brands/LP_N3_996x250_women_0622.jpg",
+    "Exit Url": "/product-index/eosswomentopbrands/?discount=0-60",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|BagsShoesAccessoriesCR|ALL|NA"
+    "EventLabel": "SAL|Women|eosstopbrands|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
-    "Headline": "夏日限時優惠",
-    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
-    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_backinstock_0710.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
+    "Headline": "補貨優惠低至4折",
+    "Subline": "勿再錯失良機 抓緊機會入手今年搶購單品",
+    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
   },
   {
     "Placement": "mlp",
@@ -403,11 +403,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_get20off_0703.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossdoublevc",
-    "Headline": "夏日限時優惠",
-    "Subline": "消費滿NT$1500享8折優惠(使用JUNE20) / 消費滿NT$2500享7折優惠(使用JUNE30) (限指定商品)",
-    "EventLabel": "SAL|Men|eossdoublevc|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_backinstock_0710.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
+    "Headline": "補貨優惠低至4折",
+    "Subline": "勿再錯失良機 抓緊機會入手今年搶購單品",
+    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
   },
   {
     "Placement": "mc1",
