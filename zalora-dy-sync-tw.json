@@ -33,11 +33,11 @@
     "Placement": "wlp",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/LP_N3_996x250_women_0622.jpg",
-    "Exit Url": "/product-index/eosswomentopbrands/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/brands/N3_NEWARRIVALS_996x250_buy2get20off_0711.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=eossbuytwocr",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eosstopbrands|ALL|NA"
+    "EventLabel": "SAL|Women|EOSSbuytwoCR|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_backinstock_0710.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
-    "Headline": "補貨優惠低至4折",
-    "Subline": "勿再錯失良機 抓緊機會入手今年搶購單品",
-    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy2get20off_0711.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=multibrandbuy2for20off",
+    "Headline": "買2件享額外8折優惠",
+    "Subline": "心動不如行動 型男穿搭由你打造",
+    "EventLabel": "SAL|Men|eossbuy2gettwentyoff|ALL|NA"
   },
   {
     "Placement": "mlp",
@@ -326,7 +326,7 @@
     "Image": "https://static-hk.zacdn.com/cms/cw29/C5_300x198_BAGS.jpg",
     "Exit Url": "/men/bags/?discount=0-70",
     "Headline": "NA",
-    "Subline": "男包 低至3折 >",
+    "Subline": "女包 低至3折 >",
     "EventLabel": "CAT|Men|eossbags|ALL|NA"
   },
   {
@@ -403,11 +403,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_backinstock_0710.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eossbackinstock&getSKU=TH054AA43USYMY",
-    "Headline": "補貨優惠低至4折",
-    "Subline": "勿再錯失良機 抓緊機會入手今年搶購單品",
-    "EventLabel": "SAL|Men|eossbackinstock|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/brands/N2_NEWARRIVALS_620x420_buy2get20off_0711.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=multibrandbuy2for20off",
+    "Headline": "買2件享額外8折優惠",
+    "Subline": "心動不如行動 型男穿搭由你打造",
+    "EventLabel": "SAL|Men|eossbuy2gettwentyoff|ALL|NA"
   },
   {
     "Placement": "mc1",
