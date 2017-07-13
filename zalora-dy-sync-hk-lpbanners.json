@@ -427,7 +427,7 @@
     "System ID": "b3378",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/brands/AddictsAnonymous_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-addictsanonymous-july17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /addicts-anonymous"
   },
@@ -1030,9 +1030,27 @@
     "System ID": "b305",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-herschel-men-april2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-herschel-women-july17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /herschel"
+  },
+  {
+    "Name": "Women Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-herschel-women-july17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /herschel & /women"
+  },
+  {
+    "Name": "Men Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-herschel-men-july17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /herschel & /men"
   },
   {
     "Name": "Women Brand: New Balance",
@@ -1102,7 +1120,7 @@
     "System ID": "b121",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Melissa_LP_996x250-feb2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-melissa-july17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /melissa"
   },
