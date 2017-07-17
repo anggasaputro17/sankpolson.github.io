@@ -423,7 +423,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGESPLASH996x500-JULY2017.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw30/HOMEPAGE_SPLASH_996x500-gssuptoeighty-sg.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -433,31 +433,31 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-lastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
-    "Headline": "Last Size Clearance",
-    "Subline": "Limited pieces left - grab them before stocks run out.",
-    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw30/HOMEPAGE_BOTTOM_BANNER_326x304-gssbuy3for30-sg.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=gssbuy3for30&getSKU=SP065AA78BFTMY",
+    "Headline": "Grab 3 and Get 30% Off",
+    "Subline": "Back by popular demand - make your purchase now (selected items only).",
+    "EventLabel": "SAL|Men|eossbuy3forthirtyoff|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-firsttimediscount-men.jpg",
-    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
-    "Headline": "First-Time Markdowns",
-    "Subline": "Don’t blink, or you’ll miss out on discounts of up to 60% on new items.",
-    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw30/HOMEPAGE_BANNER_326x304-dressesupto40-sg.jpg",
+    "Exit Url": "/women/clothing/dresses/special-price/?price=0-40",
+    "Headline": "Dresses Below $40",
+    "Subline": "Get your hands on all the dresses you desire, while stocks last.",
+    "EventLabel": "SAL|Women|dressesbelowforty|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HEADER_326x304-topsupto60-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
-    "Headline": "Tops Up to 60% Off",
-    "Subline": "Give yourself a closet upgrade with these fashion hot picks.",
-    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw30/SEGMENT_HEADER_326x304-highstreetforless-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=highstreetforless",
+    "Headline": "High Street Fashion Sale",
+    "Subline": "Get the lowdown on your favourite brands, now up to 60% off.",
+    "EventLabel": "SAL|Women|eosshighstreetbrandsforless|ALL|NA"
   },
   {
     "Placement": "wb1",
