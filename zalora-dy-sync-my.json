@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-ua-women.jpg",
-    "Exit Url": "/women/under-armour/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/Her_Jewellery_Desktop_B1.jpg",
+    "Exit Url": "/women/her-jewellery/?sort=latest%20arrival&csa=herjewellery",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WSP|wunderarmourss17|ALL|NA|under-armour"
+    "EventLabel": "BRA|Women|HerJewellery|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -538,5 +538,45 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL-BRA|MC|mtopman|ALL|maxp|topman"
+  },
+  {
+    "Placement": "mcu1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-junebackinstock-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=junebackinstock&getSKU=RI009AA94EKVMY",
+    "Headline": "Newly Restocked",
+    "Subline": "Your second chance to get the clothes and shoes you’ve always wanted.",
+    "EventLabel": "NA|Women|BackInStock|ALL|NA"
+  },
+  {
+    "Placement": "mcu2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-laidbackstaples-women.jpg",
+    "Exit Url": "/product-index/shortsandtees/",
+    "Headline": "Laidback Staples",
+    "Subline": "Beat the heat by pairing these must-have shorts and tees.",
+    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA"
+  },
+  {
+    "Placement": "mcu3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-summergetaways-women.jpg",
+    "Exit Url": "/women/all-products/women/?cmpgn_one=maywevacay",
+    "Headline": "Summer Getaway",
+    "Subline": "All the style essentials you need to tackle your next holiday.",
+    "EventLabel": "TRE|Women|SummerGetaway|ALL|NA"
+  },
+  {
+    "Placement": "mcu4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-sportslounge-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sportlounge&getSKU=SU225AA81PRQMY--BY059AA99ZGYMY",
+    "Headline": "The Lounge Life",
+    "Subline": "Get cosy with relaxed tailoring and a touch of sports inspiration.",
+    "EventLabel": "TRE|Women|SportLounge|Women|NA"
   }
 ]
