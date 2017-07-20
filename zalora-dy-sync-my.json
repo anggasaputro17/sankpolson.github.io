@@ -33,41 +33,41 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-junebackinstock-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=junebackinstock&getSKU=RI009AA94EKVMY",
-    "Headline": "Newly Restocked",
-    "Subline": "Your second chance to get the clothes and shoes you’ve always wanted.",
-    "EventLabel": "NA|Women|BackInStock|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-MUSLIMAHUPTO50OFF-JULY17-N2-CU1-CU4.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=eossmuslimah&csa=eoss17muslimahupto50off",
+    "Headline": "End of Season Sale",
+    "Subline": "Muslimah Apparels up to 50% off",
+    "EventLabel": "SAL|WOMEN|EOSS17Muslimah|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-laidbackstaples-women.jpg",
-    "Exit Url": "/product-index/shortsandtees/",
-    "Headline": "Laidback Staples",
-    "Subline": "Beat the heat by pairing these must-have shorts and tees.",
-    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-HIGHSTREETBRANDS-JULY17-N1-CU2-CU3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=eosshighstreetbrand&csa=eosshighstreetbrand",
+    "Headline": "High Street Brands for Less",
+    "Subline": "Shop Now",
+    "EventLabel": "SAL|WOMEN|EOSS17HighStreetBrands|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-summergetaways-women.jpg",
-    "Exit Url": "/women/all-products/women/?cmpgn_one=maywevacay",
-    "Headline": "Summer Getaway",
-    "Subline": "All the style essentials you need to tackle your next holiday.",
-    "EventLabel": "TRE|Women|SummerGetaway|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-EOSS-JUNE17-W-N1.jpg",
+    "Exit Url": "/women/levis/?csa=levis",
+    "Headline": "Levi's",
+    "Subline": "End of Season Sale",
+    "EventLabel": "SAL|Women|EOSSS17Levi's|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-sportslounge-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sportlounge&getSKU=SU225AA81PRQMY--BY059AA99ZGYMY",
-    "Headline": "The Lounge Life",
-    "Subline": "Get cosy with relaxed tailoring and a touch of sports inspiration.",
-    "EventLabel": "TRE|Women|SportLounge|Women|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/Vincci-Desktop-N2-1.jpg",
+    "Exit Url": "/women/vincci/?sort=latest%20arrival&csa=vincci",
+    "Headline": "VINCCI",
+    "Subline": "New arrivals",
+    "EventLabel": "/women/vincci/?sort=latest%20arrival&csa=vincci"
   },
   {
     "Placement": "wfb1",
