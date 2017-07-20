@@ -3,31 +3,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HERO_996x500-get18-unisex.jpg",
-    "Exit Url": "/women/special-price/?age=30-100",
+    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-UPTO80OFF-DESKTOP-HERO-W.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=eossjuly2017upto80&csa=eossjuly2017upto80",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|sitewidesale|ALL|NA"
+    "EventLabel": "SAL|Women|Eoss17UpTo80off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-rayaagain-women.jpg",
-    "Exit Url": "/women/all-products/?s=raya&classifier=false&brand=zalia--lubna",
-    "Headline": "Timeless Celebrations",
-    "Subline": "Make your next occasion a special one with up to 60% off Zalia and Lubna.",
-    "EventLabel": "RET|Women|LubnaZaliaMarkdowns|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ESPRITSALEUPTO70OFF-ZAP-JULY17-N1.jpg",
+    "Exit Url": "/women/special-price/esprit/?csa=esprit",
+    "Headline": "ESPRIT Final Sale: Up to 70% off",
+    "Subline": "Last chance, so don't hold back!",
+    "EventLabel": "BRA|Women|ESPRIT|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-lastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
-    "Headline": "Last Size Clearance",
-    "Subline": "Limited pieces left - grab them before stocks run out.",
-    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-W-N2-CU1-CU4.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=nikeclearancejuly2017&csa=nike",
+    "Headline": "Nike Clearance",
+    "Subline": "Shop now",
+    "EventLabel": "SAL|Women|NikeClearenceUpTo60off|ALL|NA"
   },
   {
     "Placement": "wcu1",
