@@ -93,11 +93,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/KLF-Desktop-B1.jpg",
-    "Exit Url": "/women/klffashions/?csa=klffashion",
+    "Image": "https://static-my.zacdn.com/cms/dy/BYN-JULY17-B1.jpg",
+    "Exit Url": "/women/byn/?csa=byn",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|KLF|ALL|NA"
+    "EventLabel": "BRA|Women|Byn|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/Her_Jewellery_Desktop_B1.jpg",
-    "Exit Url": "/women/her-jewellery/?sort=latest%20arrival&csa=herjewellery",
+    "Image": "https://static-my.zacdn.com/cms/dy/ELLIGERMANY-MAY17-B1.jpg",
+    "Exit Url": "/women/elli-germany/?csa=elligermany",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|HerJewellery|ALL|NA"
+    "EventLabel": "BRA|Women|ElliGermany|ALL|NA"
   },
   {
     "Placement": "wc1",
