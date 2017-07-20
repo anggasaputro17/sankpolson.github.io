@@ -73,51 +73,51 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-mango-women.jpg",
-    "Exit Url": "/women/mango/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYA17-KAMIIDEA-B1.jpg",
+    "Exit Url": "women/kami-idea-for-zalora/?csa=kamiforzalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|mango2ss17|ALL|NA"
+    "EventLabel": "BRA|Women|KamiForZalora|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-topshop-women.jpg",
-    "Exit Url": "/women/topshop/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
+    "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WA|wtopshopss17|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-missselfridge-women.jpg",
-    "Exit Url": "/women/miss-selfridge/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/KLF-Desktop-B1.jpg",
+    "Exit Url": "/women/klffashions/?csa=klffashion",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
+    "EventLabel": "BRA|Women|KLF|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-rubi-women.jpg",
-    "Exit Url": "/women/rubi/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/SKIICNY-JAN17-B1.jpg",
+    "Exit Url": "/women/sk-ii/?csa=skii",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA-BRA|WS|wrubiss17|ALL|NA|rubi"
+    "EventLabel": "BRA|Women|Sk-ii|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-cis-women.jpg",
-    "Exit Url": "/women/call-it-spring/special-price/",
+    "Image": "https://static-my.zacdn.com/cms/dy/RUBI-SEPT16-B1-6.jpg",
+    "Exit Url": "/women/rubi/?csa=rubi",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|callitspringssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|Rubi|ALL|NA"
   },
   {
     "Placement": "wfb6",
