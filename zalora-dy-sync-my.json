@@ -73,21 +73,21 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RAYA17-KAMIIDEA-B1.jpg",
-    "Exit Url": "women/kami-idea-for-zalora/?csa=kamiforzalora",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYA17-LUBNA-B1.jpg",
+    "Exit Url": "/women/lubna/?csa=lubna",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|KamiForZalora|ALL|NA"
+    "EventLabel": "BRA|Women|Lubna|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
+    "Image": "https://static-my.zacdn.com/cms/dy/YOCO-MAR17-B1.jpg",
+    "Exit Url": "/women/yoco/?csa=yoco",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
+    "EventLabel": "BRA|Women|Yoco|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -103,11 +103,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SKIICNY-JAN17-B1.jpg",
-    "Exit Url": "/women/sk-ii/?csa=skii",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWLOOK-SEPT16-WOMEN-B1.jpg",
+    "Exit Url": "women/new-look/?csa=newlook",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Sk-ii|ALL|NA"
+    "EventLabel": "BRA|Women|NewLook|ALL|NA"
   },
   {
     "Placement": "wfb5",
