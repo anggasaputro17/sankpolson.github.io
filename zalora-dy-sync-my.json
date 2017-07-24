@@ -3,51 +3,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-UPTO80OFF-DESKTOP-HERO-W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=eossjuly2017upto80&csa=eossjuly2017upto80",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Eoss17UpTo80off|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRITSALEUPTO70OFF-ZAP-JULY17-N1.jpg",
-    "Exit Url": "/women/special-price/esprit/?csa=esprit",
-    "Headline": "ESPRIT Final Sale: Up to 70% off",
-    "Subline": "Last chance, so don't hold back!",
-    "EventLabel": "BRA|Women|ESPRIT|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-JULY17-N1.jpg",
+    "Exit Url": "/women/all-products/aldo/?csa=aldo",
+    "Headline": "Aldo",
+    "Subline": "Enjoy up to 50% off selected shoes and accessories",
+    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-W-N2-CU1-CU4.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=nikeclearancejuly2017&csa=nike",
-    "Headline": "Nike Clearance",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuly17lastsize60",
+    "Headline": "Last Chance Sizes Up to 60% Off",
     "Subline": "Shop now",
-    "EventLabel": "SAL|Women|NikeClearenceUpTo60off|ALL|NA"
+    "EventLabel": "SAL|Women|FFW17LastSizesUpTO60off|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-MUSLIMAHUPTO50OFF-JULY17-N2-CU1-CU4.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=eossmuslimah&csa=eoss17muslimahupto50off",
-    "Headline": "End of Season Sale",
-    "Subline": "Muslimah Apparels up to 50% off",
-    "EventLabel": "SAL|WOMEN|EOSS17Muslimah|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-BUY1FORRM69N3FORRM150-JULY17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=ffw3for150&price=69-69&csa=ffwjuly173for150",
+    "Headline": "FFW - Buy 1 for RM69, 3 for RM150",
+    "Subline": "Grab them here!",
+    "EventLabel": "SAL|WOMEN|FFW173For150|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-HIGHSTREETBRANDS-JULY17-N1-CU2-CU3.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=eosshighstreetbrand&csa=eosshighstreetbrand",
-    "Headline": "High Street Brands for Less",
-    "Subline": "Shop Now",
-    "EventLabel": "SAL|WOMEN|EOSS17HighStreetBrands|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-MUSLIMAHUPTO50OFF-JULY17-N1-CU2-CU3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=eossmuslimah&csa=eoss17muslimahupto50off",
+    "Headline": "End of Season Sale",
+    "Subline": "Muslimah Apparels up to 50% off",
+    "EventLabel": "SAL|WOMEN|EOSS17Muslimah|ALL|NA"
   },
   {
     "Placement": "wcu3",
@@ -63,11 +63,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/Vincci-Desktop-N2-1.jpg",
-    "Exit Url": "/women/vincci/?sort=latest%20arrival&csa=vincci",
-    "Headline": "VINCCI",
-    "Subline": "New arrivals",
-    "EventLabel": "/women/vincci/?sort=latest%20arrival&csa=vincci"
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-W-N2.jpg",
+    "Exit Url": "/women/new-products/?sort=latest%20arrival&csa=newarrivals",
+    "Headline": "New Arrivals",
+    "Subline": "Best of New Arrivals",
+    "EventLabel": "SAL|Women|NewArrivals|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -93,11 +93,11 @@
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BYN-JULY17-B1.jpg",
-    "Exit Url": "/women/byn/?csa=byn",
+    "Image": "https://static-my.zacdn.com/cms/dy/WANDERLUST-MAR17-B1.jpg",
+    "Exit Url": "/women/wanderlust-co/?csa=wanderlust",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Byn|ALL|NA"
+    "EventLabel": "BRA|Women|Wanderlust|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -183,51 +183,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-EVERYTHING50OFF-DESKTOP-HERO-M.jpg",
-    "Exit Url": "/men/special-price/?discount=50-50&csa=eoss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Eoss17EveryhtingAt50off|ALL|NA"
+    "EventLabel": "SAL|Men|Ffw17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/special-price/esprit/?csa=esprit",
-    "Headline": "Final Sale: Up to 70%",
-    "Subline": "Last chance, so don't hold back!",
-    "EventLabel": "BRA|Men|Esprit|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-EVERYTHINGUNDERRM69-JULY17-N1.jpg",
+    "Exit Url": "/men/all-products/?price=0-69&csa=everythingunderrm69",
+    "Headline": "Everything Under RM69",
+    "Subline": "Get them before they sell out",
+    "EventLabel": "Sal|Men|EverythingUnderRm69|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
     "Image": "http://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-N2-CU1-CU4.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_two=nikeclearancejuly2017&csa=nike",
-    "Headline": "Nike Clearance",
-    "Subline": "Shop now",
-    "EventLabel": "SAL|Men|NikeClearenceUpTo60off|ALL|NA"
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&csa=ffwjuly17lastsize60",
+    "Headline": "Last Chance Sizes Up to 60% Off",
+    "Subline": "Shop Now",
+    "EventLabel": "SAL|Men|FFW17LastSizesUpTO60off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-FEB17-B1.jpg",
-    "Exit Url": "/topman-malaysia/",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-B1.jpg",
+    "Exit Url": "/men/nike/?csa=nike",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|TOPMAN|ALL|NA"
+    "EventLabel": "BRA|Men|Nike|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-MAR17-M-B1.jpg",
-    "Exit Url": "/men/superdry/?csa=superdry",
+    "Exit Url": "/men/adidas/?csa=adidas",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Superdry|ALL|NA"
+    "EventLabel": "BRA|Men|Adidas|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -243,21 +243,21 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/JAXON-APR14-SET2-B1.jpg",
-    "Exit Url": "/men/jaxon/?csa=jaxon",
+    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-M-B1.jpg",
+    "Exit Url": "/men/puma/?csa=puma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Jaxon|ALL|NA"
+    "EventLabel": "BRA|Men|Puma|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CASIO-FEB17-B1.jpg",
-    "Exit Url": "/men/casio/?csa=casio",
+    "Image": "https://static-my.zacdn.com/cms/dy/REEBOK-MAR17-B1.jpg",
+    "Exit Url": "/men/reebok/?csa=reebok",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Casio|ALL|NA"
+    "EventLabel": "BRA|Men|Reebok|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -543,40 +543,40 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/EOSS17-BUY3ORMOREAT30FF-JULY17-M-N2-CU1-CU4-2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=eoss3get30men&csa=eoss3get30men",
-    "Headline": "End of Season Sale",
-    "Subline": "Buy 3 or more at 30% Off",
-    "EventLabel": "SAL|Men|EOSS17Buy3orMoreAt30Off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-EVERYTHINGUPTO60OFF-JULY17-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=ffw2more30&csa=ffwjuly17ffw2more30",
+    "Headline": "Everything up to 60% off",
+    "Subline": "Buy 2 or more get 30% off",
+    "EventLabel": "SAL|Men|FFWBuy2orMoreGet30Off|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MANGOMAN-FEB17-N1-CU2-CU3.jpg",
-    "Exit Url": "/men/new-products/?brand=mango-man&csa=mangoman",
-    "Headline": "MANGO Man",
-    "Subline": "New arrivals",
-    "EventLabel": "BRA|Men|MangoMan|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-EOSS-JUNE17-M-N1-2.jpg",
+    "Exit Url": "/men/levis/?csa=levis",
+    "Headline": "Levi's",
+    "Subline": "End of Season Sale",
+    "EventLabel": "BRA|Men|Eoss17Levis|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-MAR17-N1.jpg",
-    "Exit Url": "/men/new-products/?brand=calvin-klein&csa=calvinklein",
-    "Headline": "Calvin Klein",
-    "Subline": "New arrivals",
-    "EventLabel": "BRA|Men|CalvinKlein|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-M-N1-1.jpg",
+    "Exit Url": "/men/new-products/?csa=newarrivals",
+    "Headline": "New Arrivals",
+    "Subline": "Get them while they're fresh!",
+    "EventLabel": "SAL|Men|NewArrivals|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-EOSS-JUNE17-M-N2.jpg",
-    "Exit Url": "/men/levis/?csa=levis",
-    "Headline": "Levi's",
-    "Subline": "End of Season Sale",
-    "EventLabel": "SAL|Men|Eoss17Levis|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MENSACCESSORIES-JULY17-N2.jpg",
+    "Exit Url": "/men/accessories/?csa=mensaccessories",
+    "Headline": "Shoes, watches and more",
+    "Subline": "Dress up your outfits with accessories!",
+    "EventLabel": "SAL|Men|MensAccessories|ALL|NA"
   }
 ]
