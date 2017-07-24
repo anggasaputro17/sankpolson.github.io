@@ -433,31 +433,31 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-lastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=lastsizeclearance",
-    "Headline": "Last Size Clearance",
-    "Subline": "Limited pieces left - grab them before stocks run out.",
-    "EventLabel": "SAL|Women|lastsizeclearance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGE_BOTTOM_326x304-ffwlastsize-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize",
+    "Headline": "Last Sizes Now Up to 80% Off",
+    "Subline": "Attractive prices on these remaining pieces, take them while stocks last!",
+    "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-firsttimediscount-men.jpg",
-    "Exit Url": "/men/special-price/?age=0-90&discount=0-90&getSKU=7BFFBAAFA710B1GS",
-    "Headline": "First-Time Markdowns",
-    "Subline": "Don’t blink, or you’ll miss out on discounts of up to 60% on new items.",
-    "EventLabel": "SAL|Men|eossfirsttimeondiscount|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGE_BOTTOM_326x304-buy3for60-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for60",
+    "Headline": "Buy 3 For Just SGD60",
+    "Subline": "Bundle three SGD24.90 picks to unlock this offer (selected items only).",
+    "EventLabel": "SAL|Women|ffwbuy3forsixty|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/SEGMENT_HEADER_326x304-topsupto60-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/special-price/?discount=0-60",
-    "Headline": "Tops Up to 60% Off",
-    "Subline": "Give yourself a closet upgrade with these fashion hot picks.",
-    "EventLabel": "SAL|Women|eosstops60off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-buy2get30-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off",
+    "Headline": "Buy 2 And Get Extra 30% Off",
+    "Subline": "Enjoy this perk on top of markdowns up to 60% off (selected items only).",
+    "EventLabel": "SAL|Men|ffwbuy2getthirtyoff|ALL|NA"
   },
   {
     "Placement": "wb1",
