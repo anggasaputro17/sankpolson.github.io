@@ -114,7 +114,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/B1_322x165-fossil.jpg",
-    "Exit Url": "/fossil-taiwan/",
+    "Exit Url": "/fossil-taiwan/?csa=ma1wafossilss17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
@@ -124,17 +124,17 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-addictanonymous.jpg",
-    "Exit Url": "/women/shoes/addicts-anonymous/",
+    "Exit Url": "/women/shoes/addicts-anonymous/?csa=wsaddictsanonymous",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|wsaddictsanonymouszap|ALL|NA|addicts-anonymous|ZAP"
+    "EventLabel": "BRA|WS|wsaddictsanonymous|ALL|NA|addicts-anonymous"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/IVYPARK_B1-6_322x165.jpg",
-    "Exit Url": "/women/ivy-park/special-price/",
+    "Exit Url": "/women/ivy-park/special-price/?csa=wspivyparkss17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|WSP|wspivyparkss17|ALL|NA|ivy-park"
@@ -194,7 +194,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/sal0women0ffwuptoeightyoff0all0na_women_600x600.jpg",
-    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false",
+    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwuptoeightyoff",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|ffwuptoeightyoff|ALL|NA"
@@ -204,7 +204,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-aldocw31-women.jpg",
-    "Exit Url": "/women/aldo/",
+    "Exit Url": "/women/aldo/?csa=aldoeossssseventeen",
     "Headline": "Aldo <br> 指定鞋款與配件，低至5折",
     "Subline": "Aldo <br> 指定鞋款與配件，低至5折",
     "EventLabel": "BRA|Women|aldoeossssseventeen|ALL|ZAP"
@@ -214,7 +214,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-FFWlastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize",
+    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
     "Headline": "斷碼清倉低至2折",
     "Subline": "斷碼清倉低至2折",
     "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
@@ -224,7 +224,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwshoes0all0na_women_300X198.jpg",
-    "Exit Url": "/women/shoes/?discount=0-80",
+    "Exit Url": "/women/shoes/?discount=0-80&csa=ffwshoes",
     "Headline": "NA",
     "Subline": "女鞋 低至2折 >",
     "EventLabel": "CAT|Women|ffwshoes|ALL|NA"
@@ -234,7 +234,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwdressses0all0na_dresses_300X198.jpg",
-    "Exit Url": "/women/clothing/dresses/?discount=0-80",
+    "Exit Url": "/women/clothing/dresses/?discount=0-80&csa=ffwdressses",
     "Headline": "NA",
     "Subline": "洋裝 低至2折 >",
     "EventLabel": "CAT|Women|ffwdressses|ALL|NA"
@@ -354,7 +354,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/B1_322x165-herschel-men.jpg",
-    "Exit Url": "/men/herschel/special-price/",
+    "Exit Url": "/men/herschel/special-price/?csa=wb1ma1waherschelss17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NewA|WB-MA-WA|wb1ma1waherschelss17|ALL|NA"
@@ -364,7 +364,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/ASICS_B_322x165.jpg",
-    "Exit Url": "/men/asics/special-price/",
+    "Exit Url": "/men/asics/special-price/?csa=asicsssseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
@@ -374,7 +374,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-topman.jpg",
-    "Exit Url": "/topman-taiwan/",
+    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
@@ -434,7 +434,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/sal0men0ffwuptoeightyoff0all0na_men_600x600.jpg",
-    "Exit Url": "/men/special-price/?discount=0-80",
+    "Exit Url": "/men/special-price/?discount=0-80&csa=ffwuptoeightyoff",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|ffwuptoeightyoff|ALL|NA"
@@ -444,7 +444,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-ffwlastsize-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwlastsize",
+    "Exit Url": "/men/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
     "Headline": "斷碼清倉低至2折",
     "Subline": "斷碼清倉低至2折",
     "EventLabel": "SAL|Men|FFWlastsize|ALL|NA"
@@ -454,7 +454,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-ffwpricepoint-men.jpg",
-    "Exit Url": "/men/all-products/?price=0-499",
+    "Exit Url": "/men/all-products/?price=0-499&csa=ffwpricepoint",
     "Headline": "一律低於NTD499",
     "Subline": "一律低於NTD499",
     "EventLabel": "SAL|Men|ffwpricepoint|ALL|NA"
@@ -464,7 +464,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwshoes0all0na_men_300X198.jpg",
-    "Exit Url": "/men/shoes/?discount=0-80",
+    "Exit Url": "/men/shoes/?discount=0-80&csa=ffwshoes",
     "Headline": "男鞋 低至2折 >",
     "Subline": "男鞋 低至2折 >",
     "EventLabel": "CAT|Men|ffwshoes|ALL|NA"
@@ -474,7 +474,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwclothing0all0na_men_300X198.jpg",
-    "Exit Url": "/men/clothing/?discount=0-80",
+    "Exit Url": "/men/clothing/?discount=0-80&csa=ffwclothing",
     "Headline": "服裝 低至2折 >",
     "Subline": "服裝 低至2折 >",
     "EventLabel": "CAT|Men|ffwclothing|ALL|NA"
@@ -534,7 +534,7 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/bottom-banner-ffwlastsize.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize",
+    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
     "Headline": "斷碼清倉低至2折",
     "Subline": "倒數搶購 零碼尺寸低價出售",
     "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
@@ -544,7 +544,7 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/HOMEPAGE_BOTTOM_326x304-ffwbuy3for1200.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for1200",
+    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for1200&csa=ffwbuy3forsixty",
     "Headline": "揪團來買",
     "Subline": "狂賣商品1 件 NTD499, 3件只要NTD1200 (限指定商品)",
     "EventLabel": "SAL|Women|ffwbuy3forsixty|ALL|NA"
@@ -554,7 +554,7 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw31/SEGMENT_HEADER_326x304-ffwbuy2get30off.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off",
+    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off&csa=ffwbuy2getthirtyoff",
     "Headline": "壓軸折扣雙享",
     "Subline": "優質商品低至4折 滿2件再享額外7折優惠",
     "EventLabel": "SAL|Men|ffwbuy2getthirtyoff|ALL|NA"
