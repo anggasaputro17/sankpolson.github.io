@@ -282,7 +282,7 @@
     "EventLabel": "SAL|Men|ffwpricepoint|ALL|NA",
     "ENHeadline": "Everything Below HKD129",
     "ENSubline": "These choice picks won’t be here forever, so hurry and grab them now.",
-    "ZHHeadline": "律低於HKD129",
+    "ZHHeadline": "一律低於HKD129",
     "ZHSubline": "低價狂售 一次過打造全身行頭"
   },
   {
@@ -387,7 +387,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shoes Up To 80% Off",
     "ZHHeadline": "NA",
-    "ZHSubline": "運動鞋低至2折"
+    "ZHSubline": "鞋低至2折"
   },
   {
     "Placement": "mc2",
@@ -555,8 +555,8 @@
     "EventLabel": "CAT|Men|ffwclothing|ALL|NA",
     "ENHeadline": "Clothing<br>Up To 80% Off",
     "ENSubline": "Clothing Up To 80% Off",
-    "ZHHeadline": "服裝低至2折",
-    "ZHSubline": "服裝低至2折"
+    "ZHHeadline": "鞋低至2折",
+    "ZHSubline": "鞋低至2折"
   },
   {
     "Placement": "mc2",
