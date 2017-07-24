@@ -184,7 +184,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&csa=ffwjuy17lastchanceupto80off",
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|Ffw17LastChanceUpTo80off|ALL|NA"
