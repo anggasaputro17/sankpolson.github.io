@@ -33,11 +33,11 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/Vincci-Desktop-N2-1.jpg",
-    "Exit Url": "/women/vincci/?sort=latest%20arrival&csa=vincci",
-    "Headline": "Vincci - New arrivals",
-    "Subline": "New In",
-    "EventLabel": "BRA|Women|Vincci|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-BUY1FORRM69N3FORRM150-JULY17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=ffw3for150&price=69-69&csa=ffwjuly173for150",
+    "Headline": "FFW - Buy 1 for RM69, 3 for RM150",
+    "Subline": "Grab them here!",
+    "EventLabel": "SAL|WOMEN|FFW173For150|ALL|NA"
   },
   {
     "Placement": "wcu2",
@@ -547,7 +547,7 @@
     "Exit Url": "/men/new-products/?brand=mango-man&csa=mangoman",
     "Headline": "MANGO Man",
     "Subline": "New arrivals",
-    "EventLabel": "SAL|Men|FFWBuy2orMoreGet30Off|ALL|NA"
+    "EventLabel": "BRA|Men|MangoMan|ALL|NA"
   },
   {
     "Placement": "mcu2",
