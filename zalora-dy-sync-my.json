@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
+    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?csa=julypayday",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo80off|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17JulyPayDay|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -103,11 +103,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWLOOK-SEPT16-WOMEN-B1.jpg",
-    "Exit Url": "women/new-look/?csa=newlook",
+    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-JUNE17-B1.jpg",
+    "Exit Url": "/women/laneige/?csa=laneige",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|NewLook|ALL|NA"
+    "EventLabel": "BRA|Women|Laneige|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ELLIGERMANY-MAY17-B1.jpg",
-    "Exit Url": "/women/elli-germany/?csa=elligermany",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSILQ-JUNE17-W-B1.jpg",
+    "Exit Url": "/women/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ElliGermany|ALL|NA"
+    "EventLabel": "BRA|Women|Fossil|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
+    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?csa=julypayday",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17LastChanceUpTo80off|ALL|NA"
+    "EventLabel": "SAL|Men|Ffw17JulyPayday|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-UPTO80OFF-HERO-MOBILE-W.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=eossjuly2017upto80&csa=eossjuly2017upto80",
+    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?csa=julypayday",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Eoss17UpTo80off|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17JulyPayDay|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-UPTO80OFF-HERO-MOBILE-M.jpg",
-    "Exit Url": "/men/special-price/?discount=50-50&csa=eoss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?csa=julypayday",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Eoss17EveryhtingAt50off|ALL|NA"
+    "EventLabel": "SAL|Men|Ffw17JulyPayday|ALL|NA"
   },
   {
     "Placement": "mn1",
