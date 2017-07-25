@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuly17lastsize60",
-    "Headline": "Last Chance Sizes Up to 60% Off",
+    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuly17lastsize80",
+    "Headline": "Last Chance Sizes Up to 80% Off",
     "Subline": "Shop Now",
-    "EventLabel": "SAL|Men|FFW17LastSizesUpTO60off|ALL|NA"
+    "EventLabel": "SAL|Men|FFW17LastSizesUpTo80off|ALL|NA"
   },
   {
     "Placement": "mfb1",
