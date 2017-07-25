@@ -204,7 +204,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "http://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuly17lastsize80",
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false",
     "Headline": "Last Chance Sizes Up to 80% Off",
     "Subline": "Shop Now",
     "EventLabel": "SAL|Men|FFW17LastSizesUpTo80off|ALL|NA"
