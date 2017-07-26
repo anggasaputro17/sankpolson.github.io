@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?csa=julypayday",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17JulyPayDay|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,11 +23,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuly17lastsize60",
-    "Headline": "Last Chance Sizes Up to 60% Off",
-    "Subline": "Shop now",
-    "EventLabel": "SAL|Women|FFW17LastSizesUpTO60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17SPORTSCLEARANCEUPTO60OFF-JULY17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=sportsmultibrand60&csa=ffw17sportsmultibrand60off",
+    "Headline": "Sports Brands",
+    "Subline": "Up to 60% Off",
+    "EventLabel": "SAL|Women|FFW17SportsClearanceUpTo60off|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-M-HERO-DESKTOP-1.jpg",
-    "Exit Url": "/men/all-products/?csa=julypayday",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17JulyPayday|ALL|NA"
+    "EventLabel": "SAL|Men|Ffw17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false",
-    "Headline": "Last Chance Sizes Up to 80% Off",
-    "Subline": "Shop Now",
-    "EventLabel": "SAL|Men|FFW17LastSizesUpTo80off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/FFW17SPORTSCLEARANCEUPTO60OFF-JULY17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=sportsmultibrand60&csa=ffw17sportsmultibrand60off",
+    "Headline": "Sports Brands",
+    "Subline": "Up to 60% Off",
+    "EventLabel": "SAL|Men|FFW17SportsClearanceUpTo60off|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -543,11 +543,11 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/MANGOMAN-FEB17-N2-CU1-CU4.jpg",
-    "Exit Url": "/men/new-products/?brand=mango-man&csa=mangoman",
-    "Headline": "MANGO Man",
-    "Subline": "New arrivals",
-    "EventLabel": "BRA|Men|MangoMan|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-EVERYTHINGUPTO60OFF-JULY17-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=ffw2more30&csa=ffwjuly17ffw2more30",
+    "Headline": "Everything up to 60% off",
+    "Subline": "Buy 2 or more get 30% off",
+    "EventLabel": "SAL|Men|FFWBuy2orMoreGet30Off|ALL|NA"
   },
   {
     "Placement": "mcu2",
