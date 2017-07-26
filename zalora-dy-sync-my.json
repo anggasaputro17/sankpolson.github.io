@@ -323,30 +323,30 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?csa=julypayday",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17JulyPayDay|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRITSALEUPTO70OFF-ZAP-JULY17-N2.jpg",
-    "Exit Url": "/women/special-price/esprit/?csa=esprit",
-    "Headline": "ESPRIT Final Sale: Up to 70% off",
-    "Subline": "Last chance, so don't hold back!",
-    "EventLabel": "BRA|Women|ESPRIT|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-JULY17-N2.jpg",
+    "Exit Url": "/women/all-products/aldo/?csa=aldo",
+    "Headline": "Aldo",
+    "Subline": "Enjoy up to 50% off selected shoes and accessories",
+    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-W-N2-CU1-CU4.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_two=nikeclearancejuly2017&csa=nike",
-    "Headline": "NIKE clearance",
-    "Subline": "Shop now",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-BUY1FORRM69N3FORRM150-JULY17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=ffw3for150&price=69-69&csa=ffwjuly173for150",
+    "Headline": "FFW - Buy 1 for RM69, 3 for RM150",
+    "Subline": "Grab them here!",
     "EventLabel": "SAL|Women|NikeClearenceUpTo60off|ALL|NA"
   },
   {
@@ -373,31 +373,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/JULYPAYDAY-JULY17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?csa=julypayday",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwjuy17lastchanceupto80off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17JulyPayday|ALL|NA"
+    "EventLabel": "SAL|Men|FFW17LastChanceUpTo80off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/special-price/esprit/?csa=esprit",
-    "Headline": "ESPRIT Final Sale: Up to 70% off",
-    "Subline": "Last chance, so don't hold back!",
-    "EventLabel": "BRA|Men|Esprit|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-EVERYTHINGUNDERRM69-JULY17-N2.jpg",
+    "Exit Url": "/men/all-products/?price=0-69&csa=everythingunderrm69",
+    "Headline": "Everything Under RM69",
+    "Subline": "Get them before they sell out",
+    "EventLabel": "SAL|Men|FFW17EverythingUnderRM69|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-N2-CU1-CU4.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-M-N2.jpg",
     "Exit Url": "/men/all-products/?cmpgn_one=multibrandbuy2for20off",
-    "Headline": "NIKE clearance",
-    "Subline": "Shop now",
-    "EventLabel": "SAL|Men|NikeClearenceUpTo60off|ALL|NA"
+    "Headline": "FFW",
+    "Subline": "Last Chance Sizes Up to 80% Off",
+    "EventLabel": "SAL|Men|Ffw17LastChanceSizesUpTo80off|ALL|NA"
   },
   {
     "Placement": "mc1",
