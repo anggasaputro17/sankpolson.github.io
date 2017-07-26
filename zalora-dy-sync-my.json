@@ -63,11 +63,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-W-N2.jpg",
-    "Exit Url": "/women/new-products/?sort=latest%20arrival&csa=newarrivals",
-    "Headline": "New Arrivals",
-    "Subline": "Best of New Arrivals",
-    "EventLabel": "SAL|Women|NewArrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuy17lastchanceupto60off",
+    "Headline": "Last Chance Sizes Up to 60% Off",
+    "Subline": "Shop now",
+    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo60off|ALL|NA"
   },
   {
     "Placement": "wfb1",
