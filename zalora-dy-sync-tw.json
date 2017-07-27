@@ -33,11 +33,11 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N3_NEWARRIVALS_996x250-cw31-cartrulenodate-women-tw.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for1200",
+    "Image": "https://static-tw.zacdn.com/cms/cw31/N3_996x250-ffwpricepoint-women-tw.jpg",
+    "Exit Url": "/women/all-products/?price=0-499",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|ffwbuy3forsixty|ALL|NA"
+    "EventLabel": "SAL|Women|ffwpricepoint|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -313,11 +313,11 @@
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N3_996x250-cw31-cartrulenodate-men-tw.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off",
+    "Image": "https://static-tw.zacdn.com/cms/cw31/N3_NEWARRIVALS_996x250-ffwfiftyoff-men-tw.jpg",
+    "Exit Url": "/men/special-price/?discount=50-50",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|ffwbuy2getthirtyoff|ALL|NA"
+    "EventLabel": "SAL|Men|ffwfiftyoff|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -543,20 +543,20 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/HOMEPAGE_BOTTOM_326x304-ffwbuy3for1200.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for1200&csa=ffwbuy3forsixty",
-    "Headline": "揪團來買",
-    "Subline": "狂賣商品1 件 NTD499, 3件只要NTD1200 (限指定商品)",
-    "EventLabel": "SAL|Women|ffwbuy3forsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw31/Homepage_bottom_banner_326X304-ffwpricepoint-women-tw.jpg",
+    "Exit Url": "/women/all-products/?price=0-499&csa=ffwpricepoint",
+    "Headline": "一律低於NTD499",
+    "Subline": "低價狂售 一次滿足妳的小資時尚",
+    "EventLabel": "SAL|Women|ffwpricepoint|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/SEGMENT_HEADER_326x304-ffwbuy2get30off.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off&csa=ffwbuy2getthirtyoff",
-    "Headline": "壓軸折扣雙享",
-    "Subline": "優質商品低至4折 滿2件再享額外7折優惠",
-    "EventLabel": "SAL|Men|ffwbuy2getthirtyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw31/Homepage_bottom_banner_326X304-ffwfiftyoff-men.jpg",
+    "Exit Url": "/men/special-price/?discount=50-50&csa=ffwfiftyoff",
+    "Headline": "時尚狂熱週",
+    "Subline": "一律5折",
+    "EventLabel": "SAL|Men|ffwfiftyoff|ALL|NA"
   }
 ]
