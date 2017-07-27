@@ -53,21 +53,21 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-EOSS-JUNE17-W-N1.jpg",
-    "Exit Url": "/women/levis/?csa=levis",
-    "Headline": "Levi's",
-    "Subline": "End of Season Sale",
-    "EventLabel": "SAL|Women|EOSSS17Levi's|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuy17lastchanceupto60off",
+    "Headline": "Last Chance Sizes Up to 60% Off",
+    "Subline": "Shop now",
+    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo60off|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuy17lastchanceupto60off",
-    "Headline": "Last Chance Sizes Up to 60% Off",
-    "Subline": "Shop now",
-    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-W-N2.jpg",
+    "Exit Url": "/women/new-products/?sort=latest%20arrival&csa=newarrivals",
+    "Headline": "New Arrivals",
+    "Subline": "Best of New Arrivals",
+    "EventLabel": "SAL|Women|NewArrivals|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -83,21 +83,21 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/YOCO-MAR17-B1.jpg",
-    "Exit Url": "/women/yoco/?csa=yoco",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAPILLIONCLUTCH-JULY17-B1.jpg",
+    "Exit Url": "/women/papillon-clutch/?csa=papillonclutch",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Yoco|ALL|NA"
+    "EventLabel": "BRA|Women|PapillonClutch|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WANDERLUST-MAR17-B1.jpg",
-    "Exit Url": "/women/wanderlust-co/?csa=wanderlust",
+    "Image": "https://static-my.zacdn.com/cms/dy/EYESCREAM-NOV16-B1-6.jpg",
+    "Exit Url": "/women/eyescream/?csa=eyescream",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Wanderlust|ALL|NA"
+    "EventLabel": "BRA|Women|Eyescream|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FOSSILQ-JUNE17-W-B1.jpg",
-    "Exit Url": "/women/fossil/?csa=fossil",
+    "Image": "https://static-my.zacdn.com/cms/evergage/BFCM16-RI-W-B1-6.jpg",
+    "Exit Url": "/women/river-island/?csa=riverisland",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Fossil|ALL|NA"
+    "EventLabel": "BRA|Women|RIVERISLAND|ALL|NA"
   },
   {
     "Placement": "wc1",
