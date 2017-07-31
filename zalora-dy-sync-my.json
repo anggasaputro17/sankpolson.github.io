@@ -383,11 +383,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "http://static-my.zacdn.com/cms/dy/FFW17SPORTSCLEARANCEUPTO60OFF-JULY17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=sportsmultibrand60&discount=10-60&csa=ffw17sportsmultibrand60off",
-    "Headline": "Sports Brands",
-    "Subline": "Up to 60% Off",
-    "EventLabel": "SAL|Men|FFW17SportsClearanceUpTo60off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/cw32/cw32_N2_NEWARRIVALS_men_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=24-01--abercrombie-fitch--aldo--armani--birkenstock--bonds--boss--boss-green--boss-orange--burton-menswear-london--calvin-klein--casio--chaps--cluse--converse--cotton-on--daniel-wellington--dockers--dune-london--emporio-armani--esprit--fjallraven-kanken--fossil--fred-perry-green-label--french-connection--herschel--hugo-boss--jack-jones--jaxon--levis--life8--mango-man--obermain--penshoppe--pestle-mortar--ray-ban--river-island--skagen--sparrowgreen--stuhrling-original--timberland--tommy-hilfiger--topman--zalora&csa=highstreetbrands",
+    "Headline": "High Street Brands",
+    "Subline": "Blur the line between casual and dapper",
+    "EventLabel": "BRA|Men|Highstreetbrands|ALL|NA"
   },
   {
     "Placement": "mn2",
