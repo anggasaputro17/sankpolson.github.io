@@ -393,11 +393,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-EVERYTHING50OFF-JULY17-N2.jpg",
-    "Exit Url": "/men/all-products/?discount=50-50&csa=everythingat50off",
-    "Headline": "Everything at 50% off",
-    "Subline": "Limited Time Only!",
-    "EventLabel": "SAL|Men|FFW17EverythingAt50off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/CW32-SPORTSWEARAT50OFF-AUG17-CU4-M-N2-CU1-CU4.jpg",
+    "Exit Url": "/men/sport/all-products/?discount=50-50&csa=cw32sprtswearupto50off",
+    "Headline": "Sportswear at 50% Off",
+    "Subline": "Shop Now",
+    "EventLabel": "SAL|Men|SportswearUpTo50Off|ALL|NA"
   },
   {
     "Placement": "mc1",
