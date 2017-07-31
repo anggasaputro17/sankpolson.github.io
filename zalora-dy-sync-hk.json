@@ -190,7 +190,7 @@
     "ExitUrl": "/women/clothing/skirts/?csa=skirts",
     "EventLabel": "CAT|Women|skirts|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Skirts",
+    "ENSubline": "Shop Skirts >",
     "ZHHeadline": "NA",
     "ZHSubline": "半截裙"
   },
@@ -203,7 +203,7 @@
     "ExitUrl": "/women/shoes/heels/?csa=heels",
     "EventLabel": "CAT|Women|heels|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Heels",
+    "ENSubline": "Shop Heels >",
     "ZHHeadline": "NA",
     "ZHSubline": "高跟鞋"
   },
@@ -216,7 +216,7 @@
     "ExitUrl": "/women/clothing/dresses/?csa=dressses",
     "EventLabel": "CAT|Women|dressses|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Dresses",
+    "ENSubline": "Shop Dresses >",
     "ZHHeadline": "NA",
     "ZHSubline": "連身裙"
   },
@@ -229,7 +229,7 @@
     "ExitUrl": "/women/beauty/all-products/?csa=beauty",
     "EventLabel": "CAT|Women|beauty|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Beauty",
+    "ENSubline": "Shop Beauty >",
     "ZHHeadline": "NA",
     "ZHSubline": "美容"
   },
@@ -242,7 +242,7 @@
     "ExitUrl": "/women/accessories/?csa=accessories",
     "EventLabel": "CAT|Women|accessories|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Accessories",
+    "ENSubline": "Shop Accessories >",
     "ZHHeadline": "NA",
     "ZHSubline": "飾物"
   },
@@ -385,7 +385,7 @@
     "ExitUrl": "/men/clothing/jeans/?csa=jeans",
     "EventLabel": "CAT|men|jeans|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Jeans",
+    "ENSubline": "Shop Jeans >",
     "ZHHeadline": "NA",
     "ZHSubline": "牛仔褲"
   },
@@ -398,7 +398,7 @@
     "ExitUrl": "/men/watches?csa=watches",
     "EventLabel": "CAT|men|watches|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Watches",
+    "ENSubline": "Shop Watches >",
     "ZHHeadline": "NA",
     "ZHSubline": "手錶"
   },
@@ -411,7 +411,7 @@
     "ExitUrl": "/men/clothing/polos/?csa=poloshirts",
     "EventLabel": "CAT|men|poloshirts|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Polo Shirts",
+    "ENSubline": "Shop Polo Shirts >",
     "ZHHeadline": "NA",
     "ZHSubline": "Polo恤"
   },
@@ -424,7 +424,7 @@
     "ExitUrl": "/men/shoes/loafers-boat-shoes/?csa=loafers",
     "EventLabel": "CAT|men|loafers|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Loafers & Boat Shoes",
+    "ENSubline": "Shop Loafers >",
     "ZHHeadline": "NA",
     "ZHSubline": "船鞋"
   },
@@ -437,7 +437,7 @@
     "ExitUrl": "/men/accessories/?csa=wallets",
     "EventLabel": "CAT|men|wallets|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "Shop Accessories",
+    "ENSubline": "Shop Accessories >",
     "ZHHeadline": "NA",
     "ZHSubline": "飾物"
   },
@@ -488,8 +488,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/dresses/?csa=dressses",
     "EventLabel": "CAT|Women|dressses|ALL|NA",
-    "ENHeadline": "Dresses",
-    "ENSubline": "Dresses",
+    "ENHeadline": "Shop<br>Dresses",
+    "ENSubline": "Shop<br>Dresses",
     "ZHHeadline": "連身裙",
     "ZHSubline": "連身裙"
   },
@@ -501,8 +501,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/skirts/?csa=skirts",
     "EventLabel": "CAT|Women|skirts|ALL|NA",
-    "ENHeadline": "Skirts",
-    "ENSubline": "Skirts",
+    "ENHeadline": "Shop<br>Skirts",
+    "ENSubline": "Shop<br>Skirts",
     "ZHHeadline": "半截裙",
     "ZHSubline": "半截裙"
   },
