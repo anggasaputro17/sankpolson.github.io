@@ -33,41 +33,41 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-EVERYTHINGBELOWRM69-JULY17-W-N2.jpg",
-    "Exit Url": "https://www.zalora.com.my/women/all-products/?price=0-69&csa=everythingunderrm69",
-    "Headline": "Everything Under RM69",
-    "Subline": "Get Them Before They Sell Out",
-    "EventLabel": "SAL|WOMEN|FFW17EverythingUnderRm69|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-DRESSES-AUGUST1-W-CU1-1.jpg",
+    "Exit Url": "/women/clothing/dresses/?csa=dresses",
+    "Headline": "Dresses",
+    "Subline": "Fave pieces of the week",
+    "EventLabel": "NewA|WOMEN|CW32Dresses|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EOSS17-MUSLIMAHUPTO50OFF-JULY17-N1-CU2-CU3.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=eossmuslimah&csa=eoss17muslimahupto50off",
-    "Headline": "End of Season Sale",
-    "Subline": "Muslimah Apparels up to 50% off",
-    "EventLabel": "SAL|WOMEN|EOSS17Muslimah|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SKIRTS-AUGUST1-W-CU2.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
+    "Headline": "Skirts",
+    "Subline": "Must-have trends",
+    "EventLabel": "NewA|WOMEN|CW32Skirts|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17-LASTCHANCESIZESUPTO60OFF-JULY17-W-N1.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=ffwlastsize60&csa=ffwjuy17lastchanceupto60off",
-    "Headline": "Last Chance Sizes Up to 60% Off",
-    "Subline": "Shop now",
-    "EventLabel": "SAL|Women|Ffw17LastChanceUpTo60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SUNGLASSES-AUGUST1-W-CU2-1.jpg",
+    "Exit Url": "/women/all-products/sunglasses/?csa=sunglasses",
+    "Headline": "Sunglasses",
+    "Subline": "Fresh sunnies to get you pumped",
+    "EventLabel": "NewA|Women|CW32Sunglasses|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-W-N2.jpg",
-    "Exit Url": "/women/new-products/?sort=latest%20arrival&csa=newarrivals",
-    "Headline": "New Arrivals",
-    "Subline": "Best of New Arrivals",
-    "EventLabel": "SAL|Women|NewArrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUGUST1-W-CU4.jpg",
+    "Exit Url": "/women/watches/smart-watches/?csa=shopWomenWatches",
+    "Headline": "Watches",
+    "Subline": "Timeless pieces",
+    "EventLabel": "NewA|Women|CW32Watches|ALL|NA"
   },
   {
     "Placement": "wfb1",
