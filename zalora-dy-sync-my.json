@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-JULY17-N1.jpg",
-    "Exit Url": "/women/all-products/aldo/?csa=aldo",
-    "Headline": "Aldo",
-    "Subline": "Enjoy up to 50% off selected shoes and accessories",
-    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SPORTS50OFF-AUGUST1-W-N1.jpg",
+    "Exit Url": "/women/sport/all-products/?discount=50-50&csa=cw32sports50off",
+    "Headline": "Sports at 50% Off",
+    "Subline": "Fashion-forward pieces for your workouts",
+    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FFW17SPORTSCLEARANCEUPTO60OFF-JULY17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=sportsmultibrand60&discount=10-60&csa=ffw17sportsmultibrand60off",
-    "Headline": "Sports Brands",
-    "Subline": "Up to 60% Off",
-    "EventLabel": "SAL|Women|FFW17SportsClearanceUpTo60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-NEWARRIVALS-AUGUST1-W-N2.jpg",
+    "Exit Url": "/women/shoes/?age=0-30&csa=cw32accessoriesnewarrivals",
+    "Headline": "New Arrivals: Bags, Shoes and More",
+    "Subline": "Why Blend In When You Can Stand Out?",
+    "EventLabel": "NewA|Women|CW32Accessories|ALL|NA"
   },
   {
     "Placement": "wcu1",
