@@ -423,7 +423,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGESPLASH996x500-JULY2017.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/HOMEPAGESPLASH996x500-aug2017.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -443,21 +443,21 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGE_BOTTOM_326x304-buy3for60-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwbuy3for60",
-    "Headline": "Buy 3 For Just SGD60",
-    "Subline": "Bundle three SGD24.90 picks to unlock this offer (selected items only).",
-    "EventLabel": "SAL|Women|ffwbuy3forsixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_326x304-electrifyingcolours.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=electrifyingcolours&getSKU=RI009SH68XPZMY--FU839US18HEBMY&csa=ElectrifyingColours",
+    "Headline": "A Jolt of Colours",
+    "Subline": "Unleash an electrifying palette full of the brightest and most vibrant hues.",
+    "EventLabel": "TRE|Women|ElectrifyingColours|Women|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HEADER_326x304-buy2get30-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwbuy2get30off",
-    "Headline": "Buy 2 And Get Extra 30% Off",
-    "Subline": "Enjoy this perk on top of markdowns up to 60% off (selected items only).",
-    "EventLabel": "SAL|Men|ffwbuy2getthirtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_326x304-highstreet.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman&csa=HighStreetBrands",
+    "Headline": "High Street Edit",
+    "Subline": "Blur the line between casual and dapper with this range of fine clothing.",
+    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
   },
   {
     "Placement": "wb1",
