@@ -543,40 +543,40 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/FFW17-EVERYTHING50OFF-JULY17-N2.jpg",
-    "Exit Url": "/men/all-products/?discount=50-50&csa=everythingat50off",
-    "Headline": "Everything at 50% off",
-    "Subline": "Limited Time Only!",
-    "EventLabel": "SAL|Men|FFW17EverythingAt50off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/cw32/CU1-keepitcool.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=keepitcool",
+    "Headline": "Keep It Cool",
+    "Subline": "Chill Out in Our Tees",
+    "EventLabel": "TRE|Men|keepitcool|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-EOSS-JUNE17-M-N1-2.jpg",
-    "Exit Url": "/men/levis/?csa=levis",
-    "Headline": "Levi's",
-    "Subline": "End of Season Sale",
-    "EventLabel": "BRA|Men|Eoss17Levis|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/cw32/CU2-shorts.jpg",
+    "Exit Url": "/men/clothing/shorts/?csa=beattheheat",
+    "Headline": "Beat the Heat",
+    "Subline": "Stay Cool with Shorts",
+    "EventLabel": "TRE|Men|beattheheat|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-MAY17-M-N1-1.jpg",
-    "Exit Url": "/men/new-products/?csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUG17-CU3.jpg",
+    "Exit Url": "/men/all-products/watches/ ?csa=cw32watches",
     "Headline": "New Arrivals",
     "Subline": "Get them while they're fresh!",
-    "EventLabel": "SAL|Men|NewArrivals|ALL|NA"
+    "EventLabel": "TRE|Men|CW32Watches|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MENSACCESSORIES-JULY17-N2.jpg",
-    "Exit Url": "/men/accessories/?csa=mensaccessories",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SUNGLASSES-AUG17-CU4.jpg",
+    "Exit Url": "/sunglasses/all-products/?csa=cw32sunglasses",
     "Headline": "Shoes, watches and more",
     "Subline": "Dress up your outfits with accessories!",
-    "EventLabel": "SAL|Men|MensAccessories|ALL|NA"
+    "EventLabel": "TRE|Men|CW32Sunglasses|ALL|NA"
   }
 ]
