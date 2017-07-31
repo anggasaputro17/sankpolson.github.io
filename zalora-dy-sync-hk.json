@@ -192,7 +192,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Skirts >",
     "ZHHeadline": "NA",
-    "ZHSubline": "半截裙"
+    "ZHSubline": "選購 半截裙 >"
   },
   {
     "Placement": "wc2",
@@ -205,7 +205,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Heels >",
     "ZHHeadline": "NA",
-    "ZHSubline": "高跟鞋"
+    "ZHSubline": "選購 高跟鞋 >"
   },
   {
     "Placement": "wc3",
@@ -218,7 +218,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Dresses >",
     "ZHHeadline": "NA",
-    "ZHSubline": "連身裙"
+    "ZHSubline": "選購 連身裙 >"
   },
   {
     "Placement": "wc4",
@@ -231,7 +231,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Beauty >",
     "ZHHeadline": "NA",
-    "ZHSubline": "美容"
+    "ZHSubline": "選購 美容 >"
   },
   {
     "Placement": "wc5",
@@ -244,7 +244,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Accessories >",
     "ZHHeadline": "NA",
-    "ZHSubline": "飾物"
+    "ZHSubline": "選購 飾物 >"
   },
   {
     "Placement": "mh1",
@@ -387,7 +387,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Jeans >",
     "ZHHeadline": "NA",
-    "ZHSubline": "牛仔褲"
+    "ZHSubline": "選購 牛仔褲 >"
   },
   {
     "Placement": "mc2",
@@ -400,7 +400,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Watches >",
     "ZHHeadline": "NA",
-    "ZHSubline": "手錶"
+    "ZHSubline": "選購 手錶 >"
   },
   {
     "Placement": "mc3",
@@ -413,7 +413,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Polo Shirts >",
     "ZHHeadline": "NA",
-    "ZHSubline": "Polo恤"
+    "ZHSubline": "選購 Polo恤 >"
   },
   {
     "Placement": "mc4",
@@ -426,7 +426,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Loafers >",
     "ZHHeadline": "NA",
-    "ZHSubline": "船鞋"
+    "ZHSubline": "選購 船鞋 >"
   },
   {
     "Placement": "mc5",
@@ -439,7 +439,7 @@
     "ENHeadline": "NA",
     "ENSubline": "Shop Accessories >",
     "ZHHeadline": "NA",
-    "ZHSubline": "飾物"
+    "ZHSubline": "選購 飾物 >"
   },
   {
     "Placement": "wh1",
@@ -490,8 +490,8 @@
     "EventLabel": "CAT|Women|dressses|ALL|NA",
     "ENHeadline": "Shop<br>Dresses",
     "ENSubline": "Shop<br>Dresses",
-    "ZHHeadline": "連身裙",
-    "ZHSubline": "連身裙"
+    "ZHHeadline": "選購 連身裙 >",
+    "ZHSubline": "選購 連身裙 >"
   },
   {
     "Placement": "wc2",
@@ -503,8 +503,8 @@
     "EventLabel": "CAT|Women|skirts|ALL|NA",
     "ENHeadline": "Shop<br>Skirts",
     "ENSubline": "Shop<br>Skirts",
-    "ZHHeadline": "半截裙",
-    "ZHSubline": "半截裙"
+    "ZHHeadline": "選購 半截裙 >",
+    "ZHSubline": "選購 半截裙 >"
   },
   {
     "Placement": "mh1",
@@ -555,8 +555,8 @@
     "EventLabel": "CAT|men|poloshirts|ALL|NA",
     "ENHeadline": "Shop Polo Shirts",
     "ENSubline": "Shop Polo Shirts",
-    "ZHHeadline": "Polo恤",
-    "ZHSubline": "Polo恤"
+    "ZHHeadline": "選購 Polo恤 >",
+    "ZHSubline": "選購 Polo恤 >"
   },
   {
     "Placement": "mc2",
@@ -568,8 +568,8 @@
     "EventLabel": "CAT|men|jeans|ALL|NA",
     "ENHeadline": "Shop Jeans",
     "ENSubline": "Shop Jeans",
-    "ZHHeadline": "牛仔褲",
-    "ZHSubline": "牛仔褲"
+    "ZHHeadline": "選購 牛仔褲 >",
+    "ZHSubline": "選購 牛仔褲 >"
   },
   {
     "Placement": "uh1",
