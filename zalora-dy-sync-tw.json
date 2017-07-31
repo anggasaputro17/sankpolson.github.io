@@ -3,41 +3,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/sal0women0ffwuptoeightyoff0all0na_women_996x500.jpg",
-    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/Segment_hero_996x500-AugustNewArrivals-women-tw.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|ffwuptoeightyoff|ALL|NA"
+    "EventLabel": "TRE|Women|AugustNewArrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N1_NEWARRIVALS_360x420_1-aldocw31-women.jpg",
-    "Exit Url": "/women/aldo/",
-    "Headline": "Aldo",
-    "Subline": "指定鞋款與配件，低至5折",
-    "EventLabel": "BRA|Women|aldoeossssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N1_NEWARRIVALS_360x420-nabagsshoes.jpg",
+    "Exit Url": "/product-index/nabagsshoes/?age=0-21",
+    "Headline": "新款女鞋與女包",
+    "Subline": "利用時尚美鞋與包包給造型重點",
+    "EventLabel": "TRE|Women|AugNewArrivalsShoesBags|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-FFWlastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize",
-    "Headline": "斷碼清倉低至2折",
-    "Subline": "倒數搶購 零碼尺寸低價出售",
-    "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-electrifyingcolours-tw.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=electrifyingcolours&getSKU=RI009SH68XPZMY--FU839US18HEBMY",
+    "Headline": "元氣色調",
+    "Subline": "充滿活力的繽紛色彩 大膽擁抱熱力夏天",
+    "EventLabel": "TRE|Women|ElectrifyingColours|Women|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N3_996x250-ffwpricepoint-women-tw.jpg",
-    "Exit Url": "/women/all-products/?price=0-499",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N3_NEWARRIVALS_996x250-SportsFiftyOff-tw.jpg",
+    "Exit Url": "/women/sports/?discount=50-50",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|ffwpricepoint|ALL|NA"
+    "EventLabel": "CAT|Women|SportsFiftyOff|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -83,161 +83,161 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1_322x165-1-vacae.jpg",
-    "Exit Url": "/women/vacae/",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-factorie-women.jpg",
+    "Exit Url": "/women/factorie/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|vacae2ssseventeen|ALL|ZAP"
+    "EventLabel": "NewA|WC|factoriedec|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-warehouse.jpg",
-    "Exit Url": "/warehouse-shop/",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-rubi-women.jpg",
+    "Exit Url": "/women/rubi/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|warehousess17|ALL|NA"
+    "EventLabel": "NA-BRA|WS|wrubiss17|ALL|NA|rubi"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-wallis.jpg",
-    "Exit Url": "/women/wallis/",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-miss-selfridge.jpg",
+    "Exit Url": "/women/miss-selfridge/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|wcwallisss17|ALL|NA"
+    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1_322x165-fossil.jpg",
-    "Exit Url": "/fossil-taiwan/?csa=ma1wafossilss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-reebok.jpg",
+    "Exit Url": "/women/reebok/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MA-WA|ma1wafossilss17|ALL|NA|fossil"
+    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-addictanonymous.jpg",
-    "Exit Url": "/women/shoes/addicts-anonymous/?csa=wsaddictsanonymous",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/BRA-Women-callitspringssseventeen-ALL-NA_B1_322x165.jpg",
+    "Exit Url": "/women/call-it-spring/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WS|wsaddictsanonymous|ALL|NA|addicts-anonymous"
+    "EventLabel": "BRA|Women|callitspringssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/IVYPARK_B1-6_322x165.jpg",
-    "Exit Url": "/women/ivy-park/special-price/?csa=wspivyparkss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-somethingborrowed.jpg",
+    "Exit Url": "/women/something-borrowed/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WSP|wspivyparkss17|ALL|NA|ivy-park"
+    "EventLabel": "BRA|Women|SomethingBorrowedSS17|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwshoes0all0na_women_300X198.jpg",
-    "Exit Url": "/women/shoes/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/",
     "Headline": "NA",
-    "Subline": "女鞋 低至2折 >",
-    "EventLabel": "CAT|Women|ffwshoes|ALL|NA"
+    "Subline": "裙子 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwtops0all0na_women_300X198.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/",
     "Headline": "NA",
-    "Subline": "上衣 低至2折 >",
-    "EventLabel": "CAT|Women|ffwtops|ALL|NA"
+    "Subline": "高跟鞋 >",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwdresses0all0na_women_375X500.jpg",
-    "Exit Url": "/women/clothing/dresses/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C3_375X500_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/",
     "Headline": "NA",
-    "Subline": "洋裝 低至2折 >",
-    "EventLabel": "CAT|Women|ffwdressses|ALL|NA"
+    "Subline": "洋裝 >",
+    "EventLabel": "CAT|Women|dressses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwbags0all0na_women_300X198.jpg",
-    "Exit Url": "/women/bags/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_BRUSHES.jpg",
+    "Exit Url": "/women/beauty/",
     "Headline": "NA",
-    "Subline": "女包 低至2折 >",
-    "EventLabel": "CAT|Women|ffwbags|ALL|NA"
+    "Subline": "美容保養 >",
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwsports0all0na_women_300X198.jpg",
-    "Exit Url": "/women/sports/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_ACCESSORIES.jpg",
+    "Exit Url": "/women/accessories/",
     "Headline": "NA",
-    "Subline": "運動服裝 低至4折 >",
-    "EventLabel": "CAT|Women|ffwsports|ALL|NA"
+    "Subline": "飾品 >",
+    "EventLabel": "CAT|Women|accessories|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/sal0women0ffwuptoeightyoff0all0na_women_600x600.jpg",
-    "Exit Url": "/women/all-products/?discount=20-80&age=60-360&mp=false&csa=ffwuptoeightyoff",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/MOBILEWEB_HERO_600x600-cw32-augnewa-women.jpg",
+    "Exit Url": "/women/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|ffwuptoeightyoff|ALL|NA"
+    "EventLabel": "TRE|Women|AugustNewArrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-aldocw31-women.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoeossssseventeen",
-    "Headline": "Aldo <br> 指定鞋款與配件，低至5折",
-    "Subline": "Aldo <br> 指定鞋款與配件，低至5折",
-    "EventLabel": "BRA|Women|aldoeossssseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-nabagsshoes.jpg",
+    "Exit Url": "/product-index/nabagsshoes/?age=0-21",
+    "Headline": "新款女鞋與女包",
+    "Subline": "利用時尚美鞋與包包給造型重點",
+    "EventLabel": "TRE|Women|AugNewArrivalsShoesBags|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-FFWlastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
-    "Headline": "斷碼清倉低至2折",
-    "Subline": "斷碼清倉低至2折",
-    "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-electrifyingcolours-tw.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=electrifyingcolours&getSKU=RI009SH68XPZMY--FU839US18HEBMY",
+    "Headline": "元氣色調 <br> 充滿活力的繽紛色彩 大膽擁抱熱力夏天",
+    "Subline": "元氣色調 <br> 充滿活力的繽紛色彩 大膽擁抱熱力夏天",
+    "EventLabel": "TRE|Women|ElectrifyingColours|Women|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwshoes0all0na_women_300X198.jpg",
-    "Exit Url": "/women/shoes/?discount=0-80&csa=ffwshoes",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/",
     "Headline": "NA",
-    "Subline": "女鞋 低至2折 >",
-    "EventLabel": "CAT|Women|ffwshoes|ALL|NA"
+    "Subline": "購買 裙子 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0women0ffwdressses0all0na_dresses_300X198.jpg",
-    "Exit Url": "/women/clothing/dresses/?discount=0-80&csa=ffwdressses",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_DRESSES.jpg",
+    "Exit Url": "/women/clothing/dresses/",
     "Headline": "NA",
-    "Subline": "洋裝 低至2折 >",
-    "EventLabel": "CAT|Women|ffwdressses|ALL|NA"
+    "Subline": "購買 洋裝 >",
+    "EventLabel": "CAT|Women|dressses|ALL|NA"
   },
   {
     "Placement": "wb1",
@@ -283,201 +283,201 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/SEGMENT_HERO_SLICED_996x500-ffwuptoeightyoff-men.jpg",
-    "Exit Url": "/men/special-price/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/SEGMENT_HERO_MOKCUP_996x500-AugustNewArrivals-men.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|ffwuptoeightyoff|ALL|NA"
+    "EventLabel": "TRE|Men|AugustNewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N1_NEWARRIVALS_360x420-ffwlastsize-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwlastsize",
-    "Headline": "斷碼清倉低至2折",
-    "Subline": "倒數搶購 零碼尺寸低價出售",
-    "EventLabel": "SAL|Men|FFWlastsize|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N1_NEWARRIVALS_360x420-fathersdayTW.jpg",
+    "Exit Url": "/men/fathers-day/",
+    "Headline": "父親節送禮指南",
+    "Subline": "選購最佳精選 給父親送上最真摯的祝福",
+    "EventLabel": "RET|Men|FathersDay|Men|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-ffwpricepoint-men.jpg",
-    "Exit Url": "/men/all-products/?price=0-499",
-    "Headline": "一律低於NTD499",
-    "Subline": "低價狂售 一次打造全身行頭",
-    "EventLabel": "SAL|Men|ffwpricepoint|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-highstreetbrands-men.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman",
+    "Headline": "高街之最",
+    "Subline": "英倫高街品牌完美融合街頭感與紳士風",
+    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/copywrong/N3_996x250-copy-wrong-tw.jpg",
-    "Exit Url": "/men/special-price/?discount=50-50",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N3_996x250-sportsfiftyoff-men-tw.jpg",
+    "Exit Url": "/men/sports/?discount=50-50",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|ffwfiftyoff|ALL|NA"
+    "EventLabel": "CAT|Men|SportsFiftyOff|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-esprit.jpg",
-    "Exit Url": "/esprit-shop/?from=men",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-boss-cw32.jpg",
+    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=&category_id=&brand=boss--boss-green--boss-orange",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|esprit2ssseventeen|ALL|NA"
+    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-cottonon-men.jpg",
-    "Exit Url": "/cotton-on-shop/?from=men",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-rayban-cw32-men.jpg",
+    "Exit Url": "/men/ray-ban/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|raybanssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-calvinklein-men.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/OnitsukaTiger_B_322x165.jpg",
+    "Exit Url": "/men/onitsuka-tiger/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|onitsukatitgerssseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/BRA-Men-callitspringssseventeen-ALL-NA_B1_322x165.jpg",
+    "Exit Url": "/men/call-it-spring/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|callitspringssseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-ckmen-cw32.jpg",
     "Exit Url": "/calvin-klein-shop/?from=men",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|MC|mcalvinkleinss17|ALL|NA|calvin-klein"
   },
   {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1_322x165-herschel-men.jpg",
-    "Exit Url": "/men/herschel/special-price/?csa=wb1ma1waherschelss17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|WB-MA-WA|wb1ma1waherschelss17|ALL|NA"
-  },
-  {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/ASICS_B_322x165.jpg",
-    "Exit Url": "/men/asics/special-price/?csa=asicsssseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
-  },
-  {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/B1-6_322x165-topman.jpg",
-    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/B1-6_322x165-anfmen.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?getSKU=AB423AA13GLYMY--AB423AA93GMSMY--AB423AA83GNCMY--AB423AA63GNWMY--AB423AA58GOBMY--AB423AA52GOHMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwshoes0all0na_men_300X198.jpg",
-    "Exit Url": "/men/shoes/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_JEANS.jpg",
+    "Exit Url": "/men/clothing/jeans/",
     "Headline": "NA",
-    "Subline": "男鞋 低至2折 >",
-    "EventLabel": "CAT|Men|ffwshoes|ALL|NA"
+    "Subline": "牛仔褲 >",
+    "EventLabel": "CAT|men|jeans|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwbags0all0na_men_300X198.jpg",
-    "Exit Url": "/men/bags/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_WATCHES.jpg",
+    "Exit Url": "/men/watches/",
     "Headline": "NA",
-    "Subline": "男包 低至2折 >",
-    "EventLabel": "CAT|Men|ffwbags|ALL|NA"
+    "Subline": "手錶 >",
+    "EventLabel": "CAT|men|watches|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwclothing0all0na_men_375X500.jpg",
-    "Exit Url": "/men/clothing/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C3_375X500_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
     "Headline": "NA",
-    "Subline": "服裝 低至2折 >",
-    "EventLabel": "CAT|Men|ffwclothing|ALL|NA"
+    "Subline": "Polo衫 >",
+    "EventLabel": "CAT|men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwsports0all0na_men_300X198.jpg",
-    "Exit Url": "/men/sports/?discount=0-60",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_LOAFERS_BOATSHOES.jpg",
+    "Exit Url": "/men/shoes/loafers-boat-shoes/",
     "Headline": "NA",
-    "Subline": "男裝運動 低至4折 >",
-    "EventLabel": "CAT|Men|ffwsports|ALL|NA"
+    "Subline": "船型鞋 >",
+    "EventLabel": "CAT|men|loafers|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwaccessories0all0na_men_300X198.jpg",
-    "Exit Url": "/men/accessories/?discount=0-80",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_ACCESSORIES.jpg",
+    "Exit Url": "/men/accessories/",
     "Headline": "NA",
-    "Subline": "男裝配件 低至2折 >",
-    "EventLabel": "CAT|Men|ffwaccessories|ALL|NA"
+    "Subline": "配件 >",
+    "EventLabel": "CAT|men|accessories|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/sal0men0ffwuptoeightyoff0all0na_men_600x600.jpg",
-    "Exit Url": "/men/special-price/?discount=0-80&csa=ffwuptoeightyoff",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/tre0women0augustnewarrivals0all0na_men_600x600.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|ffwuptoeightyoff|ALL|NA"
+    "EventLabel": "TRE|Men|AugustNewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-ffwlastsize-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
-    "Headline": "斷碼清倉低至2折",
-    "Subline": "斷碼清倉低至2折",
-    "EventLabel": "SAL|Men|FFWlastsize|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-fathersdayTW.jpg",
+    "Exit Url": "/men/fathers-day/",
+    "Headline": "父親節送禮指南",
+    "Subline": "選購最佳精選 給父親送上最真摯的祝福",
+    "EventLabel": "RET|Men|FathersDay|Men|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/N2_NEWARRIVALS_620x420-ffwpricepoint-men.jpg",
-    "Exit Url": "/men/all-products/?price=0-499&csa=ffwpricepoint",
-    "Headline": "一律低於NTD499",
-    "Subline": "一律低於NTD499",
-    "EventLabel": "SAL|Men|ffwpricepoint|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/N2_NEWARRIVALS_620x420-highstreetbrands-men.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman",
+    "Headline": "高街之最",
+    "Subline": "英倫高街品牌完美融合街頭感與紳士風",
+    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwshoes0all0na_men_300X198.jpg",
-    "Exit Url": "/men/shoes/?discount=0-80&csa=ffwshoes",
-    "Headline": "男鞋 低至2折 >",
-    "Subline": "男鞋 低至2折 >",
-    "EventLabel": "CAT|Men|ffwshoes|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_JEANS.jpg",
+    "Exit Url": "/men/clothing/jeans/",
+    "Headline": "NA",
+    "Subline": "牛仔褲 >",
+    "EventLabel": "CAT|men|jeans|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/cat0men0ffwclothing0all0na_men_300X198.jpg",
-    "Exit Url": "/men/clothing/?discount=0-80&csa=ffwclothing",
-    "Headline": "服裝 低至2折 >",
-    "Subline": "服裝 低至2折 >",
-    "EventLabel": "CAT|Men|ffwclothing|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/C1245_300X198_MENS_POLO_TSHIRT.jpg",
+    "Exit Url": "/men/clothing/polo-shirts/",
+    "Headline": "NA",
+    "Subline": "Polo衫 >",
+    "EventLabel": "CAT|men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mb1",
@@ -523,40 +523,40 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/HOMEPAGE_SPLASH_996x500-cw31-tw.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw32/HOMEPAGE_SPLASH_996x500-cw32-2017.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|eossomnibus|ALL|NA"
+    "EventLabel": "TRE|Women|AugustNewArrivals|ALL|NA"
   },
   {
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/bottom-banner-ffwlastsize.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize&csa=FFWlastsize",
-    "Headline": "斷碼清倉低至2折",
-    "Subline": "倒數搶購 零碼尺寸低價出售",
-    "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/bags+shoes_women_ONSITE_TEMPLATES_326X304.jpg",
+    "Exit Url": "/product-index/nabagsshoes/?age=0-21",
+    "Headline": "新款女鞋與女包",
+    "Subline": "利用時尚美鞋與包包給造型重點",
+    "EventLabel": "TRE|Women|AugNewArrivalsShoesBags|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/Homepage_bottom_banner_326X304-ffwpricepoint-women-tw.jpg",
-    "Exit Url": "/women/all-products/?price=0-499&csa=ffwpricepoint",
-    "Headline": "一律低於NTD499",
-    "Subline": "低價狂售 一次滿足妳的小資時尚",
-    "EventLabel": "SAL|Women|ffwpricepoint|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/SEGMENT_HERO_326x304-electrifyingcolors.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=electrifyingcolours&getSKU=RI009SH68XPZMY--FU839US18HEBMY",
+    "Headline": "元氣色調",
+    "Subline": "充滿活力的繽紛色彩 大膽擁抱熱力夏天",
+    "EventLabel": "TRE|Women|ElectrifyingColours|Women|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/Homepage_bottom_banner_326X304-ffwfiftyoff-men.jpg",
-    "Exit Url": "/men/special-price/?discount=50-50&csa=ffwfiftyoff",
-    "Headline": "時尚狂熱週",
-    "Subline": "一律5折",
-    "EventLabel": "SAL|Men|ffwfiftyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw32/MEN_HIGHSTREET_ONSITE_TEMPLATES_326X304.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman",
+    "Headline": "高街之最",
+    "Subline": "英倫高街品牌完美融合街頭感與紳士風",
+    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
   }
 ]
