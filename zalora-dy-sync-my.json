@@ -330,16 +330,6 @@
     "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA"
   },
   {
-    "Placement": "wn1",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-JULY17-N2.jpg",
-    "Exit Url": "/women/all-products/aldo/?csa=aldo",
-    "Headline": "Aldo",
-    "Subline": "Enjoy up to 50% off selected shoes and accessories",
-    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
-  },
-  {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
