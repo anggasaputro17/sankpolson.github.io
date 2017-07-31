@@ -433,11 +433,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/HOMEPAGE_BOTTOM_326x304-ffwlastsize-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=ffwlastsize",
-    "Headline": "Last Sizes Now Up to 80% Off",
-    "Subline": "Attractive prices on these remaining pieces, take them while stocks last!",
-    "EventLabel": "SAL|Women|FFWlastsize|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_326x304-bagsshoes.jpg",
+    "Exit Url": "/product-index/nabagsshoes/?age=0-21&csa=AugNewArrivalsShoesBags",
+    "Headline": "New: Bags & Shoes",
+    "Subline": "Why blend in when you can stand out this easily?",
+    "EventLabel": "TRE|Women|AugNewArrivalsShoesBags|ALL|NA"
   },
   {
     "Placement": "ub2",
