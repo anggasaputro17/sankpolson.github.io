@@ -323,11 +323,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/FW17-EXTENDEDPAYDAY20OFFSTOREWIDE-JULY17-W-HERO-MOBILE-2.jpg",
-    "Exit Url": "/women/all-products/?csa=ffw17paydayextendedvc",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-AUGUST1-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?age=0-30&csa=cw32newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "NewA|Women|augnewarrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -343,9 +343,9 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW32-NEWARRIVALS-AUGUST1-W-N2.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-NEWARRIVALS-AUGUST1-W-N2-2.jpg.jpg",
     "Exit Url": "/women/shoes/?age=0-30&csa=cw32accessoriesnewarrivals",
-    "Headline": "New Arrivals: Bags, Shoes and More",
+    "Headline": "New Arrivals: Shoes",
     "Subline": "Why Blend In When You Can Stand Out?",
     "EventLabel": "NewA|Women|CW32Accessories|ALL|NA"
   },
@@ -373,11 +373,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/FW17-EXTENDEDPAYDAY20OFFSTOREWIDE-JULY17-M-HERO-MOBILE-1.jpg",
-    "Exit Url": "/men/all-products/?csa=ffw17paydayextendedvc",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-AUGUST1-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?age=0-30&csa=augnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "NewA|Men\\augnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
