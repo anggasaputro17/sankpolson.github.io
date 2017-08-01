@@ -7,7 +7,8 @@
     "Exit Url": "/women/all-products/?age=0-30&csa=cw32newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Women|augnewarrivals|ALL|NA"
+    "EventLabel": "NewA|Women|augnewarrivals|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wn1",
@@ -17,7 +18,8 @@
     "Exit Url": "/women/sport/all-products/?discount=50-50&csa=cw32sports50off",
     "Headline": "Sports at 50% Off",
     "Subline": "Fashion-forward pieces for your workouts",
-    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP"
+    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP",
+    "": ""
   },
   {
     "Placement": "wn2",
@@ -27,7 +29,8 @@
     "Exit Url": "/women/shoes/?age=0-30&csa=cw32accessoriesnewarrivals",
     "Headline": "New Arrivals: Bags, Shoes and More",
     "Subline": "Why Blend In When You Can Stand Out?",
-    "EventLabel": "NewA|Women|CW32Accessories|ALL|NA"
+    "EventLabel": "NewA|Women|CW32Accessories|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu1",
@@ -37,7 +40,8 @@
     "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "Dresses",
     "Subline": "Fave pieces of the week",
-    "EventLabel": "NewA|WOMEN|CW32Dresses|ALL|NA"
+    "EventLabel": "NewA|WOMEN|CW32Dresses|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu2",
@@ -47,7 +51,8 @@
     "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "Skirts",
     "Subline": "Must-have trends",
-    "EventLabel": "NewA|WOMEN|CW32Skirts|ALL|NA"
+    "EventLabel": "NewA|WOMEN|CW32Skirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu3",
@@ -57,7 +62,8 @@
     "Exit Url": "/women/all-products/sunglasses/?csa=sunglasses",
     "Headline": "Sunglasses",
     "Subline": "Fresh sunnies to get you pumped",
-    "EventLabel": "NewA|Women|CW32Sunglasses|ALL|NA"
+    "EventLabel": "NewA|Women|CW32Sunglasses|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu4",
@@ -67,7 +73,8 @@
     "Exit Url": "/women/watches/smart-watches/?csa=shopWomenWatches",
     "Headline": "Watches",
     "Subline": "Timeless pieces",
-    "EventLabel": "NewA|Women|CW32Watches|ALL|NA"
+    "EventLabel": "NewA|Women|CW32Watches|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb1",
@@ -77,17 +84,19 @@
     "Exit Url": "/women/velvet/?csa=velvet",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Velvet|ALL|NA"
+    "EventLabel": "BRA|Women|Velvet|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAPILLIONCLUTCH-JULY17-B1.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPSHOP-FEB17-B1.jpg",
     "Exit Url": "/women/topshop/?csa=topshop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Topshop|ALL|NA"
+    "EventLabel": "BRA|Women|Topshop|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb3",
@@ -97,7 +106,8 @@
     "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb4",
@@ -107,7 +117,8 @@
     "Exit Url": "/women/laneige/?csa=laneige",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Laneige|ALL|NA"
+    "EventLabel": "BRA|Women|Laneige|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb5",
@@ -117,7 +128,8 @@
     "Exit Url": "/women/vincci/?csa=vincci",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Vincci|ALL|NA"
+    "EventLabel": "BRA|Women|Vincci|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb6",
@@ -127,7 +139,8 @@
     "Exit Url": "/women/puma/?csa=puma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Puma|ALL|NA"
+    "EventLabel": "BRA|Women|Puma|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc1",
@@ -137,7 +150,8 @@
     "Exit Url": "/women/watches/special-price/",
     "Headline": "NA",
     "Subline": "SHOP WATCHES >",
-    "EventLabel": "SAL-CAT|Women|MSS17WATCHES|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|MSS17WATCHES|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc2",
@@ -147,7 +161,8 @@
     "Exit Url": "/women/bags/special-price/",
     "Headline": "NA",
     "Subline": "SHOP BAGS >",
-    "EventLabel": "SAL-CAT|Women|MSS17Bags|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|MSS17Bags|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc3",
@@ -157,7 +172,8 @@
     "Exit Url": "/women/shoes/special-price/",
     "Headline": "NA",
     "Subline": "SHOP SHOES >",
-    "EventLabel": "SAL-CAT|Women|MSS17Shoes|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|MSS17Shoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc4",
@@ -167,7 +183,8 @@
     "Exit Url": "/women/clothing/special-price/",
     "Headline": "NA",
     "Subline": "SHOP CLOTHING >",
-    "EventLabel": "SAL-CAT|Women|MSS17Clothing|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|MSS17Clothing|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc5",
@@ -177,7 +194,8 @@
     "Exit Url": "/women/sport/special-price/",
     "Headline": "NA",
     "Subline": "SHOP SPORTS >",
-    "EventLabel": "SAL-CAT|Women|MSS17Sports|ALL|NA"
+    "EventLabel": "SAL-CAT|Women|MSS17Sports|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mh1",
@@ -187,7 +205,8 @@
     "Exit Url": "/men/all-products/?age=0-30&csa=augnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Men\\augnewarrivals|ALL|NA"
+    "EventLabel": "NewA|Men\\augnewarrivals|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn1",
@@ -197,7 +216,8 @@
     "Exit Url": "/men/all-products/?brand=24-01--abercrombie-fitch--aldo--armani--birkenstock--bonds--boss--boss-green--boss-orange--burton-menswear-london--calvin-klein--casio--chaps--cluse--converse--cotton-on--daniel-wellington--dockers--dune-london--emporio-armani--esprit--fjallraven-kanken--fossil--fred-perry-green-label--french-connection--herschel--hugo-boss--jack-jones--jaxon--levis--life8--mango-man--obermain--penshoppe--pestle-mortar--ray-ban--river-island--skagen--sparrowgreen--stuhrling-original--timberland--tommy-hilfiger--topman--zalora&csa=highstreetbrands",
     "Headline": "High Street Brands",
     "Subline": "Blur the line between casual and dapper",
-    "EventLabel": "BRA|Men|Highstreetbrands|ALL|NA"
+    "EventLabel": "BRA|Men|Highstreetbrands|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn2",
@@ -207,7 +227,8 @@
     "Exit Url": "/men/sport/all-products/?discount=50-50&csa=cw32sprtswearupto50off",
     "Headline": "Sportswear at 50% Off",
     "Subline": "Shop Now",
-    "EventLabel": "SAL|Men|SportswearUpTo50Off|ALL|NA"
+    "EventLabel": "SAL|Men|SportswearUpTo50Off|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb1",
@@ -217,7 +238,8 @@
     "Exit Url": "/men/casio/?csa=casio",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Casio|ALL|NA"
+    "EventLabel": "BRA|Men|Casio|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb2",
@@ -227,7 +249,8 @@
     "Exit Url": "BRA|Men|Topman|ALL|NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "/men/topman/?csa=topman"
+    "EventLabel": "/men/topman/?csa=topman",
+    "": ""
   },
   {
     "Placement": "mfb3",
@@ -237,7 +260,8 @@
     "Exit Url": "/men/burton-menswear-london/?burtonmenswearlondon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|BurtonMenswear|ALL|NA"
+    "EventLabel": "BRA|Men|BurtonMenswear|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb4",
@@ -247,7 +271,8 @@
     "Exit Url": "/men/birkenstock/?csa=birkenstock",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Birkenstock|ALL|NA"
+    "EventLabel": "BRA|Men|Birkenstock|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb5",
@@ -257,7 +282,8 @@
     "Exit Url": "/men/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Fossil|ALL|NA"
+    "EventLabel": "BRA|Men|Fossil|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb6",
@@ -267,7 +293,8 @@
     "Exit Url": "/men/zalora/?csa=zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Zalora|ALL|NA"
+    "EventLabel": "BRA|Men|Zalora|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc1",
@@ -277,7 +304,8 @@
     "Exit Url": "/men/clothing/shirts/special-price/",
     "Headline": "NA",
     "Subline": "SHOP SHIRTS >",
-    "EventLabel": "SAL-CAT|Men|MSS17Shirts|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|MSS17Shirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc2",
@@ -287,7 +315,8 @@
     "Exit Url": "/men/watches/special-price/",
     "Headline": "NA",
     "Subline": "SHOP WATCHES >",
-    "EventLabel": "SAL-CAT|Men|MSS17WATCHES|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|MSS17WATCHES|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc3",
@@ -297,7 +326,8 @@
     "Exit Url": "/men/sport/special-price/",
     "Headline": "NA",
     "Subline": "SHOP SPORTS >",
-    "EventLabel": "SAL-CAT|Men|MSS17Sports|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|MSS17Sports|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc4",
@@ -307,7 +337,8 @@
     "Exit Url": "/men/shoes/sneakers-skate/special-price/",
     "Headline": "NA",
     "Subline": "SHOP SNEAKERS >",
-    "EventLabel": "SAL-CAT|Men|MSS17Sneakers|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|MSS17Sneakers|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc5",
@@ -317,7 +348,8 @@
     "Exit Url": "/men/clothing/pants/special-price/",
     "Headline": "NA",
     "Subline": "SHOP PANTS >",
-    "EventLabel": "SAL-CAT|Men|MSS17Pants|ALL|NA"
+    "EventLabel": "SAL-CAT|Men|MSS17Pants|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wh1",
@@ -327,7 +359,8 @@
     "Exit Url": "/women/all-products/?csa=ffw17paydayextendedvc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wn1",
@@ -337,7 +370,8 @@
     "Exit Url": "/women/sport/all-products/?discount=50-50&csa=cw32sports50off",
     "Headline": "Sports at 50% Off",
     "Subline": "Fashion-forward pieces for your workouts",
-    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP"
+    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP",
+    "": ""
   },
   {
     "Placement": "wn2",
@@ -347,7 +381,8 @@
     "Exit Url": "/women/shoes/?age=0-30&csa=cw32accessoriesnewarrivals",
     "Headline": "New Arrivals: Bags, Shoes and More",
     "Subline": "Why Blend In When You Can Stand Out?",
-    "EventLabel": "NewA|Women|CW32Accessories|ALL|NA"
+    "EventLabel": "NewA|Women|CW32Accessories|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc1",
@@ -357,7 +392,8 @@
     "Exit Url": "/women/watches/special-price/",
     "Headline": "NA",
     "Subline": "Watches",
-    "EventLabel": "CAT|Women|Watches|ALL|NA"
+    "EventLabel": "CAT|Women|Watches|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc2",
@@ -367,7 +403,8 @@
     "Exit Url": "/women/clothing/fashion-tops/",
     "Headline": "NA",
     "Subline": "Tops",
-    "EventLabel": "CAT|Women|Tops|ALL|NA"
+    "EventLabel": "CAT|Women|Tops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mh1",
@@ -377,7 +414,8 @@
     "Exit Url": "/men/all-products/?csa=ffw17paydayextendedvc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "SAL|Men|Ffw17PaydayExtendedVcJULY20|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn1",
@@ -387,7 +425,8 @@
     "Exit Url": "/men/all-products/?brand=24-01--abercrombie-fitch--aldo--armani--birkenstock--bonds--boss--boss-green--boss-orange--burton-menswear-london--calvin-klein--casio--chaps--cluse--converse--cotton-on--daniel-wellington--dockers--dune-london--emporio-armani--esprit--fjallraven-kanken--fossil--fred-perry-green-label--french-connection--herschel--hugo-boss--jack-jones--jaxon--levis--life8--mango-man--obermain--penshoppe--pestle-mortar--ray-ban--river-island--skagen--sparrowgreen--stuhrling-original--timberland--tommy-hilfiger--topman--zalora&csa=highstreetbrands",
     "Headline": "High Street Brands",
     "Subline": "Blur the line between casual and dapper",
-    "EventLabel": "BRA|Men|Highstreetbrands|ALL|NA"
+    "EventLabel": "BRA|Men|Highstreetbrands|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn2",
@@ -397,7 +436,8 @@
     "Exit Url": "/men/sport/all-products/?discount=50-50&csa=cw32sprtswearupto50off",
     "Headline": "Sportswear at 50% Off",
     "Subline": "Shop Now",
-    "EventLabel": "SAL|Men|SportswearUpTo50Off|ALL|NA"
+    "EventLabel": "SAL|Men|SportswearUpTo50Off|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc1",
@@ -407,7 +447,8 @@
     "Exit Url": "/men/clothing/t-shirts/",
     "Headline": "NA",
     "Subline": "T-Shirts",
-    "EventLabel": "CAT|Men|Tshirt|ALL|NA"
+    "EventLabel": "CAT|Men|Tshirt|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc2",
@@ -417,7 +458,8 @@
     "Exit Url": "/men/clothing/pants/",
     "Headline": "NA",
     "Subline": "Pants",
-    "EventLabel": "CAT|Men|Pants|ALL|NA"
+    "EventLabel": "CAT|Men|Pants|ALL|NA",
+    "": ""
   },
   {
     "Placement": "uh1",
@@ -427,7 +469,8 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Unisex|FFW17LastChanceUpTo18Off|ALL|NA"
+    "EventLabel": "SAL|Unisex|FFW17LastChanceUpTo18Off|ALL|NA",
+    "": ""
   },
   {
     "Placement": "ub1",
@@ -437,7 +480,8 @@
     "Exit Url": "/topman-malaysia/",
     "Headline": "TOPMAN",
     "Subline": "New Arrivals",
-    "EventLabel": "20170220|MY|DSK|MS|Homepage|Row-1-1"
+    "EventLabel": "20170220|MY|DSK|MS|Homepage|Row-1-1",
+    "": ""
   },
   {
     "Placement": "ub2",
@@ -447,7 +491,8 @@
     "Exit Url": "/zalora/",
     "Headline": "ZALORA",
     "Subline": "Shop now",
-    "EventLabel": "BRA|Unisex|SS17Zalora|ALL|NA"
+    "EventLabel": "BRA|Unisex|SS17Zalora|ALL|NA",
+    "": ""
   },
   {
     "Placement": "ub3",
@@ -457,7 +502,8 @@
     "Exit Url": "/women/mango",
     "Headline": "MANGO",
     "Subline": "Shop now",
-    "EventLabel": "BRA|Women|SS17Mango|ALL|NA"
+    "EventLabel": "BRA|Women|SS17Mango|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wb1",
@@ -467,7 +513,8 @@
     "Exit Url": "/women/mango/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|Women|SS17Mango|ALL|NA"
+    "EventLabel": "SAL-BRA|Women|SS17Mango|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wb2",
@@ -477,7 +524,8 @@
     "Exit Url": "/women/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|Women|SS17ZALORA|ALL|NA"
+    "EventLabel": "SAL-BRA|Women|SS17ZALORA|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wb3",
@@ -487,7 +535,8 @@
     "Exit Url": "/women/pazzion/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|PAZZION|ALL|NA"
+    "EventLabel": "BRA|Women|PAZZION|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wb4",
@@ -497,7 +546,8 @@
     "Exit Url": "/women/aldo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|Women|SS17ALDO|ALL|NA"
+    "EventLabel": "SAL-BRA|Women|SS17ALDO|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mb1",
@@ -507,7 +557,8 @@
     "Exit Url": "/men/ray-ban/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|SS17Rayban|ALL|NA"
+    "EventLabel": "BRA|Men|SS17Rayban|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mb2",
@@ -517,7 +568,8 @@
     "Exit Url": "/men/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|SS17ZALORA|ALL|NA"
+    "EventLabel": "BRA|Men|SS17ZALORA|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mb3",
@@ -527,7 +579,8 @@
     "Exit Url": "/men/mango-man",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|SS17MangoMan|ALL|NA"
+    "EventLabel": "BRA|Men|SS17MangoMan|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mb4",
@@ -537,7 +590,8 @@
     "Exit Url": "/men/hollister/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|SS17Hollister|ALL|NA"
+    "EventLabel": "BRA|Men|SS17Hollister|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mcu1",
@@ -547,7 +601,8 @@
     "Exit Url": "/men/clothing/t-shirts/?csa=keepitcool",
     "Headline": "Keep It Cool",
     "Subline": "Chill Out in Our Tees",
-    "EventLabel": "TRE|Men|keepitcool|ALL|NA"
+    "EventLabel": "TRE|Men|keepitcool|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mcu2",
@@ -557,7 +612,8 @@
     "Exit Url": "/men/clothing/shorts/?csa=beattheheat",
     "Headline": "Beat the Heat",
     "Subline": "Stay Cool with Shorts",
-    "EventLabel": "TRE|Men|beattheheat|ALL|NA"
+    "EventLabel": "TRE|Men|beattheheat|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mcu3",
@@ -567,7 +623,8 @@
     "Exit Url": "/men/all-products/watches/?csa=cw32watches",
     "Headline": "Dress Up with Watches",
     "Subline": "Shop from chronographs to smart watches",
-    "EventLabel": "TRE|Men|CW32Watches|ALL|NA"
+    "EventLabel": "TRE|Men|CW32Watches|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mcu4",
@@ -577,6 +634,7 @@
     "Exit Url": "/men/accessories/sunglasses/all-products/?csa=cw32sunglasses",
     "Headline": "Sun's Out",
     "Subline": "Equip Yourself with Sunglasses",
-    "EventLabel": "TRE|Men|CW32Sunglasses|ALL|NA"
+    "EventLabel": "TRE|Men|CW32Sunglasses|ALL|NA",
+    "": ""
   }
 ]
