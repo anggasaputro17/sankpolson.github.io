@@ -34,7 +34,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw32/N3_NEWARRIVALS_996x250-SportsFiftyOff-tw.jpg",
-    "Exit Url": "/women/sports/?discount=50-50",
+    "Exit Url": "/women/sports/?discount=0-50",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "CAT|Women|SportsFiftyOff|ALL|NA"
@@ -314,7 +314,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw32/N3_996x250-sportsfiftyoff-men-tw.jpg",
-    "Exit Url": "/men/sports/?discount=50-50",
+    "Exit Url": "/men/sports/?discount=0-50",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "CAT|Men|SportsFiftyOff|ALL|NA"
