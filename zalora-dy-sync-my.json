@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FW17-EXTENDEDPAYDAY20OFFSTOREWIDE-JULY17-W-HERO-DESKTOP-1.jpg",
-    "Exit Url": "/women/all-products/?csa=ffw17paydayextendedvc",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-AUGUST1-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?age=0-30&csa=cw32newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "NewA|Women|augnewarrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -73,31 +73,31 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RAYA17-LUBNA-B1.jpg",
-    "Exit Url": "/women/lubna/?csa=lubna",
+    "Image": "https://static-my.zacdn.com/cms/dy/VELVET-MAR17-B1.jpg",
+    "Exit Url": "/women/velvet/?csa=velvet",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Lubna|ALL|NA"
+    "EventLabel": "BRA|Women|Velvet|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/PAPILLIONCLUTCH-JULY17-B1.jpg",
-    "Exit Url": "/women/papillon-clutch/?csa=papillonclutch",
+    "Exit Url": "/women/topshop/?csa=topshop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|PapillonClutch|ALL|NA"
+    "EventLabel": "BRA|Women|Topshop|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/EYESCREAM-NOV16-B1-6.jpg",
-    "Exit Url": "/women/eyescream/?csa=eyescream",
+    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
+    "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Eyescream|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -113,21 +113,21 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RUBI-SEPT16-B1-6.jpg",
-    "Exit Url": "/women/rubi/?csa=rubi",
+    "Image": "https://static-my.zacdn.com/cms/dy/VINCCI-APR17-B1.jpg",
+    "Exit Url": "/women/vincci/?csa=vincci",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Rubi|ALL|NA"
+    "EventLabel": "BRA|Women|Vincci|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/evergage/BFCM16-RI-W-B1-6.jpg",
-    "Exit Url": "/women/river-island/?csa=riverisland",
+    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-W-B1.jpg",
+    "Exit Url": "/women/puma/?csa=puma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|RIVERISLAND|ALL|NA"
+    "EventLabel": "BRA|Women|Puma|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FW17-EXTENDEDPAYDAY20OFFSTOREWIDE-JULY17-M-HERO-DESKTOP-1.jpg",
-    "Exit Url": "/men/all-products/?csa=ffw17paydayextendedvc",
+    "Image": "https://static-my.zacdn.com/cms/cw32/SEGMENT_HERO_MOCKUP_996x500-men.jpg",
+    "Exit Url": "/men/all-products/?age=0-30&csa=augnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|Ffw17PaydayExtendedVcJULY20|ALL|NA"
+    "EventLabel": "NewA|Men\\augnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -213,51 +213,51 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-B1.jpg",
-    "Exit Url": "/men/nike/?csa=nike",
+    "Image": "https://static-my.zacdn.com/cms/dy/CASIO-FEB17-B1.jpg",
+    "Exit Url": "/men/casio/?csa=casio",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Nike|ALL|NA"
+    "EventLabel": "BRA|Men|Casio|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ADIDAS-JUNE17-N2-M-B1.jpg",
-    "Exit Url": "/men/adidas/?csa=adidas",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-FEB17-B1.jpg",
+    "Exit Url": "BRA|Men|Topman|ALL|NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Adidas|ALL|NA"
+    "EventLabel": "/men/topman/?csa=topman"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/UNDERARMOUR-MAR17-M-B1.jpg",
-    "Exit Url": "/men/under-armour/?csa=underarmour",
+    "Image": "https://static-my.zacdn.com/cms/dy/BURTON-MAR17-B1.jpg",
+    "Exit Url": "/men/burton-menswear-london/?burtonmenswearlondon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|UnderArmour|ALL|NA"
+    "EventLabel": "BRA|Men|BurtonMenswear|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-M-B1.jpg",
-    "Exit Url": "/men/puma/?csa=puma",
+    "Image": "https://static-my.zacdn.com/cms/dy/BIRKENSTOCK-JAN17-DESK-B1.jpg",
+    "Exit Url": "/men/birkenstock/?csa=birkenstock",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Puma|ALL|NA"
+    "EventLabel": "BRA|Men|Birkenstock|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/REEBOK-MAR17-B1.jpg",
-    "Exit Url": "/men/reebok/?csa=reebok",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSILQ-JUNE17-M-B1.jpg",
+    "Exit Url": "/men/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Reebok|ALL|NA"
+    "EventLabel": "BRA|Men|Fossil|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -330,6 +330,16 @@
     "EventLabel": "SAL|Women|Ffw17PaydayExtendedVcJULY20|ALL|NA"
   },
   {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/cw32/NCU1_SPORTSAT50OFF_620x420.jpg",
+    "Exit Url": "/women/sport/all-products/?discount=50-50&csa=cw32sports50off",
+    "Headline": "Sports at 50% Off",
+    "Subline": "Fashion-forward pieces for your workouts",
+    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP"
+  },
+  {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
@@ -368,16 +378,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|Ffw17PaydayExtendedVcJULY20|ALL|NA"
-  },
-  {
-    "Placement": "wn1",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/cw32/NCU1_SPORTSAT50OFF_620x420.jpg",
-    "Exit Url": "/women/sport/all-products/?discount=50-50&csa=cw32sports50off",
-    "Headline": "Sports at 50% Off",
-    "Subline": "Fashion-forward pieces for your workouts",
-    "EventLabel": "BRA|Women|SportsUpTo50off|ALL|ZAP"
   },
   {
     "Placement": "mn1",
@@ -423,11 +423,11 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://zstaticmy01-a.akamaihd.net/cms/cw32/HOMEPAGE_SPLASH_996x500-cw32-2017.jpg",
+    "Image": "https://zstaticmy01-a.akamaihd.net/cms/dy/FFW17-LASTCHANCEUPTO80OFF-JULY17-UNISEX-HOMEPAGE.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|AugustNewArrivals|ALL|NA"
+    "EventLabel": "SAL|Unisex|FFW17LastChanceUpTo18Off|ALL|NA"
   },
   {
     "Placement": "ub1",
@@ -564,9 +564,9 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUG17-CU3.jpg",
-    "Exit Url": "/men/all-products/watches/ ?csa=cw32watches",
-    "Headline": "New Arrivals",
-    "Subline": "Get them while they're fresh!",
+    "Exit Url": "/men/all-products/watches/?csa=cw32watches",
+    "Headline": "Dress Up with Watches",
+    "Subline": "Shop from chronographs to smart watches",
     "EventLabel": "TRE|Men|CW32Watches|ALL|NA"
   },
   {
@@ -574,9 +574,9 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/CW32-SUNGLASSES-AUG17-CU4.jpg",
-    "Exit Url": "/sunglasses/all-products/?csa=cw32sunglasses",
-    "Headline": "Shoes, watches and more",
-    "Subline": "Dress up your outfits with accessories!",
+    "Exit Url": "/men/accessories/sunglasses/all-products/?csa=cw32sunglasses",
+    "Headline": "Sun's Out",
+    "Subline": "Equip Yourself with Sunglasses",
     "EventLabel": "TRE|Men|CW32Sunglasses|ALL|NA"
   }
 ]
