@@ -1601,5 +1601,12 @@
     "Name": "Perch",
     "Image": "https://static-sg.zacdn.com/cms/june/cw27/LP_996x250-perch-women.jpg",
     "Copy": "NA"
-  }  
+  }, 
+  {
+    "System ID": "b4223",
+    "Gender": "men",
+    "Name": "Cr7",
+    "Image": "https://static-sg.zacdn.com/cms/august/cw32/CR7-AUGUST17-LP.jpg",
+    "Copy": ""
+  }
 ]
