@@ -73,31 +73,31 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/VELVET-MAR17-B1.jpg",
-    "Exit Url": "/women/velvet/?csa=velvet",
+    "Image": "https://static-my.zacdn.com/cms/dy/MISSSELFRIDGE-FEB17-B1.jpg",
+    "Exit Url": "/women/miss-selfridge/?csa=missselfridge",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Velvet|ALL|NA"
+    "EventLabel": "BRA|Women|MissSelfridge|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPSHOP-FEB17-B1.jpg",
-    "Exit Url": "/women/topshop/?csa=topshop",
+    "Image": "https://static-my.zacdn.com/cms/dy/LOVENGIFTS-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/lovengifts/?csa=lovengifts",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Topshop|ALL|NA"
+    "EventLabel": "BRA|Women|Lovengifts|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
+    "Image": "https://static-my.zacdn.com/cms/dy/SOMETHINGBORROWED-MAR17-B1.jpg",
+    "Exit Url": "/women/something-borrowed/?csa=somethingborrowed",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
+    "EventLabel": "BRA|Women|SomethingBorrowed|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -113,21 +113,21 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/VINCCI-APR17-B1.jpg",
-    "Exit Url": "/women/vincci/?csa=vincci",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOKICHOI-MAY17-ZAP-B1.jpg",
+    "Exit Url": "/women/tokichoi/?csa=tokichoi",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Vincci|ALL|NA"
+    "EventLabel": "BRA|Women|Tokichoi|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-W-B1.jpg",
-    "Exit Url": "/women/puma/?csa=puma",
+    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-W-B1.jpg",
+    "Exit Url": "/women/cotton-on/?csa=cottonon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Puma|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOn|ALL|NA"
   },
   {
     "Placement": "wc1",
