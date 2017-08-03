@@ -224,10 +224,10 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-FEB17-B1.jpg",
-    "Exit Url": "BRA|Men|Topman|ALL|NA",
+    "Exit Url": "/men/topman/?csa=topman",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "/men/topman/?csa=topman"
+    "EventLabel": "BRA|Men|Topman|ALL|NA"
   },
   {
     "Placement": "mfb3",
