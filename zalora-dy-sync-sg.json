@@ -3,41 +3,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HERO_996x500-AUGUSTARRIVAL-W.jpg",
-    "Exit Url": "/women/new-products/?csa=augustnewarrivals",
-    "Headline": "Celebrate With Singapore",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|AugustNewArrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-NEWINDRESSES-AUGUST17-HERO-2.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products/?csa=newindresses",
+    "Headline": "Definitive Dresses",
+    "Subline": "Your search for the perfect dress ends here.",
+    "EventLabel": "CAT|Women|NewInDresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420_MELISSA-ZAP-JULY17.jpg",
-    "Exit Url": "/women/melissa/?csa=melissa1awseventeen",
-    "Headline": "Melissa",
-    "Subline": "Shop fashion-forward footwear that’s big on design and comfort.",
-    "EventLabel": "BRA|Women|melissa1awseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ALDO-ZAP-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/odlo/?csa=odlo2ssseventeen",
+    "Headline": "Odlo",
+    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat.",
+    "EventLabel": "BRA|Women|odlo2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-SGNATIONALDAY.jpg",
-    "Exit Url": "/women/clothing/?cmpgn_one=sgnationalday&getSKU=TO412AA80RWLMY/?csa=sgnationalday",
-    "Headline": "Celebrate With Singapore",
-    "Subline": "Get SGD9 off red/white clothing with code AUG9OFF",
-    "EventLabel": "LOC|Women|SGNationalDay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
+    "Exit Url": "/women/clothing/?s=off+shoulder&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
+    "Headline": "Bare Your Shoulders",
+    "Subline": "Take on this classic selection of breathtaking off-shoulder clothing.",
+    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=wtfifteen&getSKU=TO412AA00NSXMY--TO412AA59GDKMY--TO412AA47NIMMY--DO816AA51PPWMY--DO816AA09UWCMY",
+    "Headline": "Great Selections at 15% Off",
+    "Subline": "On Miss Selfridge, Warehouse and other selected brands (min spend SGD120).",
+    "EventLabel": "SAL|women|wingtaimultibrand|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-junebackinstock-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=junebackinstock&getSKU=RI009AA94EKVMY",
-    "Headline": "Newly Restocked",
-    "Subline": "Your second chance to get the clothes and shoes you’ve always wanted.",
-    "EventLabel": "NA|Women|BackInStock|ALL|NA"
+    "Exit Url": "/women/shoes/?brand=dune-london--miss-kg--carvela-kg--public-desire--faith--vero-moda--missguided--lost-ink--selected-femme--only--river-island",
+    "Headline": "Fit For Your Feet",
+    "Subline": "Add a touch of British styling with shoes from Dune, Carvela and more.",
+    "EventLabel": "CAT|women|ukshoes|ALL|NA"
   },
   {
     "Placement": "wcu2",
@@ -54,10 +64,10 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-summergetaways-women.jpg",
-    "Exit Url": "/women/all-products/women/?cmpgn_one=maywevacay",
-    "Headline": "Summer Getaway",
-    "Subline": "All the style essentials you need to tackle your next holiday.",
-    "EventLabel": "TRE|Women|SummerGetaway|ALL|NA"
+    "Exit Url": "/women/clothing/tank-tops/?csa=cw33catpushsleevelsstops",
+    "Headline": "Feel the Breeze",
+    "Subline": "These sleeveless tops will give you the air of confidence you totally deserve.",
+    "EventLabel": "CAT|Women|CatPushSleevelssTops|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -73,351 +83,351 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-warehousecw30-women.jpg",
-    "Exit Url": "/warehouse-shop/?csa=warehousess17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FIORELLI-AUGUST17-B1.jpg",
+    "Exit Url": "/women/fiorelli/?csa=wbfiorelliss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|warehousess17|ALL|NA"
+    "EventLabel": "BRA|WB|wbfiorelliss17|ALL|NA|fiorelli"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-velvet-women.jpg",
-    "Exit Url": "/women/velvet/?csa=wvelvetandsbnewarrivals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/WAILIS-AUGUST17-B1.jpg",
+    "Exit Url": "/women/wallis/?csa=wcwallisss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|NA|wvelvetandsbnewarrivals|ALL|NA"
+    "EventLabel": "NewA|WC|wcwallisss17|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165.jpg",
-    "Exit Url": "/women/miss-selfridge/?csa=wcmissselfridgess17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PERCH-AUGUST17-B1.jpg",
+    "Exit Url": "/women/perch/?csa=perchssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
+    "EventLabel": "BRA|Women|perchssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-pumacw30-women.jpg",
-    "Exit Url": "/women/puma/?csa=puma",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ONLY-AUGUST17-B1.jpg",
+    "Exit Url": "/women/only/?sort=latest%20arrival&dir=desc&gender=women&enable_visual_sort=1&category_id=&brand=only&csa=onlyssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WSP|puma|ALL|NA"
+    "EventLabel": "BRA|Women|onlyssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1_322x165.jpg",
-    "Exit Url": "/women/folli-follie/?csa=follifolliessseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FURLA-JULY17-B1.jpg",
+    "Exit Url": "/women/furla/?csa=furlaawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|follifolliessseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|furlaawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/B1-6_322x165-somethingborrowed-women.jpg",
-    "Exit Url": "/women/something-borrowed/?csa=somethingborrowedss17",
+    "Image": "https://static-sg.zacdn.com/cms//DY/Aug17/DUNELONDON-JUNE17-B1-W-1.jpg",
+    "Exit Url": "/women/dune-london/?csa=duneawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|SomethingBorrowedSS17|ALL|NA"
+    "EventLabel": "BRA|Women|duneawseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/?csa=skirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_FLATS.jpg",
+    "Exit Url": "/women/shoes/flats/?csa=flats",
     "Headline": "NA",
-    "Subline": "Shop Skirts",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "Flats",
+    "EventLabel": "CAT|Women|flats|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_HEELS.jpg",
-    "Exit Url": "/women/shoes/heels/?csa=heels",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_SUNGLASSES.jpg",
+    "Exit Url": "/women/accessories/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=290&csa=sunglasses",
     "Headline": "NA",
-    "Subline": "Shop Heels",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "Sunglasses",
+    "EventLabel": "CAT|Women|sunglasses|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_DRESSES.jpg",
-    "Exit Url": "/women/clothing/dresses/?csa=dresses",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
     "Headline": "NA",
-    "Subline": "Shop Dresses",
-    "EventLabel": "CAT|Women|dressses|ALL|NA"
+    "Subline": "Playsuits & Jumpsuits",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_BRUSHES.jpg",
-    "Exit Url": "/women/beauty/all-products/?csa=beauty",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_BLOUSES.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=432&csa=blouses",
     "Headline": "NA",
-    "Subline": "Shop Beauty",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "Blouses",
+    "EventLabel": "CAT|Women|blouses|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_ACCESSORIES.jpg",
-    "Exit Url": "/women/accessories/?csa=accessories",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/300X198_BAGS_0526.jpg",
+    "Exit Url": "/women/bags/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=266&csa=slingbags",
     "Headline": "NA",
-    "Subline": "Shop Accessories",
-    "EventLabel": "CAT|Women|accessories|ALL|NA"
+    "Subline": "Sling Bags",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/SEGMENT_HERO_MOCKUP_996x500-AUGUSTARRIVAL-M.jpg",
-    "Exit Url": "/men/new-products/?csa=augustnewarrivals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CR7-AUGUST17-SEGMENT-HERO.jpg",
+    "Exit Url": "/men/cr7/?csa=cr7",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|AugustNewArrivals|ALL|NA"
+    "EventLabel": "BRA|Men|cR7|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N1_NEWARRIVALS_360x420-SGNATIONALDAY-N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sgnationalday&getSKU=MA224AA39YQESG/?csa=sgnationalday",
-    "Headline": "Celebrate With Singapore",
-    "Subline": "Get SGD9 off red/white clothing with code AUG9OFF (min spend SGD52).",
-    "EventLabel": "LOC|Men|SGNationalDay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ALDO-ZAP-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/odlo/?csa=odlo2ssseventeen",
+    "Headline": "Odlo",
+    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat.",
+    "EventLabel": "BRA|Men|odlo2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-SGCW32-N2.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman/?CSA=highstreetbrands",
-    "Headline": "High Street Edit",
-    "Subline": "Blur the line between casual and dapper with this range of fine clothing.",
-    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
+    "Headline": "Back to Basics",
+    "Subline": "Future-proof your wardrobe with these timeless essentials.",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-hugoboss-2.jpg",
-    "Exit Url": "/men/all-products/?brand=boss--boss-green--boss-orange&csa=mhugobosslaunch",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ABERCROMBIE&FITCH-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-rayban-1.jpg",
-    "Exit Url": "/men/ray-ban/?csa=raybanssseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HOLLISTER-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/hollister/?csa=hollisterawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|raybanssseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/NewBalanceMen_B_322x165.jpg",
-    "Exit Url": "/men/new-balance/?csa=newbalance",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/DUNELONDON-JUNE17-B1-M.jpg",
+    "Exit Url": "/women/dune-london/?csa=duneawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|duneawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165_converse-1.jpg",
-    "Exit Url": "/men/converse/?csa=conversamss",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ADIDAS-JUNE17-N2-M-B1.jpg",
+    "Exit Url": "/adidas-shop/?csa=adidassgssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "BRA|Men|adidassgssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-CK-1.jpg",
-    "Exit Url": "/men/calvin-klein/?csa=mcalvinkleinss17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/NIKE-NOV16-M-B1-6.jpg",
+    "Exit Url": "/nike-singapore/?csa=mnewarrivalsnikeaw16",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mcalvinkleinss17|ALL|NA|calvin-klein"
+    "EventLabel": "BRA|Men|mnewarrivalsnikeaw16|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/B1-6_322x165-abercrombie&fitch.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchlaunch",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ZALORA-MAR17-M-B1.jpg",
+    "Exit Url": "/men/zalora/?csa=zaloraSS17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchlaunch|ALL|NA"
+    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?csa=jeans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "Shop Jeans",
-    "EventLabel": "CAT|Men|jeans|ALL|NA"
+    "Subline": "Shop Sneakers",
+    "EventLabel": "CAT|men|sneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_WATCHES.jpg",
-    "Exit Url": "/men/watches/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_BACKPACKS.jpg",
+    "Exit Url": "/men/bags/backpacks/?csa=backpack",
     "Headline": "NA",
-    "Subline": "Shop Watches",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "Shop Backpack",
+    "EventLabel": "CAT|men|backpack|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_MENS_POLO_TSHIRT.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C3_375X500_MENS_HOODIES_SWEATSHIRTS.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodies",
     "Headline": "NA",
-    "Subline": "Shop Polo Shirts",
-    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
+    "Subline": "Shop Hoodies",
+    "EventLabel": "CAT|men|hoodies|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_LOAFERS_BOATSHOES.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=loafers",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_SUNGLASSES.jpg",
+    "Exit Url": "/accessories/sunglasses/all-products/?csa=sunglasses",
     "Headline": "NA",
-    "Subline": "Shop Loafers & Boat Shoes",
-    "EventLabel": "CAT|Men|loafers|ALL|NA"
+    "Subline": "Shop Sunglasses",
+    "EventLabel": "CAT|men|sunglasses|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_ACCESSORIES.jpg",
-    "Exit Url": "/men/accessories/?csa=wallets",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_ACCESSORIES.jpg",
+    "Exit Url": "/men/accessories/caps/?csa=caps",
     "Headline": "NA",
-    "Subline": "Shop Accessories",
-    "EventLabel": "CAT|Men|wallets|ALL|NA"
+    "Subline": "Shop Caps",
+    "EventLabel": "CAT|men|caps|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/MOBILEWEB_HERO_600x600_en-AUGUSTARRIVAL-W.jpg",
-    "Exit Url": "/women/new-products/?csa=augustnewarrivals",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|AugustNewArrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-NEWINDRESSES-AUGUST17-HERO-MOBILE.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products/?csa=newindresses",
+    "Headline": "Definitive Dresses",
+    "Subline": "Your search for the perfect dress ends here.",
+    "EventLabel": "CAT|Women|NewInDresses|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420_MELISSA-ZAP-JULY17.jpg",
-    "Exit Url": "/women/melissa/?csa=melissa1awseventeen",
-    "Headline": "Melissa",
-    "Subline": "Shop fashion-forward footwear that’s big on design and comfort.",
-    "EventLabel": "BRA|Women|melissa1awseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ALDO-ZAP-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/odlo/?csa=odlo2ssseventeen",
+    "Headline": "Odlo",
+    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat.",
+    "EventLabel": "BRA|Women|odlo2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-SGNATIONALDAY.jpg",
-    "Exit Url": "/women/clothing/?cmpgn_one=sgnationalday&getSKU=TO412AA80RWLMY/?csa=sgnationalday",
-    "Headline": "Celebrate With Singapore",
-    "Subline": "Get SGD9 off red/white clothing with code AUG9OFF",
-    "EventLabel": "LOC|Women|SGNationalDay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
+    "Exit Url": "/women/clothing/?s=off+shoulder&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
+    "Headline": "Bare Your Shoulders",
+    "Subline": "Take on this classic selection of breathtaking off-shoulder clothing.",
+    "EventLabel": "CAT|women|offshoulder|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/?csa=skirts",
-    "Headline": "Women C1",
-    "Subline": "Shop Skirts",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_FLATS.jpg",
+    "Exit Url": "/women/shoes/flats/?csa=flats",
+    "Headline": "NA",
+    "Subline": "Flats",
+    "EventLabel": "CAT|Women|flats|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_DRESSES.jpg",
-    "Exit Url": "/women/clothing/dresses/?csa=dresses",
-    "Headline": "Women C2",
-    "Subline": "Shop Dresses",
-    "EventLabel": "CAT|Women|dressses|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
+    "Headline": "NA",
+    "Subline": "Playsuits & Jumpsuits",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/tre0men0augustnewarrivals0all0na_men_600x600-MOBILEWEB_HERO.jpg",
-    "Exit Url": "/men/new-products/?csa=augustnewarrivals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CR7-AUGUST17-HERO-MOBILE.jpg",
+    "Exit Url": "/men/cr7/?csa=cr7",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|AugustNewArrivals|ALL|NA"
+    "EventLabel": "BRA|Men|cR7|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-N2_NEWARRIVALS_620x420-SGNATIONALDAY-N2-M.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sgnationalday&getSKU=MA224AA39YQESG/?csa=sgnationalday",
-    "Headline": "Celebrate With Singapore",
-    "Subline": "Get SGD9 off red/white clothing with code AUG9OFF (min spend SGD52).",
-    "EventLabel": "LOC|Men|SGNationalDay|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ALDO-ZAP-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/odlo/?csa=odlo2ssseventeen",
+    "Headline": "Odlo",
+    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat.",
+    "EventLabel": "BRA|Men|odlo2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-SGCW32-N2.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman/?CSA=highstreetbrands",
-    "Headline": "High Street Edit",
-    "Subline": "Blur the line between casual and dapper with this range of fine clothing.",
-    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
+    "Headline": "Back to Basics",
+    "Subline": "Future-proof your wardrobe with these timeless essentials.",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C1245_300X198_MENS_JEANS.jpg",
-    "Exit Url": "/men/clothing/jeans/?csa=jeans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_SNEAKERS.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "Shop Jeans",
-    "EventLabel": "CAT|Men|jeans|ALL|NA"
+    "Subline": "Shop Sneakers",
+    "EventLabel": "CAT|men|sneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/C3_375X500_MENS_POLO_TSHIRT.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_HOODIES_SWEATSHIRTS.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodies",
     "Headline": "NA",
-    "Subline": "Shop Polo Shirts",
-    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
+    "Subline": "Shop Hoodies",
+    "EventLabel": "CAT|men|hoodies|ALL|NA"
   },
   {
     "Placement": "uh1",
