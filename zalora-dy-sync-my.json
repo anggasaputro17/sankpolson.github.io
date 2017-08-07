@@ -194,7 +194,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/odlo/csa=odlo",
+    "Exit Url": "/men/odlo/?csa=odlo",
     "Headline": "Odlo",
     "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat",
     "EventLabel": "BRA|Men|Odlo|ALL|ZAP"
