@@ -2401,5 +2401,14 @@
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/Excusive_CR7_LP_996x250.jpg",
     "Gender": "Men",
     "Notes": "contains /cr7"
+  },
+  {
+    "Name": "Women Brand: benetton",
+    "System ID": "b3556",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_LP_N1_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /united-colors-of-benetton & contains /special-price"
   }
 ]
