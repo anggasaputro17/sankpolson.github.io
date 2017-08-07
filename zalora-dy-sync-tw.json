@@ -146,7 +146,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_FLATS.jpg",
     "Exit Url": "/women/shoes/flats/",
     "Headline": "NA",
-    "Subline": "選購 斜背包 >",
+    "Subline": "選購 平底鞋 >",
     "EventLabel": "CAT|Women|flats|ALL|NA"
   },
   {
@@ -154,9 +154,9 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_SUNGLASSES.jpg",
-    "Exit Url": "/women/accessories/sunglasses/",
+    "Exit Url": "/women/accessories/sunglasses/?csa=sunglasses",
     "Headline": "NA",
-    "Subline": "選購 上衣 >",
+    "Subline": "選購 太陽眼鏡 >",
     "EventLabel": "CAT|Women|sunglasses|ALL|NA"
   },
   {
@@ -176,17 +176,17 @@
     "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_BLOUSES.jpg",
     "Exit Url": "/women/clothing/blouses/",
     "Headline": "NA",
-    "Subline": "選購 太陽眼鏡 >",
+    "Subline": "選購 上衣 >",
     "EventLabel": "CAT|Women|blouses|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_FLATS.jpg",
-    "Exit Url": "/women/bags/sling-bags/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/300X198_BAGS_0526.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "選購 平底鞋 >",
+    "Subline": "選購 斜背包 >",
     "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
@@ -226,7 +226,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_FLATS.jpg",
     "Exit Url": "/women/shoes/flats/",
     "Headline": "NA",
-    "Subline": "選購 斜背包 >",
+    "Subline": "選購 平底鞋 >",
     "EventLabel": "CAT|Women|flats|ALL|NA"
   },
   {
