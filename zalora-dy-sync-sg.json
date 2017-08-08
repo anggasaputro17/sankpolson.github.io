@@ -154,7 +154,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_SUNGLASSES.jpg",
-    "Exit Url": "/women/accessories/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=290&csa=sunglasses",
+    "Exit Url": "/women/accessories/sunglasses/?csa=sunglasses",
     "Headline": "NA",
     "Subline": "Sunglasses",
     "EventLabel": "CAT|Women|sunglasses|ALL|NA"
@@ -314,7 +314,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_SUNGLASSES.jpg",
-    "Exit Url": "/accessories/sunglasses/all-products/?csa=sunglasses",
+    "Exit Url": "/men/accessories/sunglasses/?csa=sunglasses",
     "Headline": "NA",
     "Subline": "Shop Sunglasses",
     "EventLabel": "CAT|men|sunglasses|ALL|NA"
