@@ -283,11 +283,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/SEGMENT_HERO_996x500-cr7-cw33.jpg",
-    "Exit Url": "/men/cr7/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/SEGMENT_HERO_996x500-backtobasics-men.jpg",
+    "Exit Url": "/men/back-to-basics/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -303,11 +303,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-backtobasics-men.jpg",
-    "Exit Url": "/men/back-to-basics/",
-    "Headline": "回歸簡約",
-    "Subline": "永遠時尚之基本潮流單品",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-cr7.jpg",
+    "Exit Url": "/men/cr7/",
+    "Headline": "CR7",
+    "Subline": "率性單寧襯托你的時尚風格",
+    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
   },
   {
     "Placement": "mn3",
@@ -433,11 +433,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/MOBILEWEB_HERO_600x600-cr7-cw33.jpg",
-    "Exit Url": "/men/cr7/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/MOBILEWEB_HERO_600x600-backtobasics-men.jpg",
+    "Exit Url": "/men/back-to-basics/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -453,11 +453,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-backtobasics-men.jpg",
-    "Exit Url": "/men/back-to-basics/",
-    "Headline": "回歸簡約",
-    "Subline": "永遠時尚之基本潮流單品",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-cr7.jpg",
+    "Exit Url": "/men/cr7/",
+    "Headline": "CR7",
+    "Subline": "率性單寧襯托你的時尚風格",
+    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
