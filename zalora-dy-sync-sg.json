@@ -193,11 +193,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CR7-AUGUST17-SEGMENT-HERO.jpg",
-    "Exit Url": "/men/cr7/?csa=cr7",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_996x500-backtobasics.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cR7|ALL|NA"
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-cr7.jpg",
+    "Exit Url": "/men/cr7/?csa=cr7awseventeen",
+    "Headline": "CR7",
+    "Subline": "A perfect denim fit for every move you make.",
+    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -383,11 +383,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CR7-AUGUST17-HERO-MOBILE.jpg",
-    "Exit Url": "/men/cr7/?csa=cr7",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/MOBILEWEB_HERO_600x600-backtobasics.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cR7|ALL|NA"
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -403,11 +403,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-cr7.jpg",
+    "Exit Url": "/men/cr7/?csa=cr7awseventeen",
+    "Headline": "CR7",
+    "Subline": "A perfect denim fit for every move you make.",
+    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
