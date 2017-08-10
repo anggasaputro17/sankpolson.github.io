@@ -83,11 +83,11 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NOSE-AUGUST17-B1.jpg",
-    "Exit Url": "/women/nose/?csa=nose",
+    "Image": "https://static-my.zacdn.com/cms/dy/RI-MAR17-W-B1.jpg",
+    "Exit Url": "/women/river-island/?csa=riverisland",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|nose|ALL|NA"
+    "EventLabel": "BRA|Women|riverisland|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -103,11 +103,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/UNISA-JUNE17-B1.jpg",
-    "Exit Url": "/women/unisa/?csa=unisa",
+    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
+    "Exit Url": "/cotton-on-body-malaysia/?csa=cottononbody",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|unisa|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
   },
   {
     "Placement": "wfb5",
