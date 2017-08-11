@@ -2410,5 +2410,23 @@
     "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_LP_N1_996x250.jpg",
     "Gender": "Women",
     "Notes": "contains /women & contains /united-colors-of-benetton & contains /special-price"
+  },
+  {
+    "Name": "Brand: Prive Women",
+    "System ID": "b3648",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /prive-revaux & /women"
+  },
+  {
+    "Name": "Brand: Prive Men",
+    "System ID": "b3648",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /prive-revaux & /men"
   }
 ]
