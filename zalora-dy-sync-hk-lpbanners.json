@@ -112,7 +112,7 @@
     "System ID": "b1612",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_men_mango_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250-mangoapr11-men.jpg",
     "Gender": "Unisex",
     "Notes": "contains /mango-man"
   },
@@ -121,7 +121,7 @@
     "System ID": "b1565",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_women_mango_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_mango_0412.jpg",
     "Gender": "Unisex",
     "Notes": "contains /mango"
   },
@@ -139,7 +139,7 @@
     "System ID": "b1629",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-women-august8.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-women-june17.jpg",
     "Gender": "Women",
     "Notes": "contains /fossil & /women"
   },
@@ -148,7 +148,7 @@
     "System ID": "b1629",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-men-august8.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fossil-men-june17.jpg",
     "Gender": "Men",
     "Notes": "contains /fossil & /men"
   },
@@ -157,7 +157,7 @@
     "System ID": "b2652",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Skagen_augustLP_996x250-Women.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-skagen-june17.jpg",
     "Gender": "Men",
     "Notes": "contains /women & /skagen"
   },
@@ -166,7 +166,7 @@
     "System ID": "b2652",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Skagen_augustLP_996x250-Men.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-skagen-june17.jpg",
     "Gender": "Women",
     "Notes": "contains /men & /skagen"
   },
@@ -274,7 +274,7 @@
     "System ID": "b846",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/cw31/ghd_LP_996x250-v2-freepadpush.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_ghd_0412.jpg",
     "Gender": "Unisex",
     "Notes": "contains /ghd"
   },
@@ -1040,7 +1040,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-herschel-women-july17.jpg",
-    "Gender": "Women",
+    "Gender": "Men",
     "Notes": "contains /herschel & /women"
   },
   {
@@ -1049,7 +1049,7 @@
     "Copy": "NA",
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-herschel-men-july17.jpg",
-    "Gender": "Men",
+    "Gender": "Women",
     "Notes": "contains /herschel & /men"
   },
   {
@@ -1390,7 +1390,7 @@
     "System ID": "b2380",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPBanners/3172017_CIS_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-callitspring-may17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /call-it-spring"
   },
@@ -2389,7 +2389,7 @@
     "System ID": "b3314",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/cw31/LP_996x250-women-vacae-zap.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-vacae-june17.jpg",
     "Gender": "Unisex",
     "Notes": "contains /vacae"
   },
@@ -2400,10 +2400,10 @@
     "Language": "EN ZH",
     "Image": "https://static-hk.zacdn.com/cms/LPBanners/Excusive_CR7_LP_996x250.jpg",
     "Gender": "Men",
-    "Notes": "contains /cr7"
+    "Notes": "contains /men & contains /cr7"
   },
   {
-    "Name": "Women Brand: benetton",
+    "Name": "Women Brand: united-colors-of-benetton",
     "System ID": "b3556",
     "Copy": "NA",
     "Language": "EN ZH",
@@ -2428,5 +2428,14 @@
     "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
     "Gender": "Men",
     "Notes": "contains /prive-revaux & /men"
+  },
+  {
+    "Name": "Brand: Prive",
+    "System ID": "b3649",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /prive-revaux"
   }
 ]
