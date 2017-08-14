@@ -3,94 +3,84 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WINGTAIMULTIBRANDS150FF-AUGUST17-W-HERO-2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=cw33multibrand",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Women|CW33Multibrands|ALL|NA"
+    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/odlo/?csa=odlo",
-    "Headline": "Odlo",
-    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat",
-    "EventLabel": "BRA|Women|Odlo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ADDICTSANONYMOUS-AUGUST17-N1.jpg",
+    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous",
+    "Headline": "Addicts Anonymous",
+    "Subline": "Discover irresistible shoes that will keep you coming back for more",
+    "EventLabel": "BRA|Women|AddictsAnonymous|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
-    "Exit Url": "/women/clothing/?q=off+shoulder&classifier=false&SearchSuggest=true&gender=women&csa=offshoulder",
-    "Headline": "Bare your shoulders",
-    "Subline": "Shop the hottest pieces now",
-    "EventLabel": "NewA|Women|Offshoulder|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
+    "Headline": "Wondrous Workwear",
+    "Subline": "Turn your workplace into the perfect fashion runway.",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SHOES-AUGUST17-N2-CU1.jpg",
-    "Exit Url": "/women/shoes/?csa=shoes",
-    "Headline": "Shoes",
-    "Subline": "Shop Now",
-    "EventLabel": "NewA|WOMEN|Shoes|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKAWATCHES-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=merdekawatches&csa=merdekawatchesaugust17",
+    "Headline": "Watches",
+    "Subline": "Your favourite watches now at a lower price",
+    "EventLabel": "TRE|WOMEN|Watches|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW33-SKIRTS-AUGUST17-N1.jpg",
-    "Exit Url": "/women/clothing/skirts/?csa=skirts",
-    "Headline": "Skirts",
-    "Subline": "Must-have trends",
-    "EventLabel": "NewA|WOMEN|Skirts|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
+    "Headline": "Best of sportswear",
+    "Subline": "Selling fast !",
+    "EventLabel": "TRE|WOMEN|MerdekaSportswearAugust17|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SLEEVELESS-AUGUST17-N1-CU2.jpg",
-    "Exit Url": "/women/clothing/?q=sleeveless&classifier=false&SearchSuggest=true&gender=women&csa=sleeveless",
-    "Headline": "Sleeveless Tops",
-    "Subline": "Everyday wearable garments",
-    "EventLabel": "NewA|Women|Sleeveless|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKABAGS-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=merdekabagsandacc&csa=merdekabagsaugust17",
+    "Headline": "Is your perfect outfit missing something?",
+    "Subline": "Shop our bags now",
+    "EventLabel": "TRE|Women|MerdekaBagsAugust17|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUGUST1-W-CU4.jpg",
-    "Exit Url": "/women/watches/smart-watches/?csa=shopWomenWatches",
-    "Headline": "Watches",
-    "Subline": "Timeless pieces",
-    "EventLabel": "NewA|Women|Watches|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/RPLUPTO70OFF-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=cw34rpl2get20&csa=rplupto70offaugust17",
+    "Headline": "Up to 70% off",
+    "Subline": "Buy 2 get 20% off",
+    "EventLabel": "SAL|Women|RplUpTo70offAugust17|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FIORELLI-AUGUST17-B1.jpg",
-    "Exit Url": "/women/fiorelli/?csa=fiorelli",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPGIRL-AUGUST17-B1.jpg",
+    "Exit Url": "/women/top-girl/?csa=topgirl",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|fiorelli|ALL|NA"
+    "EventLabel": "BRA|Women|Topgirl|ALL|NA"
   },
   {
     "Placement": "wfb2",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RI-MAR17-W-B1.jpg",
-    "Exit Url": "/women/river-island/?csa=riverisland",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Women|riverisland|ALL|NA"
-  },
-  {
-    "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/PERCH-JUNE17-B1.jpg",
@@ -100,14 +90,24 @@
     "EventLabel": "BRA|Women|perch|ALL|NA"
   },
   {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/DUNELONDON-JUNE17-B1-W-1.jpg",
+    "Exit Url": "/women/dune-london/?csa=dunelondon",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|DUNELONDON|ALL|NA"
+  },
+  {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
-    "Exit Url": "/cotton-on-body-malaysia/?csa=cottononbody",
+    "Image": "https://static-my.zacdn.com/cms/dy/LEVISPAYDAY-MAY17-W-B1-1.jpg",
+    "Exit Url": "/women/levis/?sort=discount&dir=desc&csa=levis",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
+    "EventLabel": "BRA|Women|Levis|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/DUNELONDON-JUNE17-B1-W-1.jpg",
-    "Exit Url": "/women/dune-london/?csa=dunelondon",
+    "Image": "https://static-my.zacdn.com/cms/dy/DOROTHYPERKINS-APR17-B1.jpg",
+    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|DUNELONDON|ALL|NA"
+    "EventLabel": "BRA|Women|DorothyPerkins|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,71 +183,71 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOBASIC-AUGUST17-M-HERO-DESKTOP-2.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=men&enable_visual_sort=1&category_id=&brand=aldo--birkenstock--burton-menswear-london--cluse--fossil--herschel--jack-jones--jaxon--kenneth-cole-new-york--kg-kurt-geiger--ray-ban--river-island--sparrowgreen--superdry--zalora&csa=backtobasicaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|BackToBasicAugust17|ALL|NA"
+    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/odlo/?csa=odlo",
-    "Headline": "Odlo",
-    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat",
-    "EventLabel": "BRA|Men|Odlo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/RPLUPTO70OFF-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34rpl2get20&csa=rplupto70offaugust17",
+    "Headline": "Now up to 70% Off",
+    "Subline": "Buy 2 Get 20% Off",
+    "EventLabel": "SAL|Men|RplUpTo70off|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/CR7-AUGUST17-N2.jpg",
-    "Exit Url": "men/cr7/?csa=cr7",
-    "Headline": "CR7 by Cristiano Ronaldo",
-    "Subline": "A perfect denim fit for every move you make",
-    "EventLabel": "BRA|Men|Cr7|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BESTOFNEWARRIVALS-JULY17-N2-M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34menbest&csa=bestofnewarrivals",
+    "Headline": "Best of New Arrivals",
+    "Subline": "Stay ahead of the pack with our trendiest pieces",
+    "EventLabel": "BRA|Men|BestOfNewArrivalsAugust17|ALL|NA"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/WINGTAIMULTIBRANDS150FF-AUGUST17-M-N2-1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=cw33multibrand",
-    "Headline": "Get 15% Off with Min Spend RM350",
-    "Subline": "Use 'FIFTEEN' at Checkout",
-    "EventLabel": "TRE|Men|CW33Multibrands|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/LOAFERS-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/shoes/loafers/?csa=loafersaugust17",
+    "Headline": "Loafers",
+    "Subline": "Go from smart to casual effortlessly",
+    "EventLabel": "TRE|Men|LoafersAugust17|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTS-AUGUST17-M-CU2.jpg",
-    "Exit Url": "/men/sport/new-products/?csa=sports",
-    "Headline": "New in Sportswear",
-    "Subline": "Shop Our  New Arrivals",
-    "EventLabel": "NewA|Men|Sports|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
+    "Headline": "Best of sportswear",
+    "Subline": "Selling fast !",
+    "EventLabel": "TRE|WOMEN|MerdekaSportswearAugust17|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUG17-CU3.jpg",
-    "Exit Url": "/men/all-products/watches/?csa=cw32watches",
-    "Headline": "Dress Up with Watches",
-    "Subline": "Shop from chronographs to smart watches",
-    "EventLabel": "TRE|Men|Watches|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/JEANS-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/clothing/jeans&csa=jeans",
+    "Headline": "Denim Duty",
+    "Subline": "Fuss-free jeans for the modern man",
+    "EventLabel": "TRE|Men|DenimAugust17|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SUNGLASSES-AUG17-CU4.jpg",
-    "Exit Url": "/men/accessories/sunglasses/all-products/?csa=cw32sunglasses",
-    "Headline": "Sun's Out",
-    "Subline": "Equip Yourself with Sunglasses",
-    "EventLabel": "TRE|Men|Sunglasses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CU4-WATCHES.jpg",
+    "Exit Url": "/men/watches/all-products/?csa=watches",
+    "Headline": "Timeless pieces",
+    "Subline": "Upgrade your look with our must-have watches",
+    "EventLabel": "TRE|Men|WatchesAugust17|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -263,11 +263,11 @@
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-FEB17-B1.jpg",
-    "Exit Url": "/men/topman/?csa=topman",
+    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-PAYDAY-APR17-M-B1.jpg",
+    "Exit Url": "/men/levis/?csa=levis",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Topman|ALL|NA"
+    "EventLabel": "BRA|Men|Levis|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -283,21 +283,21 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/JAXON-AUGUST17-B1.jpg",
-    "Exit Url": "/men/jaxon/?csa=jaxon",
+    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-M-B1.jpg",
+    "Exit Url": "/men/timberland/?csa=timberland",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Jaxon|ALL|NA"
+    "EventLabel": "BRA|Men|Timberland|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-MAR17-M-B1.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=calvinklein",
+    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/mango-man/?csa=mango",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|CalvinKlein|ALL|NA"
+    "EventLabel": "BRA|Men|Mango|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/WINGTAIMULTIBRANDS150FF-AUGUST17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=cw33multibrand",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Women|CW33Multibrands|ALL|NA"
+    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/odlo/?csa=odlo",
-    "Headline": "Sports at 50% Off",
-    "Subline": "Fashion-forward pieces for your workouts",
-    "EventLabel": "BRA|Women|Odlo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
+    "Headline": "Wondrous Workwear",
+    "Subline": "Turn your workplace into the perfect fashion runway.",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
-    "Exit Url": "/women/clothing/?q=off+shoulder&classifier=false&SearchSuggest=true&gender=women&csa=offshoulder",
-    "Headline": "Bare your shoulders",
-    "Subline": "Shop the hottest pieces now",
-    "EventLabel": "NewA|Women|Offshoulder|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ADDICTANONYMOUS-JULY17-N2.jpg",
+    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous",
+    "Headline": "Addicts Anonymous",
+    "Subline": "Discover irresistible shoes that will keep you coming back for more",
+    "EventLabel": "BRA|Women|AddictsAnonymous|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOBASIC-AUGUST17-M-HERO-MOBILE-2.jpg",
-    "Exit Url": "/men/all-products/?sort=popularity&dir=desc&gender=men&enable_visual_sort=1&category_id=&brand=aldo--birkenstock--burton-menswear-london--cluse--fossil--herschel--jack-jones--jaxon--kenneth-cole-new-york--kg-kurt-geiger--ray-ban--river-island--sparrowgreen--superdry--zalora&csa=backtobasicaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|BackToBasicAugust17|ALL|NA"
+    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/odlo/?csa=odlo",
-    "Headline": "Odlo",
-    "Subline": "Run, lift and stretch towards your fitness goals without breaking a sweat",
-    "EventLabel": "BRA|Men|Odlo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/RPLUPTO70OFF-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34rpl2get20&csa=rplupto70offaugust17",
+    "Headline": "Now up to 70% Off",
+    "Subline": "Buy 2 Get 20% Off",
+    "EventLabel": "SAL|Men|RplUpTo70off|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "http://static-my.zacdn.com/cms/dy/CR7-AUGUST17-N2.jpg",
-    "Exit Url": "men/cr7/?csa=cr7",
-    "Headline": "CR7 by Cristiano Ronaldo",
-    "Subline": "A perfect denim fit for every move you make",
-    "EventLabel": "BRA|Men|Cr7|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BESTOFNEWARRIVALS-JULY17-N2-M.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34menbest&csa=bestofnewarrivals",
+    "Headline": "Best of New Arrivals",
+    "Subline": "Stay ahead of the pack with our trendiest pieces",
+    "EventLabel": "BRA|Men|BestOfNewArrivalsAugust17|ALL|NA"
   },
   {
     "Placement": "mc1",
