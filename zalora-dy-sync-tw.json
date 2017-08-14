@@ -163,11 +163,11 @@
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/C3_375X500_JUMPERS.jpg",
-    "Exit Url": "/women/clothing/jumpers-cardigans/?csa=jumperscardigans",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/C3_375X500_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
     "Headline": "NA",
-    "Subline": "選購 毛衣&針織外套 >",
-    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
+    "Subline": "選購 連身褲 >",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wc4",
@@ -233,11 +233,11 @@
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_JUMPERS.jpg",
-    "Exit Url": "/women/clothing/jumpers-cardigans/?csa=jumperscardigans",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_JUMPSUIT.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
     "Headline": "NA",
-    "Subline": "選購 毛衣&針織外套",
-    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
+    "Subline": "選購 連身褲 >",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wb1",
