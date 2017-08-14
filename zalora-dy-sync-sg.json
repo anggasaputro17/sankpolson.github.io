@@ -33,10 +33,10 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=rpl2for20off",
-    "Headline": "In-House Items Up to 70% Off",
-    "Subline": "Here’s a bonus: Buy two and enjoy an extra 20% off (selected items only).",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RPL70OFFBUY2GET20OFF-AUGUST17-WOMEN-N3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=rpl2for20off&csa=rpl70offbuy2get20off",
+    "Headline": "NA",
+    "Subline": "NA",
     "EventLabel": "NA|Women|rpl70offbuy2get20off|ALL|NA"
   },
   {
@@ -218,6 +218,16 @@
     "Headline": "Back to Basics",
     "Subline": "Future-proof your wardrobe with these timeless essentials.",
     "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RPL70OFFBUY2GET20OFF-AUGUST17-MEN-N3.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=rpl2for20off&csa=rpl70offbuy2get20off",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA|Men|rpl70offbuy2get20off|ALL|NA"
   },
   {
     "Placement": "mfb1",
