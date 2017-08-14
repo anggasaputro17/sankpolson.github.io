@@ -166,7 +166,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/C3_375X500_JUMPERS.jpg",
     "Exit Url": "/women/clothing/jumpers-cardigans/",
     "Headline": "NA",
-    "Subline": "選購 毛衣& 針織外套 >",
+    "Subline": "選購 毛衣&針織外套 >",
     "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
   },
   {
@@ -206,7 +206,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-addictsanonymous.jpg",
     "Exit Url": "/women/addicts-anonymous/",
     "Headline": "Addicts Anonymous",
-    "Subline": "回頭率百分百 你無法抗拒的時尚鞋款",
+    "Subline": "Addicts Anonymous <br> 回頭率百分百 你無法抗拒的時尚鞋款",
     "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
@@ -216,7 +216,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-offshoulder-cw33.jpg",
     "Exit Url": "/women/clothing/?s=露肩&classifier=false&getSKU=TF379AA76IQDMY",
     "Headline": "露肩時尚",
-    "Subline": "把握盛夏陽光 露肩系列展現妳的女性魅力",
+    "Subline": "露肩時尚 <br> 把握盛夏陽光 露肩系列展現妳的女性魅力",
     "EventLabel": "CAT|women|offshoulder|ALL|NA"
   },
   {
@@ -226,7 +226,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/sandals_women_300X198.jpg",
     "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "選購 涼鞋 >",
+    "Subline": "選購 涼鞋",
     "EventLabel": "CAT|Women|sandals|ALL|NA"
   },
   {
@@ -236,7 +236,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_JUMPERS.jpg",
     "Exit Url": "/women/clothing/jumpers-cardigans/",
     "Headline": "NA",
-    "Subline": "選購 毛衣& 針織外套 >",
+    "Subline": "選購 毛衣&針織外套",
     "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
   },
   {
@@ -446,7 +446,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-graphictshirts.jpg",
     "Exit Url": "/men/clothing/graphic-t-shirts/",
     "Headline": "個性T恤",
-    "Subline": "一件T恤輕鬆穿梭百種場合",
+    "Subline": "個性T恤 <br> 一件T恤輕鬆穿梭百種場合",
     "EventLabel": "NA|Men|graphictshirts|ALL|NA"
   },
   {
@@ -456,7 +456,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-backtobasics.jpg",
     "Exit Url": "/men/back-to-basics/",
     "Headline": "簡約回歸",
-    "Subline": "不退潮流之時尚基本準則",
+    "Subline": "簡約回歸 <br> 不退潮流之時尚基本準則",
     "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
@@ -466,7 +466,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
     "Exit Url": "/men/shoes/sandals-flip-flops/",
     "Headline": "NA",
-    "Subline": "選購 涼鞋及拖鞋 >",
+    "Subline": "選購 涼鞋及拖鞋",
     "EventLabel": "CAT|men|sandalsflipflops|ALL|NA"
   },
   {
@@ -476,7 +476,7 @@
     "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_SPORTS_men.jpg",
     "Exit Url": "/men/sports/",
     "Headline": "NA",
-    "Subline": "選購 男裝運動 >",
+    "Subline": "選購 男裝運動",
     "EventLabel": "CAT|men|sports|ALL|NA"
   },
   {
