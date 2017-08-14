@@ -34,7 +34,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw34/WOMEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/product-index/chinesevdaywclothing/?csa=chvday17staticPage",
+    "Exit Url": "/women/all-products/?cmpgn_one=chinesevdaywacc&csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
@@ -314,7 +314,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw34/MEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/product-index/chinesevdaymclothing/?csa=chvday17staticPage",
+    "Exit Url": "/men/accessories/?csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
