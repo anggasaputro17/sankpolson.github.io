@@ -3,21 +3,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/SEGMENT_HERO_996x500-NewInDresses.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_996x500.jpg",
+    "Exit Url": "/women/prive-revaux/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Women|NewInDresses|ALL|NA"
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N1_NEWARRIVALS_360x420-shorts-cw33.jpg",
-    "Exit Url": "/women/clothing/shorts/",
-    "Headline": "魅力短褲",
-    "Subline": "時尚短褲搭配上衣展現活力氣息",
-    "EventLabel": "CAT|women|shorts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N1_NEWARRIVALS_360x420-addictsanonymous.jpg",
+    "Exit Url": "/women/addicts-anonymous/",
+    "Headline": "Addicts Anonymous",
+    "Subline": "回頭率百分百 你無法抗拒的時尚鞋款",
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -33,11 +33,11 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N3_NEWARRIVALS_620x420-wingtaimultibrand-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=wttwenty&getSKU=TO412AA00NSXMY--TO412AA59GDKMY--TO412AA47NIMMY--DO816AA51PPWMY--DO816AA09UWCMY",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/WOMEN_N3_996x250-n3vday.jpg",
+    "Exit Url": "/product-index/chinesevdaywclothing/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|women|wingtaimultibrand|ALL|NA"
+    "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -83,16 +83,6 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-fiorelli.jpg",
-    "Exit Url": "/women/fiorelli/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|WB|wbfiorelliss17|ALL|NA|fiorelli"
-  },
-  {
-    "Placement": "wfb2",
-    "Gender": "women",
-    "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-dorothyperkins.jpg",
     "Exit Url": "/dorothy-perkins-taiwan/",
     "Headline": "NA",
@@ -100,17 +90,17 @@
     "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
-    "Placement": "wfb3",
+    "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-perch.jpg",
-    "Exit Url": "/women/perch/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-fiorelli.jpg",
+    "Exit Url": "/women/fiorelli/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|perchssseventeen|ALL|NA"
+    "EventLabel": "BRA|WB|wbfiorelliss17|ALL|NA|fiorelli"
   },
   {
-    "Placement": "wfb4",
+    "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-calvin-klein.jpg",
@@ -118,6 +108,16 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-perch.jpg",
+    "Exit Url": "/women/perch/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|perchssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -143,71 +143,71 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_FLATS.jpg",
-    "Exit Url": "/women/shoes/flats/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/sandals_women_300X198.jpg",
+    "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "選購 平底鞋 >",
-    "EventLabel": "CAT|Women|flats|ALL|NA"
+    "Subline": "選購 涼鞋 >",
+    "EventLabel": "CAT|Women|sandals|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_SUNGLASSES.jpg",
-    "Exit Url": "/women/accessories/sunglasses/?csa=sunglasses",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_SWIMWEAR.jpg",
+    "Exit Url": "/women/clothing/beachwear/",
     "Headline": "NA",
-    "Subline": "選購 太陽眼鏡 >",
-    "EventLabel": "CAT|Women|sunglasses|ALL|NA"
+    "Subline": "選購 泳裝及沙灘造型 >",
+    "EventLabel": "CAT|Women|beachwear|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C3_375X500_JUMPSUIT.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C3_375X500_JUMPERS.jpg",
+    "Exit Url": "/women/clothing/jumpers-cardigans/",
     "Headline": "NA",
-    "Subline": "選購 連身褲 >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "選購 毛衣& 針織外套 >",
+    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_BLOUSES.jpg",
-    "Exit Url": "/women/clothing/blouses/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_SPORTS.jpg",
+    "Exit Url": "/women/sports/",
     "Headline": "NA",
-    "Subline": "選購 上衣 >",
-    "EventLabel": "CAT|Women|blouses|ALL|NA"
+    "Subline": "選購 女裝運動 >",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/300X198_BAGS_0526.jpg",
-    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_WATCHES.jpg",
+    "Exit Url": "/women/watches/all-products/",
     "Headline": "NA",
-    "Subline": "選購 斜背包 >",
-    "EventLabel": "CAT|Women|slingbags|ALL|NA"
+    "Subline": "選購 女裝手錶 >",
+    "EventLabel": "CAT|Women|watches|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/MOBILEWEB_HERO_600x600-NewInDresses.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_600x600.jpg",
+    "Exit Url": "/women/prive-revaux/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Women|NewInDresses|ALL|NA"
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-shorts-cw33.jpg",
-    "Exit Url": "/women/clothing/shorts/",
-    "Headline": "魅力短褲",
-    "Subline": "時尚短褲搭配上衣展現活力氣息",
-    "EventLabel": "CAT|women|shorts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-addictsanonymous.jpg",
+    "Exit Url": "/women/addicts-anonymous/",
+    "Headline": "Addicts Anonymous",
+    "Subline": "回頭率百分百 你無法抗拒的時尚鞋款",
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
@@ -223,21 +223,21 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_FLATS.jpg",
-    "Exit Url": "/women/shoes/flats/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/sandals_women_300X198.jpg",
+    "Exit Url": "/women/shoes/sandals/",
     "Headline": "NA",
-    "Subline": "選購 平底鞋 >",
-    "EventLabel": "CAT|Women|flats|ALL|NA"
+    "Subline": "選購 涼鞋 >",
+    "EventLabel": "CAT|Women|sandals|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_JUMPSUIT.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_JUMPERS.jpg",
+    "Exit Url": "/women/clothing/jumpers-cardigans/",
     "Headline": "NA",
-    "Subline": "選購 連身褲 >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "選購 毛衣& 針織外套 >",
+    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
   },
   {
     "Placement": "wb1",
@@ -283,51 +283,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/SEGMENT_HERO_996x500-backtobasics-men.jpg",
-    "Exit Url": "/men/back-to-basics/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_996x500.jpg",
+    "Exit Url": "/men/prive-revaux/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N1_NEWARRIVALS_360x420-beattheheat-cw33.jpg",
-    "Exit Url": "/product-index/beattheheat/",
-    "Headline": "酷感十足",
-    "Subline": "對抗炎夏必備涼感服飾 出門也能保持優雅之姿",
-    "EventLabel": "TRE|Men|BeatTheHeat|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N1_NEWARRIVALS_360x420-graphictshirts.jpg",
+    "Exit Url": "/men/clothing/graphic-t-shirts/",
+    "Headline": "個性T恤",
+    "Subline": "一件T恤輕鬆穿梭百種場合",
+    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-cr7.jpg",
-    "Exit Url": "/men/cr7/",
-    "Headline": "CR7",
-    "Subline": "率性單寧襯托你的時尚風格",
-    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-backtobasics.jpg",
+    "Exit Url": "/men/back-to-basics/",
+    "Headline": "簡約回歸",
+    "Subline": "不退潮流之時尚基本準則",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/LP_996x250-wttwenty-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=wttwenty&getSKU=TO413AA79BVCMY--TO413AA63ZCQMY--TO413AA82RBDMY--TO413AA27FTCMY--TO413AA89BUSMY--TO413AA19HZCMY",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/MEN_N3_996x250-n3vday.jpg",
+    "Exit Url": "/product-index/chinesevdaymclothing/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|men|wingtaififten|ALL|NA"
+    "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_332x165-hollister-men.jpg",
-    "Exit Url": "/men/hollister/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-zalora.jpg",
+    "Exit Url": "/men/zalora/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "mfb2",
@@ -373,14 +373,44 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-zalora.jpg",
-    "Exit Url": "/men/zalora/",
+    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_332x165-hollister-men.jpg",
+    "Exit Url": "/men/hollister/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
+    "Headline": "NA",
+    "Subline": "選購 涼鞋及拖鞋 >",
+    "EventLabel": "CAT|men|sandalsflipflops|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_MENS_SWIMWEAR.jpg",
+    "Exit Url": "/men/clothing/beachwear/",
+    "Headline": "NA",
+    "Subline": "選購 泳褲及沙灘造型 >",
+    "EventLabel": "CAT|men|beachwear|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C3_375X500_SPORTS_men.jpg",
+    "Exit Url": "/men/sports/",
+    "Headline": "NA",
+    "Subline": "選購 男裝運動 >",
+    "EventLabel": "CAT|men|sports|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_MENS_SNEAKERS.jpg",
@@ -388,36 +418,6 @@
     "Headline": "NA",
     "Subline": "選購 休閒鞋 >",
     "EventLabel": "CAT|men|sneakers|ALL|NA"
-  },
-  {
-    "Placement": "mc2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_MENS_BACKPACKS.jpg",
-    "Exit Url": "/men/bags/backpacks/",
-    "Headline": "NA",
-    "Subline": "選購 後背包 >",
-    "EventLabel": "CAT|men|backpack|ALL|NA"
-  },
-  {
-    "Placement": "mc3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C3_375X500_MENS_HOODIES_SWEATSHIRTS.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/",
-    "Headline": "NA",
-    "Subline": "選購 連帽上衣及運動衫 >",
-    "EventLabel": "CAT|men|hoodies|ALL|NA"
-  },
-  {
-    "Placement": "mc4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_MENS_SUNGLASSES.jpg",
-    "Exit Url": "/men/accessories/sunglasses/",
-    "Headline": "NA",
-    "Subline": "選購 太陽眼鏡 >",
-    "EventLabel": "CAT|men|sunglasses|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -433,51 +433,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/MOBILEWEB_HERO_600x600-backtobasics-men.jpg",
-    "Exit Url": "/men/back-to-basics/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_600x600.jpg",
+    "Exit Url": "/men/prive-revaux/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-beattheheat-cw33.jpg",
-    "Exit Url": "/product-index/beattheheat/",
-    "Headline": "酷感十足",
-    "Subline": "對抗炎夏必備涼感服飾 出門也能保持優雅之姿",
-    "EventLabel": "TRE|Men|BeatTheHeat|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-graphictshirts.jpg",
+    "Exit Url": "/men/clothing/graphic-t-shirts/",
+    "Headline": "個性T恤",
+    "Subline": "一件T恤輕鬆穿梭百種場合",
+    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-cr7.jpg",
-    "Exit Url": "/men/cr7/",
-    "Headline": "CR7",
-    "Subline": "率性單寧襯托你的時尚風格",
-    "EventLabel": "BRA|Men|cr7awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-backtobasics.jpg",
+    "Exit Url": "/men/back-to-basics/",
+    "Headline": "簡約回歸",
+    "Subline": "不退潮流之時尚基本準則",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_MENS_SNEAKERS.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/",
     "Headline": "NA",
-    "Subline": "選購 休閒鞋 >",
-    "EventLabel": "CAT|men|sneakers|ALL|NA"
+    "Subline": "選購 涼鞋及拖鞋 >",
+    "EventLabel": "CAT|men|sandalsflipflops|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/C1245_300X198_MENS_HOODIES_SWEATSHIRTS.jpg",
-    "Exit Url": "/men/clothing/hoodies-sweatshirts/",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/C1245_300X198_SPORTS_men.jpg",
+    "Exit Url": "/men/sports/",
     "Headline": "NA",
-    "Subline": "選購 連帽上衣及運動衫 >",
-    "EventLabel": "CAT|men|hoodies|ALL|NA"
+    "Subline": "選購 男裝運動 >",
+    "EventLabel": "CAT|men|sports|ALL|NA"
   },
   {
     "Placement": "mb1",
@@ -543,20 +543,20 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw32/SEGMENT_HERO_326x304-electrifyingcolors.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=electrifyingcolours&getSKU=RI009SH68XPZMY--FU839US18HEBMY",
-    "Headline": "元氣色調",
-    "Subline": "充滿活力的繽紛色彩 大膽擁抱熱力夏天",
-    "EventLabel": "TRE|Women|ElectrifyingColours|Women|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HEADER_326x304-workwearedit-womens.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY",
+    "Headline": "致勝職場穿搭",
+    "Subline": "讓辦公室成為絕佳時裝伸展台",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw32/MEN_HIGHSTREET_ONSITE_TEMPLATES_326X304.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--french-connection--jack-jones--mango-man--new-look--river-island--superdry--topman",
-    "Headline": "高街之最",
-    "Subline": "英倫高街品牌完美融合街頭感與紳士風",
-    "EventLabel": "NA|Men|HighStreetBrands|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HEADER_326x304-backtobasics.jpg",
+    "Exit Url": "/men/back-to-basics/",
+    "Headline": "簡約回歸",
+    "Subline": "不退潮流之時尚基本準則",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   }
 ]
