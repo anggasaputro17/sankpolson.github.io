@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_996x500.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HERO_996x500-waugworkwear.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU= F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,18 +23,18 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-offshoulder-cw33.jpg",
-    "Exit Url": "/women/clothing/?s=露肩&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
-    "Headline": "露肩時尚",
-    "Subline": "把握盛夏陽光 露肩系列展現妳的女性魅力",
-    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Prive Revaux",
+    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw34/WOMEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=chinesevdaywacc&csa=chvday17staticPage",
+    "Exit Url": "/women/chinesevday/?csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
@@ -193,11 +193,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_600x600.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/MOBILEWEB_HERO_600x600-waugworkwear.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU= F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -213,11 +213,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/N2_NEWARRIVALS_620x420-offshoulder-cw33.jpg",
-    "Exit Url": "/women/clothing/?s=露肩&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
-    "Headline": "露肩時尚",
-    "Subline": "露肩時尚 <br> 把握盛夏陽光 露肩系列展現妳的女性魅力",
-    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Prive Revaux",
+    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -283,11 +283,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_996x500.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HERO_996x500-maugworkwear.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMY--CA221AC70DQNMY--A221AC58DQZMY&csa=augworkwear",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "EventLabel": "TRE|men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -303,18 +303,18 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-backtobasics.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "簡約回歸",
-    "Subline": "不退潮流之時尚基本準則",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Prive Revaux",
+    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
+    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw34/MEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/men/accessories/?csa=chvday17staticPage",
+    "Exit Url": "/men/chinesevday/?csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
@@ -433,11 +433,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/bra0women0priverevauxawseventeen0all0na_women_600x600.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw34/MOBILEWEB_HERO_600x600-maugworkwear.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMY--CA221AC70DQNMY--A221AC58DQZMY",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "EventLabel": "TRE|men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -533,11 +533,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw32/bags_shoes_women_ONSITE_TEMPLATES_326X304.jpg",
-    "Exit Url": "/product-index/nabagsshoes/?age=0-21&csa=AugNewArrivalsShoesBags",
-    "Headline": "新款女鞋與女包",
-    "Subline": "利用時尚美鞋與包包給造型重點",
-    "EventLabel": "TRE|Women|AugNewArrivalsShoesBags|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw34/homepage_bottom_banner_326x304-chvday.jpg",
+    "Exit Url": "/women/chinesevday/?csa=chvday17staticPage",
+    "Headline": "七夕特輯",
+    "Subline": "時尚配飾雕琢愛的細節",
+    "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "ub2",
