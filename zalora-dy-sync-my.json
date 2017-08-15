@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
+    "Headline": "Wondrous Workwear",
+    "Subline": "Turn your workplace into the perfect fashion runway.",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,11 +23,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
-    "Headline": "Wondrous Workwear",
-    "Subline": "Turn your workplace into the perfect fashion runway.",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-N2.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
+    "Headline": "Prive Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -46,7 +46,7 @@
     "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-W-N1.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
     "Headline": "Best of sportswear",
-    "Subline": "Selling fast !",
+    "Subline": "Selling fast!",
     "EventLabel": "TRE|WOMEN|MerdekaSportswearAugust17|ALL|NA"
   },
   {
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
+    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
+    "EventLabel": "BRA|Men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BESTOFNEWARRIVALS-JULY17-N2-M.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw34menbest&csa=bestofnewarrivals",
-    "Headline": "Best of New Arrivals",
-    "Subline": "Stay ahead of the pack with our trendiest pieces",
-    "EventLabel": "BRA|Men|BestOfNewArrivalsAugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-N2.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "mcu1",
@@ -363,21 +363,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
-  },
-  {
-    "Placement": "wn1",
-    "Gender": "women",
-    "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-W-N2.jpg",
     "Exit Url": "/women/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
     "Headline": "Wondrous Workwear",
     "Subline": "Turn your workplace into the perfect fashion runway.",
     "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-N2.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
+    "Headline": "Prive Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -413,11 +413,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
+    "Image": "https://static-my.zacdn.com/cms/dy/WORKWEAREDITS-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=workwearaugst&csa=workwearaugust17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
+    "EventLabel": "BRA|Men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -433,11 +433,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/BESTOFNEWARRIVALS-JULY17-N2-M.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw34menbest&csa=bestofnewarrivals",
-    "Headline": "Best of New Arrivals",
-    "Subline": "Stay ahead of the pack with our trendiest pieces",
-    "EventLabel": "BRA|Men|BestOfNewArrivalsAugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-N2.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priveravaux",
+    "Headline": "Wondrous Workwear",
+    "Subline": "Turn your workplace into the perfect fashion runway.",
+    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "mc1",
