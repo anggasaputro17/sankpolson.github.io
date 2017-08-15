@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP-2.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_996x500-augworkwear-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,17 +23,17 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
-    "Exit Url": "/women/clothing/?s=off+shoulder&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
-    "Headline": "Bare Your Shoulders",
-    "Subline": "Take on this classic selection of breathtaking off-shoulder clothing.",
-    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Privé Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RPL70OFFBUY2GET20OFF-AUGUST17-WOMEN-N3.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=rpl2for20off&csa=rpl70offbuy2get20off",
     "Headline": "NA",
     "Subline": "NA",
@@ -193,11 +193,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRIVEREVAUX-AUGUST17-M-HERO-DESKTOP-2.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_996x500-augworkwear-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMYCA221AC70DQNMY--CA221AC58DQZMY&csa=augworkwear",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Privé Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "mn3",
@@ -343,11 +343,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/MOBILEWEB_HERO_600x600-augworkwear-women.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -363,11 +363,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-OFFSHOULDER-AUGUST17-N2.jpg",
-    "Exit Url": "/women/clothing/?s=off+shoulder&classifier=false&getSKU=TF379AA76IQDMY&csa=offshoulder",
-    "Headline": "Bare Your Shoulders",
-    "Subline": "Take on this classic selection of breathtaking off-shoulder clothing.",
-    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Privé Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -393,11 +393,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRIVEREVAUX-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/MOBILEWEB_HERO_600x600-augworkwear-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMYCA221AC70DQNMY--CA221AC58DQZMY&csa=augworkwear",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|men|augworkwear|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -413,11 +413,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW33-BACKTOBASIC-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
+    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
+    "Headline": "Privé Revaux",
+    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
+    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
