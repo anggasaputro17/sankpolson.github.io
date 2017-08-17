@@ -73,11 +73,11 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPGIRL-AUGUST17-B1.jpg",
-    "Exit Url": "/women/top-girl/?csa=topgirl",
+    "Image": "https://static-my.zacdn.com/cms/dy/SKIICNY-JAN17-B1.jpg",
+    "Exit Url": "/women/sk-ii/?csa=skii",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Topgirl|ALL|NA"
+    "EventLabel": "BRA|Women|SKII|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -103,11 +103,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVISPAYDAY-MAY17-W-B1-1.jpg",
-    "Exit Url": "/women/levis/?sort=discount&dir=desc&csa=levis",
+    "Image": "https://static-my.zacdn.com/cms/dy/RI-MAR17-W-B1.jpg",
+    "Exit Url": "/women/river-island/?csa=riverisland",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Levis|ALL|NA"
+    "EventLabel": "BRA|Women|RiverIsland|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/DOROTHYPERKINS-APR17-B1.jpg",
-    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins",
+    "Image": "https://static-my.zacdn.com/cms/dy/VINCCI-APR17-B1.jpg",
+    "Exit Url": "/women/vincci/?csa=vincci",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|DorothyPerkins|ALL|NA"
+    "EventLabel": "BRA|Women|Vincci|ALL|NA"
   },
   {
     "Placement": "wc1",
