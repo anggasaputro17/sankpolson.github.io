@@ -3,41 +3,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HERO_996x500-waugworkwear.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU= F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/SEGMENT_HERO_996x500-chvday17staticpage.jpg",
+    "Exit Url": "/women/chinesevday/?csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N1_NEWARRIVALS_360x420-addictsanonymous.jpg",
-    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
-    "Headline": "Addicts Anonymous",
-    "Subline": "回頭率百分百 你無法抗拒的時尚鞋款",
-    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N1_NEWARRIVALS_360x420-crystalmu.jpg",
+    "Exit Url": "/crystalmu/?csa=CrystalMu",
+    "Headline": "時尚星造型 : 穆熙妍",
+    "Subline": "為新世代的潮流追蹤者示範時尚穿搭、分享個人的風格觀點及單品穿搭技巧",
+    "EventLabel": "TRE|Women|CrystalMu|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_NEWARRIVALS_620x420-thinkpink.jpg",
+    "Exit Url": "/women/all-products/?color=粉紅色&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
+    "Headline": "粉紅狂想",
+    "Subline": "一窺時尚女人的粉紅異想",
+    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/WOMEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/women/chinesevday/?csa=chvday17staticPage",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/LP_996x250-prettyinpunk.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=prettyinpunk&csa=prettyinpunk",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
+    "EventLabel": "TRE|Women|prettyinpunk|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -93,51 +93,51 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-fiorelli.jpg",
-    "Exit Url": "/women/fiorelli/?csa=wbfiorelliss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-zalora-women.jpg",
+    "Exit Url": "/women/zalora/?csa=ZaloraSS17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WB|wbfiorelliss17|ALL|NA|fiorelli"
+    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-calvin-klein.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=wcalvinkleinss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-women-riverisland.jpg",
+    "Exit Url": "/river-island-taiwan/?csa=riverislandss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcalvinkleinss17|ALL|NA|calvin-klein"
+    "EventLabel": "BRA|Women|riverislandss17|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-perch.jpg",
-    "Exit Url": "/women/perch/?csa=perchssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-aldo-women.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|perchssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1_322X165-furla.jpg",
-    "Exit Url": "/women/furla/?csa=furlaawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-reebok-women.jpg",
+    "Exit Url": "/women/reebok/?csa=wspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|furlaawseventeen|ALL|NA"
+    "EventLabel": "RA|wsp|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-dunelondon.jpg",
-    "Exit Url": "/women/dune-london/?csa=duneawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-guess-women.jpg",
+    "Exit Url": "/women/guess/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|duneawseventeen|ALL|NA"
+    "EventLabel": "BRA|WB-WS|wb1wsguessss17|ALL|NA|guess"
   },
   {
     "Placement": "wc1",
@@ -193,31 +193,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/MOBILEWEB_HERO_600x600-waugworkwear.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU= F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/MOBILEWEB_HERO_600x600-chvday17staticpage.jpg",
+    "Exit Url": "/women/chinesevday/?csa=chvday17staticPage",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "EventLabel": "RET|Women|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-addictsanonymous.jpg",
-    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
-    "Headline": "Addicts Anonymous",
-    "Subline": "Addicts Anonymous <br> 回頭率百分百 你無法抗拒的時尚鞋款",
-    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_NEWARRIVALS_620x420-crystalmu.jpg",
+    "Exit Url": "/crystalmu/?csa=CrystalMu",
+    "Headline": "時尚星造型 : 穆熙妍",
+    "Subline": "時尚星造型 : 穆熙妍 <br> 為新世代的潮流追蹤者示範時尚穿搭、分享個人的風格觀點及單品穿搭技巧",
+    "EventLabel": "TRE|Women|CrystalMu|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_NEWARRIVALS_620x420-thinkpink.jpg",
+    "Exit Url": "/women/all-products/?color=粉紅色&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
+    "Headline": "粉紅狂想",
+    "Subline": "一窺時尚女人的粉紅異想",
+    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -283,81 +283,81 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HERO_996x500-maugworkwear.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMY--CA221AC70DQNMY--A221AC58DQZMY&csa=augworkwear",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/SEGMENT_HERO_996x500-allnewarrival17.jpg",
+    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|men|augworkwear|ALL|NA"
+    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N1_NEWARRIVALS_360x420-graphictshirts.jpg",
-    "Exit Url": "/men/clothing/graphic-t-shirts/?csa=graphictshirts",
-    "Headline": "個性T恤",
-    "Subline": "一件T恤輕鬆穿梭百種場合",
-    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N1_NEWARRIVALS_360x420-superdry-men.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Headline": "SUPERDRY",
+    "Subline": "向眾人展現您的風格魅力",
+    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-priverevaux-cw34.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Prive Revaux",
-    "Subline": "名人熱愛設計師太陽眼鏡登陸ZALORA",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_620x420-chvdaymen.jpg",
+    "Exit Url": "/men/chinesevday/?csa=chvday17staticPage",
+    "Headline": "七夕特輯- 自主情人",
+    "Subline": "嚴選服飾一展迷人紳士風度",
+    "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/MEN_N3_996x250-n3vday.jpg",
-    "Exit Url": "/men/chinesevday/?csa=chvday17staticPage",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N3_996x250-topbrands-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
+    "EventLabel": "SAL|Men|topbrands|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-zalora.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-abercrombie-fitch-men.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165_converse.jpg",
+    "Exit Url": "/men/converse/?csa=conversamss",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-zalora-men.jpg",
     "Exit Url": "/men/zalora/?csa=ZaloraSS17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
   },
   {
-    "Placement": "mfb2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-burton.jpg",
-    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon2ss17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
-  },
-  {
-    "Placement": "mfb3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-dunelondon-men.jpg",
-    "Exit Url": "/men/dune-london/?csa=duneawseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|duneawseventeen|ALL|NA"
-  },
-  {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B_322x165-newbalance-men.jpg",
-    "Exit Url": "/men/new-balance/?csa=newbalancessseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-casio-men.jpg",
+    "Exit Url": "/men/casio/?csa=casionewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA"
+    "EventLabel": "NewA|MW-WW|casionewarrivals|ALL|NA"
   },
   {
     "Placement": "mfb5",
@@ -373,11 +373,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_332x165-hollister-men.jpg",
-    "Exit Url": "/men/hollister/?csa=hollisterawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-topman.jpg",
+    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -433,31 +433,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/MOBILEWEB_HERO_600x600-maugworkwear.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMY--CA221AC70DQNMY--A221AC58DQZMY",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/MOBILEWEB_HERO_600x600-allnewarrival17.jpg",
+    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|men|augworkwear|ALL|NA"
+    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-graphictshirts.jpg",
-    "Exit Url": "/men/clothing/graphic-t-shirts/?csa=graphictshirts",
-    "Headline": "個性T恤",
-    "Subline": "個性T恤 <br> 一件T恤輕鬆穿梭百種場合",
-    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_NEWARRIVALS_620x420-superdry-men.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Headline": "SUPERDRY",
+    "Subline": "SUPERDRY <br> 向眾人展現您的風格魅力",
+    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/N2_NEWARRIVALS_620x420-backtobasics.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "簡約回歸",
-    "Subline": "簡約回歸 <br> 不退潮流之時尚基本準則",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/N2_620x420-chvdaymen.jpg",
+    "Exit Url": "/men/chinesevday/?csa=chvday17staticPage",
+    "Headline": "七夕特輯- 自主情人",
+    "Subline": "嚴選服飾一展迷人紳士風度",
+    "EventLabel": "RET|Men|chvday17staticPage|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -553,10 +553,10 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw34/SEGMENT_HEADER_326x304-backtobasics.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "簡約回歸",
-    "Subline": "不退潮流之時尚基本準則",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw35/homepage_bottom_banner_326x304-topbrands15off.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
+    "Headline": "熱賣品牌買2件享85折優惠",
+    "Subline": "現在就一起感受首選品牌魅力(限指定商品)",
+    "EventLabel": "SAL|Men|topbrands|ALL|NA"
   }
 ]
