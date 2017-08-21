@@ -3,41 +3,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_996x500-augworkwear-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
+    "Headline": "Season's Newest",
+    "Subline": "Our latest arrivals can now be yours to own.",
+    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ADDICTSANONYMOUS-AUGUST17-N1.jpg",
-    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
-    "Headline": "Addicts Anonymous",
-    "Subline": "Discover irresistible shoes that will keep you coming back for more.",
-    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/timberland/special-price/?csa=addictsanonymous1awseventeen&csa=timberland2ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle",
+    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Privé Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/THINKPINK-AUGUST17-N2.jpg",
+    "Exit Url": "/women/all-products/?color=pink&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
+    "Headline": "Think Pink",
+    "Subline": "Erase any second thoughts you may have about this feminine colour.",
+    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RPL70OFFBUY2GET20OFF-AUGUST17-WOMEN-N3.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=rpl2for20off&csa=rpl70offbuy2get20off",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA|Women|rpl70offbuy2get20off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PREETYINPUNK-AUGUST17-W-LP.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=prettyinpunk&csa=prettyinpunk",
+    "Headline": "Pretty in Punk",
+    "Subline": "Rock on with this season’s take on no-nonsense, attention-grabbing pieces.",
+    "EventLabel": "TRE|Women|prettyinpunk|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -83,61 +83,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/WAILIS-AUGUST17-B1.jpg",
-    "Exit Url": "/women/wallis/?csa=wcwallisss17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/DOROTHYPERKINS-APR17-B1.jpg",
+    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins2ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WC|wcwallisss17|ALL|NA"
+    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FIORELLI-AUGUST17-B1.jpg",
-    "Exit Url": "/women/fiorelli/?csa=wbfiorelliss17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ZALORA-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/zalora/?csa=ZaloraSS17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WB|wbfiorelliss17|ALL|NA|fiorelli"
+    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FOREVERNEW-AUGUST17-B1.jpg",
-    "Exit Url": "/women/forever-new/?csa=forevernewawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HCONNECT-AUGUST17-UNISEX-B1.jpg",
+    "Exit Url": "/women/h-connect/?csa=hconnectawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|forevernewawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|hconnectawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PERCH-AUGUST17-B1.jpg",
-    "Exit Url": "/women/perch/?csa=perchssseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ALDO-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|perchssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FURLA-JULY17-B1.jpg",
-    "Exit Url": "/women/furla/?csa=furlaawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/UNDERARMOUR-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/under-armour/?csa=underarmourawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|furlaawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|underarmourawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms//DY/Aug17/DUNELONDON-JUNE17-B1-W-1.jpg",
-    "Exit Url": "/women/dune-london/?csa=duneawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms//DY/Aug17/GUESS-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/guess/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|duneawseventeen|ALL|NA"
+    "EventLabel": "BRA|WB-WS|wb1wsguessss17|ALL|NA|guess"
   },
   {
     "Placement": "wc1",
@@ -163,11 +163,11 @@
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_JUMPERS.jpg",
-    "Exit Url": "/women/clothing/jumpers-and-cardigans/?csa=jumpercardigans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_JUMPSUIT.jpg",
+    "Exit Url": "women/clothing/playsuits-jumpsuits&csa=playsuits",
     "Headline": "NA",
-    "Subline": "Shop Jumpers and Cardigans",
-    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
+    "Subline": "Shop Playsuits & Jumpsuits",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wc4",
@@ -193,101 +193,101 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/SEGMENT_HERO_996x500-augworkwear-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMYCA221AC70DQNMY--CA221AC58DQZMY&csa=augworkwear",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|men|augworkwear|ALL|NA"
+    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/GRAPHICTSHIRTS-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/clothing/graphic-t-shirts/?csa=graphictshirts",
-    "Headline": "Statement Tees",
-    "Subline": "Extraordinary t-shirts you can’t help but wear for everyday occasions.",
-    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/timberland/special-price/?csa=timberland2ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
+    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Privé Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/POLOSHIRTS-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
+    "Headline": "Must-Have Polos",
+    "Subline": "Elevate your casual summer wardrobe in the easiest way possible.",
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RPL70OFFBUY2GET20OFF-AUGUST17-MEN-N3.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=rpl2for20off&csa=rpl70offbuy2get20off",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA|Men|rpl70offbuy2get20off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPBRRANDSBUY2GET150FF-AUGUST17-M-LP.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen/?csa=topbrands",
+    "Headline": "Buy 2 Get 15% Off",
+    "Subline": "Reward yourself by pairing your favourites (selected items only).",
+    "EventLabel": "SAL|Men|topbrands|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ABERCROMBIE&FITCH-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPMAN-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/topman/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HOLLISTER-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/hollister/?csa=hollisterawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CONVERSE-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/converse/?csa=conversamss",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/DUNELONDON-JUNE17-B1-M.jpg",
-    "Exit Url": "/women/dune-london/?csa=duneawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ZALORA-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/zalora/?csa=zaloraSS17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|duneawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ADIDAS-JUNE17-N2-M-B1.jpg",
-    "Exit Url": "/adidas-shop/?csa=adidassgssseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HCONNECT-AUGUST17-UNISEX-B1.jpg",
+    "Exit Url": "/men/h-connect/?csa=hconnectawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|adidassgssseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|hconnectawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/NIKE-NOV16-M-B1-6.jpg",
-    "Exit Url": "/nike-singapore/?csa=mnewarrivalsnikeaw16",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/UNDERARMOUR-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/under-armour/?csa=underarmourawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mnewarrivalsnikeaw16|ALL|NA"
+    "EventLabel": "BRA|Men|underarmourawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/ZALORA-MAR17-M-B1.jpg",
-    "Exit Url": "/men/zalora/?csa=zaloraSS17",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HERSCHEL-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -343,31 +343,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/MOBILEWEB_HERO_600x600-augworkwear-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC3304A5GS--CD038AAF4E82FCGS--MA193AC10BQZMY--B1CDASH0B9529AGS--EL474AC83OJWMY&csa=augworkwear",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
+    "Headline": "Season's Newest",
+    "Subline": "Our latest arrivals can now be yours to own.",
+    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ADDICTSANONYMOUS-AUGUST17-N2.jpg",
-    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
-    "Headline": "Addicts Anonymous",
-    "Subline": "Discover irresistible shoes that will keep you coming back for more.",
-    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/timberland/special-price/?csa=addictsanonymous1awseventeen&csa=timberland2ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle",
+    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
-    "Exit Url": "/women/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Privé Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Women|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/THINKPINK-AUGUST17-N2.jpg",
+    "Exit Url": "/women/all-products/?color=pink&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
+    "Headline": "Think Pink",
+    "Subline": "Erase any second thoughts you may have about this feminine colour.",
+    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -393,31 +393,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/MOBILEWEB_HERO_600x600-augworkwear-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=maugworkwear&getSKU=BU964AA10RTHMY--MA449AA86BRXMY--AB423AA63ZBOMYCA221AC70DQNMY--CA221AC58DQZMY&csa=augworkwear",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|men|augworkwear|ALL|NA"
+    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/GRAPHICTSHIRTS-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/clothing/graphic-t-shirts/?csa=graphictshirts",
-    "Headline": "Statement Tees",
-    "Subline": "Extraordinary t-shirts you can’t help but wear for everyday occasions.",
-    "EventLabel": "NA|Men|graphictshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/timberland/special-price/?csa=timberland2ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
+    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/N2_NEWARRIVALS_620x420-privelaunch.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevauxawseventeen",
-    "Headline": "Privé Revaux",
-    "Subline": "Step into the light with designer sunglasses worn by today's celebrities.",
-    "EventLabel": "BRA|Men|priverevauxawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/POLOSHIRTS-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
+    "Headline": "Must-Have Polos",
+    "Subline": "Elevate your casual summer wardrobe in the easiest way possible.",
+    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -453,11 +453,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/OFFSHOULDER-AUGUST17-UNISEX-BRANDS.jpg",
-    "Exit Url": "/women/clothing/?s=off+shoulder&classifier=false&getSKU=TF379AA76IQDMY",
-    "Headline": "Bare Your Shoulders",
-    "Subline": "Take on this classic selection of breathtaking off-shoulder clothing.",
-    "EventLabel": "CAT|women|offshoulder|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-SEGMENT-HEADER.jpg",
+    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
+    "Headline": "Latest And Greatest",
+    "Subline": "Make this season your best one yet.",
+    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
   },
   {
     "Placement": "ub2",
@@ -473,11 +473,11 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/BACKTOBASIC-AUGUST17-UNISEX-BRANDS.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPBRRANDSBUY2GET150FF-AUGUST17-M-SEGMENT-HEROES.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
+    "Headline": "Buy 2 Get 15% Off",
+    "Subline": "Reward yourself by pairing your favourites (selected items only)",
+    "EventLabel": "SAL|Men|topbrands|ALL|NA"
   },
   {
     "Placement": "wb1",
