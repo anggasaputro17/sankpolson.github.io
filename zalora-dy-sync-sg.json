@@ -164,7 +164,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_JUMPSUIT.jpg",
-    "Exit Url": "women/clothing/playsuits-jumpsuits&csa=playsuits",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
     "Headline": "NA",
     "Subline": "Shop Playsuits & Jumpsuits",
     "EventLabel": "CAT|Women|playsuits|ALL|NA"
@@ -224,7 +224,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPBRRANDSBUY2GET150FF-AUGUST17-M-LP.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen/?csa=topbrands",
+    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
     "Headline": "Buy 2 Get 15% Off",
     "Subline": "Reward yourself by pairing your favourites (selected items only).",
     "EventLabel": "SAL|Men|topbrands|ALL|NA"
