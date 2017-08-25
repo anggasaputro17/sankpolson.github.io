@@ -73,41 +73,41 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-PAYDAY-APR17-W-B1.jpg",
-    "Exit Url": "/women/levis/?csa=levis",
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-MAR17-W-B1-new.jpg",
+    "Exit Url": "/women/zalora/?csa=zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Levis|ALL|NA"
+    "EventLabel": "BRA|Women|Zalora|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-AUGUST17-B1.jpg",
-    "Exit Url": "/women/laneige/?csa=laneige",
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-MAR17-W-B1-1.jpg",
+    "Exit Url": "/women/calvin-klein/?csa=calvinklein",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Laneige|ALL|NA"
+    "EventLabel": "BRA|Women|CalvinKlein|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/YOCO-MAR17-B1.jpg",
-    "Exit Url": "/women/yoco/?csa=yoco",
+    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-W-B1.jpg",
+    "Exit Url": "/women/cotton-on/?csa=cottonon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Yoco|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOn|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NOSE-AUGUST17-B1.jpg",
-    "Exit Url": "/women/nose/?csa=nose",
+    "Image": "https://static-my.zacdn.com/cms/dy/DOROTHYPERKINS-APR17-B1.jpg",
+    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Nose|ALL|NA"
+    "EventLabel": "BRA|Women|dorothyperkins|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPSHOP-FEB17-B1.jpg",
-    "Exit Url": "/women/topshop/?csa=topshop",
+    "Image": "https://static-my.zacdn.com/cms/dy/SKIICNY-JAN17-B1.jpg",
+    "Exit Url": "/women/sk-ii/?csa=skii",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Topshop|ALL|NA"
+    "EventLabel": "BRA|Women|SkII|ALL|NA"
   },
   {
     "Placement": "wc1",
