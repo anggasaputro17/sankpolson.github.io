@@ -424,7 +424,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_WATCHES.jpg",
-    "Exit Url": "/men/watch/?csa=watches",
+    "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
     "Subline": "Shop Watches",
     "EventLabel": "CAT|Men|watches|ALL|NA"
