@@ -3,31 +3,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35NEWARRIVALS-AUGUST17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/new-products/?csa=cw35newarrivalsaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?csa=augustpaydayvcaugust18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|NewArrivalsAugust17|ALL|NA"
+    "EventLabel": "SAL|Women|AugustPayday|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKAACCESSORIES-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/accessories/all-products/?cmpgn_five=merdekabagsandacc&csa=cw35accessoriesupto96off",
-    "Headline": "Accessories",
-    "Subline": "Up to 96% off",
-    "EventLabel": "SAL|Women|Accessories|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/AZIRA-INTHEPINK-AUGUST17-N1.jpg",
+    "Exit Url": "/azira/?vc=azirashafinaz&csa=influencerazirashafinazaugust17",
+    "Headline": "Azira Shafinaz",
+    "Subline": "Azira Shafinaz curates her style with these hot new picks.",
+    "EventLabel": "TRE|Women|InfluencerAzira|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AZIRA-GOINGMONO-AUGUST17-N2.jpg",
-    "Exit Url": "/azira/?vc=azirashafinaz&csa=influencerazirashafinazaugust17",
-    "Headline": "Azira Shafinaz",
-    "Subline": "Azira Shafinaz curates her style with these hot new picks.",
-    "EventLabel": "TRE|Women|InfluencerAzira|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PENSHOPPE-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppe",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples",
+    "EventLabel": "BRA|Women|Penshoppe|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
@@ -44,7 +44,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASHOES-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/shoes/all-products/?cmpgn_five=merdekashoes&sort=popularity&dir=desc&gender=women&csa=cw35merdekahoesaugust17&enable_visual_sort=1&category_id=4",
+    "Exit Url": "/women/shoes/all-products/?cmpgn_five=merdekashoes&csa=cw35merdekahoesaugust17&enable_visual_sort=1&category_id=4",
     "Headline": "Hottest Shoes",
     "Subline": "Now at lower prices",
     "EventLabel": "TRE|WOMEN|MerdekaShoesAugust17|ALL|NA"
@@ -53,21 +53,21 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKABAGS-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=merdekabagsandacc&sort=popularity&dir=desc&gender=women&enable_visual_sort=1&category_id=829&csa=merdekabagsaugust17",
-    "Headline": "Is your perfect outfit missing something?",
-    "Subline": "Shop our bags now",
-    "EventLabel": "TRE|Women|MerdekaBags|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKAACCESSORIES-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/accessories/all-products/?cmpgn_five=merdekabagsandacc&csa=cw35accessoriesupto96off",
+    "Headline": "Accessories",
+    "Subline": "Up to 96% off",
+    "EventLabel": "SAL|Women|Accessories|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
-    "Headline": "Best of sportswear",
-    "Subline": "Selling fast!",
-    "EventLabel": "TRE|WOMEN|MerdekaSportswearAugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/FLORALFLAIR-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/clothing/?q=floral&classifier=false&SearchSuggest=true&gender=women&csa=floralflairaugust17",
+    "Headline": "Floral Flair",
+    "Subline": "Plant your love for blossoming prints and keep your wardrobe evergreen",
+    "EventLabel": "TRE|WOMEN|CW36FloralFlair|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -113,11 +113,11 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/UNDERARMOUR-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/under-armour/?csa=underarmour",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPSHOP-FEB17-B1.jpg",
+    "Exit Url": "/women/topshop/?csa=topshop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|UnderArmor|ALL|NA"
+    "EventLabel": "BRA|Women|Topshop|ALL|NA"
   },
   {
     "Placement": "wfb6",
@@ -183,81 +183,81 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35NEWARRIVALS-AUGUST17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/new-products/?csa=cw35newarrivalsaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?csa=augustpaydayvcaugust18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|NewArrivalsAugust17|ALL|NA"
+    "EventLabel": "SAL|Men|AugustPayday|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35SPORTS-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/sport/new-products/?sort=popularity&dir=desc&gender=men&enable_visual_sort=1&category_id=542&csa=cw35sportsaugust17",
-    "Headline": "Optimise Your Performance",
-    "Subline": "Shop the latest arrivals in sportswear",
-    "EventLabel": "TRE|Men|Cw35SportsAugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOTHECITY-AUGUST17-M-N1-CU2-CU3.jpg",
+    "Exit Url": "men/all-products/?cmpgn_one=cw36menbacktocity&csa=cw36menbacktocityaugust17",
+    "Headline": "Back to the City",
+    "Subline": "Get them Before They're Gone!",
+    "EventLabel": "TRE|Men|cw36menbacktocityaugust17|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35BUY2GET150FF-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=cw35men2get15off&csa=buy2get15offmarkdown",
-    "Headline": "Buy 2 For 15% Off",
-    "Subline": "Get them Before They're Gone!",
-    "EventLabel": "SAL|Men|Buy2Get15OffMarkdown|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PENSHOPPE-AUGUST17-M-N2-1.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppe",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples",
+    "EventLabel": "BRA|Men|Penshoppe|ALL|ZAP"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/CW35SHIRTS-AUGUST17-M-N2-CU1-CU4.jpg",
-    "Exit Url": "/men/clothing/shirts/?age=0-60&csa=cw35shirtsAugust17",
-    "Headline": "Shirts for Every Occasion",
-    "Subline": "Shop our latest arrivals now",
-    "EventLabel": "TRE|Men|cw35shirtsAugust17|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/LOAFERS-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/shoes/loafers/?csa=loafersaugust17",
+    "Headline": "Loafers",
+    "Subline": "Go from smart to casual effortlessly",
+    "EventLabel": "TRE|Men|LoafersAugust17|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35SUNGLASSES-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/accessories/sunglasses/all-products?age=0-60&csa=cw35sunglassesaugust17",
-    "Headline": "Sun's Out",
-    "Subline": "Shop our latest sunglasses",
-    "EventLabel": "TRE|Men|Sunglassesaugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
+    "Headline": "Best of sportswear",
+    "Subline": "Selling fast!",
+    "EventLabel": "TRE|MEN|MerdekaSportswearAugust17|ALL|N"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35SHOES-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=merdekashoes&csa=merdekashoesaugust17",
-    "Headline": "Essential Footwear",
-    "Subline": "Now at lower prices",
-    "EventLabel": "TRE|Men|Cw35merdekashoesaugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-WATCHES-AUG17-CU3.jpg",
+    "Exit Url": "/men/all-products/watches/?csa=cw32watches",
+    "Headline": "Dress Up with Watches",
+    "Subline": "Shop from chronographs to smart watches",
+    "EventLabel": "TRE|Men|Watches|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKAWATCHES-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=merdekawatches&csa=merdekawatchesaugust17",
-    "Headline": "Timeless pieces",
-    "Subline": "Your favourite watches now at a lower price",
-    "EventLabel": "BRA|Men|merdekawatchesaugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW32-SUNGLASSES-AUG17-CU4.jpg",
+    "Exit Url": "/men/accessories/sunglasses/all-products/?csa=cw32sunglasses",
+    "Headline": "Sun's Out",
+    "Subline": "Equip Yourself with Sunglasses",
+    "EventLabel": "TRE|Men|Sunglasses|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-MAR17-M-B1.jpg",
-    "Exit Url": "/men/superdry/?csa=superdry",
+    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-2FOR30OFF-ZAP-M-B1.jpg",
+    "Exit Url": "/men/esprit/?csa=esprit",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Superdry|ALL|NA"
+    "EventLabel": "BRA|Men|Esprit|ALL|NA"
   },
   {
     "Placement": "mfb2",
@@ -273,31 +273,31 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-NOV16-M-B1-6.jpg",
-    "Exit Url": "/men/nike/?csa=nike",
+    "Image": "https://static-my.zacdn.com/cms/dy/HOLLISTER-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/hollister/?csa=hollister",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Nike|ALL|NA"
+    "EventLabel": "BRA|Men|Hollister|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-M-B1.jpg",
-    "Exit Url": "/men/timberland/?csa=timberland",
+    "Image": "https://static-my.zacdn.com/cms/dy/BURTON-MAR17-B1.jpg",
+    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Timberland|ALL|NA"
+    "EventLabel": "BRA|Men|BurtonMenswearLondon|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/mango-man/?csa=mango",
+    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-M-B1.jpg",
+    "Exit Url": "/men/cotton-on/?csa=cottonon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Mango|ALL|NA"
+    "EventLabel": "BRA|Men|cottonon|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35NEWARRIVALS-AUGUST17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/new-products/?csa=cw35newarrivalsaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?csa=augustpaydayvcaugust18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|NewArrivalsAugust17|ALL|NA"
+    "EventLabel": "SAL|Women|AugustPayday|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKASPORTSWEAR-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=cw34bestsports&csa=cw34bestsportsaugust17",
-    "Headline": "Best of sportswear",
-    "Subline": "Selling fast!",
-    "EventLabel": "TRE|WOMEN|MerdekaSportswearAugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/AZIRA-INTHEPINK-AUGUST17-N2.jpg",
+    "Exit Url": "/azira/?vc=azirashafinaz&csa=influencerazirashafinazaugust17",
+    "Headline": "Azira Shafinaz",
+    "Subline": "Azira Shafinaz curates her style with these hot new picks.",
+    "EventLabel": "TRE|Women|InfluencerAzira|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35DRESSES-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/clothing/dresses/?category_id=25&s=wrap&q=wrap+dresses&classifier=false",
-    "Headline": "Wrap Dresses",
-    "Subline": "Shop the most versatile dress!",
-    "EventLabel": "TRE|WOMEN|WrapDresses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PENSHOPPE-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppe",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples",
+    "EventLabel": "BRA|Women|Penshoppe|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35NEWARRIVALS-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/new-products/?csa=cw35newarrivalsaugust17",
+    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?csa=augustpaydayvcaugust18",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|NewArrivalsAugust17|ALL|NA"
+    "EventLabel": "SAL|Men|AugustPayday|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35BUY2GET150FF-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=cw35men2get15off&csa=buy2get15offmarkdown",
-    "Headline": "Buy 2 For 15% Off",
+    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOTHECITY-AUGUST17-M-N2-CU1-CU4.jpg",
+    "Exit Url": "men/all-products/?cmpgn_one=cw36menbacktocity&csa=cw36menbacktocityaugust17",
+    "Headline": "Back to the City",
     "Subline": "Get them Before They're Gone!",
-    "EventLabel": "SAL|Men|Buy2Get15OffMarkdown|ALL|NA"
+    "EventLabel": "TRE|Men|cw36menbacktocityaugust17|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MERDEKAWATCHES-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=merdekawatches&csa=merdekawatchesaugust17",
-    "Headline": "Timeless pieces",
-    "Subline": "Your favourite watches now at a lower price",
-    "EventLabel": "BRA|Men|merdekawatchesaugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/PENSHOPPE-AUGUST17-M-N2-1.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppe",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples",
+    "EventLabel": "BRA|Men|Penshoppe|ALL|ZAP"
   },
   {
     "Placement": "mc1",
