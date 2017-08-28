@@ -3,41 +3,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "Season's Newest",
-    "Subline": "Our latest arrivals can now be yours to own.",
-    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RISEOFFALL-AUGUST17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
+    "Headline": "The Rise of Fall",
+    "Subline": "Step into this season with all the hero pieces you need.",
+    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/timberland/special-price/?csa=addictsanonymous1awseventeen&csa=timberland2ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/STRIPESWITHCRYSTAL-AUGUST17-W-N1.jpg",
+    "Exit Url": "/women/clothing/all-products/?q=stripes&sort=popularity&dir=desc&gender=women&category_id=3&csa=StripesWithCrystal",
+    "Headline": "Stripes Statement",
+    "Subline": "Bold or subtle, wide or narrow, these patterns are absolute must-haves.",
+    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/THINKPINK-AUGUST17-N2.jpg",
-    "Exit Url": "/women/all-products/?color=pink&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
-    "Headline": "Think Pink",
-    "Subline": "Erase any second thoughts you may have about this feminine colour.",
-    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-N2.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen&csa=penshoppeawseventeen",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear",
+    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PREETYINPUNK-AUGUST17-W-LP.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=prettyinpunk&csa=prettyinpunk",
-    "Headline": "Pretty in Punk",
-    "Subline": "Rock on with this season’s take on no-nonsense, attention-grabbing pieces.",
-    "EventLabel": "TRE|Women|prettyinpunk|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TAILORINGEDIT-AUGUST17-W-N3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=tailoringedit&csa=tailoringedits",
+    "Headline": "Tailoring Edit",
+    "Subline": "Go from desk to dinner with shapes and silhouettes that raise the bar.",
+    "EventLabel": "TRE|Women|tailoringedits|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -143,41 +143,41 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/sandals_women_300X198.jpg",
-    "Exit Url": "/women/shoes/sandals/?csa=sandals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_BAGS.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "Shops Sandals",
-    "EventLabel": "CAT|Women|sandals|ALL|NA"
+    "Subline": "Shops Slingbags",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_SWIMWEAR.jpg",
-    "Exit Url": "/women/clothing/beachwear/?csa=beachwear",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_ACCESSORIES.jpg",
+    "Exit Url": "/women/accessories/jewellery/?csa=jewellery",
     "Headline": "NA",
-    "Subline": "Shop Beachwear",
-    "EventLabel": "CAT|Women|beachwear|ALL|NA"
+    "Subline": "Shop Jewellery",
+    "EventLabel": "CAT|Women|jewellery|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_JUMPSUIT.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375x500_TOPS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "Shop Playsuits & Jumpsuits",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "Shop Tops",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_SPORTS.jpg",
-    "Exit Url": "/women/sports/sports-clothing/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_HEELS.jpg",
+    "Exit Url": "/women/shoes/heels/?csa=heels",
     "Headline": "NA",
-    "Subline": "Shop Sports",
-    "EventLabel": "CAT|Women|sports|ALL|NA"
+    "Subline": "Shop Heels",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
   },
   {
     "Placement": "wc5",
@@ -193,41 +193,41 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/URBANEXPOLRATION-AUGUST17-M-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=Backtocity",
+    "Headline": "Urban Exploration",
+    "Subline": "Venture into new style territory with this on-trend edit.",
+    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/timberland/special-price/?csa=timberland2ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/SPORTSPERFORMANCE-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sportsperformance&csa=sportsperformance",
+    "Headline": "Gear For The Game",
+    "Subline": "Conquer all workouts with your choice of sports performance wear.",
+    "EventLabel": "CAT|men|sportsperformance|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/POLOSHIRTS-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
-    "Headline": "Must-Have Polos",
-    "Subline": "Elevate your casual summer wardrobe in the easiest way possible.",
-    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples.",
+    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPBRRANDSBUY2GET150FF-AUGUST17-M-LP.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
-    "Headline": "Buy 2 Get 15% Off",
-    "Subline": "Reward yourself by pairing your favourites (selected items only).",
-    "EventLabel": "SAL|Men|topbrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRINTEDSHIRTS-AUGUST17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?q=printed+shirts&csa=printeshirts",
+    "Headline": "Prints and Patterns",
+    "Subline": "Pick a shirt or two and stand out from the crowd.",
+    "EventLabel": "TRE|Men|PrintedShirts|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -293,41 +293,41 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
-    "Exit Url": "/men/shoes/sandals-flip-flops/?csa=sandalsflipflop",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_WATCHES.jpg",
+    "Exit Url": "/men/watch/?csa=watches",
     "Headline": "NA",
-    "Subline": "Shop Sandals",
-    "EventLabel": "CAT|men|sandalsflipflops|ALL|NA"
+    "Subline": "Shop Watches",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_MENS_SWIMWEAR.jpg",
-    "Exit Url": "/men/clothing/beachwear/?csa=beachwear",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Sandals.jpg",
+    "Exit Url": "/men/shoes/sandals-flip-flops/?csa=sandals",
     "Headline": "NA",
-    "Subline": "Shop Beachwear",
-    "EventLabel": "CAT|men|beachwear|ALL|NA"
+    "Subline": "Shop Sandals",
+    "EventLabel": "CAT|Men|sandals|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375X500_SPORTS.jpg",
-    "Exit Url": "/men/sports/sports-clothing/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375x500_Tshirts.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
-    "Subline": "Shop Sports",
-    "EventLabel": "CAT|men|sports|ALL|NA"
+    "Subline": "Shop T-Shirts",
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_MENS_SNEAKERS.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Backpacks.jpg",
+    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
     "Headline": "NA",
-    "Subline": "Shop Sneakers",
-    "EventLabel": "CAT|men|sneakers|ALL|NA"
+    "Subline": "Shop Backpacks",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -343,101 +343,101 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "Season's Newest",
-    "Subline": "Our latest arrivals can now be yours to own.",
-    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RISEOFFALL-AUGUST17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
+    "Headline": "The Rise of Fall",
+    "Subline": "Step into this season with all the hero pieces you need.",
+    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/timberland/special-price/?csa=addictsanonymous1awseventeen&csa=timberland2ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Timberland - Extra 15% Off <br> Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/STRIPESWITHCRYSTAL-AUGUST17-W-N2.jpg",
+    "Exit Url": "/women/clothing/all-products/?q=stripes&sort=popularity&dir=desc&gender=women&category_id=3&csa=StripesWithCrystal",
+    "Headline": "Stripes Statement",
+    "Subline": "Bold or subtle, wide or narrow, these patterns are absolute must-haves.",
+    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/THINKPINK-AUGUST17-N2.jpg",
-    "Exit Url": "/women/all-products/?color=pink&getSKU=07D38AA5BBBFCDGS&csa=thinkpink",
-    "Headline": "Think Pink",
-    "Subline": "Think Pink <br> Erase any second thoughts you may have about this feminine colour.",
-    "EventLabel": "TRE|Women|thinkpink|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-N2.jpg",
+    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear",
+    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/sandals_women_300X198.jpg",
-    "Exit Url": "/women/shoes/sandals/?csa=sandals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_BAGS.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "Shops Sandals",
-    "EventLabel": "CAT|Women|sandals|ALL|NA"
+    "Subline": "Shops Slingbags",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_JUMPERS.jpg",
-    "Exit Url": "/women/clothing/jumpers-and-cardigans/?csa=jumpercardigans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_TOPS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "Shop Jumpers snd Cardigans",
-    "EventLabel": "CAT|Women|jumperscardigans|ALL|NA"
+    "Subline": "Shop Tops",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA|Men|fallnewarrival17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/URBANEXPOLRATION-AUGUST17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=Backtocity",
+    "Headline": "Urban Exploration",
+    "Subline": "Venture into new style territory with this on-trend edit.",
+    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TIMBERLAND-ZAP-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/timberland/special-price/?csa=timberland2ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Timberland - Extra 15% Off <br> Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/SPORTSPERFORMANCE-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sportsperformance&csa=sportsperformance",
+    "Headline": "Gear For The Game",
+    "Subline": "Conquer all workouts with your choice of sports performance wear.",
+    "EventLabel": "CAT|men|sportsperformance|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/POLOSHIRTS-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=poloshirts",
-    "Headline": "Must-Have Polos",
-    "Subline": "Must-Have Polos <br> Elevate your casual summer wardrobe in the easiest way possible.",
-    "EventLabel": "CAT|Men|poloshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen&csa=penshoppeawseventeen",
+    "Headline": "Penshoppe",
+    "Subline": "Beat the ordinary with a top-to-toe collection of streetwear staples.",
+    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_MENS_SANDALS_FLIPFLOPS.jpg",
-    "Exit Url": "/men/shoes/sandals-flip-flops/?csa=sandalsflipflops",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_WATCHES.jpg",
+    "Exit Url": "/men/watch/?csa=watches",
     "Headline": "NA",
-    "Subline": "Shop Sandals",
-    "EventLabel": "CAT|men|sandalsflipflops|ALL|NA"
+    "Subline": "Shop Watches",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_SPORTS-M.jpg",
-    "Exit Url": "/men/sports/sports-clothing/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Tshirts.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
-    "Subline": "Shop Sports",
-    "EventLabel": "CAT|men|sports|ALL|NA"
+    "Subline": "Shop T-Shirts",
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -463,21 +463,21 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/WORKWEAREDITS-AUGUST17-W-SEGMENT-HEADER.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=waugworkwear&getSKU=F20AEAAC33-CD038AAF4E82FCGSMA193AC10BQZMYB1CDASH0B9529AGS-EL474AC83OJWMY&csa=augworkwear",
-    "Headline": "Wondrous Workwear",
-    "Subline": "Turn your workplace into the perfect fashion runway.",
-    "EventLabel": "TRE|Women|augworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RISEOFFALL-AUGUST17-W-SEGMENT-HEADER.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
+    "Headline": "The Rise of Fall",
+    "Subline": "Step into this season with all the hero pieces you need.",
+    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPBRRANDSBUY2GET150FF-AUGUST17-M-SEGMENT-HEROES.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=topbrandsfifteen&csa=topbrands",
-    "Headline": "Buy 2 Get 15% Off",
-    "Subline": "Reward yourself by pairing your favourites (selected items only)",
-    "EventLabel": "SAL|Men|topbrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/URBANEXPOLRATION-AUGUST17-M-SEGMENT-HEADER.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=Backtocity",
+    "Headline": "Urban Exploration",
+    "Subline": "Venture into new style territory with this on-trend edit.",
+    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
   },
   {
     "Placement": "wb1",
