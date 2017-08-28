@@ -183,21 +183,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-M-HERO-DESKTOP-1.jpg",
-    "Exit Url": "/men/all-products/?csa=augustpaydayvcaugust18",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|AugustPayday|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOTHECITY-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "men/all-products/?cmpgn_one=cw36menbacktocity&csa=cw36menbacktocityaugust17",
+    "Headline": "Back to the City",
+    "Subline": "Get them Before They're Gone!",
+    "EventLabel": "TRE|Men|cw36menbacktocityaugust17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BACKTOTHECITY-AUGUST17-M-N1-CU2-CU3.jpg",
-    "Exit Url": "men/all-products/?cmpgn_one=cw36menbacktocity&csa=cw36menbacktocityaugust17",
-    "Headline": "Back to the City",
-    "Subline": "Get them Before They're Gone!",
-    "EventLabel": "TRE|Men|cw36menbacktocityaugust17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BUY2GET20OFF-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=cw36menbuy2get20&csa=cw36buy2get20offaugust17",
+    "Headline": "Buy 2 get 20% off",
+    "Subline": "Shop now",
+    "EventLabel": "TRE|Men|cw36buy2get20offaugust17|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -413,21 +413,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/AUGUSTPAYDAYVCAUGUST18-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?csa=augustpaydayvcaugust18",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|AugustPayday|ALL|NA"
-  },
-  {
-    "Placement": "mn1",
-    "Gender": "men",
-    "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/BACKTOTHECITY-AUGUST17-M-N2-CU1-CU4.jpg",
     "Exit Url": "men/all-products/?cmpgn_one=cw36menbacktocity&csa=cw36menbacktocityaugust17",
     "Headline": "Back to the City",
     "Subline": "Get them Before They're Gone!",
     "EventLabel": "TRE|Men|cw36menbacktocityaugust17|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/BUY2GET20OFF-AUGUST17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=cw36menbuy2get20&csa=cw36buy2get20offaugust17",
+    "Headline": "Buy 2 get 20% off",
+    "Subline": "Shop now",
+    "EventLabel": "TRE|Men|cw36buy2get20offaugust17|ALL|NA"
   },
   {
     "Placement": "mn2",
