@@ -33,11 +33,11 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35DRESSES-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/clothing/dresses/?category_id=25&s=wrap&q=wrap+dresses&classifier=false",
-    "Headline": "Wrap Dresses",
-    "Subline": "Shop the most versatile dress!",
-    "EventLabel": "TRE|WOMEN|WrapDresses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW35NEWARRIVALS-AUGUST17-W-N2-1.jpg",
+    "Exit Url": "/women/new-products/?csa=newarrivals",
+    "Headline": "New Arrivals",
+    "Subline": "Shop now",
+    "EventLabel": "NA|WOMEN|NewArrivals|ALL|NA"
   },
   {
     "Placement": "wcu2",
