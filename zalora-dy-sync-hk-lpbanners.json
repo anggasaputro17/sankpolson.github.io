@@ -2437,5 +2437,23 @@
     "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
     "Gender": "Unisex",
     "Notes": "contains /prive-revaux"
+  },
+  {
+    "Name": "Brand: missguided",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw36_missguided_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /missguided"
+  },
+  {
+    "Name": "Brand: goddiva",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw36_goddiva_LP_996X250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /goddiva"
   }
 ]
