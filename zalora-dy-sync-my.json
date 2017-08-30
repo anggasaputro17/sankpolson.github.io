@@ -73,21 +73,21 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-MAR17-W-B1-new.jpg",
-    "Exit Url": "/women/zalora/?csa=zalora",
+    "Image": "https://static-my.zacdn.com/cms/dy/RI-MAR17-W-B1.jpg",
+    "Exit Url": "/women/river-island/?csa=riverisland",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Zalora|ALL|NA"
+    "EventLabel": "BRA|Women|RiverIsland|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-MAR17-W-B1-1.jpg",
-    "Exit Url": "/women/calvin-klein/?csa=calvinklein",
+    "Image": "https://static-my.zacdn.com/cms/dy/HERJEWELLERY-AUGUST17-B1-1.jpg",
+    "Exit Url": "/women/her-jewellery/?csa=herjewewllery",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|CalvinKlein|ALL|NA"
+    "EventLabel": "BRA|Women|HerJewellery|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -103,21 +103,21 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/DOROTHYPERKINS-APR17-B1.jpg",
-    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins",
+    "Image": "https://static-my.zacdn.com/cms/dy/RUBI-SEPT16-B1-6.jpg",
+    "Exit Url": "/women/rubi/?csa=rubi",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkins|ALL|NA"
+    "EventLabel": "BRA|Women|Rubi|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPSHOP-FEB17-B1.jpg",
-    "Exit Url": "/women/topshop/?csa=topshop",
+    "Image": "https://static-my.zacdn.com/cms/dy/COB-NOV16-B1.jpg",
+    "Exit Url": "/women/cotton-on-body/?csa=cottononbody",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Topshop|ALL|NA"
+    "EventLabel": "BRA|Women|CottonOnBody|ALL|NA"
   },
   {
     "Placement": "wfb6",
