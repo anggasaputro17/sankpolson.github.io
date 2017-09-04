@@ -42,14 +42,14 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw36/cw36_women_en_N3_996x250.jpg",
-    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw36/cw36_women_zh_N3_996x250.jpg",
-    "ExitUrl": "/women/all-products/?cmpgn_one=tailoringedit&csa=tailoringedits",
-    "EventLabel": "TRE|Women|tailoringedits|ALL|NA",
-    "ENHeadline": "Tailoring Edit",
-    "ENSubline": "Go from desk to dinner with shapes and silhouettes that raise the bar.",
-    "ZHHeadline": "俐落剪裁",
-    "ZHSubline": "修身剪裁與俐落造型重塑新時代女性魅力"
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw37/N3_996x250-hdia-women-en.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw37/N3_996x250-hdila-women-zh.jpg",
+    "ExitUrl": "/women/how-do-i-look-asia/?csa=HDILA1MomJeans",
+    "EventLabel": "TRE|Women|HDILA1MomJeans|ALL|NA",
+    "ENHeadline": "NA",
+    "ENSubline": "NA",
+    "ZHHeadline": "NA",
+    "ZHSubline": "NA"
   },
   {
     "Placement": "wcu1",
