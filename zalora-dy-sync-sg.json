@@ -3,31 +3,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RISEOFFALL-AUGUST17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
-    "Headline": "The Rise of Fall",
-    "Subline": "Step into this season with all the hero pieces you need.",
-    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-OCCASIONWEAR-AUGUST17-W-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Headline": "Dressed to Wow",
+    "Subline": "Discover the occasion wear you need in your wardrobe now.",
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/STRIPESWITHCRYSTAL-AUGUST17-W-N1.jpg",
-    "Exit Url": "/women/clothing/all-products/?q=stripes&sort=popularity&dir=desc&gender=women&category_id=3&csa=StripesWithCrystal",
-    "Headline": "Stripes Statement",
-    "Subline": "Bold or subtle, wide or narrow, these patterns are absolute must-haves.",
-    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-benefit-women.jpg",
+    "Exit Url": "/women/benefit/?csa=benefitawseventeen",
+    "Headline": "Benefit",
+    "Subline": "Achieve flawless beauty with Benefit’s range of foolproof makeup products.",
+    "EventLabel": "BRA|Women|benefitawseventeen|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-penshoppe-women-v2.jpg",
-    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen&csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Bella Hadid leads the Generation Now campaign. Shop the collection here.",
-    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FLORALARMY-AUGUST17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=floralarmy&csa=floralarmy",
+    "Headline": "Floral Army",
+    "Subline": "March forth in military must-haves featuring our favourite floral details.",
+    "EventLabel": "TRE|Women|floralarmy|ALL|NA"
   },
   {
     "Placement": "wn3",
@@ -83,21 +83,21 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/DOROTHYPERKINS-APR17-B1.jpg",
-    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins2ssseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-B6-mds-women.jpg",
+    "Exit Url": "/women/goddiva/?csa=goddivaawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ZALORA-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/zalora/?csa=ZaloraSS17",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-mds-women.jpg",
+    "Exit Url": "/women/mdscollections/?csa=mdscollectionawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Women|mdscollectionawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -113,31 +113,31 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ALDO-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-timberland-women.jpg",
+    "Exit Url": "/women/timberland/?csa=timberland2ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|timberland2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/UNDERARMOUR-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/under-armour/?csa=underarmourawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-cis-women.jpg",
+    "Exit Url": "/women/call-it-spring/?csa=callitspringawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|underarmourawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms//DY/Aug17/GUESS-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/guess/?csa=wb1wsguessss17",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-puma-women.jpg",
+    "Exit Url": "/women/puma/?csa=puma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WB-WS|wb1wsguessss17|ALL|NA|guess"
+    "EventLabel": "BRA|Women|puma|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -193,101 +193,101 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/URBANEXPOLRATION-AUGUST17-M-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=Backtocity",
-    "Headline": "Urban Exploration",
-    "Subline": "Venture into new style territory with this on-trend edit.",
-    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-OCCASIONWEAR-AUGUST17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Headline": "Sartorial Perfection",
+    "Subline": "Be the man of the hour whether you’re at the boardroom or bar.",
+    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/SPORTSPERFORMANCE-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sportsperformanceaugust&csa=sportsperformance",
-    "Headline": "Gear For The Game",
-    "Subline": "Conquer all workouts with your choice of sports performance wear.",
-    "EventLabel": "CAT|men|sportsperformance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-SNEAKERS-AUGUST17-M-N1.jpg",
+    "Exit Url": "/men/shoes/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=413&csa=sneakers",
+    "Headline": "The Next Step",
+    "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
+    "EventLabel": "CAT|Men|Sneakers|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Cameron Dallas joins the Generation Now campaign. Shop here.",
-    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-esprit-men-cw37.jpg",
+    "Exit Url": "/men/esprit/?csa=espritawseventeen",
+    "Headline": "Esprit - Buy 2 Get 30% Off",
+    "Subline": "Upgrade your style with this limited time promotion on all men's items.",
+    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PRINTEDSHIRTS-AUGUST17-M-N3.jpg",
-    "Exit Url": "/men/all-products/?q=printed+shirts&csa=printeshirts",
-    "Headline": "Prints and Patterns",
-    "Subline": "Pick a shirt or two and stand out from the crowd.",
-    "EventLabel": "TRE|Men|PrintedShirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-SPEND100GET20OFF-AUGUST17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy100get20off",
+    "Headline": "Get 20% Off New Arrivals, Use Code 20NOW",
+    "Subline": "$100 minimum spend. For selected items only.",
+    "EventLabel": "SAL|Men|spend100get20off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/TOPMAN-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/topman/?csa=mcmamstopman17",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-burtonmenswear-men.jpg",
+    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon2ss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CONVERSE-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/converse/?csa=conversamss",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-timberland-men.jpg",
+    "Exit Url": "/men/timberland/?csa=timberland2ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "BRA|Men|timberland2ssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/ZALORA-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/zalora/?csa=zaloraSS17",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-levis-men.jpg",
+    "Exit Url": "/men/levis/?csa=levissgawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Men|levissgawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HCONNECT-AUGUST17-UNISEX-B1.jpg",
-    "Exit Url": "/men/h-connect/?csa=hconnectawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-riverisland-men.jpg",
+    "Exit Url": "/men/river-island/?csa=riverislandawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hconnectawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|riverislandawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/UNDERARMOUR-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/under-armour/?csa=underarmourawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-adidas-men.jpg",
+    "Exit Url": "/men/adidas/?csa=adidassgssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|underarmourawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|adidassgssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/HERSCHEL-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw37/B1-6_322x165-rayban-men.jpg",
+    "Exit Url": "/men/ray-ban/?csa=raybanssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|raybanssseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -343,31 +343,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/RISEOFFALL-AUGUST17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
-    "Headline": "The Rise of Fall",
-    "Subline": "Step into this season with all the hero pieces you need.",
-    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/tre0women0sepoccasion0all0na_women_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Headline": "Dressed to Wow",
+    "Subline": "Discover the occasion wear you need in your wardrobe now.",
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/STRIPESWITHCRYSTAL-AUGUST17-W-N2.jpg",
-    "Exit Url": "/women/clothing/all-products/?q=stripes&sort=popularity&dir=desc&gender=women&category_id=3&csa=StripesWithCrystal",
-    "Headline": "Stripes Statement",
-    "Subline": "Stripes Statement<br>Bold or subtle, wide or narrow, these patterns are absolute must-haves.",
-    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-benefit-women.jpg",
+    "Exit Url": "/women/benefit/?csa=benefitawseventeen",
+    "Headline": "Benefit",
+    "Subline": "Achieve flawless beauty with Benefit’s range of foolproof makeup products.",
+    "EventLabel": "BRA|Women|benefitawseventeen|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-N2.jpg",
-    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Penshoppe<br>Bella Hadid leads the Generation Now campaign. Shop the collection here.",
-    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FLORALARMY-AUGUST17-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=floralarmy&csa=floralarmy",
+    "Headline": "Floral Army",
+    "Subline": "Floral Army<br>March forth in military must-haves featuring our favourite floral details.",
+    "EventLabel": "TRE|Women|floralarmy|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -393,31 +393,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/URBANEXPOLRATION-AUGUST17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=Backtocity",
-    "Headline": "Urban Exploration",
-    "Subline": "Venture into new style territory with this on-trend edit.",
-    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/tre0men0sepoccasion0all0na_men_600x600.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Headline": "Sartorial Perfection",
+    "Subline": "Be the man of the hour whether you’re at the boardroom or bar.",
+    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/SPORTSPERFORMANCE-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sportsperformanceaugust&csa=sportsperformance",
-    "Headline": "Gear For The Game",
-    "Subline": "Gear For The Game<br>Conquer all workouts with your choice of sports performance wear.",
-    "EventLabel": "CAT|men|sportsperformance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-thenextstep-men-cw37.jpg",
+    "Exit Url": "/men/shoes/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=413&csa=sneakers",
+    "Headline": "The Next Step",
+    "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
+    "EventLabel": "CAT|Men|Sneakers|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/PENSHOPPE-ZAP-AUGUST17-M-N2.jpg",
-    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen&csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Penshoppe<br>Cameron Dallas joins the Generation Now campaign. Shop here.",
-    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-esprit-men-cw37.jpg",
+    "Exit Url": "/men/esprit/?csa=espritawseventeen",
+    "Headline": "Esprit - Buy 2 Get 30% Off",
+    "Subline": "Esprit - Buy 2 Get 30% Off",
+    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mc1",
@@ -453,11 +453,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FALLNEWARRIVAL-AUGUST17-W-SEGMENT-HEADER.jpg",
-    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "Latest And Greatest",
-    "Subline": "Make this season your best one yet.",
-    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw37/HOMEPAGE_BANNER_326x304-occasionwear.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Headline": "Dressed to Wow",
+    "Subline": "Discover the occasion wear you need in your wardrobe now.",
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "ub2",
