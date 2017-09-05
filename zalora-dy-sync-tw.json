@@ -3,31 +3,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/SEGMENT_HERO_996x500-falloutfit-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/SEGMENT_HERO_SLICED_996x500-sepoccasion.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N1_NEWARRIVALS_360x420-ucbzap-women.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "秋冬新款給你多樣選擇",
-    "EventLabel": "BRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-sisleyawseventeen-women.jpg",
+    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-penshoppe-new-women.jpg",
-    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "貝拉哈蒂德加入Generation Now活動. 立刻選購時尚系列",
-    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-stripeswithcrystal.jpg",
+    "Exit Url": "/women/clothing/?s=條紋&classifier=false&csa=StripesWithCrystal",
+    "Headline": "經典條紋",
+    "Subline": "與穆熙妍一起同步條紋時尚",
+    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
   },
   {
     "Placement": "wn3",
@@ -83,31 +83,31 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-dorothyperkins.jpg",
-    "Exit Url": "/dorothy-perkins-taiwan/?csa=dorothyperkins2ssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-cotton-on-women.jpg",
+    "Exit Url": "/cotton-on-shop/?csa=cottononssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-zalora-women.jpg",
-    "Exit Url": "/women/zalora/?csa=ZaloraSS17",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1_322x165-iroo-women.jpg",
+    "Exit Url": "/women/iroo/?csa=irooawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|ZaloraSS17|ALL|NA"
+    "EventLabel": "BRA|Women|irooawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-women-riverisland.jpg",
-    "Exit Url": "/river-island-taiwan/?csa=riverislandss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-missselfridge.jpg",
+    "Exit Url": "/women/miss-selfridge/?csa=wcmissselfridgess17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|riverislandss17|ALL|NA"
+    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
   },
   {
     "Placement": "wfb4",
@@ -123,21 +123,21 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-reebok-women.jpg",
-    "Exit Url": "/women/reebok/?csa=wspreebokss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-callitspring-women.jpg",
+    "Exit Url": "/women/call-it-spring/?csa=callitspringawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RA|wsp|wspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-guess-women.jpg",
-    "Exit Url": "/women/guess/?csa=wb1wsguessss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-reebok-women.jpg",
+    "Exit Url": "/women/reebok/?csa=wspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WB-WS|wb1wsguessss17|ALL|NA|guess"
+    "EventLabel": "RA|wsp|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wc1",
@@ -184,7 +184,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_WATCHES-women.jpg",
-    "Exit Url": "/women/watches/all-products/",
+    "Exit Url": "/women/watches/all-products/?csa=watches",
     "Headline": "NA",
     "Subline": "購買 手錶 >",
     "EventLabel": "CAT|Women|watches|ALL|NA"
@@ -193,31 +193,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/MOBILEWEB_HERO_600x600-falloutfit-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/tre0women0sepoccasion0all0na_women_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-ucbzap-women.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "United Colors of Benetton <br> 秋冬新款給你多樣選擇",
-    "EventLabel": "BRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-sisleyawseventeen-women.jpg",
+    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-penshoppe-new-women.jpg",
-    "Exit Url": "/women/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Penshoppe <br> 貝拉哈蒂德加入Generation Now活動. 立刻選購時尚系列",
-    "EventLabel": "BRA|Women|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-stripeswithcrystal.jpg",
+    "Exit Url": "/women/clothing/?s=條紋&classifier=false&csa=StripesWithCrystal",
+    "Headline": "經典條紋",
+    "Subline": "與穆熙妍一起同步條紋時尚",
+    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -283,51 +283,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/SEGMENT_HERO_996x500-backtocity.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=backtocity",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/SEGMENT_HERO_SLICED_996x500-sepoccasion-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|backtocity|ALL|NA"
+    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N1_NEWARRIVALS_360x420-ucb-zap-new-men.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "秋冬新款給你多樣選擇",
-    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-sisley-men.jpg",
+    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-penshoppe-new-men.jpg",
-    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "達拉斯‧卡梅倫 加入 Generation Now活動. 立刻購物.",
-    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-espritmenzap.jpg",
+    "Exit Url": "/men/esprit/?csa=espritawseventeen",
+    "Headline": "ESPRIT – 買2件或以上享7折優惠",
+    "Subline": "專屬限時優惠 立刻升級你的潮男衣櫃 (適用於所有男裝)",
+    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N3_NEWARRIVALS_996x250-printedshirts.jpg",
-    "Exit Url": "/men/clothing/printed-shirts/?getSKU=TO413AA0RFPNMY&csa=PrintedShirts",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N3_996x250-buy2000get20off-men.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=buy2000get20off&csa=spend100get20off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|PrintedShirts|ALL|NA"
+    "EventLabel": "SAL|Men|spend100get20off|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-abercrombie-fitch-men.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
+    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon2ss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
   },
   {
     "Placement": "mfb2",
@@ -343,24 +343,34 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-zalora-men.jpg",
-    "Exit Url": "/men/zalora/?csa=ZaloraSS17",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-topman.jpg",
+    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|ZaloraSS17|ALL|NA"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-casio-men.jpg",
-    "Exit Url": "/men/casio/?csa=casionewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-riverisland-men.jpg",
+    "Exit Url": "/river-island-taiwan/?from=men&csa=riverislandawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MW-WW|casionewarrivals|ALL|NA"
+    "EventLabel": "BRA|Men|riverislandawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-rayban-men.jpg",
+    "Exit Url": "/men/ray-ban/?csa=raybanssseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|raybanssseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-reebok.jpg",
@@ -368,16 +378,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
-  },
-  {
-    "Placement": "mfb6",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-topman.jpg",
-    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -433,31 +433,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/MOBILEWEB_HERO_600x600-backtocity.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=backtocity",
+    "Image": "https://static-tw.zacdn.com/cms/cw37/tre0men0sepoccasion0all0na_men_600x600.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|backtocity|ALL|NA"
+    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-unitedcolorsofbenettonawseventeen-men.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "United Colors of Benetton<br>秋冬新款給你多樣選擇",
-    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-sisley-men.jpg",
+    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/N2_NEWARRIVALS_620x420-penshoppe-new-men.jpg",
-    "Exit Url": "/men/penshoppe/?csa=penshoppeawseventeen",
-    "Headline": "Penshoppe",
-    "Subline": "Penshoppe<br>達拉斯‧卡梅倫 加入 Generation Now活動. 立刻購物.",
-    "EventLabel": "BRA|Men|penshoppeawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-espritmenzap.jpg",
+    "Exit Url": "/men/esprit/?csa=espritawseventeen",
+    "Headline": "ESPRIT – 買2件或以上享7折優惠",
+    "Subline": "專屬限時優惠 立刻升級你的潮男衣櫃 (適用於所有男裝)",
+    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mc1",
@@ -533,11 +533,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/SEGMENT_HEADER_326x304-fallnewarrival17.jpg",
-    "Exit Url": "/women/clothing/new-products/?csa=fallnewarrival17",
-    "Headline": "新品上市",
-    "Subline": "立即擁有最新時尚設計服飾",
-    "EventLabel": "NA|Women|fallnewarrival17|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw37/HOMEPAGE_BANNER_326x304-septoccasionwear.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear",
+    "Headline": "時尚嬌點",
+    "Subline": "以出眾造型出席婚禮、派對和各種社交場合",
+    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
   },
   {
     "Placement": "ub2",
