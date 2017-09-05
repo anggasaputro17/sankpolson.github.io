@@ -204,7 +204,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-SNEAKERS-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/shoes/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=413&csa=sneakers",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "The Next Step",
     "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
     "EventLabel": "CAT|Men|Sneakers|ALL|NA"
@@ -404,7 +404,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-thenextstep-men-cw37.jpg",
-    "Exit Url": "/men/shoes/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=413&csa=sneakers",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "The Next Step",
     "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
     "EventLabel": "CAT|Men|Sneakers|ALL|NA"
