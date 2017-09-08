@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/SEPTSURPRISESALE-SEPT17-DESK-HERO-W.jpg",
+    "Exit Url": "/women/all-products/?csa=septsurprisesale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|WOMEN|occasionwearsept17|ALL|NA"
+    "EventLabel": "SAL|WOMEN|septsurprisesale|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -183,11 +183,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/SEPTSURPRISESALE-SEPT17-DESK-HERO-M.jpg",
+    "Exit Url": "/men/all-products/?csa=septsurprisesale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|occasionwearsept17|ALL|NA"
+    "EventLabel": "SAL|Men|septsurprisesale|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -363,11 +363,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/SEPTSURPRISESALE-SEPT17-MOB-HERO-W.jpg",
+    "Exit Url": "/women/all-products/?csa=septsurprisesale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|WOMEN|occasionwearsept17|ALL|NA"
+    "EventLabel": "SAL|WOMEN|septsurprisesale|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -413,11 +413,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/SEPTSURPRISESALE-SEPT17-MOB-HERO-M.jpg",
+    "Exit Url": "/men/all-products/?csa=septsurprisesale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|occasionwearsept17|ALL|NA"
+    "EventLabel": "SAL|Men|septsurprisesale|ALL|NA"
   },
   {
     "Placement": "mn1",
