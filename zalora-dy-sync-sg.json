@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-OCCASIONWEAR-AUGUST17-W-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "Dressed to Wow",
-    "Subline": "Discover the occasion wear you need in your wardrobe now.",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/MIDIDRESSES-SEPT17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
+    "Headline": "Midi Moment",
+    "Subline": "Your search for the perfect hemline ends today.",
+    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,21 +23,21 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FLORALARMY-AUGUST17-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=floralarmy&csa=floralarmy",
-    "Headline": "Floral Army",
-    "Subline": "March forth in military must-haves featuring our favourite floral details.",
-    "EventLabel": "TRE|Women|floralarmy|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-BETSY-SEPT17-W-N2-1.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/LP_996x250-n3-hdila-ep1.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA1MomJeans",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-EP2-HDILAS3-N3.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA2MaxiDress",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA1MomJeans|ALL|NA"
+    "EventLabel": "TRE|Women|HDILA2MaxiDress|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -143,11 +143,11 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_BAGS.jpg",
-    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LONGPANTS.jpg",
+    "Exit Url": "/women/clothing/pants/?csa=longpants",
     "Headline": "NA",
-    "Subline": "Shops Slingbags",
-    "EventLabel": "CAT|Women|slingbags|ALL|NA"
+    "Subline": "Shops Pants",
+    "EventLabel": "CAT|Women|longpants|ALL|NA"
   },
   {
     "Placement": "wc2",
@@ -163,11 +163,11 @@
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375x500_TOPS.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C3_375x500_TOPS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=clothing",
     "Headline": "NA",
-    "Subline": "Shop Tops",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "Shop Clothing",
+    "EventLabel": "CAT|Women|clothing|ALL|NA"
   },
   {
     "Placement": "wc4",
@@ -193,21 +193,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-OCCASIONWEAR-AUGUST17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "Sartorial Perfection",
-    "Subline": "Be the man of the hour whether you’re at the boardroom or bar.",
-    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-NEWARRIVALS-SEPT17-M-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
+    "Headline": "Fresh Fall Finds",
+    "Subline": "Cut to the chase and check out our latest arrivals.",
+    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-SNEAKERS-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
-    "Headline": "The Next Step",
-    "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
-    "EventLabel": "CAT|Men|Sneakers|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-JACKETS-SEPT17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepjackets&getSKU=BU964AA09RTIMY&csa=jackets",
+    "Headline": "Jacket Transition",
+    "Subline": "Stay ahead of the new season by adding layers to your style update.",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -223,11 +223,11 @@
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/CW37-SPEND100GET20OFF-AUGUST17-M-N3.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy100get20off",
-    "Headline": "Get 20% Off New Arrivals, Use Code 20NOW",
-    "Subline": "$100 minimum spend. For selected items only.",
-    "EventLabel": "SAL|Men|spend100get20off|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-CASUALWEAR-SEPT17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?brand=albertini--aldo--cotton-on--factorie--jack-jones--mango-man--penshoppe--rocklander--topman--burton-menswear-london&price=0-30&csa=casualwear",
+    "Headline": "Everyday Casual",
+    "Subline": "For SGD30 or less, find your favourites from Factorie, Cotton On and more.",
+    "EventLabel": "TRE|Men|casualwear|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -303,31 +303,31 @@
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Sandals.jpg",
-    "Exit Url": "/men/shoes/sandals-flip-flops/?csa=sandals",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LoafersandBoatShoes.jpg",
+    "Exit Url": "/shoes/loafers-boat-shoes/?csa=boatshoes",
     "Headline": "NA",
-    "Subline": "Shop Sandals",
-    "EventLabel": "CAT|Men|sandals|ALL|NA"
+    "Subline": "Shop Boat Shoes",
+    "EventLabel": "CAT|Men|boatshoes|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C3_375x500_Tshirts.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C3_375x500_CLOTHING.jpg",
+    "Exit Url": "/men/clothing/?csa=clothing",
     "Headline": "NA",
-    "Subline": "Shop T-Shirts",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "Subline": "Shop Clothing",
+    "EventLabel": "CAT|Men|clothing|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Backpacks.jpg",
-    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=longpants",
     "Headline": "NA",
-    "Subline": "Shop Backpacks",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "Shop Long Pants",
+    "EventLabel": "CAT|Men|longpants|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -343,11 +343,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/tre0women0sepoccasion0all0na_women_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "Dressed to Wow",
-    "Subline": "Discover the occasion wear you need in your wardrobe now.",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/MIDIDRESSES-SEPT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
+    "Headline": "Midi Moment",
+    "Subline": "Your search for the perfect hemline ends today.",
+    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -363,51 +363,51 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/FLORALARMY-AUGUST17-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=floralarmy&csa=floralarmy",
-    "Headline": "Floral Army",
-    "Subline": "Floral Army<br>March forth in military must-haves featuring our favourite floral details.",
-    "EventLabel": "TRE|Women|floralarmy|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-BETSY-SEPT17-W-N2-1.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_BAGS.jpg",
-    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LONGPANTS.jpg",
+    "Exit Url": "/women/clothing/pants/?csa=longpants",
     "Headline": "NA",
-    "Subline": "Shops Slingbags",
-    "EventLabel": "CAT|Women|slingbags|ALL|NA"
+    "Subline": "Shops Pants",
+    "EventLabel": "CAT|Women|longpants|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_TOPS.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_TOPS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=clothing",
     "Headline": "NA",
-    "Subline": "Shop Tops",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "Shop Clothing",
+    "EventLabel": "CAT|Women|clothing|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/tre0men0sepoccasion0all0na_men_600x600.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "Sartorial Perfection",
-    "Subline": "Be the man of the hour whether you’re at the boardroom or bar.",
-    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-NEWARRIVALS-SEPT17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
+    "Headline": "Fresh Fall Finds",
+    "Subline": "Cut to the chase and check out our latest arrivals.",
+    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-thenextstep-men-cw37.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
-    "Headline": "The Next Step",
-    "Subline": "Casual days call for versatile sneakers and laid-back plimsolls.",
-    "EventLabel": "CAT|Men|Sneakers|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-JACKETS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=sepjackets&getSKU=BU964AA09RTIMY&csa=jackets",
+    "Headline": "Jacket Transition",
+    "Subline": "Stay ahead of the new season by adding layers to your style update.",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -427,17 +427,17 @@
     "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
     "Subline": "Shop Watches",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_Tshirts.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_CLOTHING.jpg",
+    "Exit Url": "/men/clothing/?csa=clothing",
     "Headline": "NA",
-    "Subline": "Shop T-Shirts",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "Subline": "Shop Clothing",
+    "EventLabel": "CAT|Men|clothing|ALL|NA"
   },
   {
     "Placement": "uh1",
