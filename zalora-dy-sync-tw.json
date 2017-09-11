@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/SEGMENT_HERO_SLICED_996x500-sepoccasion.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/CW38_WOMEN_SEGMENT_HERO_SLICED_996x500.jpg",
+    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -23,21 +23,21 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-stripeswithcrystal.jpg",
-    "Exit Url": "/women/clothing/?s=條紋&classifier=false&csa=StripesWithCrystal",
-    "Headline": "經典條紋",
-    "Subline": "與穆熙妍一起同步條紋時尚",
-    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_en_N2_ZAP_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N3_996x250-hdila-women-tw.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA1MomJeans",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_N3_996x250.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA2MaxiDress",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA1MomJeans|ALL|NA"
+    "EventLabel": "TRE|Women|HDILA2MaxiDress|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -83,7 +83,7 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-cotton-on-women.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_B1-6_322x165.jpg",
     "Exit Url": "/cotton-on-shop/?csa=cottononssseventeen",
     "Headline": "NA",
     "Subline": "NA",
@@ -113,7 +113,7 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-aldo-women.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_Aldo_FW17_B1-6-W_322x165.jpg",
     "Exit Url": "/women/aldo/?csa=aldoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
@@ -143,11 +143,11 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_BAGS-women.jpg",
-    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_LONGPANTS.jpg",
+    "Exit Url": "/women/clothing/pants/?csa=longpants",
     "Headline": "NA",
-    "Subline": "購買 女包 >",
-    "EventLabel": "CAT|Women|slingbags|ALL|NA"
+    "Subline": "購買 長褲及內搭褲 >",
+    "EventLabel": "CAT|Women|longpants|ALL|NA"
   },
   {
     "Placement": "wc2",
@@ -163,11 +163,11 @@
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C3_375x500_TOPS-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C3_375x500_CLOTHING.jpg",
+    "Exit Url": "/women/clothing/?csa=clothing",
     "Headline": "NA",
-    "Subline": "購買 上衣 >",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "購買 女性服飾 >",
+    "EventLabel": "CAT|Women|clothing|ALL|NA"
   },
   {
     "Placement": "wc4",
@@ -193,11 +193,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/tre0women0sepoccasion0all0na_women_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_tre0women0midiskirt0all0na_women_600x600.jpg",
+    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -213,31 +213,31 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-stripeswithcrystal.jpg",
-    "Exit Url": "/women/clothing/?s=條紋&classifier=false&csa=StripesWithCrystal",
-    "Headline": "經典條紋",
-    "Subline": "與穆熙妍一起同步條紋時尚",
-    "EventLabel": "TRE|Women|StripesWithCrystal|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_en_N2_ZAP_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_BAGS-women.jpg",
-    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
-    "Headline": "購買 女包 >",
-    "Subline": "購買 女包 >",
-    "EventLabel": "CAT|Women|slingbags|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_LONGPANTS.jpg",
+    "Exit Url": "/women/clothing/pants/?csa=longpants",
+    "Headline": "購買 長褲及內搭褲 >",
+    "Subline": "購買 長褲及內搭褲 >",
+    "EventLabel": "CAT|Women|longpants|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_TOPS-women.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
-    "Headline": "購買 上衣 >",
-    "Subline": "購買 上衣 >",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_CLOTHING.jpg",
+    "Exit Url": "/women/clothing/?csa=clothing",
+    "Headline": "購買 女性服飾 >",
+    "Subline": "購買 女性服飾 >",
+    "EventLabel": "CAT|Women|clothing|ALL|NA"
   },
   {
     "Placement": "wb1",
@@ -283,11 +283,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/SEGMENT_HERO_SLICED_996x500-sepoccasion-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_SEGMENT_HERO_996x500_MOCKUP.jpg",
+    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
+    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -313,17 +313,17 @@
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N3_996x250-buy2000get20off-men.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=buy2000get20off&csa=spend100get20off",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N3_NEWARRIVALS_996x250.jp",
+    "Exit Url": "/men/all-products/?brand=albertini--aldo--cotton-on--factorie--jack-jones--mango-man--penshoppe--rocklander--topman--topman--burton-menswear-london&price=0-740&csa=casualwear",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|spend100get20off|ALL|NA"
+    "EventLabel": "TRE|Men|casualwear|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-burtonmenswear-men-v2.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-abercrombie-fitch-men.jpg",
     "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon2ss17",
     "Headline": "NA",
     "Subline": "NA",
@@ -337,7 +337,7 @@
     "Exit Url": "/men/converse/?csa=conversamss",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "SAL|Men|conversamss|ALL|maxp"
   },
   {
     "Placement": "mfb3",
@@ -347,7 +347,7 @@
     "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "NewA|Men|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb4",
@@ -384,7 +384,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_WATCHES-men.jpg",
-    "Exit Url": "/men/watch/?csa=watches",
+    "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
     "Subline": "購買 手錶 >",
     "EventLabel": "CAT|Men|watches|ALL|NA"
@@ -393,31 +393,31 @@
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_Sandals-men.jpg",
-    "Exit Url": "/men/shoes/sandals-flip-flops/?csa=sandalsflipflops",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cs38_men_C1245_300x198_LoafersandBoatShoes.jpg",
+    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=boatshoes",
     "Headline": "NA",
-    "Subline": "購買 涼鞋及拖鞋 >",
-    "EventLabel": "CAT|Men|sandals|ALL|NA"
+    "Subline": "購買 船型鞋 >",
+    "EventLabel": "CAT|Men|boatshoes|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C3_375x500_Tshirts-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C3_375x500_CLOTHING.jpg",
+    "Exit Url": "/men/clothing/?csa=clothing",
     "Headline": "NA",
-    "Subline": "購買 T恤 >",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "Subline": "購買 男性服飾 >",
+    "EventLabel": "CAT|Men|clothing|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_Backpacks-men.jpg",
-    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C1245_300x198_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=longpants",
     "Headline": "NA",
-    "Subline": "購買 後背包 >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "購買 長褲 >",
+    "EventLabel": "CAT|Men|longpants|ALL|NA"
   },
   {
     "Placement": "mc5",
@@ -433,13 +433,13 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/tre0men0sepoccasion0all0na_men_600x600.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|sepoccasion|ALL|NA"
+    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
-  {
+   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
@@ -473,11 +473,11 @@
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_Tshirts-men.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C1245_300x198_CLOTHING.jpg",
+    "Exit Url": "/men/clothing/?csa=clothing",
     "Headline": "NA",
-    "Subline": "購買 T恤 >",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "Subline": "購買 男性服飾 >",
+    "EventLabel": "CAT|Men|clothing|ALL|NA"
   },
   {
     "Placement": "mb1",
@@ -534,7 +534,7 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw37/HOMEPAGE_BANNER_326x304-septoccasionwear.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear",
+    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "時尚嬌點",
     "Subline": "以出眾造型出席婚禮、派對和各種社交場合",
     "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
@@ -543,11 +543,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/SEGMENT_HEADER_326x304-falloutfit.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=enteringfall&csa=falloutfit",
-    "Headline": "秋季慢步調",
-    "Subline": "最佳造型讓妳同時眷戀夏天也迎接秋季",
-    "EventLabel": "TRE|Women|falloutfit|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_HOMEMPAGE_BANNER_326x304.jpg",
+    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
+    "Headline": "穆熙妍的裙襬時尚",
+    "Subline": "一件洋裝釋放百種魅力",
+    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
   },
   {
     "Placement": "ub3",
@@ -557,6 +557,6 @@
     "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=backtocity",
     "Headline": "都市探索",
     "Subline": "玩轉街頭型男風格",
-    "EventLabel": "TRE|Men|backtocity|ALL|NA"
+    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
   }
 ]
