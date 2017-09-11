@@ -363,11 +363,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/MIDIDRESSES-SEPT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/clothing/dresses/?category_id=521&csa=mididresses",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|WOMEN|occasionwearsept17|ALL|NA"
+    "EventLabel": "TRE|WOMEN|mididresses|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -383,11 +383,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/20OFFMINSPEND300-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=cw37get20minspend300&csa=get20offminspend300vc3hundredsept17",
-    "Headline": "Take 20% Off with min spend RM300",
-    "Subline": "Use '3HUNDRED' at checkout",
-    "EventLabel": "SAL|WOMEN|get20offminspend300vc3hundredsept17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ZAP-BETSY-SEPT17-W-N2-1.jpg",
+    "Exit Url": "/women/betsy/?csa=betsy",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|Betsy|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,21 +413,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/OCCASIONWEAR-SEPT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw37occasionwear&csa=occasionwearsept17",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW38-NEWARRIVALS-SEPT17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|occasionwearsept17|ALL|NA"
+    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/20OFFMINSPEND300-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=cw37get20minspend300&csa=get20offminspend300vc3hundredsept17",
-    "Headline": "Take 20% Off with min spend RM300",
-    "Subline": "Use '3HUNDRED' at checkout",
-    "EventLabel": "SAL|Men|get20offminspend300vc3hundredsept17|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW38-JACKETS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/clothing/jackets-and-coats/?csa=jackettransition",
+    "Headline": "Jacket Transition",
+    "Subline": "Stay ahead of the new season with the latest layering options",
+    "EventLabel": "TRE|Men|JacektTransition|ALL|NA"
   },
   {
     "Placement": "mn2",
