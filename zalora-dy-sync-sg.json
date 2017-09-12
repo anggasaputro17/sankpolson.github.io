@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-benefit-women.jpg",
-    "Exit Url": "/women/benefit/?csa=benefitawseventeen",
-    "Headline": "Benefit",
-    "Subline": "Achieve flawless beauty with Benefit’s range of foolproof makeup products.",
-    "EventLabel": "BRA|Women|benefitawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-KIPLING-SEPT17-W-N1.jpg",
+    "Exit Url": "/women/kipling/?csa=kiplingawseventeen",
+    "Headline": "Kipling - 20% Off Now",
+    "Subline": "Explore bags and accessories that suit your whims and fancies.",
+    "EventLabel": "bra|women|kiplingawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
@@ -213,11 +213,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-esprit-men-cw37.jpg",
-    "Exit Url": "/men/esprit/?csa=espritawseventeen",
-    "Headline": "Esprit - Buy 2 Get 30% Off",
-    "Subline": "Upgrade your style with this limited time promotion on all men's items.",
-    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-WEEKENDESSENTIALS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
+    "Headline": "Weekend Essentials",
+    "Subline": "Hit the road with sneakers and shirts that won’t break the bank.",
+    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
   },
   {
     "Placement": "mn3",
@@ -353,11 +353,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-benefit-women.jpg",
-    "Exit Url": "/women/benefit/?csa=benefitawseventeen",
-    "Headline": "Benefit",
-    "Subline": "Achieve flawless beauty with Benefit’s range of foolproof makeup products.",
-    "EventLabel": "BRA|Women|benefitawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-KIPLING-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/kipling/?csa=kiplingawseventeen",
+    "Headline": "Kipling - 20% Off Now",
+    "Subline": "Explore bags and accessories that suit your whims and fancies.",
+    "EventLabel": "bra|women|kiplingawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
@@ -413,11 +413,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-esprit-men-cw37.jpg",
-    "Exit Url": "/men/esprit/?csa=espritawseventeen",
-    "Headline": "Esprit - Buy 2 Get 30% Off",
-    "Subline": "Esprit - Buy 2 Get 30% Off",
-    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/CW38-WEEKENDESSENTIALS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
+    "Headline": "Weekend Essentials",
+    "Subline": "Hit the road with sneakers and shirts that won’t break the bank.",
+    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
   },
   {
     "Placement": "mc1",
