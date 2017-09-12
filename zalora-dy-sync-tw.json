@@ -13,11 +13,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-sisleyawseventeen-women.jpg",
-    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/CW38_Women_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/herschel/?csa=herschel2awseventeen",
+    "Headline": "Herschel",
+    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
+    "EventLabel": "BRA|Women|herschel2awseventeen|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -203,11 +203,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-sisleyawseventeen-women.jpg",
-    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/herschel/?csa=herschel2awseventeen",
+    "Headline": "Herschel",
+    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
+    "EventLabel": "BRA|Women|herschel2awseventeen|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -293,27 +293,27 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N1_NEWARRIVALS_360x420-sisley-men.jpg",
-    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N1_360x420.jpg",
+    "Exit Url": "/men/herschel/?csa=herschel2awseventeen",
+    "Headline": "Herschel",
+    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
+    "EventLabel": "BRA|Men|herschel2awseventeen|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-espritmenzap.jpg",
-    "Exit Url": "/men/esprit/?csa=espritawseventeen",
-    "Headline": "ESPRIT – 買2件或以上享7折優惠",
-    "Subline": "專屬限時優惠 立刻升級你的潮男衣櫃 (適用於所有男裝)",
-    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
+    "Headline": "週末必備造型",
+    "Subline": "穿上平價的運動鞋與衣著，在街頭盡展潮流風格。",
+    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N3_NEWARRIVALS_996x250.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N3_NEWARRIVALS_996x250.jp",
     "Exit Url": "/men/all-products/?brand=albertini--aldo--cotton-on--factorie--jack-jones--mango-man--penshoppe--rocklander--topman--topman--burton-menswear-london&price=0-740&csa=casualwear",
     "Headline": "NA",
     "Subline": "NA",
@@ -439,25 +439,25 @@
     "Subline": "NA",
     "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
   },
-   {
+  {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-sisley-men.jpg",
-    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_620x420.jpg",
+    "Exit Url": "/men/herschel/?csa=herschel2awseventeen",
+    "Headline": "Herschel",
+    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
+    "EventLabel": "BRA|Men|herschel2awseventeen|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/N2_NEWARRIVALS_620x420-espritmenzap.jpg",
-    "Exit Url": "/men/esprit/?csa=espritawseventeen",
-    "Headline": "ESPRIT – 買2件或以上享7折優惠",
-    "Subline": "專屬限時優惠 立刻升級你的潮男衣櫃 (適用於所有男裝)",
-    "EventLabel": "BRA|Men|espritawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
+    "Headline": "週末必備造型",
+    "Subline": "穿上平價的運動鞋與衣著，在街頭盡展潮流風格。",
+    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
   },
   {
     "Placement": "mc1",
