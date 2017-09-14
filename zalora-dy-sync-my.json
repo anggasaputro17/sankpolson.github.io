@@ -53,11 +53,11 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SIGMA-SEPT17-N1.jpg",
-    "Exit Url": "/women/sigma-beauty/?csa=sigmabeauty",
-    "Headline": "Sigma®",
-    "Subline": "Makeup brushes loved by pros worldwide",
-    "EventLabel": "BRA|Women|SigmaBeauty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CU3-MODEST.jpg",
+    "Exit Url": "/women/clothing/traditional/new-products/?csa=marvelousmodesty",
+    "Headline": "Marvelous Modest Wear",
+    "Subline": "Shop our latest arrivals now",
+    "EventLabel": "BRA|Women|MarvelousModest|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -73,61 +73,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SOMETHINGBORROWED-MAR17-B1.jpg",
-    "Exit Url": "/women/something-borrowed/?csa=somethingborrowed",
+    "Image": "https://static-my.zacdn.com/cms/dy/FITFLOP-JAN17-B1.jpg",
+    "Exit Url": "/women/fitflop/?csa=fitflop",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|SomethingBorrowed|ALL|NA"
+    "EventLabel": "BRA|Women|FitFlop|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-AUGUST17-W-B1-1.jpg",
-    "Exit Url": "/women/mango/?csa=mango",
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALIA-MAR17-B1.jpg",
+    "Exit Url": "/women/zalia/?csa=zalia",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Mango|ALL|NA"
+    "EventLabel": "BRA|Women|Zalia|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AVEDA-JUN17-W-B1.jpg",
-    "Exit Url": "/women/aveda/?csa=aveda",
+    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-B1.jpg",
+    "Exit Url": "/women/prive-revaux/?csa=priverevaux",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Aveda|ALL|NA"
+    "EventLabel": "BRA|Women|PriveRevaux|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/POPLOOK-JULY17-B1.jpg",
-    "Exit Url": "/women/poplook/?csa=poplook",
+    "Image": "https://static-my.zacdn.com/cms/dy/LORNAJANE-DEC16-B1.jpg",
+    "Exit Url": "/women/lorna-jane/?csa=lornajane",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|poplook|ALL|NA"
+    "EventLabel": "BRA|Women|LornaJane|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-JULY17-B1.jpg",
-    "Exit Url": "/women-aldo-shop/?csa=aldo",
+    "Image": "https://static-my.zacdn.com/cms/dy/BENEFIT-SEPT17-B1.jpg",
+    "Exit Url": "/women/benefit/?csa=benefit",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Aldo|ALL|NA"
+    "EventLabel": "BRA|Women|Benefit|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SKIICNY-JAN17-B1.jpg",
-    "Exit Url": "/women/sk-ii/?csa=skii",
+    "Image": "https://static-my.zacdn.com/cms/dy/CLUSE-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/cluse/?csa=cluse",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|SKII|ALL|NA"
+    "EventLabel": "BRA|Women|Cluse|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -203,11 +203,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/esprit/?csa=esprit",
-    "Headline": "Buy 2 Get 30% Off",
-    "Subline": "Upgrade your style with this limited time promo",
-    "EventLabel": "BRA-SAL|Men|ESPRIT|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW38-WEEKENDESSENTIALS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw38menweekend?csa=cw38menweekend",
+    "Headline": "Weekend Essentials",
+    "Subline": "Shop our effortless must-haves",
+    "EventLabel": "SAL|Men|cw38menweekend|ALL|ZAP"
   },
   {
     "Placement": "mcu1",
@@ -253,21 +253,21 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BURTON-MAR17-B1.jpg",
-    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon",
+    "Image": "https://static-my.zacdn.com/cms/dy/HOLLISTER-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/hollister/?csa=hollister",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|burtonmenswearlondon|ALL|NA"
+    "EventLabel": "BRA|Men|Hollister|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/OBERMAIN-JUNE17-B1-M.jpg",
-    "Exit Url": "/men/obermain/?csa=obermain",
+    "Image": "https://static-my.zacdn.com/cms/dy/HANZDEFUKO-JAN17-B1.jpg",
+    "Exit Url": "/men/hanz-de-fuko/?csa=hanzdefuko",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|obermain|ALL|NA"
+    "EventLabel": "BRA|Men|HanzDeFuko|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -283,31 +283,31 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AVEDA-JUN17-W-B1.jpg",
-    "Exit Url": "/men/aveda/?csa=aveda",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOMS-JUNE17-B1.jpg",
+    "Exit Url": "/men/toms/?csa=toms",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|aveda|ALL|NA"
+    "EventLabel": "BRA|Men|Toms|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/daniel-wellington/?csa=danielwellington",
+    "Image": "https://static-my.zacdn.com/cms/dy/CLUSE-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/cluse/?csa=cluse",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|DanielWellington|ALL|NA"
+    "EventLabel": "BRA|Men|Cluse|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HUGOBOSS-APR17-B1.jpg",
-    "Exit Url": "/men/all-products/?brand=boss--boss-green--boss-orange",
+    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-JULY17-B1.jpg",
+    "Exit Url": "/men-aldo-shop/?csa=aldo",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Boss|ALL|NA"
+    "EventLabel": "BRA|Men|Aldo|ALL|NA"
   },
   {
     "Placement": "mc1",
