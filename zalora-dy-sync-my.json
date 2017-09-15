@@ -7,7 +7,7 @@
     "Exit Url": "/women/clothing/dresses/?category_id=521&csa=mididresses",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|WOMEN|mididresses|ALL|NA"
+    "EventLabel": "TRE|Women|MidiDresses|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -63,11 +63,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ELLIGERMANY-SEPT17-N2.jpg",
-    "Exit Url": "/women/elli-germany/?csa=elligermany",
-    "Headline": "Elli Germany: Get 2 for 20% off",
-    "Subline": "Shop delicate jewellery pieces that are perfect for stacking",
-    "EventLabel": "BRA|Women|ElliGermany|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-W-N2-NEW.jpg",
+    "Exit Url": "/women/timberland/?csa=timberland",
+    "Headline": "Timberland: Up to 40% Off",
+    "Subline": "Shop your perfect pair now at a lower price",
+    "EventLabel": "BRA|Women|Timberland|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -83,11 +83,11 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZALIA-MAR17-B1.jpg",
-    "Exit Url": "/women/zalia/?csa=zalia",
+    "Image": "https://static-my.zacdn.com/cms/dy/NOSE-AUGUST17-B1.jpg",
+    "Exit Url": "/women/nose/?csa=nose",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Zalia|ALL|NA"
+    "EventLabel": "BRA|Women|Nose|ALL|NA"
   },
   {
     "Placement": "wfb3",
@@ -187,7 +187,7 @@
     "Exit Url": "/men/new-products/?csa=fallnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|FallNewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -223,11 +223,11 @@
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW35SHIRTS-AUGUST17-M-N1.jpg",
-    "Exit Url": "/men/clothing/shirts/?age=0-60&csa=shirts",
-    "Headline": "Shirts for Every Occasion",
-    "Subline": "Shop our latest arrivals now",
-    "EventLabel": "TRE|MEN|shirts|ALL|N"
+    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-M-N1.jpg",
+    "Exit Url": "/men/timberland/&csa=timberland",
+    "Headline": "Timberland: Up to 40% Off",
+    "Subline": "Shop your perfect pair now at a lower price",
+    "EventLabel": "BRA|MEN|Timberland|ALL|N"
   },
   {
     "Placement": "mcu3",
@@ -364,10 +364,10 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/MIDIDRESSES-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/clothing/dresses/?category_id=521&csa=mididresses",
+    "Exit Url": "/women/clothing/dresses/&csa=mididresses",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|WOMEN|mididresses|ALL|NA"
+    "EventLabel": "TRE|Women|MidiDresses|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -417,7 +417,7 @@
     "Exit Url": "/men/new-products/?csa=fallnewarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|FallNewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
