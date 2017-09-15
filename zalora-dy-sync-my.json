@@ -433,11 +433,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/esprit/?csa=esprit",
-    "Headline": "Buy 2 Get 30% Off",
-    "Subline": "Upgrade your style with this limited time promo",
-    "EventLabel": "BRA-SAL|Men|ESPRIT|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW38-WEEKENDESSENTIALS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw38menweekend?csa=cw38menweekend",
+    "Headline": "Weekend Essentials",
+    "Subline": "Shop our effortless must-haves",
+    "EventLabel": "TRE|Men|cw38menweekend|ALL|ZAP"
   },
   {
     "Placement": "mc1",
