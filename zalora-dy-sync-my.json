@@ -64,7 +64,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-W-N2-NEW.jpg",
-    "Exit Url": "/women/timberland/?csa=timberland",
+    "Exit Url": "/women/timberland/?sort=discount&csa=timberland",
     "Headline": "Timberland: Up to 40% Off",
     "Subline": "Shop your perfect pair now at a lower price",
     "EventLabel": "BRA|Women|Timberland|ALL|NA"
@@ -224,7 +224,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-MAR17-M-N1.jpg",
-    "Exit Url": "/men/timberland/&csa=timberland",
+    "Exit Url": "/men/timberland/?sort=discount&csa=timberland",
     "Headline": "Timberland: Up to 40% Off",
     "Subline": "Shop your perfect pair now at a lower price",
     "EventLabel": "BRA|MEN|Timberland|ALL|N"
