@@ -273,21 +273,21 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PRIVEREVAUX-AUGUST17-B1.jpg",
-    "Exit Url": "/men/prive-revaux/?csa=priverevaux",
+    "Image": "https://static-my.zacdn.com/cms/dy/CASIO-FEB17-B1.jpg",
+    "Exit Url": "/men/casio/?csa=casio",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|PriveRevaux|ALL|NA"
+    "EventLabel": "BRA|Men|Casio|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOMS-JUNE17-B1.jpg",
-    "Exit Url": "/men/toms/?csa=toms",
+    "Image": "https://static-my.zacdn.com/cms/dy/FACTORIE-DEC16-M-B1-6.jpg",
+    "Exit Url": "/men/factorie/?csa=factorie",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Toms|ALL|NA"
+    "EventLabel": "BRA|Men|Factorie|ALL|NA"
   },
   {
     "Placement": "mfb5",
