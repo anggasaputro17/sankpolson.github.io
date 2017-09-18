@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/CW38_WOMEN_SEGMENT_HERO_SLICED_996x500.jpg",
-    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_Hero_996x500.jpg",
+    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
+    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -33,11 +33,21 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_N3_996x250.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA2MaxiDress",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/N3_996x250.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA3ColourBlock",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA2MaxiDress|ALL|NA"
+    "EventLabel": "TRE|Women|HDILA3ColourBlock|ALL|NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wcu1",
@@ -83,61 +93,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_B1-6_322x165.jpg",
-    "Exit Url": "/cotton-on-shop/?csa=cottononssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_B1-6_322x165.jpg",
+    "Exit Url": "/topshop-taiwan/?csa=wtopshopss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA"
+    "EventLabel": "NewA|Women|wtopshopss17|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1_322x165-iroo-women.jpg",
-    "Exit Url": "/women/iroo/?csa=irooawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_IVYPARK_B1-6_322x165.jpg",
+    "Exit Url": "/women/ivy-park/?csa=wspivyparkss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|irooawseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|wspivyparkss17|ALL|NA|ivy-park"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-missselfridge.jpg",
-    "Exit Url": "/women/miss-selfridge/?csa=wcmissselfridgess17",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_dorothy_B1-6_322x165.jpg",
+    "Exit Url": "/dorothy-perkins-taiwan/?csa=dorothyperkins2ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WC|wcmissselfridgess17|ALL|NA|miss-selfridge"
+    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_Aldo_FW17_B1-6-W_322x165.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39w_quay_B1-6_322x165.jpg",
+    "Exit Url": "/women/quay-australia/?csa=quayaustralialaunchawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|quayaustralialaunchawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-callitspring-women.jpg",
-    "Exit Url": "/women/call-it-spring/?csa=callitspringawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39w_godiva_B1-B6.jpg",
+    "Exit Url": "/women/goddiva/?csa=goddivaawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-reebok-women.jpg",
-    "Exit Url": "/women/reebok/?csa=wspreebokss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39w_dmk_B1-6_322x165.jpg",
+    "Exit Url": "/women/dmk/?csa=dmkawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RA|wsp|wspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "bra|women|dmkawseventeen|all|zap"
   },
   {
     "Placement": "wc1",
@@ -193,11 +203,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_tre0women0midiskirt0all0na_women_600x600.jpg",
-    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/tre0women0sepdenim0all0na_women_600x600.jpg",
+    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
+    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -218,6 +228,16 @@
     "Headline": "Betsy",
     "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
     "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "wc1",
@@ -283,11 +303,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_SEGMENT_HERO_996x500_MOCKUP.jpg",
-    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/denim/?csa=denim",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|denim|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -303,81 +323,91 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
-    "Headline": "週末必備造型",
-    "Subline": "穿上平價的運動鞋與衣著，在街頭盡展潮流風格。",
-    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=800-100000&csa=sneakers",
+    "Headline": "運動鞋低至TWD800",
+    "Subline": "穿上全新運動鞋，迎接每日新挑戰",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N3_NEWARRIVALS_996x250.jpg",
-    "Exit Url": "/men/all-products/?brand=albertini--aldo--cotton-on--factorie--jack-jones--mango-man--penshoppe--rocklander--topman--topman--burton-menswear-london&price=0-740&csa=casualwear",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/m_N3_996x250.jpg",
+    "Exit Url": "/product-index/sportslifestyle?csa=sportslifestyle",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|casualwear|ALL|NA"
+    "EventLabel": "TRE|Men|c|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_B1-6_322x165.jpg",
-    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon2ss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/superdry_B1-6_322x165.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|burtonmenswearlondon2ss17|ALL|NA"
+    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165_converse.jpg",
-    "Exit Url": "/men/converse/?csa=conversamss",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/ASICS_B_322x165.jpg",
+    "Exit Url": "/men/asics/?csa=asicsssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|conversamss|ALL|maxp"
+    "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw35/B1-6_322x165-topman.jpg",
-    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/reebok_B1-6_322x165.jpg",
+    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Men|mcmamstopman17|ALL|NA"
+    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-riverisland-men.jpg",
-    "Exit Url": "/river-island-taiwan/?from=men&csa=riverislandawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/cottonon_B1-6_322x165.jpg",
+    "Exit Url": "/cotton-on-shop/?from=men&csa=cottononssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|riverislandawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/B1-6_322x165-rayban-men.jpg",
-    "Exit Url": "/men/ray-ban/?csa=raybanssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/fjallraven_B1-6_322x165.jpg",
+    "Exit Url": "/men/fjallraven-kanken/?csa=fjallravenkankenawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|raybanssseventeen|ALL|NA"
+    "EventLabel": "bra|men|fjallravenkankenawseventeen|all|na"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw33/B1-6_322x165-reebok.jpg",
-    "Exit Url": "/men/reebok/?csa=mspreebokss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/abercrombie_B1-6_322x165.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -433,11 +463,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_MOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/tre0men0denim0all0na_men_600x600.jpg",
+    "Exit Url": "/men/denim/?csa=denim",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|fallnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|denim|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -453,11 +483,21 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=budgetweekendessentials&csa=budgetweekendessentials",
-    "Headline": "週末必備造型",
-    "Subline": "穿上平價的運動鞋與衣著，在街頭盡展潮流風格。",
-    "EventLabel": "TRE|Men|budgetweekendessentials|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=800-100000&csa=sneakers",
+    "Headline": "運動鞋低至TWD800",
+    "Subline": "穿上全新運動鞋，迎接每日新挑戰",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "NA",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "mc1",
@@ -483,13 +523,13 @@
     "Placement": "mb1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/superdry_women_436x248.jpg",
-    "Exit Url": "/men/superdry/",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/mobile_brand_logo_436x248.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|superdryJun|ALL|NA|superdry"
+    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
   },
-  {
+   {
     "Placement": "mb2",
     "Gender": "men",
     "Device": "mobile",
@@ -533,7 +573,7 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw37/HOMEPAGE_BANNER_326x304-septoccasionwear.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/HOMEPAGE_BANNER_326x304.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
     "Headline": "時尚嬌點",
     "Subline": "以出眾造型出席婚禮、派對和各種社交場合",
@@ -543,20 +583,20 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_HOMEMPAGE_BANNER_326x304.jpg",
-    "Exit Url": "/women/clothing/midi-dresses/?getSKU=NA323AA63NNOMY&csa=midiskirt",
-    "Headline": "穆熙妍的裙襬時尚",
-    "Subline": "一件洋裝釋放百種魅力",
-    "EventLabel": "TRE|Women|midiskirt|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/SEGMENT_HEADER_326x304.jpg",
+    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
+    "Headline": "純丹寧時尚",
+    "Subline": "丹寧經典展現妳的甜美、個性與率性",
+    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/SEGMENT_HEADER_326x304-backtocity.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=urbanexploration&csa=backtocity",
-    "Headline": "都市探索",
-    "Subline": "玩轉街頭型男風格",
-    "EventLabel": "TRE|Men|Backtocity|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/bottom_SEGMENT_HEADER_326x304.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=800-100000&csa=sneakers",
+    "Headline": "運動鞋低至TWD800",
+    "Subline": "穿上全新運動鞋，迎接每日新挑戰",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   }
 ]
