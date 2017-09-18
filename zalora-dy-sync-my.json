@@ -23,7 +23,7 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dyESPRIT-ZAP-SEPT17-W-N2.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-W-N2.jpg",
     "Exit Url": "/women/esprit/?sort=discount&csa=espritzap",
     "Headline": "Esprit - Now at 30% Off",
     "Subline": "Get more for less with the latest markdowns on all full-priced items",
@@ -207,7 +207,7 @@
     "Exit Url": "/men/shoes/sneakers-skate/?sort=latest%20arrival&csa=sneakers",
     "Headline": "Sneakers",
     "Subline": "Step it up a notch with brand new kicks",
-    "EventLabel": "SAL|Men|cw38menweekend|ALL|ZAP"
+    "EventLabel": "SAL|Men|Sneakers|ALL|NA"
   },
   {
     "Placement": "mcu1",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MIDIDRESSES-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/clothing/dresses/&csa=mididresses",
+    "Image": "https://static-my.zacdn.com/cms/dy/DENIMDESIRE-SEPT17-HERO-MOB.jpg",
+    "Exit Url": "/women/denim/?csa=denimdesire",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|MidiDresses|ALL|NA"
+    "EventLabel": "TRE|Women|DenimDesire|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/N2-NEW_COOL_FOR_SCHOOL.jpg",
-    "Exit Url": "/azira/?vc=azirashafinaz&csa=influencerazirashafinazaugust17",
-    "Headline": "Azira Shafinaz",
-    "Subline": "Azira Shafinaz curates her style with these hot new picks.",
-    "EventLabel": "TRE|Women|InfluencerAzira|ALL|NA"
+    "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
+    "Headline": "The Power of Colour",
+    "Subline": "Get this season's most irresistible tones",
+    "EventLabel": "TRE|Women|HDILA2ColorPower|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZAP-BETSY-SEPT17-W-N2-1.jpg",
-    "Exit Url": "/women/betsy/?csa=betsy",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|Betsy|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/esprit/?csa=espritzap",
+    "Headline": "Esprit - Now at 30% Off",
+    "Subline": "Get more for less with the latest markdowns on all full-priced items",
+    "EventLabel": "BRA|Women|Esprit|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW38-NEWARRIVALS-SEPT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/new-products/?csa=fallnewarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/DENIMDESIRE-SEPT17-M-HERO-MOB.jpg",
+    "Exit Url": "/men/denim/?csa=denimdesire",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|FallNewArrivals|ALL|NA"
+    "EventLabel": "TRE|Men|DenimDesire|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW38-JACKETS-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/clothing/jackets-and-coats/?csa=jackettransition",
-    "Headline": "Jacket Transition",
-    "Subline": "Stay ahead of the new season with the latest layering options",
-    "EventLabel": "TRE|Men|JacektTransition|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/VCMENS18-SEPT17-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=cw39vc18min250?csa=cw39vc18min250",
+    "Headline": "Take 18% off the items in here",
+    "Subline": "Use the code 'MEN18' with min spend RM250",
+    "EventLabel": "TRE|Men|cw39vc18min250|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/esprit/?csa=esprit",
-    "Headline": "Buy 2 Get 30% Off",
-    "Subline": "Upgrade your style with this limited time promo",
-    "EventLabel": "BRA-SAL|Men|ESPRIT|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/SNEAKERS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-skate/?csa=snakers",
+    "Headline": "Sneakers",
+    "Subline": "Step it up a notch with brand new kicks",
+    "EventLabel": "SAL|Men|Sneakers|ALL|NA"
   },
   {
     "Placement": "mc1",
