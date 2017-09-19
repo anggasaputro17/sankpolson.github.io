@@ -9,25 +9,25 @@
     "Subline": "NA",
     "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
-  {
+   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/CW38_Women_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/herschel/?csa=herschel2awseventeen",
-    "Headline": "Herschel",
-    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
-    "EventLabel": "BRA|Women|herschel2awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
+    "Headline": "United Colors of Benetton",
+    "Subline": "是時候選購進階版的衣櫃必備單品",
+    "EventLabel": "DSK\tBRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_en_N2_ZAP_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39_women_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
+    "Headline": "Esprit – 低至7折優惠",
+    "Subline": "全系列優惠價，時尚單品入手好機會",
+    "EventLabel": "DSK\tbra|women|espritawseventeen|all|zap"
   },
   {
     "Placement": "wn3",
@@ -213,21 +213,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/herschel/?csa=herschel2awseventeen",
-    "Headline": "Herschel",
-    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
-    "EventLabel": "BRA|Women|herschel2awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/w_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
+    "Headline": "United Colors of Benetton",
+    "Subline": "是時候選購進階版的衣櫃必備單品",
+    "EventLabel": "DSK\tBRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_en_N2_ZAP_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39_women_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
+    "Headline": "Esprit – 低至7折優惠",
+    "Subline": "全系列優惠價，時尚單品入手好機會",
+    "EventLabel": "DSK\tbra|women|espritawseventeen|all|zap"
   },
   {
     "Placement": "wn3",
@@ -309,15 +309,15 @@
     "Subline": "NA",
     "EventLabel": "TRE|Men|denim|ALL|NA"
   },
-  {
+ {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N1_360x420.jpg",
-    "Exit Url": "/men/herschel/?csa=herschel2awseventeen",
-    "Headline": "Herschel",
-    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
-    "EventLabel": "BRA|Men|herschel2awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/benneton_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
+    "Headline": "Colors of Benetton",
+    "Subline": "是時候選購進階版的衣櫃必備單品",
+    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
@@ -469,15 +469,15 @@
     "Subline": "NA",
     "EventLabel": "TRE|Men|denim|ALL|NA"
   },
-  {
+   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_N2_620x420.jpg",
-    "Exit Url": "/men/herschel/?csa=herschel2awseventeen",
-    "Headline": "Herschel",
-    "Subline": "潮流包款讓你輕鬆駕馭各種場合",
-    "EventLabel": "BRA|Men|herschel2awseventeen|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw39/benetton_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
+    "Headline": "Colors of Benetton",
+    "Subline": "是時候選購進階版的衣櫃必備單品",
+    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
