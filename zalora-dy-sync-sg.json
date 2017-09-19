@@ -9,25 +9,25 @@
     "Subline": "Fall in love with our roundup of jeans, jackets and more.",
     "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
-   {
+  {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-KIPLING-SEPT17-W-N1.jpg",
-    "Exit Url": "/women/kipling/?csa=kiplingawseventeen",
-    "Headline": "Kipling - 20% Off Now",
-    "Subline": "Explore bags and accessories that suit your whims and fancies.",
-    "EventLabel": "bra|women|kiplingawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-W-N1.jpg",
+    "Exit Url": "/women/timberland/special-price/?csa=timberland3ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
+    "EventLabel": "BRA|Women|timberland3ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-BETSY-SEPT17-W-N2-1.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
+    "Headline": "Esprit - Now at 30% Off",
+    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
+    "EventLabel": "bra|women|espritawseventeen|all|zap"
   },
   {
     "Placement": "wn3",
@@ -349,25 +349,25 @@
     "Subline": "Fall in love with our roundup of jeans, jackets and more.",
     "EventLabel": "TRE|Women|sepdenim|ALL|NA"
   },
-   {
+  {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-KIPLING-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/kipling/?csa=kiplingawseventeen",
-    "Headline": "Kipling - 20% Off Now",
-    "Subline": "Explore bags and accessories that suit your whims and fancies.",
-    "EventLabel": "bra|women|kiplingawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/timberland/special-price/?csa=timberland3ssseventeen",
+    "Headline": "Timberland - Extra 15% Off",
+    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
+    "EventLabel": "BRA|Women|timberland3ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/ZAP-BETSY-SEPT17-W-N2-1.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/esprit/?csa=espritawseventeen",
+    "Headline": "Esprit - Now at 30% Off",
+    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
+    "EventLabel": "bra|women|espritawseventeen|all|zap"
   },
   {
     "Placement": "wc1",
