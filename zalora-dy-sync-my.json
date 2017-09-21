@@ -33,11 +33,11 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LIPSTICKLOVES-SEPT17-N2.jpg",
-    "Exit Url": "/women/beauty/lips/?csa=lipstickloves",
-    "Headline": "Lipstick Loves",
-    "Subline": "Transform your look with new lip colours",
-    "EventLabel": "CAT|Women|LipstickLoves|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-SEPT17-VC-N2.jpg",
+    "Exit Url": "/women/laneige/?csa=laneige23",
+    "Headline": "Laneige Turns 23 - Use code 'LANEIGE23'",
+    "Subline": "First 100 customers get RM20 off min spend RM100. T&Cs apply",
+    "EventLabel": "BRA|Women|Laneige23|ALL|NA"
   },
   {
     "Placement": "wcu2",
@@ -73,11 +73,11 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ABERCROMBIE&FITCH-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/abercrombie-fitch/?csa=abercrombiefitch",
+    "Image": "https://static-my.zacdn.com/cms/dy/KARLLAGERFELD-JULY17-B1.jpg",
+    "Exit Url": "/women/karl-lagerfeld/?csa=karllagerfeld",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|AbercrombieFitch|ALL|NA"
+    "EventLabel": "BRA|Women|KarlLagerfeld|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -253,21 +253,21 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-B1.jpg",
-    "Exit Url": "/men/nike/?csa=nike",
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/zalora/?csa=zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Nike|ALL|NA"
+    "EventLabel": "BRA|Men|Zalora|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ABERCROMBIE&FITCH-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitch",
+    "Image": "https://static-my.zacdn.com/cms/dy/JAXON-AUGUST17-B1.jpg",
+    "Exit Url": "/men/all-products/jaxon?csa=jaxon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|AbercrombieFitch|ALL|NA"
+    "EventLabel": "BRA|Men|Jaxon|ALL|NA"
   },
   {
     "Placement": "mfb3",
@@ -283,31 +283,31 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOMS-JUNE17-B1.jpg",
-    "Exit Url": "/men/toms/?csa=toms",
+    "Image": "https://static-my.zacdn.com/cms/dy/ADIDASLATESTAUGUST-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/adidas/?csa=adidas",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Toms|ALL|NA"
+    "EventLabel": "BRA|Men|Adidas|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CR7-AUGUST17-B1.jpg",
-    "Exit Url": "/men/cr7/?csa=cr7",
+    "Image": "https://static-my.zacdn.com/cms/dy/UNDERARMOUR-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/under-armour/?csa=underarmour",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|CR7|ALL|NA"
+    "EventLabel": "BRA|Men|UnderArmour|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-M-B1.jpg",
-    "Exit Url": "/men/cotton-on/?csa=cottonon",
+    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-M-B1.jpg",
+    "Exit Url": "/men/puma/?csa=puma",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|CottonOn|ALL|NA"
+    "EventLabel": "BRA|Men|Puma|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -373,7 +373,7 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/HDILA-S2-EP3-N2-NEW.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/N2-NEW_COOL_FOR_SCHOOL.jpg",
     "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
     "Headline": "The Power of Colour",
     "Subline": "Get this season's most irresistible tones",
