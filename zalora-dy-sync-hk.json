@@ -726,5 +726,57 @@
     "ENSubline": "NA",
     "ZHHeadline": "NA",
     "ZHSubline": "NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw40/cw40_women_en_N4N1_NEWARRIVALS_360x420.jpg",
+    "ZHImageUrl": "NA",
+    "ExitUrl": "/product-index/australian-brands/?csa=australianbrands",
+    "EventLabel": "TRE|Women|australianbrands|ALL|NA",
+    "ENHeadline": "Fashion From Down Under",
+    "ENSubline": "Rise to the top with fresh styles from Australian brands.",
+    "ZHHeadline": "澳洲潮流",
+    "ZHSubline": "澳洲品牌的清新風格助你在人海中成為焦點"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw40/cw40_men_en_N4_NEWARRIVALS_360x420.jpg",
+    "ZHImageUrl": "NA",
+    "ExitUrl": "/men/clothing/?price=0-100&csa=tshirtspricepoint",
+    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA",
+    "ENHeadline": "Tees Under HKD100",
+    "ENSubline": "Shop basic tops that turn the ordinary into something more.",
+    "ZHHeadline": "HKD100以下T恤",
+    "ZHSubline": "選購基本上衣，讓造型不再平凡"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw40/cw40_women_N3_NEWARRIVALS_620x420.jpg",
+    "ZHImageUrl": "NA",
+    "ExitUrl": "/women/shoes/flats/?csa=flatsforfall",
+    "EventLabel": "CAT|Women|flatsforfall|ALL|NA",
+    "ENHeadline": "Flats for Fall",
+    "ENSubline": "Elevate your look while keeping your feet on the ground with our",
+    "ZHHeadline": "秋季平底鞋",
+    "ZHSubline": "只要有對完美平底鞋，即使腳踏實地，都能瞬間為造型升級"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw40/cw40_men_en_N3_NEWARRIVALS_620x420.jpg",
+    "ZHImageUrl": "NA",
+    "ExitUrl": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA",
+    "ENHeadline": "What’s Trending Now",
+    "ENSubline": "Keep yourself up to date with everything that’s in demand.",
+    "ZHHeadline": "最新時尚",
+    "ZHSubline": "不要錯過熱門商品"
   }
 ]
