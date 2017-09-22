@@ -598,5 +598,45 @@
     "Headline": "運動鞋低至TWD800",
     "Subline": "穿上全新運動鞋，迎接每日新挑戰",
     "EventLabel": "SAL|Men|sneakers|ALL|NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/product-index/australian-brands/?csa=australianbrands",
+    "Headline": "澳洲時尚",
+    "Subline": "澳洲品牌的清新風格讓妳成為人群中的焦點",
+    "EventLabel": "TRE|Women|australianbrands|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
+    "Headline": "秋季平底鞋",
+    "Subline": "讓完美平底鞋來為妳的穿搭加分",
+    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "/cms/cw40/twd400_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=4219&price=0-400&csa=tshirtspricepoint",
+    "Headline": "T恤NT$400以下",
+    "Subline": "選購基本款T恤，簡單有型",
+    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "Headline": "潮流當道",
+    "Subline": "不容錯過的熱銷商品",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA"
   }
 ]
