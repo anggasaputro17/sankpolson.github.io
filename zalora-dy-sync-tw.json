@@ -40,16 +40,6 @@
     "EventLabel": "TRE|Women|HDILA3ColourBlock|ALL|NA"
   },
   {
-    "Placement": "wn4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
-  },
-  {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
@@ -230,16 +220,6 @@
     "EventLabel": "DSK\tbra|women|espritawseventeen|all|zap"
   },
   {
-    "Placement": "wn3",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
-  },
-  {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
@@ -338,16 +318,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "TRE|Men|c|ALL|NA"
-  },
-  {
-    "Placement": "mn4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
   },
   {
     "Placement": "mfb1",
@@ -488,16 +458,6 @@
     "Headline": "運動鞋低至TWD800",
     "Subline": "穿上全新運動鞋，迎接每日新挑戰",
     "EventLabel": "SAL|Men|sneakers|ALL|NA"
-  },
-  {
-    "Placement": "mn3",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
   },
   {
     "Placement": "mc1",
