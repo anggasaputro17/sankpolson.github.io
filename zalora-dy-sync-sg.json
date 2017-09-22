@@ -568,5 +568,45 @@
     "Headline": "Test $10 against test $150",
     "Subline": "Test $10 against test $1500 again",
     "EventLabel": "test|MA|test$symbolbug|ALL"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/HDILA-W3-SEPT17-N3.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA4Purses",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|HDILA4Purses|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/CW39-SPORTSFORLIFESTYLES-SEPT17-M-N3.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?category_id=35&price=0-20&csa=tshirtspricepoint",
+    "Headline": "Tees Under SGD20",
+    "Subline": "Shop basic tops that turn the ordinary into something more.",
+    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/esprit/?csa=espritawseventeen",
+    "Headline": "Esprit - Now at 30% Off",
+    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
+    "EventLabel": "bra|women|espritawseventeen|all|zap"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SNEAKERSFROMSGD40-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=40-1000000&csa=sneakers",
+    "Headline": "Sneakers From SGD40",
+    "Subline": "Step it up a notch with brand new kicks for everyday occasions.",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   }
 ]
