@@ -3,48 +3,58 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/DENIMDESIRE-SEPT17-W-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
-    "Headline": "Denim Desire",
-    "Subline": "Fall in love with our roundup of jeans, jackets and more.",
-    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/THEITGIRL-SEPT17-W-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl",
+    "Headline": "Looks W e Love: The It Girl",
+    "Subline": "Wear your confidence and change the fashion game today.",
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-W-N1.jpg",
-    "Exit Url": "/women/timberland/special-price/?csa=timberland3ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Women|timberland3ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-ZAP-ALDO-SEPT17-N1.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up.",
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
-    "Headline": "Esprit - Now at 30% Off",
-    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
-    "EventLabel": "bra|women|espritawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-RIVERISLAND-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/river-island/?csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/HDILA-W3-SEPT17-N3.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA3ColourBlock",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/INFLUENCER-NCWONG-SEPT17-N2.jpg",
+    "Exit Url": "/ncwong/?csa=InfluencerNicole250917",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA3ColourBlock|ALL|NA"
+    "EventLabel": "TRE|Women|InfluencerNicole250917|ALL|NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/HDILA-S2-EP4-N1.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA4Purses",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|HDILA4Purses|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/MANGO-AUGUST17-W-B1-1.jpg",
-    "Exit Url": "/women/mango-shop/?csa=mangoawseventeen",
+    "Exit Url": "/women/mango/?csa=mangoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|mangoawseventeen|ALL|NA"
@@ -53,17 +63,17 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/IVYPARK-FEB17-B1.jpg",
-    "Exit Url": "/women/ivy-park/?csa=ivyparkawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/MANGO-AUGUST17-W-B1-1.jpg",
+    "Exit Url": "/women/free-people/?csa=freepeopleawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|ivyparkawseventeen|all|na"
+    "EventLabel": "bra|women|freepeopleawseventeen|all|na"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SELECTEDFEMME-SEPT17-W-B1.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/SELECTEDFEMME-SEPT17-W-B1.jpg",
     "Exit Url": "/women/selected-femme/?csa=selectedfemmeawseventeen",
     "Headline": "NA",
     "Subline": "NA",
@@ -77,7 +87,7 @@
     "Exit Url": "/women/quay-australia/?csa=quayaustralialaunchawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|quayaustralialaunchawseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|quayaustralialaunchawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -143,134 +153,104 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LONGPANTS.jpg",
-    "Exit Url": "/women/clothing/pants/?csa=longpants",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1-sling_bag-cw40.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "Shop Pants",
-    "EventLabel": "CAT|Women|longpants|ALL|NA"
+    "Subline": "SHOP SLING BAGS",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_ACCESSORIES.jpg",
-    "Exit Url": "/women/accessories/jewellery/?csa=jewellery",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C2-top-cw40.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "Shop Jewellery",
-    "EventLabel": "CAT|Women|jewellery|ALL|NA"
+    "Subline": "SHOP TOPS",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C3_375x500_TOPS.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/c3-skirts-cw40.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
-    "Subline": "Shop Clothing",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Subline": "SHOP SKIRTS",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_HEELS.jpg",
-    "Exit Url": "/women/shoes/heels/?csa=heels",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C4-sports-cw40.jpg",
+    "Exit Url": "/women/sports/all-products/?csa=sports",
     "Headline": "NA",
-    "Subline": "Shop Heels",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "SHOP SPORTS",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300X198_WATCHES.jpg",
-    "Exit Url": "/women/watches/all-products/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C5-CARDIGANS___KNITWEAR-cw40.jpg",
+    "Exit Url": "/women/clothing/jumpers-and-cardigans/?csa=cardigansanndknit",
     "Headline": "NA",
-    "Subline": "Shop Watches",
-    "EventLabel": "CAT|Women|watches|ALL|NA"
+    "Subline": "SHOP CARDIGANS & KNITWEAR",
+    "EventLabel": "CAT|Women|cardigansanndknit|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/DENIMDESIRE-SEPT17-M-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/men/denim/?csa=denim",
-    "Headline": "Timeless Denim",
-    "Subline": "Signature pieces for every season and occasion.",
-    "EventLabel": "TRE|Men|denim|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-AUTUMNHUES-SEPT17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?color=beige--brown--green--grey",
+    "Headline": "Autumn Hues",
+    "Subline": "Layer up and go places with this season’s tones.",
+    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-M-N1.jpg",
-    "Exit Url": "/men/timberland/special-price/?csa=timberland3ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Men|timberland3ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-ZAP-ALDO-SEPT17-N1.jpg",
+    "Exit Url": "/men/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up.",
+    "EventLabel": "BRA|Men|aldoawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SNEAKERSFROMSGD40-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=40-1000000&csa=sneakers",
-    "Headline": "Sneakers From SGD40",
-    "Subline": "Step it up a notch with brand new kicks for everyday occasions.",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-PREMIUMBRANDS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY",
+    "Headline": "Premium Picks",
+    "Subline": "Blaze a trail in unrivalled threads from Calvin Klein and more.",
+    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/CW39-SPORTSFORLIFESTYLES-SEPT17-M-N3.jpg",
-    "Exit Url": "/product-index/sportslifestyle/?csa=sportslifestyle",
-    "Headline": "Sports Lifestyle",
-    "Subline": "Gain some serious style points with this gym-inspired edit",
-    "EventLabel": "TRE|Men|sportslifestyle|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BESTSELLING-SEPT17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "Headline": "What’s Trending Now",
+    "Subline": "Keep yourself up to date with everything that’s in demand.",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-TSHIRTPRICEPOINT-SEPT17-M-N4.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?category_id=35&price=0-20&csa=tshirtspricepoint",
+    "Headline": "Tees Under SGD20",
+    "Subline": "Shop basic tops that turn the ordinary into something more.",
+    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
   },
   {
     "Placement": "mfb1",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SUPERDRY-SEPT17-M-B1.jpg",
-    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
-  },
-  {
-    "Placement": "mfb2",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/UNDERARMOUR-AUGUST17-M-B1.jpg",
-    "Exit Url": "/under-armour-shop/?from=men&csa=underarmourawseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|underarmourawseventeen|ALL|NA"
-  },
-  {
-    "Placement": "mfb3",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/PUMA-SEPT16-M-B1.jpg",
-    "Exit Url": "/men/puma/?csa=puma",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|MSP|puma|ALL|NA"
-  },
-  {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/COTTONON-MAY17-M-B1.jpg",
-    "Exit Url": "/cotton-on-shop/?from=men&csa=cottononssseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA"
-  },
-  {
-    "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TOPMAN-SEPT17-B1.jpg",
@@ -280,164 +260,224 @@
     "EventLabel": "BRA|Men|mcmamstopman17|ALL|NA"
   },
   {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SUPERDRY-SEPT17-M-B1.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/HERSCHEL-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/VANS-SEPT17-B1.jpg",
+    "Exit Url": "/men/vans/?csa=msmspmbvans16",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/PUMA-SEPT16-M-B1.jpg",
+    "Exit Url": "/men/puma/?csa=pumanewarrivalssale",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
+  },
+  {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ABERCROMBIE&FITCH-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ZALORA-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/zalora/?csa=zaloraawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_WATCHES.jpg",
-    "Exit Url": "/men/watch/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300x198_sweatshirts-CW40.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
-    "Subline": "Shop Watches",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "SHOP OUTERWEAR",
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LoafersandBoatShoes.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=boatshoes",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300X198_MENS_belts-CW40.jpg",
+    "Exit Url": "/men/accessories/belts/?csa=beltsandbuckles",
     "Headline": "NA",
-    "Subline": "Shop Boat Shoes",
-    "EventLabel": "CAT|Men|boatshoes|ALL|NA"
+    "Subline": "SHOP BELTS",
+    "EventLabel": "CAT|Men|beltsandbuckles|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C3_375x500_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C3_375x500_sneakers-CW40.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "Shop Clothing",
-    "EventLabel": "CAT|Men|clothing|ALL|NA"
+    "Subline": "SHOP SNEAKERS",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=longpants",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300x198_Jeans-CW40.jpg",
+    "Exit Url": "/men/clothing/jeans/?csa=jeans",
     "Headline": "NA",
-    "Subline": "Shop Long Pants",
-    "EventLabel": "CAT|Men|longpants|ALL|NA"
+    "Subline": "SHOP JEANS",
+    "EventLabel": "CAT|Men|jeans|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug2017/C1245_300X198_MENS_ACCESSORIES.jpg",
-    "Exit Url": "/men/accessories/hats-and-caps/?csa=caps",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300X198_MENS_wallets-CW40.jpg",
+    "Exit Url": "/men/accessories/wallets/?csa=wallets",
     "Headline": "NA",
-    "Subline": "Shop Caps",
-    "EventLabel": "CAT|men|caps|ALL|NA"
+    "Subline": "SHOP WALLETS",
+    "EventLabel": "CAT|Men|wallets|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/DENIMDESIRE-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
-    "Headline": "Denim Desire",
-    "Subline": "Fall in love with our roundup of jeans, jackets and more.",
-    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/THEITGIRL-SEPT17-W-HERO-MOBILE-1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl",
+    "Headline": "Looks W e Love: The It Girl",
+    "Subline": "Wear your confidence and change the fashion game today.",
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/timberland/special-price/?csa=timberland3ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Women|timberland3ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-ZAP-ALDO-SEPT17-N2.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up.",
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/esprit/?csa=espritawseventeen",
-    "Headline": "Esprit - Now at 30% Off",
-    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
-    "EventLabel": "bra|women|espritawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-RIVERISLAND-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/river-island/?csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/INFLUENCER-NCWONG-SEPT17-N2.jpg",
+    "Exit Url": "/ncwong/?csa=InfluencerNicole250917",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|InfluencerNicole250917|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_LONGPANTS.jpg",
-    "Exit Url": "/women/clothing/pants/?csa=longpants",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1-sling_bag-cw40.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "Shop Pants",
-    "EventLabel": "CAT|Women|longpants|ALL|NA"
+    "Subline": "SHOP SLING BAGS",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_TOPS.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300x198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
-    "Subline": "Shop Clothing",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Subline": "SHOP SKIRTS",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/DENIMDESIRE-SEPT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/denim/?csa=denim",
-    "Headline": "Timeless Denim",
-    "Subline": "Signature pieces for every season and occasion.",
-    "EventLabel": "TRE|Men|denim|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-AUTUMNHUES-SEPT17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?color=beige--brown--green--grey",
+    "Headline": "Autumn Hues",
+    "Subline": "Layer up and go places with this season’s tones.",
+    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TIMBERLAND-ZAP-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/timberland/special-price/?csa=timberland3ssseventeen",
-    "Headline": "Timberland - Extra 15% Off",
-    "Subline": "Let this limited time markdown give you ample reason to tackle the streets.",
-    "EventLabel": "BRA|Men|timberland3ssseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-ZAP-ALDO-SEPT17-N2.jpg",
+    "Exit Url": "/men/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up.",
+    "EventLabel": "BRA|Men|aldoawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SNEAKERSFROMSGD40-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=40-1000000&csa=sneakers",
-    "Headline": "Sneakers From SGD40",
-    "Subline": "Step it up a notch with brand new kicks for everyday occasions.",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-PREMIUMBRANDS-SEPT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY",
+    "Headline": "Premium Picks",
+    "Subline": "Blaze a trail in unrivalled threads from Calvin Klein and more.",
+    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BESTSELLING-SEPT17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "Headline": "What’s Trending Now",
+    "Subline": "Keep yourself up to date with everything that’s in demand.",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Aug17/C1245_300x198_WATCHES.jpg",
-    "Exit Url": "/men/watches/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300x198_sweatshirts-CW40.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
-    "Subline": "Shop Watches",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "Subline": "SHOP OUTERWEAR",
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Sept17/C1245_300x198_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/C1245_300x198_sneakers-CW40.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "Shop Clothing",
-    "EventLabel": "CAT|Men|clothing|ALL|NA"
+    "Subline": "SHOP SNEAKERS",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -568,45 +608,5 @@
     "Headline": "Test $10 against test $150",
     "Subline": "Test $10 against test $1500 again",
     "EventLabel": "test|MA|test$symbolbug|ALL"
-  },
-  {
-    "Placement": "wn4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/HDILA-W3-SEPT17-N3.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA4Purses",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA4Purses|ALL|NA"
-  },
-  {
-    "Placement": "mn4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/CW39-SPORTSFORLIFESTYLES-SEPT17-M-N3.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?category_id=35&price=0-20&csa=tshirtspricepoint",
-    "Headline": "Tees Under SGD20",
-    "Subline": "Shop basic tops that turn the ordinary into something more.",
-    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
-  },
-  {
-    "Placement": "wn3",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/ESPRIT-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/esprit/?csa=espritawseventeen",
-    "Headline": "Esprit - Now at 30% Off",
-    "Subline": "Get more for less with the latest markdowns on all full-priced items.",
-    "EventLabel": "bra|women|espritawseventeen|all|zap"
-  },
-  {
-    "Placement": "mn3",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SNEAKERSFROMSGD40-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=40-1000000&csa=sneakers",
-    "Headline": "Sneakers From SGD40",
-    "Subline": "Step it up a notch with brand new kicks for everyday occasions.",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   }
 ]
