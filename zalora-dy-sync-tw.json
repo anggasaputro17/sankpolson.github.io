@@ -343,7 +343,7 @@
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "/cms/cw40/twd400_N4_NEWARRIVALS_360x420.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/twd400_N4_NEWARRIVALS_360x420.jpg",
     "Exit Url": "/men/clothing/t-shirts/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=4219&price=0-400&csa=tshirtspricepoint",
     "Headline": "T恤NT$400以下",
     "Subline": "選購基本款T恤，簡單有型",
