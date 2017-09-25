@@ -4,7 +4,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/THEITGIRL-SEPT17-W-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
     "Headline": "Looks W e Love: The It Girl",
     "Subline": "Wear your confidence and change the fashion game today.",
     "EventLabel": "TRE|Women|itgirl|ALL|NA"
@@ -364,7 +364,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/THEITGIRL-SEPT17-W-HERO-MOBILE-1.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
     "Headline": "Looks W e Love: The It Girl",
     "Subline": "Wear your confidence and change the fashion game today.",
     "EventLabel": "TRE|Women|itgirl|ALL|NA"
