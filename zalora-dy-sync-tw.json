@@ -3,41 +3,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_Hero_996x500.jpg",
-    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/itgirl_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
-   {
+  {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "是時候選購進階版的衣櫃必備單品",
-    "EventLabel": "DSK\tBRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39_women_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
-    "Headline": "Esprit – 正價貸品全線7折",
-    "Subline": "全系列優惠價，時尚單品入手好機會",
-    "EventLabel": "DSK\tbra|women|espritawseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/riverisland_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "精選品牌，立即擁有一直想要的單品",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/hdilaep3_N3_996x250.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA3ColourBlock",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Women|HDILA3ColourBlock|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
+    "Headline": "秋季平底鞋",
+    "Subline": "讓完美平底鞋來為妳的穿搭加分",
+    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/product-index/australian-brands/?csa=australianbrands",
+    "Headline": "澳洲時尚",
+    "Subline": "澳洲品牌的清新風格讓妳成為人群中的焦點",
+    "EventLabel": "TRE|Women|australianbrands|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -93,11 +103,11 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_IVYPARK_B1-6_322x165.jpg",
-    "Exit Url": "/women/ivy-park/?csa=wspivyparkss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/freepeople_B1-6_322x165.jpg",
+    "Exit Url": "/women/free-people/?csa=freepeopleawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|wspivyparkss17|ALL|NA|ivy-park"
+    "EventLabel": "bra|women|freepeopleawseventeen|all|na"
   },
   {
     "Placement": "wfb3",
@@ -133,118 +143,128 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39w_dmk_B1-6_322x165.jpg",
-    "Exit Url": "/women/dmk/?csa=dmkawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
+    "Exit Url": "/women/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|dmkawseventeen|all|zap"
+    "EventLabel": "BRA|Women|herschelawseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_LONGPANTS.jpg",
-    "Exit Url": "/women/clothing/pants/?csa=longpants",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1-sling_bag.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
     "Headline": "NA",
-    "Subline": "購買 長褲及內搭褲 >",
-    "EventLabel": "CAT|Women|longpants|ALL|NA"
+    "Subline": "選購斜揹袋 >",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_ACCESSORIES-women.jpg",
-    "Exit Url": "/women/accessories/jewellery/?csa=jewellery",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C2-top.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "購買 首飾 >",
-    "EventLabel": "CAT|Women|jewellery|ALL|NA"
+    "Subline": "選購上衣 >",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C3_375x500_CLOTHING.jpg",
-    "Exit Url": "/women/clothing/?csa=clothing",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C3_375x500_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
-    "Subline": "購買 女性服飾 >",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Subline": "選購下身裙 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_HEELS-women.jpg",
-    "Exit Url": "/women/shoes/heels/?csa=heels",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_SPORTS.jpg",
+    "Exit Url": "/women/sports/all-products/?csa=sports",
     "Headline": "NA",
-    "Subline": "購買 高跟鞋 >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "選購運動裝 >",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_WATCHES-women.jpg",
-    "Exit Url": "/women/watches/all-products/?csa=watches",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C5-CARDIGANS_&_KNITWEAR.jpg",
+    "Exit Url": "/women/clothing/jumpers-and-cardigans/?csa=cardigansanndknit",
     "Headline": "NA",
-    "Subline": "購買 手錶 >",
-    "EventLabel": "CAT|Women|watches|ALL|NA"
+    "Subline": "選購針織衣物及毛衣外套 >",
+    "EventLabel": "CAT|Women|cardigansanndknit|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/tre0women0sepdenim0all0na_women_600x600.jpg",
-    "Exit Url": "/women/denim/denim-clothing/?csa=sepdenim",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/itgirl_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|sepdenim|ALL|NA"
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/w_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "是時候選購進階版的衣櫃必備單品",
-    "EventLabel": "DSK\tBRA|Women|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/vw39_women_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/esprit/?getSKU=ES374AA0ROSLMY--ES374AA0RJ0LMY--ES374AC0RJ02MY--ES374AC0RABCMY&csa=espritawseventeen",
-    "Headline": "Esprit – 正價貸品全線7折",
-    "Subline": "全系列優惠價，時尚單品入手好機會",
-    "EventLabel": "DSK\tbra|women|espritawseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/riverisland_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "精選品牌，立即擁有一直想要的單品",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
+    "Headline": "秋季平底鞋",
+    "Subline": "讓完美平底鞋來為妳的穿搭加分",
+    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_LONGPANTS.jpg",
-    "Exit Url": "/women/clothing/pants/?csa=longpants",
-    "Headline": "購買 長褲及內搭褲 >",
-    "Subline": "購買 長褲及內搭褲 >",
-    "EventLabel": "CAT|Women|longpants|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_BAGS.jpg",
+    "Exit Url": "/women/bags/sling-bags/?csa=slingbags",
+    "Headline": "NA",
+    "Subline": "選購斜揹袋 >",
+    "EventLabel": "CAT|Women|slingbags|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_women_C1245_300x198_CLOTHING.jpg",
-    "Exit Url": "/women/clothing/?csa=clothing",
-    "Headline": "購買 女性服飾 >",
-    "Subline": "購買 女性服飾 >",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_SKIRTS.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
+    "Headline": "NA",
+    "Subline": "選購下身裙 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wb1",
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw28/Logo_436x248-vacae.jpg",
-    "Exit Url": "/women/vacae/",
+    "Exit Url": "/women/vacae/?csa=vacaessseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|vacaessseventeen|ALL|ZAP"
@@ -254,7 +274,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/Dorothyperkins_women_436x248.jpg",
-    "Exit Url": "/women/dorothy-perkins/",
+    "Exit Url": "/women/dorothy-perkins/?csa=DorothyPerkinsJun",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|DorothyPerkinsJun|ALL|NA|dorothy-perkins"
@@ -264,7 +284,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/1212eoss/mobile_brands_topshop.gif",
-    "Exit Url": "/women/topshop/",
+    "Exit Url": "/women/topshop/?csa=topshopJun",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|topshopJun|ALL|NA|topshop"
@@ -274,7 +294,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/riverisland_women_436x248.jpg",
-    "Exit Url": "/women/river-island/special-price/",
+    "Exit Url": "/women/river-island/?csa=RiverIslandJun",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|RiverIslandJun|ALL|NA|river-island"
@@ -283,204 +303,234 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/SEGMENT_HERO_996x500.jpg",
-    "Exit Url": "/men/denim/?csa=denim",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/autumnhues_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/all-products/?color=灰色--米褐色--綠色--褐色&csa=autumnhues",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|denim|ALL|NA"
+    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
   },
- {
+  {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/benneton_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "是時候選購進階版的衣櫃必備單品",
-    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=800-100000&csa=sneakers",
-    "Headline": "運動鞋低至TWD800",
-    "Subline": "穿上全新運動鞋，迎接每日新挑戰",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/premiumbrands_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY&csa=premiumbrands",
+    "Headline": "焦點品牌",
+    "Subline": "與Calvin Klein 及更多品牌一同開拓嶄新時尚風格",
+    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/m_N3_996x250.jpg",
-    "Exit Url": "/product-index/sportslifestyle?csa=sportslifestyle",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "TRE|Men|c|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "Headline": "潮流當道",
+    "Subline": "不容錯過的熱銷商品",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "/cms/cw40/twd400_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=4219&price=0-400&csa=tshirtspricepoint",
+    "Headline": "T恤NT$400以下",
+    "Subline": "選購基本款T恤，簡單有型",
+    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/superdry_B1-6_322x165.jpg",
-    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/topman_B1-6_322x165.jpg",
+    "Exit Url": "/topman-taiwan/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
+    "EventLabel": "NewA|Men|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/ASICS_B_322x165.jpg",
-    "Exit Url": "/men/asics/?csa=asicsssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/superdry_B1-6_322x165.jpg",
+    "Exit Url": "/superdry/?csa=mcsuperdryss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/reebok_B1-6_322x165.jpg",
-    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
+    "Exit Url": "/men/herschel/&csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cottonon_B1-6_322x165.jpg",
-    "Exit Url": "/cotton-on-shop/?from=men&csa=cottononssseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/life8_B1-6_322x165.jpg",
+    "Exit Url": "/men/life8/&csa=life82ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|life82ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/fjallraven_B1-6_322x165.jpg",
-    "Exit Url": "/men/fjallraven-kanken/?csa=fjallravenkankenawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/reebok_B1-6_322x165.jpg",
+    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|fjallravenkankenawseventeen|all|na"
+    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/abercrombie_B1-6_322x165.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitchawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/zalora_B1-6_322x165.jpg",
+    "Exit Url": "/men/zalora/?csa=zaloraawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_WATCHES-men.jpg",
-    "Exit Url": "/men/watches/?csa=watches",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_sweatshirts.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
-    "Subline": "購買 手錶 >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "選購戶外服飾 >",
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cs38_men_C1245_300x198_LoafersandBoatShoes.jpg",
-    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=boatshoes",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300X198_MENS_belts.jpg",
+    "Exit Url": "/men/accessories/belts/?csa=beltsandbuckles",
     "Headline": "NA",
-    "Subline": "購買 船型鞋 >",
-    "EventLabel": "CAT|Men|boatshoes|ALL|NA"
+    "Subline": "選購腰帶 >",
+    "EventLabel": "CAT|Men|beltsandbuckles|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C3_375x500_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/?csa=clothing",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C3_375x500_sneakers.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "購買 男性服飾 >",
-    "EventLabel": "CAT|Men|clothing|ALL|NA"
+    "Subline": "選購運動鞋 >",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C1245_300x198_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=longpants",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_Jeans.jpg",
+    "Exit Url": "/men/clothing/jeans/?csa=jeans",
     "Headline": "NA",
-    "Subline": "購買 長褲 >",
-    "EventLabel": "CAT|Men|longpants|ALL|NA"
+    "Subline": "選購牛仔褲 >",
+    "EventLabel": "CAT|Men|jeans|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_ACCESSORIES-men.jpg",
-    "Exit Url": "/men/accessories/hats-and-caps/?csa=caps",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300X198_MENS_wallets.jpg",
+    "Exit Url": "/men/accessories/wallets/?csa=wallets",
     "Headline": "NA",
-    "Subline": "購買 帽 >",
-    "EventLabel": "CAT|Men|caps|ALL|NA"
+    "Subline": "選購銀包 >",
+    "EventLabel": "CAT|Men|wallets|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/tre0men0denim0all0na_men_600x600.jpg",
-    "Exit Url": "/men/denim/?csa=denim",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/tre0men0autumnhues0all0na_men_600x600.jpg",
+    "Exit Url": "/men/all-products/?color=灰色--米褐色--綠色--褐色&csa=autumnhues",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|denim|ALL|NA"
+    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/benetton_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenettonawseventeen",
-    "Headline": "United Colors of Benetton",
-    "Subline": "是時候選購進階版的衣櫃必備單品",
-    "EventLabel": "BRA|Men|unitedcolorsofbenettonawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
+    "Headline": "Sisley",
+    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
+    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=800-100000&csa=sneakers",
-    "Headline": "運動鞋低至TWD800",
-    "Subline": "穿上全新運動鞋，迎接每日新挑戰",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/premiumbrands_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY&csa=premiumbrands",
+    "Headline": "焦點品牌",
+    "Subline": "與Calvin Klein 及更多品牌一同開拓嶄新時尚風格",
+    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/N3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
+    "Headline": "潮流當道",
+    "Subline": "不容錯過的熱銷商品",
+    "EventLabel": "TRE|Men|bestselling|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw36/C1245_300x198_WATCHES-men.jpg",
-    "Exit Url": "/men/watch/?csa=watches",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C1245_300x198_sweatshirts.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
-    "Subline": "購買 手錶 >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "選購戶外服飾 >",
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
   },
   {
-    "Placement": "mc2",
+    "Placement": "mc3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw38/cw38_men_C1245_300x198_CLOTHING.jpg",
-    "Exit Url": "/men/clothing/?csa=clothing",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/C3_375x500_sneakers.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
     "Headline": "NA",
-    "Subline": "購買 男性服飾 >",
-    "EventLabel": "CAT|Men|clothing|ALL|NA"
+    "Subline": "選購運動鞋 >",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mb1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw31/mobile_brands_topman.gif",
+    "Exit Url": "/men/topman/?csa=topmanJun",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|topmanJun|ALL|NA|topman"
+  },
+  {
+    "Placement": "mb2",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw39/mobile_brand_logo_436x248.jpg",
@@ -489,35 +539,25 @@
     "Subline": "NA",
     "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
   },
-   {
-    "Placement": "mb2",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw31/mobile_brands_topman.gif",
-    "Exit Url": "/men/topman/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|topmanJun|ALL|NA|topman"
-  },
   {
     "Placement": "mb3",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/mobilebrandsesprit_men_436x248.jpg",
-    "Exit Url": "/men/esprit/",
+    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|espritJun|ALL|NA|esprit"
+    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mb4",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/brands/zalora_women_436x248_0220.jpg",
-    "Exit Url": "/men/zalora/",
+    "Exit Url": "/cotton-on-shop/?from=men&csa=cottononssseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|zaloraJun|ALL|NA|zalora"
+    "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -533,11 +573,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/HOMEPAGE_BANNER_326x304.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "時尚嬌點",
-    "Subline": "以出眾造型出席婚禮、派對和各種社交場合",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw40/itgirl_SEGMENT_HEADER_326x304.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
+    "Headline": "IT GIRL 時尚女生",
+    "Subline": "引領潮流 魅力無限",
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
   {
     "Placement": "ub2",
@@ -558,45 +598,5 @@
     "Headline": "運動鞋低至TWD800",
     "Subline": "穿上全新運動鞋，迎接每日新挑戰",
     "EventLabel": "SAL|Men|sneakers|ALL|NA"
-  },
-  {
-    "Placement": "wn4",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/product-index/australian-brands/?csa=australianbrands",
-    "Headline": "澳洲時尚",
-    "Subline": "澳洲品牌的清新風格讓妳成為人群中的焦點",
-    "EventLabel": "TRE|Women|australianbrands|ALL|NA"
-  },
-  {
-    "Placement": "wn3",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
-    "Headline": "秋季平底鞋",
-    "Subline": "讓完美平底鞋來為妳的穿搭加分",
-    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
-  },
-  {
-    "Placement": "mn4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "/cms/cw40/twd400_N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/clothing/t-shirts/?sort=popularity&dir=desc&gender=&enable_visual_sort=1&category_id=4219&price=0-400&csa=tshirtspricepoint",
-    "Headline": "T恤NT$400以下",
-    "Subline": "選購基本款T恤，簡單有型",
-    "EventLabel": "CAT|Men|tshirtspricepoint|ALL|NA"
-  },
-  {
-    "Placement": "mn3",
-    "Gender": "men",
-    "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/N3_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bestselling&csa=bestselling",
-    "Headline": "潮流當道",
-    "Subline": "不容錯過的熱銷商品",
-    "EventLabel": "TRE|Men|bestselling|ALL|NA"
   }
 ]
