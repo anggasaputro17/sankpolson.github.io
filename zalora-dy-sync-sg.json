@@ -493,11 +493,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw37/HOMEPAGE_BANNER_326x304-occasionwear.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sepoccasionwear&csa=sepoccasion",
-    "Headline": "Dressed to Wow",
-    "Subline": "Discover the occasion wear you need in your wardrobe now.",
-    "EventLabel": "TRE|Women|sepoccasion|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/THEITGIRL-SEPT17-W-SEGMENT-HEADER.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
+    "Headline": "Looks W e Love: The It Girl",
+    "Subline": "Wear your confidence and change the fashion game today.",
+    "EventLabel": "TRE|Women|itgirl|ALL|NA"
   },
   {
     "Placement": "ub2",
