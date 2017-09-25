@@ -374,7 +374,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
-    "Exit Url": "/men/herschel/&csa=herschelawseventeen",
+    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
@@ -384,7 +384,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw40/life8_B1-6_322x165.jpg",
-    "Exit Url": "/men/life8/&csa=life82ssseventeen",
+    "Exit Url": "/men/life8/?csa=life82ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|life82ssseventeen|ALL|ZAP"
