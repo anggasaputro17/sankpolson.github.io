@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/DENIMDESIRE-SEPT17-HERO-MOB.jpg",
-    "Exit Url": "/women/denim/?csa=denimdesire",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-W-HERO-MOB.jpg",
+    "Exit Url": "/women/all-products/?csa=paydayseptember17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|DenimDesire|ALL|NA"
+    "EventLabel": "SAL|Women|PaydaySeptember17|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/N2-NEW_COOL_FOR_SCHOOL.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
-    "Headline": "The Power of Colour",
-    "Subline": "Get this season's most irresistible tones",
-    "EventLabel": "TRE|Women|HDILA2ColorPower|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW40-ZAP-ALDO-SEPT17-N2.jpg",
+    "Exit Url": "/women/all-products/aldo/?csa=aldozap",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up",
+    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/esprit/?csa=espritzap",
-    "Headline": "Esprit - Now at 30% Off",
-    "Subline": "Get more for less with the latest markdowns on all full-priced items",
-    "EventLabel": "BRA|Women|Esprit|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/RIVERISLAND-SEPT17-N2.jpg",
+    "Exit Url": "/women/river-island/?csa=riverislandzap",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love",
+    "EventLabel": "BRA|Women|RiverIsland|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,21 +413,21 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/DENIMDESIRE-SEPT17-M-HERO-MOB.jpg",
-    "Exit Url": "/men/denim/?csa=denimdesire",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-M-HERO-MOB.jpg",
+    "Exit Url": "/men/all-products/?csa=paydayseptember17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|DenimDesire|ALL|NA"
+    "EventLabel": "SAL|Men|PaydaySeptember17|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/VCMENS18-SEPT17-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_two=cw39vc18min250?csa=cw39vc18min250",
-    "Headline": "Take 18% off the items in here",
-    "Subline": "Use the code 'MEN18' with min spend RM250",
-    "EventLabel": "TRE|Men|cw39vc18min250|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CW40-ZAP-ALDO-SEPT17-N2.jpg",
+    "Exit Url": "/men/aldo?csa=aldozap",
+    "Headline": "Aldo - 20% Off FW17 Shoes",
+    "Subline": "Make your presence felt with kicks that are worth lacing up",
+    "EventLabel": "BRA|Men|Aldo|ALL|ZAP"
   },
   {
     "Placement": "mn2",
