@@ -184,7 +184,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-DESK-NEW.jpg",
-    "Exit Url": "/men/all-products/?discount=0-50&csa=mss17everything50off",
+    "Exit Url": "/men/all-products/?discount=50-50&csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
@@ -414,7 +414,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-MOB.jpg",
-    "Exit Url": "/men/all-products/?discount=0-50&csa=mss17everything50off",
+    "Exit Url": "/men/all-products/?discount=50-50&csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
