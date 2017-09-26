@@ -3,11 +3,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-W-HERO-DESK.jpg",
-    "Exit Url": "/women/all-products/?csa=paydayseptember17",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING50OFF-HERO-DESK-NEW.jpg",
+    "Exit Url": "/women/all-products/?discount=0-50&csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|PaydaySeptember17|ALL|NA"
+    "EventLabel": "CAT-SAL|Women|MSS17everything50off|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -35,7 +35,7 @@
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/HDILA-S2-EP4-N2.jpg",
     "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
-    "Headline": "Faux Pas No More",
+    "Headline": "HDILA S3 : Faux Pas No More",
     "Subline": "Say goodbye to fashion disasters and hello to a newfound sense of style",
     "EventLabel": "TRE|Women|HDILAsept17|ALL|NA"
   },
@@ -43,31 +43,31 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HEELS-SEPT17-N1.jpg",
-    "Exit Url": "/women/shoes/heels/?csa=heels",
-    "Headline": "Dress Me Up",
-    "Subline": "Elevate your style with our hottest heels",
-    "EventLabel": "CAT|Women|Heels|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-HEELSUNDERRM250-W-N1.jpg",
+    "Exit Url": "/women/shoes/heels/?price=0-120?csa=mss17heelsunderrm250",
+    "Headline": "Flirty Heels under RM120",
+    "Subline": "Get the hottest heels now at lower prices",
+    "EventLabel": "CAT-SAL|Women|MSS17heelsunderrm250|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BAGS-SEPT17-N1.jpg",
-    "Exit Url": "/women/new-products/bags/?csa=bags",
-    "Headline": "Bag a New Treat",
-    "Subline": "Reward yourself with our new arrivals",
-    "EventLabel": "CAT|Women|Bags|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-MODESTWEAR-W-N1.jpg",
+    "Exit Url": "/women/all-products?cmpgn_three=cw40modestwear&csa=mss17modestwear",
+    "Headline": "Must-have Modest Wear",
+    "Subline": "Featuring designs from Rizalman, Jovian Mandagie, Tsyahmi, Rico Rinaldi and more",
+    "EventLabel": "CAT-SAL|Women|MSS17modestwear|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MODESTWEAR-SEPT17-N2.jpg",
-    "Exit Url": "/women/clothing/traditional/new-products/?csa=marvelousmodest",
-    "Headline": "Marvelous Modest Wear",
-    "Subline": "Shop our latest arrivals now",
-    "EventLabel": "TRE|Women|MarvelousModest|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-TOPSUPTO60OFF-W-N2.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?discount=0-60&csa=mss17topsupto60off",
+    "Headline": "Tops up to 60% off",
+    "Subline": "Running out of tops to choose from? Not anymore",
+    "EventLabel": "CAT-SAL|Women|MSS17topsupto60off|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -183,18 +183,18 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-M-HERO-DESK.jpg",
-    "Exit Url": "/men/all-products/?csa=paydayseptember17",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-DESK-NEW.jpg",
+    "Exit Url": "/men/all-products/?discount=0-50&csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|PaydaySeptember17|ALL|NA"
+    "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-M-N1.jpg",
-    "Exit Url": "/men/all-products/aldo?csa=aldozap",
+    "Exit Url": "/women/all-products/aldo?csa=aldozap",
     "Headline": "Aldo",
     "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
     "EventLabel": "BRA|Men|Aldo|ALL|ZAP"
@@ -213,41 +213,41 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/NEWARRIVALS-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/new-products/?csa=newarrivals",
-    "Headline": "New arrivals",
-    "Subline": "Get our latest pieces before they're gone!",
-    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/MSS17-M-SHOESUPTO60OFF-N2.jpg",
+    "Exit Url": "/men/shoes/?discount=0-60&csa=mss17shoesupto60off",
+    "Headline": "Shoes Up to 60% off",
+    "Subline": "Sneakers, Loafers and more now at low prices",
+    "EventLabel": "CAT-SAL|Men|MSS17shoesupto60off|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/STREETWEARVIBES-SEPT17-M-N1.jpg",
-    "Exit Url": "/men/clothing/print-t-shirts/?csa=streetwearvibes",
-    "Headline": "Streetwear Vibes",
-    "Subline": "Made for street stylers",
-    "EventLabel": "TRE|MEN|StreetwearVibes|ALL|N"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-SPORTSWEARUNDERRM250-M-N1.jpg",
+    "Exit Url": "/men/sport/all-products?price=0-250&csa=mss17sportswearunderrm250",
+    "Headline": "Sportswear",
+    "Subline": "Everything under RM250",
+    "EventLabel": "CAT-SAL|MEN|MSS17sportswearunderrm250|ALL|N"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/C3-WATCHES.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=merdekawatches&csa=merdekawatches",
-    "Headline": "Timeless pieces",
-    "Subline": "Your favourite watches now at a lower price",
-    "EventLabel": "CAT|Men|TimelessPieces|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-SHIRTSUPTO60OFF-M-N1.jpg",
+    "Exit Url": "/men/clothing/shirts/?discount=0-60&csa=mss17shirtsupto60off",
+    "Headline": "Shirts",
+    "Subline": "Up to 60% off",
+    "EventLabel": "CAT-SAL|Men|MSS17shirtsupto60off|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WORKOUTKICKS-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/sport/men-sport-shoes/?discount=10-45",
-    "Headline": "Workout Kicks",
-    "Subline": "Get up to 40% off on sports shoes",
-    "EventLabel": "TRE|Men|Sportswear|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-BUY2GET20OFFBUY3GET30OFF-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw40men2f203f30&csa=mss17buy2get20buy3get30",
+    "Headline": "Buy 2 get 20% off & Buy 3 get 30% off",
+    "Subline": "Get them before they're sold out",
+    "EventLabel": "SAL|Men|MSS17buy2get20buy3get30|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -363,8 +363,8 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-W-HERO-MOB.jpg",
-    "Exit Url": "/women/all-products/?csa=paydayseptember17",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING50OFF-HERO-MOB.jpg",
+    "Exit Url": "/women/all-products?discount=0-50/?csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|PaydaySeptember17|ALL|NA"
@@ -413,18 +413,18 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-SEPT17-M-HERO-MOB.jpg",
-    "Exit Url": "/men/all-products/?csa=paydayseptember17",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-MOB.jpg",
+    "Exit Url": "/men/all-products/?discount=0-50&csa=mss17everything50off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|PaydaySeptember17|ALL|NA"
+    "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/aldo?csa=aldozap",
+    "Exit Url": "/men/all-products/aldo/?csa=aldozap",
     "Headline": "Aldo",
     "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
     "EventLabel": "BRA|Men|Aldo|ALL|ZAP"
