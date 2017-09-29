@@ -43,11 +43,11 @@
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/product-index/australian-brands/?csa=australianbrands",
-    "Headline": "澳洲時尚",
-    "Subline": "澳洲品牌的清新風格讓妳成為人群中的焦點",
-    "EventLabel": "TRE|Women|australianbrands|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/threesixty_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
+    "Headline": "任選3件只要 NT$1700",
+    "Subline": "限時優惠！任選3件商品只要NT$1700 (只限特選商品)",
+    "EventLabel": "SAL|Women|threeforsixty|ALL|NA"
   },
   {
     "Placement": "wcu1",
