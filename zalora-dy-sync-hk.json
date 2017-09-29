@@ -655,7 +655,7 @@
     "Device": "desktop",
     "ENImageUrl": "https://static-hk.zacdn.com/cms/cw41/cw41_mss_women_en_N1bottompage_326x304.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/clothing/dresses/?price=0-250?csa=dressesunderforty",
+    "ExitUrl": "/women/clothing/dresses/?price=0-250&csa=dressesunderforty",
     "EventLabel": "SAL|Women|dressesunderforty|ALL|NA",
     "ENHeadline": "Dresses Under HK$250",
     "ENSubline": "You don’t have to break the bank to take home a new dress or two.",
