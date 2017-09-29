@@ -55,14 +55,14 @@
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw40/cw40_women_en_N4N1_NEWARRIVALS_360x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw41/cw41_mss_women_en_N4_NEWARRIVALS_360x420.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/product-index/australian-brands/?csa=australianbrands",
-    "EventLabel": "TRE|Women|australianbrands|ALL|NA",
-    "ENHeadline": "Fashion From Down Under",
-    "ENSubline": "Rise to the top with fresh styles from Australian brands.",
-    "ZHHeadline": "澳洲潮流",
-    "ZHSubline": "澳洲品牌的清新風格助你在人海中成為焦點"
+    "ExitUrl": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
+    "EventLabel": "SAL|Women|threeforsixty|ALL|NA",
+    "ENHeadline": "Buy 3 For HK$340",
+    "ENSubline": "Three’s not a crowd when the offer’s this good (selected items only).",
+    "ZHHeadline": "HK$340 3件",
+    "ZHSubline": "限時低價配搭3件商品 (只限特選商品)"
   },
   {
     "Placement": "wcu1",
