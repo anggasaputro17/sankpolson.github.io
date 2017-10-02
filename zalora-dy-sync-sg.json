@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ALDO-ZAP-REVISED-SEPT17-W-N1.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoawseventeen&sort=latest%20arrival",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/LIPAULT-ZAP-SEPT17-W-N1.jpg",
+    "Exit Url": "/women/lipault/?csa=lipaultawseventeen",
+    "Headline": "Lipault",
+    "Subline": "Get set for your next holiday with these travel-worthy bags and suitcases.",
+    "EventLabel": "bra|women|lipaultawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-RIVERISLAND-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/river-island/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-TOPSUPTO60OFF-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?discount=0-60&csa=topssixtyoff",
+    "Headline": "Tops Up to 60% Off",
+    "Subline": "Running out of tops to choose from? Not anymore.",
+    "EventLabel": "SAL|Women|topssixtyoff|ALL|NA"
   },
   {
     "Placement": "wn3",
@@ -53,61 +53,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/MANGO-AUGUST17-W-B1-1.jpg",
-    "Exit Url": "/women/mango/?csa=mangoawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/FOREVERNEW-ZAP-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/forever-new/?csa=forevernew2awseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|mangoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|forevernew2awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/FREEPEOPLE-SEPT17-B1.jpg",
-    "Exit Url": "/women/free-people/?csa=freepeopleawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/MANGO-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/mango-shop/?csa=mangoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|freepeopleawseventeen|all|na"
+    "EventLabel": "BRA|Women|mangoawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/SELECTEDFEMME-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/selected-femme/?csa=selectedfemmeawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/ADDICTSANONYMOUS-OCT17-W-B1.jpg",
+    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|selectedfemmeawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/QUAY-AUSTRALIA-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/quay-australia/?csa=quayaustralialaunchawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/HOUSEOFAVENUE-OCT17-W-B1.jpg",
+    "Exit Url": "/women/house-of-avenues/?csa=houseofavenueawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|quayaustralialaunchawseventeen|ALL|NA"
+    "EventLabel": "bra|women|houseofavenueawseventeen|all|zap"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/YAS-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/y-a-s/?csa=YASawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/NIKE-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/nike/special-price/?csa=wnewarrivalsnikeaw16",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|YASawseventeen|ALL|NA"
+    "EventLabel": "NewA|WSP|wnewarrivalsnikeaw16|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/HERSCHEL-JULY17-B1-W.jpg",
-    "Exit Url": "/women/herschel/?csa=herschelawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/PUMA-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/puma/special-price/?csa=pumanewarrivalssale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|herschelawseventeen|ALL|NA"
+    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -213,11 +213,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ALDO-ZAP-REVISED-SEPT17-M-N1.jpg",
-    "Exit Url": "/men/aldo/?csa=aldoawseventeen&sort=latest%20arrival",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Men|aldoawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-SHOESSIXTY-SEPT17-M-N1-1.jpg",
+    "Exit Url": "/men/shoes/?discount=0-60&csa=shoessixty",
+    "Headline": "Shoes Up to 60% Off",
+    "Subline": "Get dressed from the bottom up with shoes that focus on form and function.",
+    "EventLabel": "SAL|Men|shoessixty|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -254,7 +254,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TOPMAN-SEPT17-B1.jpg",
-    "Exit Url": "/topman-singapore/?csa=mcmamstopman17",
+    "Exit Url": "/men/topman/special-price/?csa=mcmamstopman17",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|mcmamstopman17|ALL|NA"
@@ -263,18 +263,18 @@
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SUPERDRY-SEPT17-M-B1.jpg",
-    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/PUMA-SEPT16-M-B1.jpg",
+    "Exit Url": "/men/puma/special-price/?csa=pumanewarrivalssale",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
+    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/HERSCHEL-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
+    "Exit Url": "/men/herschel/special-price/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
@@ -283,31 +283,31 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/VANS-SEPT17-B1.jpg",
-    "Exit Url": "/men/vans/?csa=msmspmbvans16",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ZALORA-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/zalora/special-price/?csa=zaloraawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
+    "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/PUMA-SEPT16-M-B1.jpg",
-    "Exit Url": "/men/puma/?csa=pumanewarrivalssale",
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/VANS-SEPT17-B1.jpg",
+    "Exit Url": "/men/vans/special-price/?csa=msmspmbvans16",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
+    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ZALORA-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/zalora/?csa=zaloraawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SUPERDRY-SEPT17-M-B1.jpg",
+    "Exit Url": "/men/superdry/special-price/?csa=mcsuperdryss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
+    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mc1",
@@ -373,31 +373,31 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ALDO-ZAP-REVISED-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoawseventeen&sort=latest%20arrival",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/LIPAULT-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/lipault/?csa=lipaultawseventeen",
+    "Headline": "Lipault",
+    "Subline": "Get set for your next holiday with these travel-worthy bags and suitcases.",
+    "EventLabel": "bra|women|lipaultawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-RIVERISLAND-ZAP-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/river-island/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-TOPSUPTO60OFF-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?discount=0-60&csa=topssixtyoff",
+    "Headline": "Tops Up to 60% Off",
+    "Subline": "Running out of tops to choose from? Not anymore.",
+    "EventLabel": "SAL|Women|topssixtyoff|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/INFLUENCER-NCWONG-SEPT17-N2.jpg",
-    "Exit Url": "/ncwong/?csa=InfluencerNicole250917",
-    "Headline": "Style Stars: Nicole Wong",
-    "Subline": "Dress your best with iconic looks from Singapore’s leading influencer.",
-    "EventLabel": "TRE|Women|InfluencerNicole250917|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/HDILA-S2-EP4-N2.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA4Purses",
+    "Headline": "HDILA S3: Faux Pas No More",
+    "Subline": "Say goodbye to fashion disasters and hello to a newfound sense of style.",
+    "EventLabel": "TRE|Women|HDILA4Purses|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -433,11 +433,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ALDO-ZAP-REVISED-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/aldo/?csa=aldoawseventeen&sort=latest%20arrival",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Men|aldoawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-SHOESSIXTY-SEPT17-M-N1-1.jpg",
+    "Exit Url": "/men/shoes/?discount=0-60&csa=shoessixty",
+    "Headline": "Shoes Up to 60% Off",
+    "Subline": "Get dressed from the bottom up with shoes that focus on form and function.",
+    "EventLabel": "SAL|Men|shoessixty|ALL|NA"
   },
   {
     "Placement": "mn2",
