@@ -1,5 +1,18 @@
 [
   {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw41/cw41_women_en_SEGMENT_HERO_996x500.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw41/cw41_women_zh_SEGMENT_HERO_996x500.jpg",
+    "ExitUrl": "/women/special-price/?discount=0-60&csa=uptorsixty",
+    "EventLabel": "SAL|Women|uptorsixty|ALL|NA",
+    "ENHeadline": "NA",
+    "ENSubline": "NA",
+    "ZHHeadline": "NA",
+    "ZHSubline": "NA"
+  },
+  {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
