@@ -3,21 +3,21 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING50OFF-HERO-DESK-NEW.jpg",
-    "Exit Url": "/women/all-products/?discount=0-50&csa=mss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING60OFF-HERO-DESK.jpg",
+    "Exit Url": "/women/special-price/?discount=0-60&csa=mss17upto60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT-SAL|Women|MSS17everything50off|ALL|NA"
+    "EventLabel": "CAT-SAL|Women|MSS17upto60off|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-W-N1.jpg",
-    "Exit Url": "/women/all-products/aldo/?csa=aldozap",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CLARISONIC-SEPT17-N1.jpg",
+    "Exit Url": "/women/clarisonic/?csa=clarisoniclaunch",
+    "Headline": "Clarisonic - Now on ZALORA",
+    "Subline": "To celebrate, take 20% off devices",
+    "EventLabel": "BRA|Women|Clarisonic|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -33,21 +33,21 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HDILA-S2-EP4-N2.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/HDILA-S3-EP5-N2.jpg",
     "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
-    "Headline": "HDILA S3 : Faux Pas No More",
-    "Subline": "Say goodbye to fashion disasters and hello to a newfound sense of style",
+    "Headline": "HDILA S3 : The Wonders of White",
+    "Subline": "Break free from the ordinary with the colour that transcends all seasons and occasions.",
     "EventLabel": "TRE|Women|HDILAsept17|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-HEELSUNDERRM250-W-N1.jpg",
-    "Exit Url": "/women/shoes/heels/?price=0-120&csa=mss17heelsunderrm250",
-    "Headline": "Flirty Heels under RM120",
-    "Subline": "Get the hottest heels now at lower prices",
-    "EventLabel": "CAT-SAL|Women|MSS17heelsunderrm250|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-DRESSESUNDERRM120-N1.jpg",
+    "Exit Url": "/women/clothing/dresses?price=0-120?csa=mss17dressesunderrm120",
+    "Headline": "Dresses under RM120",
+    "Subline": "You don’t have to break the bank to take home a new dress or two",
+    "EventLabel": "CAT-SAL|Women|MSS17dressesunderrm250|ALL|NA"
   },
   {
     "Placement": "wcu3",
@@ -63,71 +63,71 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-TOPSUPTO60OFF-W-N2.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?discount=0-60&csa=mss17topsupto60off",
-    "Headline": "Tops up to 60% off",
-    "Subline": "Running out of tops to choose from? Not anymore",
-    "EventLabel": "CAT-SAL|Women|MSS17topsupto60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-BUY3FORRM150-N2.jpg",
+    "Exit Url": "/women/all-products?cmpgn_two=cw41women3f150&price=69-69&csa=mss173forrm150",
+    "Headline": "Get 3 for RM150",
+    "Subline": "Three's not a crowd when the offer is this good",
+    "EventLabel": "CAT-SAL|Women|MSS17threeforhundredfifty|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-AUGUST17-W-B1-1.jpg",
-    "Exit Url": "/women/mango/?csa=mango",
+    "Image": "https://static-my.zacdn.com/cms/dy/SKII-SEPT17-B1.jpg",
+    "Exit Url": "/women/sk-ii/?csa=SKII",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Mango|ALL|NA"
+    "EventLabel": "BRA|Women|SKII|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FREEPEOPLE-SEPT17-B1.jpg",
-    "Exit Url": "/women/free-people/?csa=freepeoplezap",
+    "Image": "https://static-my.zacdn.com/cms/dy/MAYBELLINE-SEPT17-B1.jpg",
+    "Exit Url": "/women/beauty/all-products/maybelline/?csa=maybelline",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|FreePeople|ALL|ZAP"
+    "EventLabel": "BRA|Women|Maybelline|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/UNISA-JUNE17-B1.jpg",
-    "Exit Url": "/women/unisa/?csa=unisa",
+    "Image": "https://static-my.zacdn.com/cms/dy/HOUSEOFAVENUES-OCT17-B1.jpg",
+    "Exit Url": "/women/house-of-avenues?csa=houseofavenues",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Unisa|ALL|NA"
+    "EventLabel": "BRA|Women|HouseofAvenues|ALL|ZAP"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NOSE-AUGUST17-B1.jpg",
-    "Exit Url": "/women/nose/?csa=nose",
+    "Image": "https://static-my.zacdn.com/cms/dy/SULWHASOO-JUNE17-SET2-B1.jpg",
+    "Exit Url": "/women/sulwhasoo/?csa=sulwhashoo",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Nose|ALL|NA"
+    "EventLabel": "BRA|Women|Sulwhasoo|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-W-B1.jpg",
-    "Exit Url": "/women/puma/?csa=yas",
+    "Image": "https://static-my.zacdn.com/cms/dy/NAELOFAR-SEPT17-NEW-B1.jpg",
+    "Exit Url": "/women/naelofar-hijab?csa=naelofarhijab",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Puma|ALL|NA"
+    "EventLabel": "BRA|Women|NaelofarHijab|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWBALANCE-MAY17-B1.jpg",
-    "Exit Url": "/women/new-balance/?csa=newbalance",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-NOV16-W-B1-6.jpg",
+    "Exit Url": "/women/nike?csa=nike",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|NewBalance|ALL|NA"
+    "EventLabel": "BRA|Women|Nike|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,121 +183,121 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-DESK-NEW.jpg",
-    "Exit Url": "/men/all-products/?discount=50-50&csa=mss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHINGUPTO60OFF-HERO-DESK.jpg",
+    "Exit Url": "/men/special-price/?discount=0-60&csa=mss17everything60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
+    "EventLabel": "CAT-SAL|Men|MSS17upto60off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-M-N1.jpg",
-    "Exit Url": "/women/all-products/aldo?csa=aldozap",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Men|Aldo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-FORMALWEARUNDERRM199-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw41mensformalwear&csa=mss17mensformalwear",
+    "Headline": "Formal Wear Under RM199",
+    "Subline": "Get shirts, trousers, dress shoes and more at lower prices",
+    "EventLabel": "CAT-SAL|Men|MSS17formalwearundertwohundred|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WHATSTRENDING-SEPT17-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=cw40menbestsellers&csa=menbestseller",
-    "Headline": "What's Trending Now",
-    "Subline": "Keep yourself up to date with everything that's in demand",
-    "EventLabel": "TRE|Men|BestSeller|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-18OFFMINSPENDRM250-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=cw41men18min250&csa=mss17men18minrm250",
+    "Headline": "Get 18% off with the code 'MSS18'",
+    "Subline": "Valid for items here only with min spend RM250",
+    "EventLabel": "SAL-CAT|Men|MSS17men18minrm250|ALL|NA"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/MSS17-M-SHOESUPTO60OFF-N2.jpg",
-    "Exit Url": "/men/shoes/?discount=0-60&csa=mss17shoesupto60off",
-    "Headline": "Shoes Up to 60% off",
-    "Subline": "Sneakers, Loafers and more now at low prices",
-    "EventLabel": "CAT-SAL|Men|MSS17shoesupto60off|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/MSS17-WATCHESUPTO50OFF-M-N2.jpg",
+    "Exit Url": "/men/watches/all-products?discount=0-50&csa=mss17watchesupto50off",
+    "Headline": "Watches up to 50% off",
+    "Subline": "Update your look with new wristwear",
+    "EventLabel": "CAT-SAL|Men|MSS17watchesupto60off|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-SPORTSWEARUNDERRM250-M-N1.jpg",
-    "Exit Url": "/men/sport/all-products?price=0-250&csa=mss17sportswearunderrm250",
-    "Headline": "Sportswear",
-    "Subline": "Everything under RM250",
-    "EventLabel": "CAT-SAL|MEN|MSS17sportswearunderrm250|ALL|N"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-TSHIRTSUNDERRM100-M-N1.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?price=0-100&csa=mss17tshirtsunderrm100",
+    "Headline": "T-shirts under RM100",
+    "Subline": "Chill out in our tees without breaking the bank",
+    "EventLabel": "CAT-SAL|MEN|MSS17tshirtsunderhundred|ALL|N"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-SHIRTSUPTO60OFF-M-N1.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=0-60&csa=mss17shirtsupto60off",
-    "Headline": "Shirts",
-    "Subline": "Up to 60% off",
-    "EventLabel": "CAT-SAL|Men|MSS17shirtsupto60off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-SHOESUNDERRM200-M-N1.jpg",
+    "Exit Url": "/men/shoes/?price=0-200&csa=mss17shoesunderrm200",
+    "Headline": "Shoes under RM200",
+    "Subline": "Shop the hottest kicks without breaking your budget",
+    "EventLabel": "CAT-SAL|Men|MSS17shoesundertwohundred|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-BUY2GET20OFFBUY3GET30OFF-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_five=cw40men2f203f30&csa=mss17buy2get20buy3get30",
-    "Headline": "Buy 2 get 20% off & Buy 3 get 30% off",
-    "Subline": "Get them before they're sold out",
-    "EventLabel": "SAL|Men|MSS17buy2get20buy3get30|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BAGS-M-UPTO80OFF-N2.jpg",
+    "Exit Url": "/men/bags/?discount=0-80&csa=mss17bagseightyoff",
+    "Headline": "Bag Yourself a New Treat",
+    "Subline": "Get up to 80% off backpacks, messengers and more",
+    "EventLabel": "SAL-CAT|Men|MSS17bagseightyoff|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKECLEARANCE-JULY17-M-B1.jpg",
-    "Exit Url": "/men/nike/?csa=nike",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-B1.jpg",
+    "Exit Url": "/men/topman/?csa=topman",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Nike|ALL|NA"
+    "EventLabel": "BRA|Men|Topman|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ABERCROMBIE&FITCH-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitch",
+    "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-MAR17-M-B1.jpg",
+    "Exit Url": "/men/superdry?csa=superdry",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|AbercrombieFitch|ALL|NA"
+    "EventLabel": "BRA|Men|Superdry|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CASIO-FEB17-B1.jpg",
-    "Exit Url": "/men/casio/?csa=casio",
+    "Image": "https://static-my.zacdn.com/cms/dy/HERSHEL-SEPT17-B1.jpg",
+    "Exit Url": "/men/herschel?csa=hershel",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Casio|ALL|NA"
+    "EventLabel": "BRA|Men|Hershel|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CR7-AUGUST17-B1.jpg",
-    "Exit Url": "/men/cr7/?csa=cr7",
+    "Image": "https://static-my.zacdn.com/cms/dy/VANSPEANUTS-JUNE17-M-B1.jpg",
+    "Exit Url": "/men/vans?csa=vans",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cr7|ALL|NA"
+    "EventLabel": "BRA|Men|Vans|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-M-B1.jpg",
-    "Exit Url": "/men/cotton-on/?csa=cottonon",
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/zalora/?csa=zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|CottonOn|ALL|NA"
+    "EventLabel": "BRA|Men|Zalora|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -363,8 +363,8 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING50OFF-HERO-MOB.jpg",
-    "Exit Url": "/women/all-products?discount=0-50/?csa=mss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-EVERYTHING60OFF-HERO-MOB.jpg",
+    "Exit Url": "/women/special-price/?discount=0-60&csa=mss17upto60off",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|PaydaySeptember17|ALL|NA"
@@ -373,11 +373,11 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-W-N2.jpg",
-    "Exit Url": "/women/all-products/aldo/?csa=aldozap",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Women|Aldo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CLARISONIC-SEPT17-N2.jpg",
+    "Exit Url": "/women/clarisonic/?csa=clarisoniclaunch",
+    "Headline": "Clarisonic - Now on ZALORA",
+    "Subline": "To celebrate, take 20% off devices",
+    "EventLabel": "BRA|Women|Clarisonic|ALL|NA"
   },
   {
     "Placement": "wn2",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHING50OFF-HERO-MOB.jpg",
-    "Exit Url": "/men/all-products/?discount=50-50&csa=mss17everything50off",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-EVERYTHINGUPTO60OFF-HERO-MOB.jpg",
+    "Exit Url": "/men/special-price/?discount=0-60&csa=mss17everything60off",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT-SAL|Men|MSS17everything50off|ALL|NA"
+    "EventLabel": "CAT-SAL|Men|MSS17everything60off|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ALDO-ZAP-REVISED-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/aldo/?csa=aldozap",
-    "Headline": "Aldo",
-    "Subline": "Discover new arrivals that get you maximum impact with minimum effort.",
-    "EventLabel": "BRA|Men|Aldo|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-FORMALWEARUNDERRM199-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw41mensformalwear&csa=mss17mensformalwear",
+    "Headline": "Formal Wear Under RM199",
+    "Subline": "Get shirts, trousers, dress shoes and more at lower prices",
+    "EventLabel": "CAT-SAL|Men|MSS17formalwearundertwohundred|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/SNEAKERS-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/shoes/sneakers-skate/?csa=snakers",
-    "Headline": "Sneakers",
-    "Subline": "Step it up a notch with brand new kicks",
-    "EventLabel": "SAL|Men|Sneakers|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-M-18OFFMINSPENDRM250-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=cw41men18min250&csa=mss17men18minrm250",
+    "Headline": "Get 18% off with the code 'MSS18'",
+    "Subline": "Valid for items here only with min spend RM250",
+    "EventLabel": "SAL-CAT|Men|MSS17men18minrm250|ALL|NA"
   },
   {
     "Placement": "mc1",
