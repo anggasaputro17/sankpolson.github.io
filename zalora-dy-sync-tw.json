@@ -3,41 +3,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/itgirl_SEGMENT_HERO_996x500.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/uptor60_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/women/special-price/?discount=0-60&csa=uptorsixty",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|itgirl|ALL|NA"
+    "EventLabel": "SAL|Women|uptorsixty|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/under40_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/clothing/dresses/?price=0-900&csa=dressesunderforty",
+    "Headline": "NT$900 以下洋裝特輯",
+    "Subline": "不用擔心荷包大失血，也可以帶裙子回家",
+    "EventLabel": "SAL|Women|dressesunderforty|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/riverisland_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "精選品牌，立即擁有一直想要的單品",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas-Taiwan_N2_620x420_Women.jpg",
+    "Exit Url": "/women/adidas/?csa=adidaslaunchawseventeen",
+    "Headline": "Adidas",
+    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
+    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
-    "Headline": "秋季平底鞋",
-    "Subline": "讓完美平底鞋來為妳的穿搭加分",
-    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/hdila_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA5WhitePants",
+    "Headline": "N/A",
+    "Subline": "N/A",
+    "EventLabel": "TRE|Women|HDILA5WhitePants|ALL|NA"
   },
   {
     "Placement": "wn4",
@@ -93,61 +93,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_B1-6_322x165.jpg",
-    "Exit Url": "/topshop-taiwan/?csa=wtopshopss17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NewA|Women|wtopshopss17|ALL|NA"
-  },
-  {
-    "Placement": "wfb2",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/freepeople_B1-6_322x165.jpg",
-    "Exit Url": "/women/free-people/?csa=freepeopleawseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "bra|women|freepeopleawseventeen|all|na"
-  },
-  {
-    "Placement": "wfb3",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39_women_dorothy_B1-6_322x165.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/dorothyperkins_B1-6_322x165.jpg",
     "Exit Url": "/dorothy-perkins-taiwan/?csa=dorothyperkins2ssseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
   },
   {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/iroo_B1_322x165.jpg",
+    "Exit Url": "/women/iroo/?csa=irooawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|irooawseventeen|ALL|ZAP"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/guess_B1-6_322x165.jpg",
+    "Exit Url": "/guess/?csa=wb1wsguessss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wb1wsguessss17|ALL|NA|guess"
+  },
+  {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39w_quay_B1-6_322x165.jpg",
-    "Exit Url": "/women/quay-australia/?csa=quayaustralialaunchawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/addictsanon_B1-6_322x165.jpg",
+    "Exit Url": "/addicts-anonymous/?csa=addictsanonymous1awseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|quayaustralialaunchawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw39/cw39w_godiva_B1-B6.jpg",
-    "Exit Url": "/women/goddiva/?csa=goddivaawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/reebok_B1-6_322x165.jpg",
+    "Exit Url": "/reebok/?csa=wspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA"
+    "EventLabel": "BRA|women|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
-    "Exit Url": "/women/herschel/?csa=herschelawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/newbalance_B_322x165.jpg",
+    "Exit Url": "/new-balance/?csa=newbalancessseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|herschelawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|newbalancessseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -203,41 +203,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/itgirl_MOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=theitgirl&csa=itgirl",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/sal0women0uptorsixty0all0na_women_600x600.jpg",
+    "Exit Url": "/women/special-price/?discount=0-60&csa=uptorsixty",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|itgirl|ALL|NA"
+    "EventLabel": "SAL|Women|uptorsixty|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Women|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/under40_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/clothing/dresses/?price=0-900&csa=dressesunderforty",
+    "Headline": "NT$900 以下洋裝特輯",
+    "Subline": "不用擔心荷包大失血，也可以帶裙子回家",
+    "EventLabel": "SAL|Women|dressesunderforty|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/riverisland_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "精選品牌，立即擁有一直想要的單品",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas-Taiwan_N2_620x420_Women.jpg",
+    "Exit Url": "/women/adidas/?csa=adidaslaunchawseventeen",
+    "Headline": "Adidas",
+    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
+    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/flats_N3_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/shoes/flats/?csa=flatsforfall",
-    "Headline": "秋季平底鞋",
-    "Subline": "讓完美平底鞋來為妳的穿搭加分",
-    "EventLabel": "CAT|Women|flatsforfall|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/hdila_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA5WhitePants",
+    "Headline": "N/A",
+    "Subline": "N/A",
+    "EventLabel": "TRE|Women|HDILA5WhitePants|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -283,53 +283,53 @@
     "Placement": "wb3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/1212eoss/mobile_brands_topshop.gif",
-    "Exit Url": "/women/topshop/?csa=topshopJun",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/GUESS_Logo_436x248.jpg",
+    "Exit Url": "/guess/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|topshopJun|ALL|NA|topshop"
+    "EventLabel": "BRA|Women|wb1wsguessss17|ALL|NA|guess"
   },
   {
     "Placement": "wb4",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/brands/riverisland_women_436x248.jpg",
-    "Exit Url": "/women/river-island/?csa=RiverIslandJun",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/AddictsAnonymous_Logo_436x248.gif",
+    "Exit Url": "/addicts-anonymous/?csa=addictsanonymous1awseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|RiverIslandJun|ALL|NA|river-island"
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/autumnhues_SEGMENT_HERO_996x500.jpg",
-    "Exit Url": "/men/all-products/?color=灰色--米褐色--綠色--褐色&csa=autumnhues",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/below50_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/all-products/special-price/?price=1200",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
+    "EventLabel": "SAL|Men|everythingbelowfifty|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/60shoes_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/shoes/?discount=0-60&csa=shoessixty",
+    "Headline": "男鞋低至4折",
+    "Subline": "選購外型與功能兼俱鞋款，打造出眾時尚造型",
+    "EventLabel": "SAL|Men|shoessixty|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/premiumbrands_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY&csa=premiumbrands",
-    "Headline": "焦點品牌",
-    "Subline": "與Calvin Klein 及更多品牌一同開拓嶄新時尚風格",
-    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas-Taiwan_N2_620x420_Men.jpg",
+    "Exit Url": "/men/adidas/?csa=adidaslaunchawseventeen",
+    "Headline": "Adidas",
+    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
+    "EventLabel": "bra|men|adidaslaunchawseventeen|all|na"
   },
-   {
+  {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
@@ -363,18 +363,18 @@
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/superdry_B1-6_322x165.jpg",
-    "Exit Url": "/superdry/?csa=mcsuperdryss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/reebok_B1-6_322x165.jpg",
+    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
+    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
-    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
+    "Exit Url": "/men/herschel/&csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
@@ -383,31 +383,31 @@
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/life8_B1-6_322x165.jpg",
-    "Exit Url": "/men/life8/?csa=life82ssseventeen",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|life82ssseventeen|ALL|ZAP"
-  },
-  {
-    "Placement": "mfb5",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/reebok_B1-6_322x165.jpg",
-    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
-  },
-  {
-    "Placement": "mfb6",
-    "Gender": "men",
-    "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw40/zalora_B1-6_322x165.jpg",
     "Exit Url": "/men/zalora/?csa=zaloraawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/abercrombie_B1-6_322x165.jpg",
+    "Exit Url": "/men/abercrombie-fitch/&csa=abercrombiefitchawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|abercrombiefitchawseventeen|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw40/superdry_B1-6_322x165.jpg",
+    "Exit Url": "/superdry/?csa=mcsuperdryss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
   },
   {
     "Placement": "mc1",
@@ -463,31 +463,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/tre0men0autumnhues0all0na_men_600x600.jpg",
-    "Exit Url": "/men/all-products/?color=灰色--米褐色--綠色--褐色&csa=autumnhues",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/sal0men0everythingbelowfifty0all0na_men_600x600.jpg",
+    "Exit Url": "/men/all-products/special-price/?price=1200",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|autumnhues|ALL|NA"
+    "EventLabel": "SAL|Men|everythingbelowfifty|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/sisley_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/sisley/?csa=sisleyawseventeen",
-    "Headline": "Sisley",
-    "Subline": "最新秋冬系列升級你的潮流衣櫃彰顯時尚新態度",
-    "EventLabel": "BRA|Men|sisleyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/60shoes_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/shoes/?discount=0-60&csa=shoessixty",
+    "Headline": "男鞋低至4折",
+    "Subline": "選購外型與功能兼俱鞋款，打造出眾時尚造型",
+    "EventLabel": "SAL|Men|shoessixty|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/premiumbrands_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--armani-exchange--boss--boss-green--boss-orange--calvin-klein--daniel-wellington--french-connection--kenneth-cole--tommy-hilfiger&getSKU=O516AA0RPO7MY--BO516AA0RPP0MY--BO516AA0RICRMY&csa=premiumbrands",
-    "Headline": "焦點品牌",
-    "Subline": "與Calvin Klein 及更多品牌一同開拓嶄新時尚風格",
-    "EventLabel": "TRE|Men|premiumbrands|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas-Taiwan_N2_620x420_Men.jpg",
+    "Exit Url": "/men/adidas/?csa=adidaslaunchawseventeen",
+    "Headline": "Adidas",
+    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
+    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
   },
   {
     "Placement": "mn3",
