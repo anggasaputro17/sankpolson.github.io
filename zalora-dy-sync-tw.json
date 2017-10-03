@@ -373,8 +373,8 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw40/herschel_B1-6_322x165.jpg",
-    "Exit Url": "/men/herschel/&csa=herschelawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/B1-6_322x165.jpg",
+    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
