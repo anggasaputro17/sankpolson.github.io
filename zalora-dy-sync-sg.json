@@ -43,11 +43,11 @@
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BUY3FO60OFF-SEPT17-W-N4.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
-    "Headline": "Buy 3 For S$60",
-    "Subline": "Three’s not a crowd when the offer’s this good (selected items only).",
-    "EventLabel": "SAL|Women|threeforsixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-BESTBRANDS-OCT17-W-N4.jpg",
+    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
+    "Headline": "Top Brands Up to 60% Off",
+    "Subline": "Why settle for less when you can get your hands on the very best?",
+    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -223,11 +223,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BUY2GET20OFF-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bestsellerseighteen&csa=bestsellerseighteen",
-    "Headline": "Best Picks: Buy 2 Get 20% Off",
-    "Subline": "Pair your purchases to unlock this exclusive offer (on selected items only).",
-    "EventLabel": "SAL|Men|bestsellerseighteen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-M-N2.jpg",
+    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
+    "Headline": "Esprit - Up to 70% Off",
+    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
+    "EventLabel": "bra|men|espritmssawseventeen|all|zap"
   },
   {
     "Placement": "mn3",
@@ -443,21 +443,21 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BUY2GET20OFF-SEPT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bestsellerseighteen&csa=bestsellerseighteen",
-    "Headline": "Best Picks: Buy 2 Get 20% Off",
-    "Subline": "Pair your purchases to unlock this exclusive offer (on selected items only)",
-    "EventLabel": "SAL|Men|bestsellerseighteen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-M-N2.jpg",
+    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
+    "Headline": "Esprit - Up to 70% Off",
+    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
+    "EventLabel": "bra|men|espritmssawseventeen|all|zap"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW41-LOUNGEEIGHTEEN-SEPT17-M-N3.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=loungewear&csa=loungeeighteen",
-    "Headline": "Loungewear Up to 50% Off",
-    "Subline": "Use LOUNGE18 for additional 18% off with S$80 min. spend (brand exclusions apply).",
-    "EventLabel": "SAL|Men|loungeeighteen|ALL|NA"
+    "Exit Url": "/men/esprit/?csa=espritmssawseventeen",
+    "Headline": "Esprit - Up to 70% Off",
+    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
+    "EventLabel": "bra|men|espritmssawseventeen|all|zap"
   },
   {
     "Placement": "mc1",
@@ -493,11 +493,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW40-BUY3FO60OFF-SEPT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
-    "Headline": "Buy 3 For S$60",
-    "Subline": "Three’s not a crowd when the offer’s this good (selected items only).",
-    "EventLabel": "SAL|Women|threeforsixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-BESTBRANDS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
+    "Headline": "Top Brands Up to 60% Off",
+    "Subline": "Why settle for less when you can get your hands on the very best?",
+    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
     "Placement": "ub2",
