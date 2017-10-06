@@ -363,11 +363,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW41-EVERYTHINGUPTO60OFF-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/special-price/?discount=0-60&csa=uptorsixty",
-    "Headline": "Mid Season Sale",
-    "Subline": "Up to 60% Off",
-    "EventLabel": "SAL|Women|uptorsixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-SITEWIDE-OCT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?csa=mssbackup",
+    "Headline": "Sitewide 18% Off. Use Code OCT18",
+    "Subline": "S$120 min. spend, brand exclusions apply",
+    "EventLabel": "SAL|Women|mssbackup|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -423,17 +423,17 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/CW41-EVERYTHINGBELOW50SGD-SEPT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/special-price/?price=0-50&csa=everythingbelowfifty",
-    "Headline": "Mid Season Sale",
-    "Subline": "Everything Under S$50",
-    "EventLabel": "SAL|Men|everythingbelowfifty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-SITEWIDE-OCT17-M-HERO-MOBILE-1.jpg",
+    "Exit Url": "/women/all-products/?csa=mssbackup",
+    "Headline": "Sitewide 18% Off. Use Code OCT18",
+    "Subline": "S$120 min. spend, brand exclusions apply",
+    "EventLabel": "SAL|Men|mssbackup|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-SHOESSIXTY-SEPT17-M-N1-1.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-SHOESSIXTY-SEPT17-M-N2-1.jpg",
     "Exit Url": "/men/shoes/?discount=0-60&csa=shoessixty",
     "Headline": "Shoes Up to 60% Off",
     "Subline": "Get dressed from the bottom up with shoes that focus on form and function.",
