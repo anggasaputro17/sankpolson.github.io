@@ -573,11 +573,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/3for60_homepage_bottom_326x304.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
-    "Headline": "任選3件只要 NT$1700",
-    "Subline": "限時優惠！任選3件商品只要NT$1700 (只限特選商品)",
-    "EventLabel": "SAL|Women|threeforsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/60off_HOMEPAGE_BOTTOMBANNER_326x304.jpg",
+    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa= bestbrandssixtyoff",
+    "Headline": "熱門品牌低至4折",
+    "Subline": "寵愛自己就趁現在",
+    "EventLabel": "SAL|Women|bestbrandssixtyoff omen|bestbrandssixtyoff|ALL|NA"
   },
   {
     "Placement": "ub2",
