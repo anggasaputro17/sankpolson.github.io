@@ -39,15 +39,15 @@
     "Subline": "與永不過氣的白色一起打破日常框框",
     "EventLabel": "TRE|Women|HDILA5WhitePants|ALL|NA"
   },
-  {
+{
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/threesixty_N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
-    "Headline": "任選3件只要 NT$1700",
-    "Subline": "限時優惠！任選3件商品只要NT$1700 (只限特選商品)",
-    "EventLabel": "SAL|Women|threeforsixty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/60off_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
+    "Headline": "熱門品牌低至4折",
+    "Subline": "寵愛自己就趁現在",
+    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -203,11 +203,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/sal0women0uptorsixty0all0na_women_600x600.jpg",
-    "Exit Url": "/women/special-price/?discount=0-60&csa=uptorsixty",
+    "Image": "https://static-tw.zacdn.com/cms/cw42/sal0women0mssbackup0all0na_women_600x600.jpg",
+    "Exit Url": "/women/all-products/?csa=mssbackup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|uptorsixty|ALL|NA"
+    "EventLabel": "SAL|Women|mssbackup|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -323,11 +323,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas_N2_NEWARRIVALS_620x420_men.jpg",
-    "Exit Url": "/men/adidas/?csa=adidaslaunchawseventeen",
-    "Headline": "Adidas",
-    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
-    "EventLabel": "bra|men|adidaslaunchawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw42/esprit_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
+    "Headline": "Esprit – 低至3折",
+    "Subline": "立即選購休閒服飾，享有豐富優惠",
+    "EventLabel": "bra|men|espritmssawseventeen|all|na"
   },
   {
     "Placement": "mn3",
@@ -463,11 +463,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/below50_MOBILEWEB_HERO_600x600_TW.jpg",
-    "Exit Url": "/men/all-products/special-price/?price=1200",
+    "Image": "https://static-tw.zacdn.com/cms/cw42/6oct_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/all-products/?csa=mssbackup",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|everythingbelowfifty|ALL|NA"
+    "EventLabel": "SAL|Men|mssbackup|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -483,11 +483,11 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/adidas_N2_NEWARRIVALS_620x420_men.jpg",
-    "Exit Url": "/men/adidas/?csa=adidaslaunchawseventeen",
-    "Headline": "Adidas",
-    "Subline": "最前衛的運動服飾系列，陪您迎接最精彩的挑戰",
-    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw42/esprit_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/esprit/?csa=espritmssawseventeen",
+    "Headline": "Esprit – 低至3折",
+    "Subline": "立即選購休閒服飾，享有豐富優惠",
+    "EventLabel": "bra|men|espritmssawseventeen|all|na"
   },
   {
     "Placement": "mn3",
