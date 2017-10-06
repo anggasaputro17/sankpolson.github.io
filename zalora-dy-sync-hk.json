@@ -640,14 +640,14 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw41/cw41_mss_women_en_homepage_bottom_326x304.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw42/cw42_women_en_N4_HOMEPAGE_BOTTOMBANNER_326x304.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/all-products/?cmpgn_one=threesixty&csa=threeforsixty",
-    "EventLabel": "SAL|Women|threeforsixty|ALL|NA",
-    "ENHeadline": "Buy 3 For HK$340",
-    "ENSubline": "Three’s not a crowd when the offer’s this good (selected items only).",
-    "ZHHeadline": "HK$340 3件",
-    "ZHSubline": "限時低價配搭3件商品 (只限特選商品)"
+    "ExitUrl": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
+    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA",
+    "ENHeadline": "Top Brands Up to 60% Off",
+    "ENSubline": "Why settle for less when you can get your hands on the very best?",
+    "ZHHeadline": "熱門品牌低至4折",
+    "ZHSubline": "當你值得最好時，為何仍要退而求其次?"
   },
   {
     "Placement": "ub2",
