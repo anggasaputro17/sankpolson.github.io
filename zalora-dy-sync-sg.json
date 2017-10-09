@@ -114,7 +114,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0watches0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/watches/?discount=20-70",
+    "Exit Url": "/women/watches/?discount=0-70",
     "Headline": "NA",
     "Subline": "WATCHES UP TO 70% OFF >",
     "EventLabel": "CAT|Women|watches|ALL|NA"
@@ -144,7 +144,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0skirts0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=20-70",
+    "Exit Url": "/women/clothing/skirts/?discount=0-70",
     "Headline": "NA",
     "Subline": "SKIRTS UP TO 70% OFF >",
     "EventLabel": "CAT|Women|skirts|ALL|NA"
@@ -154,7 +154,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0backpacks0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/bags/backpacks/?discount=20-50",
+    "Exit Url": "/women/bags/backpacks/?discount=0-50",
     "Headline": "NA",
     "Subline": "BACKPACKS UP TO 50% OFF >",
     "EventLabel": "CAT|Women|backpacks|ALL|NA"
@@ -314,7 +314,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0shirts0all0namens_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=20-70",
+    "Exit Url": "/men/clothing/shirts/?discount=0-70",
     "Headline": "NA",
     "Subline": "SHIRTS UP TO 70% OFF >",
     "EventLabel": "CAT|men|shirts|ALL|NA"
@@ -324,7 +324,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0accessories0all0na_men_300198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/accessories/?discount=20-60",
+    "Exit Url": "/men/accessories/?discount=0-60",
     "Headline": "NA",
     "Subline": "ACCESSORIES UP TO 60% OFF >",
     "EventLabel": "CAT|men|accessories|ALL|NA"
@@ -334,7 +334,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0sneakers0all0na_men_375x500-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=20-60",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-60",
     "Headline": "NA",
     "Subline": "SNEAKERS UP TO 60% OFF >",
     "EventLabel": "CAT|men|sneakers|ALL|NA"
@@ -344,7 +344,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0backpacks0all0na_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/bags/backpacks/?discount=20-60",
+    "Exit Url": "/men/bags/backpacks/?discount=0-60",
     "Headline": "NA",
     "Subline": "BACKPACKS UP TO 60% OFF >",
     "EventLabel": "CAT|men|backpacks|ALL|NA"
@@ -404,7 +404,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0watches0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/watches/?discount=20-70",
+    "Exit Url": "/women/watches/?discount=0-70",
     "Headline": "NA",
     "Subline": "WATCHES UP TO 70% OFF >",
     "EventLabel": "CAT|Women|watches|ALL|NA"
@@ -464,7 +464,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0shirts0all0namens_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=20-70",
+    "Exit Url": "/men/clothing/shirts/?discount=0-70",
     "Headline": "NA",
     "Subline": "SHIRTS UP TO 70% OFF >",
     "EventLabel": "CAT|men|shirts|ALL|NA"
@@ -474,7 +474,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0sneakers0all0na_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=20-60",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-60",
     "Headline": "NA",
     "Subline": "SNEAKERS UP TO 60% OFF >",
     "EventLabel": "CAT|men|sneakers|ALL|NA"
