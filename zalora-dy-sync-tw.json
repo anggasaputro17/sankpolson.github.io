@@ -583,11 +583,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw42/220330_women_SEGMENT_HEADER_326x304.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=twotwentythreethirty&csa=twotwentythreethirty",
-    "Headline": "買2件8折<BREAK>買3件或以上7折",
-    "Subline": "更多更好的服飾，讓你更期待開箱",
-    "EventLabel": "SAL|Women|twotwentythreethirty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw41/under40_bottompage_326x304.jpg",
+    "Exit Url": "/women/clothing/dresses/?price=0-900&csa=dressesunderforty",
+    "Headline": "NT$900 以下洋裝特輯",
+    "Subline": "不用擔心荷包大失血，也可以帶裙子回家",
+    "EventLabel": "SAL|Women|dressesunderforty|ALL|NA"
   },
   {
     "Placement": "ub3",
