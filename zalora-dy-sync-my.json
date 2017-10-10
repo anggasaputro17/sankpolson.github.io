@@ -244,7 +244,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BUY2GET20OFFBUY3GET30OFF-M-N2.jpg",
-    "Exit Url": "/men/all-products?cmpgn_five=cw40men2f203f30&csa=mss17buy2get20offbuy3get30off",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw42menbuy2get20buy3get30&csa=mss17buy2get20offbuy3get30off",
     "Headline": "Stack up and save",
     "Subline": "Buy 2 get 20% off & Buy 3 or more get 30% off",
     "EventLabel": "SAL-CAT|Men|mss17buy2get20offbuy3get30off|ALL|NA"
@@ -434,7 +434,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BUY2GET20OFFBUY3GET30OFF-M-N2.jpg",
-    "Exit Url": "/men/all-products?cmpgn_five=cw40men2f203f30&csa=mss17buy2get20offbuy3get30off",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw42menbuy2get20buy3get30&csa=mss17buy2get20offbuy3get30off",
     "Headline": "Stack up and save",
     "Subline": "Buy 2 get 20% off & Buy 3 or more get 30% off",
     "EventLabel": "SAL-CAT|Men|mss17buy2get20offbuy3get30off|ALL|NA"
