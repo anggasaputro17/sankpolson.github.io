@@ -43,11 +43,11 @@
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-W-DRESSESUNDERRM120-N1.jpg",
-    "Exit Url": "/women/clothing/dresses?price=0-120&csa=mss17dressesunderrm120",
-    "Headline": "Dresses under RM120",
-    "Subline": "You don’t have to break the bank to take home a new dress or two",
-    "EventLabel": "CAT-SAL|Women|MSS17dressesunderrm250|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BENEFIT-OCT17-20OFF-N1.jpg",
+    "Exit Url": "/women/benefit?csa=mycybersalebenefit",
+    "Headline": "#MYCYBERSALE - Benefit Cosmetics",
+    "Subline": "Get 10% off with our exclusive promo when you shop 2 or more items",
+    "EventLabel": "SAL-BRA|Women|mycybersalebenefit|ALL|NA"
   },
   {
     "Placement": "wcu3",
