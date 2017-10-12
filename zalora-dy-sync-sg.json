@@ -500,14 +500,14 @@
     "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
-    "Placement": "ub2",
-    "Gender": "unisex",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/CW41-DRESSESUNDER40-SEPT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/clothing/dresses/?price=0-40&csa=dressesunderforty",
-    "Headline": "Dresses Under S$40",
-    "Subline": "You don’t have to break the bank to take home a new dress or two.",
-    "EventLabel": "SAL|Women|dressesunderforty|ALL|NA"
+     "Placement": "ub2",
+     "Gender": "unisex",
+     "Device": "desktop",
+     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+     "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
+     "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
+     "Subline": "Your fashion haul just got bigger and better.",
+     "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
   },
   {
     "Placement": "ub3",
