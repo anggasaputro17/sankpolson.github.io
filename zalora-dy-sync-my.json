@@ -45,8 +45,8 @@
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/BENEFIT-OCT17-20OFF-N1.jpg",
     "Exit Url": "/women/benefit?csa=mycybersalebenefit",
-    "Headline": "#MYCYBERSALE - Benefit Cosmetics",
-    "Subline": "Get 10% off with our exclusive promo when you shop 2 or more items",
+    "Headline": "Benefit Cosmetics",
+    "Subline": "Shop your instant beauty fixes and makeup here",
     "EventLabel": "SAL-BRA|Women|mycybersalebenefit|ALL|NA"
   },
   {
@@ -363,7 +363,7 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-MYCYBERSALE-EVERYTHINGRM150-W-MOB-HERO.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-EVERYTHINGUNDERRM150-W-HERO-MOB.jpg",
     "Exit Url": "/women/special-price?price=0-150&csa=mss17everythingunderrm150",
     "Headline": "NA",
     "Subline": "NA",
@@ -413,7 +413,7 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-MYCYBERSALE-EVERYTHINGRM150-M-MOB-HERO.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-EVERYTHINGUNDERRM150-M-HERO-MOB.jpg",
     "Exit Url": "/men/special-price?price=0-150&csa=mss17everythingunderrm150",
     "Headline": "NA",
     "Subline": "NA",
