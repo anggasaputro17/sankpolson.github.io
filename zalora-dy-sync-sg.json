@@ -3,161 +3,161 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-EVERYTHINGUNDER50-SEPT17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?price=0-50&csa=underfifty",
-    "Headline": "Everything Under S$50",
-    "Subline": "NA",
-    "EventLabel": "SAL|Women|underfifty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
+    "Headline": "October’s New Arrivals",
+    "Subline": "Make this month count with the latest collection to hit town.",
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-HIGHSTREETSHOESANDBAGS-OCT17-W-N1.jpg",
-    "Exit Url": "/product-index/nabagsshoes/?price=25-1000000000&csa=highstreetshoesbags",
-    "Headline": "Shoes and Bags From S$25",
-    "Subline": "Rise above the competition in these high street additions.",
-    "EventLabel": "SAL|Women|highstreetshoesbags|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-W-N1.jpg",
+    "Exit Url": "/women/odlo/?csa=odloawseventeen",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
+    "EventLabel": "bra|women|odloawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-W-N2.jpg",
-    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
-    "EventLabel": "bra|women|espritmssawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-W-N2.jpg",
+    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
+    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/HDILA-S3-EP6-N2.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA6Uniform",
-    "Headline": "SHOP VIA INTERACTIVE VIDEOS",
-    "Subline": "Rework your dress code with class-leading jackets and sneakers inspired by the show.",
-    "EventLabel": "TRE|Women|HDILA6Uniform|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ANDREACHONG-INFLUENCER-OCT17-W-N2.jpg",
+    "Exit Url": "/dreachong?csa=DreaChong",
+    "Headline": "Style Stars: Drea Chong",
+    "Subline": "Take a cue from Singapore’s top fashion blogger and perfect your next holiday look.",
+    "EventLabel": "TRE-MRC|Women|DreaChong|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-BESTBRANDS-OCT17-W-N4.jpg",
-    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
-    "Headline": "Top Brands Up to 60% Off",
-    "Subline": "Why settle for less when you can get your hands on the very best?",
-    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-LASTOFSALESEASON-OCT17-W-N4.jpg",
+    "Exit Url": "/women/all-products/?discount=0-60&csa=lastofmss",
+    "Headline": "Final Call - Up to 60% Off",
+    "Subline": "Your last chance to shop everything you want before time runs out.",
+    "EventLabel": "SAL|Women|lastofmss|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/DOROTHYPERKIN-OCT17-W-B1.jpg",
-    "Exit Url": "/women/dorothy-perkins/special-price/?csa=dorothyperkins2ssseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HERJEWELLERY-OCT17-W-B1.jpg",
+    "Exit Url": "/women/her-jewellery/?csa=herjewelleryawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|dorothyperkins2ssseventeen|ALL|NA"
+    "EventLabel": "bra|women|herjewelleryawseventeen|all|zap"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/MANGO-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/mango-shop/?csa=mangoawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/THOMASSADO-OCT17-W-B1.jpg",
+    "Exit Url": "/women/thomas-sabo/?csa=thomassaboawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|mangoawseventeen|ALL|NA"
+    "EventLabel": "bra|women|thomassaboawseventeen|all|na"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/GUESS-OCT17-W-B1.jpg",
-    "Exit Url": "/women/guess/?csa=wb1wsguessss17",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/MISSSELFRIDGE-OCT17-W-B1.jpg",
+    "Exit Url": "/miss-selfridge/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WB-WS|wb1wsguessss17|ALL|NA|guess"
+    "EventLabel": "bra|women|missselfridgeawseventeen|all|na"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/ADDICTSANONYMOUS-OCT17-W-B1.jpg",
-    "Exit Url": "/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SOMETHINGBORROWED-OCT17-W-B1.jpg",
+    "Exit Url": "/women/something-borrowed/?csa=somethingborrowed",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|somethingborrowed|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/NIKE-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/nike/special-price/?csa=wnewarrivalsnikeaw16",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/GODDIVA-OCT17-W-B1.jpg",
+    "Exit Url": "/women/goddiva/?csa=goddivaawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|WSP|wnewarrivalsnikeaw16|ALL|NA"
+    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Sept17/PUMA-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/puma/special-price/?csa=pumanewarrivalssale",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALLITSPRING-OCT17-W-B1.jpg",
+    "Exit Url": "/women/call-it-spring/?csa=callitspringawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
+    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0watches0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/watches/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_TOPS-CW43.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "WATCHES UP TO 70% OFF >",
-    "EventLabel": "CAT|Women|watches|ALL|NA"
+    "Subline": "SHOP TOPS>",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0jacketsandcoats0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/clothing/jackets-and-coats/?discount=0-40",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_SKIRTS-CW43.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
-    "Subline": "OUTERWEAR UP TO 40% OFF>",
-    "EventLabel": "CAT|Women|jacketsandcoats|ALL|NA"
+    "Subline": "SHOP SKIRTS>",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0playsuits0all0na_women_375x500-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C3_375x500_DRESSES-CW43.jpg",
+    "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
-    "Subline": "PLAYSUITS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "SHOP DRESSES>",
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0skirts0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_HEELS-CW43.jpg",
+    "Exit Url": "/women/shoes/?csa=heels",
     "Headline": "NA",
-    "Subline": "SKIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "SHOP HEELS>",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0backpacks0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/bags/backpacks/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_ACCESSORIES-CW43.jpg",
+    "Exit Url": "/women/accessories/?csa=accessories",
     "Headline": "NA",
-    "Subline": "BACKPACKS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|backpacks|ALL|NA"
+    "Subline": "SHOP ACCESSORIES>",
+    "EventLabel": "CAT|Women|accessories|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -203,281 +203,281 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-EVERYTHINGUPTO50OFF-M-OCT17-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?discount=0-50&csa=fiftyoff",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|fiftyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-OCTOBERNEWARRIVALS-OCT17-M-HERO-DESKTOP-CTA.jpg",
+    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
+    "Headline": "On To October",
+    "Subline": "Skip the queue and get first dibs on the latest arrivals.",
+    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-DENIMMSS-OCT17-M-N1.jpg",
-    "Exit Url": "/men/denim/?sort=price&price=15-10000&csa=denimms",
-    "Headline": "Denim Finds From S$15",
-    "Subline": "Add a dash of trusty indigo to all your stylish choices.",
-    "EventLabel": "SAL|Men|denimms|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-M-N1.jpg",
+    "Exit Url": "/men/odlo/?csa=odloawseventeen",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
+    "EventLabel": "bra|men|odloawseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-M-N2.jpg",
-    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
-    "EventLabel": "bra|men|espritmssawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-M-N2-1.jpg",
+    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
+    "EventLabel": "bra|men|calvinkleinawseventeen|all|zap"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-HIGHSTREETBRANDSUPTO40OFF-OCT17-M-N3.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--converse--cotton-on--factorie--fjallraven-kanken--hollister--jack-jones--jaxon--mango-man--river-island&discount=20-40&csa=highstreetthirty",
-    "Headline": "Premium Picks Up to 40% Off",
-    "Subline": "Let these high street threads tell the story of your unspoken style.",
-    "EventLabel": "SAL|Men|highstreetthirty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BOHOMAN-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
+    "Headline": "Effortlessly Boho",
+    "Subline": "Forget everything you knew about typical styling and dress down in total comfort.",
+    "EventLabel": "TRE|Men|bohoman|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-M-N4.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=twotwentythreethirty&csa=twotwentythreethirtymen",
-    "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
-    "Subline": "Take your pick from all that you're eyeing.",
-    "EventLabel": "SAL|Women|twotwentythreethirtymen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-LASTOFSALESEASON-OCT17-M-N4.jpg",
+    "Exit Url": "/men/all-products/special-price/?discount=0-60&csa=lastofmss",
+    "Headline": "Final Call - Up to 60% Off",
+    "Subline": "Sale’s about to be over, so don’t let this limited time offer slip away.",
+    "EventLabel": "SAL|Men|lastofmss|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/TOPMAN-SEPT17-B1.jpg",
-    "Exit Url": "/men/topman/special-price/?csa=mcmamstopman17",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ADIDAS-OCT17-M-B1.jpg",
+    "Exit Url": "/adidas-shop/?csa=adidasawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mcmamstopman17|ALL|NA"
+    "EventLabel": "DSK BRA|Men|adidasawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/PUMA-SEPT16-M-B1.jpg",
-    "Exit Url": "/men/puma/special-price/?csa=pumanewarrivalssale",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HERSCHEL-OCT17-M-B1.jpg",
+    "Exit Url": "/men/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MSP|pumanewarrivalssale|ALL|NA"
+    "EventLabel": "RA|Men|herschelawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/HERSCHEL-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/herschel/special-price/?csa=herschelawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/THOMASSADO-OCT17-M-B1.jpg",
+    "Exit Url": "/men/thomas-sabo/?csa=thomassaboawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
+    "EventLabel": "bra|men|thomassaboawseventeen|all|na"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/ZALORA-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/zalora/special-price/?csa=zaloraawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CONVERSE-OCT17-M-B1.jpg",
+    "Exit Url": "/men/converse/?csa=conversamss",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|zaloraawseventeen|ALL|NA"
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw40/Sept17/VANS-SEPT17-B1.jpg",
-    "Exit Url": "/men/vans/special-price/?csa=msmspmbvans16",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HOLLISTER-OCT17-M-B1.jpg",
+    "Exit Url": "/men/hollister/?csa=hollisterawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
+    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw39/Sept17/SUPERDRY-SEPT17-M-B1.jpg",
-    "Exit Url": "/men/superdry/special-price/?csa=mcsuperdryss17",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/MANGO-OCT17-M-B1.jpg",
+    "Exit Url": "/men/mango-shop/?csa=mangoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mcsuperdryss17|ALL|NA|superdry"
+    "EventLabel": "BRA|Men|mangoawseventeen|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0shirts0all0namens_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Longpants-CW43.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
-    "Subline": "SHIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|men|shirts|ALL|NA"
+    "Subline": "SHOP PANTS>",
+    "EventLabel": "CAT|men|pants|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0accessories0all0na_men_300198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/accessories/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_FormalShoes-CW43.jpg",
+    "Exit Url": "/men/shoes/formal-shoes/?csa=businessshoes",
     "Headline": "NA",
-    "Subline": "ACCESSORIES UP TO 60% OFF >",
-    "EventLabel": "CAT|men|accessories|ALL|NA"
+    "Subline": "SHOP BUSINESS SHOES>",
+    "EventLabel": "CAT|Men|businessshoes|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0sneakers0all0na_men_375x500-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C3_375x500_Shirts-CW43.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
-    "Subline": "SNEAKERS UP TO 60% OFF >",
-    "EventLabel": "CAT|men|sneakers|ALL|NA"
+    "Subline": "SHOP TSHIRTS>",
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0backpacks0all0na_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/bags/backpacks/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_sweatshirts-CW43.jpg",
+    "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
-    "Subline": "BACKPACKS UP TO 60% OFF >",
-    "EventLabel": "CAT|men|backpacks|ALL|NA"
+    "Subline": "SHOP HOODIES & SWEATSHIRTS>",
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0jacketsandcoats0all0na_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/clothing/jackets-coats/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_WATCHES-CW43.jpg",
+    "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
-    "Subline": "OUTERWEAR UP TO 50% OFF >",
-    "EventLabel": "CAT|men|jacketsandcoats|ALL|NA"
+    "Subline": "SHOP WATCHES>",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-EVERYTHINGUNDER50-SEPT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?price=0-50&csa=underfifty",
-    "Headline": "Everything Under S$50",
-    "Subline": "NA",
-    "EventLabel": "SAL|Women|underfifty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
+    "Headline": "October’s New Arrivals",
+    "Subline": "Make this month count with the latest collection to hit town.",
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-HIGHSTREETSHOESANDBAGS-OCT17-W-N2.jpg",
-    "Exit Url": "/product-index/nabagsshoes/?price=25-1000000000&csa=highstreetshoesbags",
-    "Headline": "Shoes and Bags From S$25",
-    "Subline": "Rise above the competition in these high street additions.",
-    "EventLabel": "SAL|Women|highstreetshoesbags|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-W-N2.jpg",
+    "Exit Url": "/women/odlo/?csa=odloawseventeen",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
+    "EventLabel": "bra|women|odloawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-W-N2.jpg",
-    "Exit Url": "/esprit-shop/?csa=espritmssawseventeen",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
-    "EventLabel": "bra|women|espritmssawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-W-N2.jpg",
+    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
+    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/HDILA-S3-EP6-N2.jpg",
-    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA6Uniform",
-    "Headline": "SHOP VIA INTERACTIVE VIDEOS",
-    "Subline": "Rework your dress code with class-leading jackets and sneakers inspired by the show.",
-    "EventLabel": "TRE|Women|HDILA6Uniform|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ANDREACHONG-INFLUENCER-OCT17-W-N2.jpg",
+    "Exit Url": "/dreachong?csa=DreaChong",
+    "Headline": "Style Stars: Drea Chong",
+    "Subline": "Take a cue from Singapore’s top fashion blogger and perfect your next holiday look.",
+    "EventLabel": "TRE-MRC|Women|DreaChong|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0watches0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/watches/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_TOPS-CW43.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "WATCHES UP TO 70% OFF >",
-    "EventLabel": "CAT|Women|watches|ALL|NA"
+    "Subline": "SHOP TOPS>",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0women0playsuits0all0na_women_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/?discount=0-50",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_DRESSES-CW43.jpg",
+    "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
-    "Subline": "PLAYSUITS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "SHOP DRESSES>",
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-EVERYTHINGUPTO50OFF-M-OCT17-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?discount=0-50&csa=fiftyoff",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|fiftyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-OCTOBERNEWARRIVALS-OCT17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
+    "Headline": "On To October",
+    "Subline": "Skip the queue and get first dibs on the latest arrivals.",
+    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-DENIMMSS-OCT17-M-N2.jpg",
-    "Exit Url": "/men/denim/?sort=price&price=15-10000&csa=denimms",
-    "Headline": "Denim Finds From S$15",
-    "Subline": "Add a dash of trusty indigo to all your stylish choices.",
-    "EventLabel": "SAL|Men|denimms|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-M-N2.jpg",
+    "Exit Url": "/men/odlo/?csa=odloawseventeen",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
+    "EventLabel": "bra|men|odloawseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-ESPRIT-ZAP-OCT17-M-N2.jpg",
-    "Exit Url": "/men/esprit/?csa=espritmssawseventeen",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces.",
-    "EventLabel": "bra|men|espritmssawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-M-N2-1.jpg",
+    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
+    "EventLabel": "bra|men|calvinkleinawseventeen|all|zap"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-HIGHSTREETBRANDSUPTO40OFF-OCT17-M-N3.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--converse--cotton-on--factorie--fjallraven-kanken--hollister--jack-jones--jaxon--mango-man--river-island&discount=20-40&csa=highstreetthirty",
-    "Headline": "Premium Picks Up to 40% Off",
-    "Subline": "Let these high street threads tell the story of your unspoken style.",
-    "EventLabel": "SAL|Men|highstreetthirty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BOHOMAN-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
+    "Headline": "Effortlessly Boho",
+    "Subline": "Forget everything you knew about typical styling and dress down in total comfort.",
+    "EventLabel": "TRE|Men|bohoman|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0shirts0all0namens_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=0-70",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Longpants-CW43.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
-    "Subline": "SHIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|men|shirts|ALL|NA"
+    "Subline": "SHOP PANTS>",
+    "EventLabel": "CAT|men|pants|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/cat0men0sneakers0all0na_men_300x198-CW42-OCT17-1.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?discount=0-60",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Shirts-CW43.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
-    "Subline": "SNEAKERS UP TO 60% OFF >",
-    "EventLabel": "CAT|men|sneakers|ALL|NA"
+    "Subline": "SHOP TSHIRTS>",
+    "EventLabel": "CAT|Men|tshirts|ALL|NA"
   },
   {
     "Placement": "uh1",
@@ -500,14 +500,14 @@
     "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
-     "Placement": "ub2",
-     "Gender": "unisex",
-     "Device": "desktop",
-     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
-     "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
-     "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
-     "Subline": "Your fashion haul just got bigger and better.",
-     "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
+    "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
+    "Subline": "Your fashion haul just got bigger and better.",
+    "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
   },
   {
     "Placement": "ub3",
@@ -613,11 +613,11 @@
     "Placement": "skinny-full-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|NA|skinnyfullcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
     "Placement": "skinny-half-left-homepage",
@@ -640,47 +640,77 @@
     "EventLabel": "SAL|NA|skinnyhalfrightcampaign|ALL|NA"
   },
   {
-    "Placement": "skinny-full-women",
+    "Placement": "skinny-full-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|Women|skinnyfullcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
-    "Placement": "skinny-half-left-women",
+    "Placement": "skinny-half-left-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
+    "Image": "#99b2d6",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17",
+    "Headline": "SUBSCRIBE TO SINGAPORE'S LEADING FASHION & BEAUTY MAGAZINES >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Women|skinnyhalfleftcampaign|ALL|NA"
+    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
   },
   {
-    "Placement": "skinny-half-right-women",
+    "Placement": "skinny-half-right-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|Women|skinnyhalfrightcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
-    "Placement": "skinny-full-men",
+    "Placement": "skinny-full-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#99b2d6",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17",
+    "Headline": "SUBSCRIBE TO SINGAPORE'S LEADING FASHION & BEAUTY MAGAZINES >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#000",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|Men|skinnyfullcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
-    "Placement": "skinny-half-left-men",
+    "Placement": "skinny-half-left-men-global",
     "Gender": "men",
     "Device": "desktop",
     "Image": "#000",
@@ -690,7 +720,37 @@
     "EventLabel": "SAL|Men|skinnyhalfleftcampaign|ALL|NA"
   },
   {
-    "Placement": "skinny-half-right-men",
+    "Placement": "skinny-half-right-men-global",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#000",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|skinnyhalfrightcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-men-segment",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-men-segment",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#000",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|skinnyhalfleftcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-men-segment",
     "Gender": "men",
     "Device": "desktop",
     "Image": "#000",
