@@ -55,14 +55,14 @@
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw42/cw42_women_en_N4_NEWARRIVALS_360x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw43/cw43_women_en__DesktopN4_NEWARRIVALS_360x420.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
-    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA",
-    "ENHeadline": "Top Brands Up to 60% Off",
-    "ENSubline": "Why settle for less when you can get your hands on the very best?",
-    "ZHHeadline": "熱門品牌低至4折",
-    "ZHSubline": "當你值得最好時，為何仍要退而求其次?"
+    "ExitUrl": "/women/feature/neutrals/?csa=nudeandneutrals",
+    "EventLabel": "TRE|Women|nudeandneutrals|ALL|NA",
+    "ENHeadline": "Nude and Neutrals Edit",
+    "ENSubline": "Discover the colours and tones everyone’s been talking about.",
+    "ZHHeadline": "裸色美感",
+    "ZHSubline": "裸色系列襯托完美氣質"
   },
   {
     "Placement": "wcu1",
