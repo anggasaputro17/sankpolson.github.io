@@ -3,111 +3,111 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-MODESTWEAR-W-N1.jpg",
-    "Exit Url": "/women/special-price/?discount=0-60&csa=mss17upto60off",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-OCT17-W-HERO-1.jpg",
+    "Exit Url": "/women/new-products/?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT-SAL|Women|MSS17upto60off|ALL|NA"
+    "EventLabel": "TRE|Women|NewArrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-MODESTWEAR-W-N1.jpg",
-    "Exit Url": "/women/all-products?cmpgn_three=cw40modestwear&csa=mssmodestwear",
-    "Headline": "Must-have Modest Wear",
-    "Subline": "Featuring designs from Rizalman, Jovian Mandagie, Tsyahmi, Rico Rinaldi and more",
-    "EventLabel": "SAL|Women|MSSModestwear|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-W-N1.jpg",
+    "Exit Url": "/women/odlo/?csa=odlozap",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready",
+    "EventLabel": "BRA|Women|Odlo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-W-N2.jpg",
-    "Exit Url": "/women/esprit/?sort=discount&csa=esprit70zap",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces",
-    "EventLabel": "SAL-BRA|Women|mssespritseventyoff|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-W-N2.jpg",
+    "Exit Url": "/women/calvin-klein/?csa=calvinkleinzap",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust",
+    "EventLabel": "BRA|Women|CalvinKlein|ALL|ZAP"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HDILA-S3-EP6-N2.jpg",
+    "Image": "https://static-my.zacdn.com/cms/dy/HDILA-EP7-N2.jpg",
     "Exit Url": "/women/how-do-i-look-asia/?csa=hdilasept17",
     "Headline": "How Do I Look Asia S3",
-    "Subline": "Rework your dress code with class-leading jackets and sneakers inspired by the show.",
+    "Subline": "See the jewel tones we're eyeing this season and own them right away.",
     "EventLabel": "TRE|Women|HDILAsept17|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BENEFIT-OCT17-20OFF-N1.jpg",
-    "Exit Url": "/women/benefit?csa=mycybersalebenefit",
-    "Headline": "Benefit Cosmetics",
-    "Subline": "Shop your instant beauty fixes and makeup here",
-    "EventLabel": "SAL-BRA|Women|mycybersalebenefit|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N1.jpg",
+    "Exit Url": "/women/new-products/sport/?csa=sportsnewarrival",
+    "Headline": "Sports New Arrivals",
+    "Subline": "Where style meets functionality",
+    "EventLabel": "CAT|Women|sportsnewarrival|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BUY2FOR20BUY3FOR30-W-N1.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=cw42women3get30&csa=mss17buy2get20buy3get30",
-    "Headline": "Stack up and save",
-    "Subline": "Get 30% off when you buy 3 or more items here",
-    "EventLabel": "SAL|Women|MSS17buytwofortwentybuythreeforthirty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MIDISKIRTS-OCT17-N1.jpg",
+    "Exit Url": "/women/clothing/skirts/?age=0-60&csa=musthavemidiskirts",
+    "Headline": "Must-Have Midi Skirts",
+    "Subline": "Give your wardrobe a new edge with this versatile piece",
+    "EventLabel": "CAT|Women|musthavemidiskirts|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-TOPBRANDSUPTO60OFF-W-N2.jpg",
-    "Exit Url": "/women/special-price/?discount=0-60&brand=cotton-on--cotton-on-body--dorothy-perkins--esprit--eyescream--factorie--mango--miss-selfridge--missguided--river-island--topshop",
-    "Headline": "Top Brands Up to 60% Off",
-    "Subline": "Shop our bestselling highstreet labels now at lower prices",
-    "EventLabel": "SAL|Women|MSS17topbrandsuptosixtyoff|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CU4-BUY2GET20.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_five=cw43women2get20off",
+    "Headline": "Best Picks: Buy 2 Get 20% Off",
+    "Subline": "Pair your purchases to unlock this exclusive offer on selected items",
+    "EventLabel": "SAL|Women|buytwotwenty|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-B1.jpg",
-    "Exit Url": "/women/love-bonito/?csa=lovebonito",
+    "Image": "https://static-my.zacdn.com/cms/dy/SLEEKMAKEUP-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/sleek/?csa=sleeklaunch",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|LoveBonito|ALL|NA"
+    "EventLabel": "BRA|Women|sleeklaunch|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MAYBELLINE-SEPT17-B1.jpg",
-    "Exit Url": "/women/maybelline?csa=maybelline",
+    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/daniel-wellington/?csa=danielwellington",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Maybelline|ALL|NA"
+    "EventLabel": "BRA|Women|DanielWellington|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CLARISONIC-SEPT17-B1.jpg",
-    "Exit Url": "/women/clarisonic?csa=clarisonic",
+    "Image": "https://static-my.zacdn.com/cms/dy/LANVIN-OCT17-B1.jpg",
+    "Exit Url": "/women/-lanvin?csa=lanvin",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Clarisonic|ALL|NA"
+    "EventLabel": "BRA|Women|Lanvin|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NOSE-SEPT17-B1.jpg",
-    "Exit Url": "/women/nose/?csa=nose",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Nose|ALL|NA"
+    "EventLabel": "BRA|Women|Fossil|ALL|NA"
   },
   {
     "Placement": "wfb5",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWBALANCE-MAY17-B1.jpg",
-    "Exit Url": "/women/new-balance/?csa=newbalance",
+    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/mango/?csa=mango",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|NewBalance|ALL|NA"
+    "EventLabel": "BRA|Women|Mango|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,121 +183,121 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-EVERYTHINGUNDERRM150-M-HERO-DESK.jpg",
-    "Exit Url": "/men/special-price/?discount=0-60&csa=mss17everything60off",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-OCT17-M-HERO-1.jpg",
+    "Exit Url": "/men/new-products/ ?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT-SAL|Men|MSS17upto60off|ALL|NA"
+    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-M-N1.jpg",
-    "Exit Url": "/men/esprit/?sort=discount&csa=esprit70zap",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces",
-    "EventLabel": "BRA|Men|esprit70offzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-N1.jpg",
+    "Exit Url": "/men/odlo/?csa=odlozap",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready",
+    "EventLabel": "BRA|Men|Odlo|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-PREMIUMPICKS40OFF-M-N2.jpg",
-    "Exit Url": "/men/special-price/?discount=0-40&brand=burton-menswear-london--converse--cotton-on--factorie--fjallraven-kanken--hollister--jack-jones--jaxon--mango-man--river-island&csa=msspremiumpicks",
-    "Headline": "Premium Picks Up to 40% Off",
-    "Subline": "Shop our bestselling highstreet labels now at lower prices",
-    "EventLabel": "SAL-CAT|Men|mss17premiumpicks|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-M-N2.jpg",
+    "Exit Url": "/men/calvin-klein/?csa=calvinkleinzap",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust",
+    "EventLabel": "BRA|Men|CalvinKlein|ALL|ZAP"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/MSS17-DENIMDEALS50OFF-M-N2.jpg",
-    "Exit Url": "/men/denim/special-price/?csa=mss17denimdeals",
-    "Headline": "Denim Deals",
-    "Subline": "Now up to 50% off",
-    "EventLabel": "CAT-SAL|Men|mss17denimdeals|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/EVERYTHINGRM59-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_five=cw43menRPL&csa=rpleverythingatrm59",
+    "Headline": "Shoes, Clothing & Bags",
+    "Subline": "Everything at RM59",
+    "EventLabel": "CAT|Men|rpleverythingatrmfiftynine|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS1-SPORTSWEAR60OFF-N1.jpg",
-    "Exit Url": "/men/sport/special-price/?discount=0-61&csa=mss17sportswear60off",
-    "Headline": "Sportswear up to 60% off",
-    "Subline": "Get your workout essentials now at lower prices",
-    "EventLabel": "CAT-SAL|MEN|mss17sportswear60off|ALL|N"
+    "Image": "https://static-my.zacdn.com/cms/dy/BOHEMIANSTYLE-OCT17-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=cw43menboho&csa=menboho",
+    "Headline": "Now trending",
+    "Subline": "Bohemian-inspired style",
+    "EventLabel": "TRE|MEN|menboho|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-TOPSUNDERRM149-M-N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=cw42MenTopsUnderRM149&csa=mss17topsunderrm149",
-    "Headline": "Tops",
-    "Subline": "Everything under RM149",
-    "EventLabel": "CAT-SAL|Men|mss17topsunderrm149|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N1.jpg",
+    "Exit Url": "/men/zalora/?csa=zalora",
+    "Headline": "Zalora Must-Haves",
+    "Subline": "Shop our latest pieces now",
+    "EventLabel": "BRA|Men|Zalora|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BUY2GET20OFFBUY3GET30OFF-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw42menbuy2get20buy3get30&csa=mss17buy2get20offbuy3get30off",
-    "Headline": "Stack up and save",
-    "Subline": "Buy 2 get 20% off & Buy 3 or more get 30% off",
-    "EventLabel": "SAL-CAT|Men|mss17buy2get20offbuy3get30off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-M-N2.jpg",
+    "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
+    "Headline": "Sports New Arrivals",
+    "Subline": "Where style meets functionality",
+    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-B1.jpg",
-    "Exit Url": "/men/topman/?csa=topman",
+    "Image": "https://static-my.zacdn.com/cms/dy/SPARROWGREEN-JUNE17-M-B1.jpg",
+    "Exit Url": "/men/sparrowgreen/?csa=sparrowgreen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Topman|ALL|NA"
+    "EventLabel": "BRA|Men|SparrowGreen|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-MAR17-M-B1.jpg",
-    "Exit Url": "/men/superdry?csa=superdry",
+    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-M-B1.jpg",
+    "Exit Url": "/men/daniel-wellington?csa=danielwellington",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Superdry|ALL|NA"
+    "EventLabel": "BRA|Men|danielwellington|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HERSHEL-SEPT17-B1.jpg",
-    "Exit Url": "/men/herschel?csa=hershel",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-NOV16-M-B1-6.jpg",
+    "Exit Url": "/men/nike/?csa=nike",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Hershel|ALL|NA"
+    "EventLabel": "BRA|Men|Nike|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/VANSPEANUTS-JUNE17-M-B1.jpg",
-    "Exit Url": "/men/vans?csa=vans",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-ZAP-SEPT17-M-B1.jpg",
+    "Exit Url": "/men/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Vans|ALL|NA"
+    "EventLabel": "BRA|Men|Fossil|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/zalora/?csa=zalora",
+    "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-MAR17-M-B1.jpg",
+    "Exit Url": "/men/superdry/?csa=superdry",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|Zalora|ALL|NA"
+    "EventLabel": "BRA|Men|Superdry|ALL|NA"
   },
   {
     "Placement": "mfb6",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-EVERYTHINGUNDERRM150-W-HERO-MOB.jpg",
-    "Exit Url": "/women/special-price?price=0-150&csa=mss17everythingunderrm150",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-OCT17-W-HERO-MOB.jpg",
+    "Exit Url": "/women/new-products/?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|mss17everythingunderrm150|ALL|NA"
+    "EventLabel": "TRE|Women|NewArrivals|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-W-N2.jpg",
-    "Exit Url": "/women/esprit/?sort=discount&csa=esprit70zap",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces",
-    "EventLabel": "BRA|Women|esprit70zap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-W-N2.jpg",
+    "Exit Url": "/women/odlo/?csa=odlozap",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready",
+    "EventLabel": "BRA|Women|Odlo|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/CLARISONIC-SEPT17-N2.jpg",
-    "Exit Url": "/women/clarisonic/?csa=clarisoniclaunch",
-    "Headline": "Clarisonic - Now on ZALORA",
-    "Subline": "To celebrate, take 20% off devices",
-    "EventLabel": "BRA|Women|Clarisonic|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-W-N2.jpg",
+    "Exit Url": "/women/calvin-klein/?csa=calvinklein",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust",
+    "EventLabel": "BRA|Women|CalvinKlein|ALL|ZAP"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-EVERYTHINGUNDERRM150-M-HERO-MOB.jpg",
-    "Exit Url": "/men/special-price?price=0-150&csa=mss17everythingunderrm150",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-OCT17-M-HERO-MOB.jpg",
+    "Exit Url": "/men/new-products/ ?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|mss17everythingunderrm150|ALL|NA"
+    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-M-N2.jpg",
-    "Exit Url": "/men/esprit/?sort=discount&csa=esprit70zap",
-    "Headline": "Esprit - Up to 70% Off",
-    "Subline": "Enjoy massive discounts on your go-to casualwear pieces",
-    "EventLabel": "BRA|Men|esprit70zap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-N2.jpg",
+    "Exit Url": "/men/odlo/?csa=odlozap",
+    "Headline": "Odlo",
+    "Subline": "Move and breathe easy in sportswear that’s always performance-ready",
+    "EventLabel": "BRA|Men|Odlo|ALL|ZAP"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/MSS17-BUY2GET20OFFBUY3GET30OFF-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw42menbuy2get20buy3get30&csa=mss17buy2get20offbuy3get30off",
-    "Headline": "Stack up and save",
-    "Subline": "Buy 2 get 20% off & Buy 3 or more get 30% off",
-    "EventLabel": "SAL-CAT|Men|mss17buy2get20offbuy3get30off|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-M-N2.jpg",
+    "Exit Url": "/men/calvin-klein/?csa=calvinklein",
+    "Headline": "Calvin Klein",
+    "Subline": "Put your best foot forward in clothing and accessories you can trust",
+    "EventLabel": "BRA|Men|CalvinKlein|ALL|ZAP"
   },
   {
     "Placement": "mc1",
