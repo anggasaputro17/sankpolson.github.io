@@ -583,11 +583,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/2030_SEGMENT_HEADER_326x304.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
-    "Headline": "買2件8折 買3件或以上7折",
-    "Subline": "更多更好的服飾，讓你更期待開箱",
-    "EventLabel": "SAL|Women|twotwentythreethirty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw43/ub2_SEGMENT_HEADER_326x304.jpg",
+    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--RI009AA0RSDDMY--0EF62ZZ8E39FC8GS--NA323AA0RU82MY&csa=fallinloveoctobernewarrivals",
+    "Headline": "十月新品",
+    "Subline": "本月熱推時尚新裝",
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
   },
   {
     "Placement": "ub3",
