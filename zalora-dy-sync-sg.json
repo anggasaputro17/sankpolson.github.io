@@ -503,11 +503,11 @@
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
-    "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
-    "Subline": "Your fashion haul just got bigger and better.",
-    "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-BOTTOM.jpg",
+    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
+    "Headline": "October’s New Arrivals",
+    "Subline": "Make this month count with the latest collection to hit town.",
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
   },
   {
     "Placement": "ub3",
