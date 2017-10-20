@@ -1,0 +1,215 @@
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, user-scalable=no, initial-scale=1, height=device-height'/>
+<link rel='stylesheet' href='//static.zalora.com/css/onsite.css'>
+<style>
+    body {background-color: #fff !important;font-family: 'Roboto', 'Helvetica';}
+    .align-center {text-align: center;}
+    .cms-pl-mtop-lg {margin-top: 50px;}
+    .cms-pl-mtop-md {margin-top: 35px;}
+    .cms-pl-mtop-dd {margin-top: 25px;}
+    .cms-pl-mbot-lg {margin-bottom: 50px;}
+    .cms-res-font-lg {font-size: 1.5em;line-height: 1.5em;color: #000;}
+    .cms-res-font-sm {font-size: 1em;line-height: 1.5em;color: #000;padding-left: 20px;padding-right: 20px;height:50px;overflow:hidden;}
+    /* override paper to remove borders */
+    .paper {margin:0px;border: 0px;}
+    .cms-half-lfloat {float:left;width:49%;}
+    .cms-half-pl {padding-left: 1%;}
+    .cms-third-lfloat {float:left;width:32%;}
+    .cms-third-pl {padding-left: 1%;}
+    .cms-third-text {width:100%;overflow:hidden;line-height:1.5em;font-size:0.8em;}
+    .cms-full {width:100%}
+    .cms-spacer-25 {height:25px}
+    .cms-spacer-35 {height:35px}
+    .txtCenter {text-align:center;}
+    .txtLeft {text-align:left;}
+    .mtl {margin-top:20px;}
+    .mtm {margin-top:12px;}    
+    .mtxl {margin-top:40px;}
+    .mbl {margin-bottom:20px;}
+    .mbs {margin-bottom:5px;}
+    .mlm {margin-left:12px;}
+    .pls {padding-left:5px;}
+    .lfloat {float:left;}
+    .strong {font-weight:bold;}
+    .btn {color: #000;background-color: #FFF;border: 1px solid #000;display: inline-block;vertical-align: middle;font-size: 1.3em;padding:12px 0px}
+</style>
+<!-- Hero -->
+<div class='cms-full align-center lfloat'>
+    <a href='#'><img src='http://via.placeholder.com/600x600' width='100%'/></a>
+</div>
+<!-- Hero -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Early Bird Deals -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Early Birds
+    </div>
+</div>
+<div class='cms-full align-center lfloat'>
+    <div class='cms-half-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/300x198' width='100%'/></a>
+    </div>
+    <div class='cms-half-lfloat cms-half-pl'>
+        <a href='#'><img src='http://via.placeholder.com/300x198' width='100%'/></a>
+    </div>
+</div>
+<!-- Early Bird Deals -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Hourly Deals -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Hourly Deals
+    </div>
+</div>
+<div class='cms-full align-center lfloat'>
+    <a href='#'><img src='http://via.placeholder.com/620x420' width='100%'/></a>
+</div>
+<!-- Hourly Deals -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Brands -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Brands
+    </div>
+</div>
+<!-- Brands Row 1 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-third-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+</div>
+<!-- Brands Row 2 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-third-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+</div>
+<!-- Brands Row 3 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-third-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+</div>
+<!-- Brands Row 4 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-third-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+</div>
+<!-- Brands Row 5 -->
+<div class='cms-full align-center lfloat'>
+    <div class='cms-third-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+    <div class='cms-third-lfloat cms-third-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+        <div class="cms-third-text">Up to 50% Off</div>
+    </div>
+</div>
+<!-- Brands -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Social Media Contest -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Competition
+    </div>
+</div>
+<div class='cms-full align-center lfloat'>
+    <a href='#'><img src='http://via.placeholder.com/620x420' width='100%'/></a>
+</div>
+<!-- Social Media Contest -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Partners -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Our Partners
+    </div>
+</div>
+<!-- Partners Row 1 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-half-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+    <div class='cms-half-lfloat cms-half-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+</div>
+<!-- Partners Row 2 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-half-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+    <div class='cms-half-lfloat cms-half-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+</div>
+<!-- Partners Row 3 -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-half-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+    <div class='cms-half-lfloat cms-half-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+</div>
+<!-- Partners Row 4 -->
+<div class='cms-full align-center lfloat'>
+    <div class='cms-half-lfloat'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+    <div class='cms-half-lfloat cms-half-pl'>
+        <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+    </div>
+</div>
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- button -->
+<div class='cms-full align-center mtl lfloat'>
+    <a href='#'>
+        <div class='cms-full btn btn--inverted align-center'>
+            All Partners >
+        </div>
+    </a>
+</div>
+<!-- Partners -->
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
