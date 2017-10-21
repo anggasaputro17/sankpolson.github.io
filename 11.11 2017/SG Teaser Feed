@@ -9,7 +9,7 @@
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": "JS in CMS only"
   },
@@ -23,7 +23,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": "NL in CMS only"
   },
@@ -37,7 +37,7 @@
     "Exit Url": "#",
     "Headline": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
     "Subline": "#FFF",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -51,7 +51,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -79,7 +79,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -93,7 +93,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -121,7 +121,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -135,7 +135,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -149,7 +149,7 @@
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -163,7 +163,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -177,7 +177,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -191,7 +191,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -205,7 +205,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -219,7 +219,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -233,7 +233,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -247,7 +247,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -261,7 +261,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -275,7 +275,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -289,7 +289,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -303,7 +303,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -317,7 +317,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -331,7 +331,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -345,7 +345,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -359,7 +359,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -373,7 +373,7 @@
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -387,7 +387,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -401,7 +401,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -415,7 +415,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -429,7 +429,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -443,7 +443,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -457,7 +457,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -471,7 +471,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -485,7 +485,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -499,7 +499,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -513,7 +513,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -527,7 +527,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -541,7 +541,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -555,7 +555,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -569,7 +569,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -583,7 +583,7 @@
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -611,7 +611,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -625,7 +625,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -639,7 +639,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -653,7 +653,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -667,7 +667,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -681,7 +681,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -695,7 +695,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -709,7 +709,7 @@
     "Exit Url": "#",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -723,7 +723,7 @@
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -737,7 +737,7 @@
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "",
     "Notes": ""
   }
