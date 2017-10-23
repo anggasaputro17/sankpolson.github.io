@@ -234,7 +234,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/STREETSTYLE-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
     "Headline": "Street Style Goals",
     "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
     "EventLabel": "TRE|Men|streetstyle|ALL|NA"
@@ -454,7 +454,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/STREETSTYLE-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
     "Headline": "Street Style Goals",
     "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
     "EventLabel": "TRE|Men|streetstyle|ALL|NA"
