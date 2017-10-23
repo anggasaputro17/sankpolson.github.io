@@ -344,7 +344,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw44/mono_N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/all-products/?gender=men&dir=desc&sort=popularity&category_id=&color=白色--黑色",
+    "Exit Url": "/men/all-products/?gender=men&dir=desc&sort=popularity&category_id=&color=白色--黑色&csa=monochrome",
     "Headline": "黑白張力",
     "Subline": "穿上百搭色系，展現無限可能",
     "EventLabel": "TRE|Men|monochrome|ALL|NA"
