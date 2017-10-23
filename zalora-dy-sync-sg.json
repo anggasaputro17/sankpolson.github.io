@@ -493,21 +493,21 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-BESTBRANDS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
-    "Headline": "High Street Edit",
-    "Subline": "Blur the line between casual and dapper with this range of fine clothing.",
-    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BACKTOBASIC-OCT17-M-SEGMENT-HEADER.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
+    "Headline": "Back to Basics",
+    "Subline": "uture-proof your wardrobe with these timeless essentials.",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
-    "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
-    "Subline": "Your fashion haul just got bigger and better.",
-    "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-SEGMENT-HEADER.jpg",
+    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
+    "Headline": "October’s New Arrivals",
+    "Subline": "Make this month count with the latest collection to hit town.",
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
   },
   {
     "Placement": "ub3",
@@ -623,21 +623,21 @@
     "Placement": "skinny-half-left-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
+    "Image": "#99b2d6",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
+    "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|NA|skinnyhalfleftcampaign|ALL|NA"
+    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "url('https://static-sg.zacdn.com/cms/DY/Sept17/CW38-BAGSANDSHOESUPTO40OFFMARKDOWN-SKINNY-2.jpg')",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|NA|skinnyhalfrightcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-global",
@@ -653,21 +653,21 @@
     "Placement": "skinny-half-left-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#99b2d6",
-    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
-    "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
+    "Image": "#6bbab7",
+    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#F2E6F7",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "COMING SOON - ZALORA PRESENTS: FASHION FUTURES RUNWAY . STREAM & SHOP IT LIVE HERE >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-segment",
@@ -683,21 +683,21 @@
     "Placement": "skinny-half-left-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#99b2d6",
-    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
-    "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
+    "Image": "#6bbab7",
+    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#F2E6F7",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "COMING SOON - ZALORA PRESENTS: FASHION FUTURES RUNWAY . STREAM & SHOP IT LIVE HERE >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-global",
@@ -713,21 +713,21 @@
     "Placement": "skinny-half-left-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#000",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
+    "Image": "#99b2d6",
+    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
+    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|skinnyhalfleftcampaign|ALL|NA"
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#000",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|Men|skinnyhalfrightcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-segment",
@@ -743,20 +743,20 @@
     "Placement": "skinny-half-left-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#000",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
+    "Image": "#99b2d6",
+    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
+    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|skinnyhalfleftcampaign|ALL|NA"
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#000",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "#FFF",
-    "EventLabel": "SAL|Men|skinnyhalfrightcampaign|ALL|NA"
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
   }
 ]
