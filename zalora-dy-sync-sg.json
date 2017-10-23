@@ -3,61 +3,61 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
-    "Headline": "October’s New Arrivals",
-    "Subline": "Make this month count with the latest collection to hit town.",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Headline": "It’s Party Time",
+    "Subline": "Get heads turning and rule your next night out.",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-W-N1.jpg",
-    "Exit Url": "/women/odlo/?csa=odloawseventeen",
-    "Headline": "Odlo",
-    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
-    "EventLabel": "bra|women|odloawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/TIMBERLAND-ZAP-OCT17-W-N1.jpg",
+    "Exit Url": "/women/timberland/?csa=timberlandawseventeen",
+    "Headline": "Timberland",
+    "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
+    "EventLabel": "bra|women|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-W-N2.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
-    "Headline": "Calvin Klein",
-    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
-    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/DOROTHYPERKINS-OCT17-W-OCT17-N2.jpg",
+    "Exit Url": "/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
+    "Headline": "Dorothy Perkins",
+    "Subline": "Contemporary designs made for every modern woman.",
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ANDREACHONG-INFLUENCER-OCT17-W-N2.jpg",
-    "Exit Url": "/dreachong?csa=DreaChong",
-    "Headline": "Style Stars: Drea Chong",
-    "Subline": "Take a cue from Singapore’s top fashion blogger and perfect your next holiday look.",
-    "EventLabel": "TRE-MRC|Women|DreaChong|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HDILA-EP8-N2.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA8Stripes",
+    "Headline": "SHOP FROM OUR INTERACTIVE VIDEOS",
+    "Subline": "See how stripes and heels go a long way in helping you stand out from the crowd.",
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-LASTOFSALESEASON-OCT17-W-N4.jpg",
-    "Exit Url": "/women/all-products/?discount=0-60&csa=lastofmss",
-    "Headline": "Final Call - Up to 60% Off",
-    "Subline": "Your last chance to shop everything you want before time runs out.",
-    "EventLabel": "SAL|Women|lastofmss|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/DENIM-CW44-OCT17-W-N4.jpg",
+    "Exit Url": "/women/denim/?csa=rpldenim",
+    "Headline": "The Perfect Denim",
+    "Subline": "Our take on denim puts it at the forefront of all your fashion needs.",
+    "EventLabel": "TRE|Women|rpldenim|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HERJEWELLERY-OCT17-W-B1.jpg",
-    "Exit Url": "/women/her-jewellery/?csa=herjewelleryawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/REEBOK-OCT17-W-B1.jpg",
+    "Exit Url": "/reebok-shop/?csa=wspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|herjewelleryawseventeen|all|zap"
+    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wfb2",
@@ -203,51 +203,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-OCTOBERNEWARRIVALS-OCT17-M-HERO-DESKTOP-CTA.jpg",
-    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
-    "Headline": "On To October",
-    "Subline": "Skip the queue and get first dibs on the latest arrivals.",
-    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/FIRSTDROP-OCT17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
+    "Headline": "Just Landed",
+    "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-M-N1.jpg",
-    "Exit Url": "/men/odlo/?csa=odloawseventeen",
-    "Headline": "Odlo",
-    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
-    "EventLabel": "bra|men|odloawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/TIMBERLAND-ZAP-OCT17-M-N1.jpg",
+    "Exit Url": "/men/timberland/?csa=timberlandawseventeen",
+    "Headline": "Timberland",
+    "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-M-N2-1.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
-    "Headline": "Calvin Klein",
-    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
-    "EventLabel": "bra|men|calvinkleinawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/THRILLSNEAKERS-OCT17-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=413&csa=sneakers",
+    "Headline": "Thrill Sneakers",
+    "Subline": "Break new ground in the latest kicks that have arrived.",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BOHOMAN-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
-    "Headline": "Effortlessly Boho",
-    "Subline": "Forget everything you knew about typical styling and dress down in total comfort.",
-    "EventLabel": "TRE|Men|bohoman|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/STREETSTYLE-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle",
+    "Headline": "Street Style Goals",
+    "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-LASTOFSALESEASON-OCT17-M-N4.jpg",
-    "Exit Url": "/men/all-products/special-price/?discount=0-60&csa=lastofmss",
-    "Headline": "Final Call - Up to 60% Off",
-    "Subline": "Sale’s about to be over, so don’t let this limited time offer slip away.",
-    "EventLabel": "SAL|Men|lastofmss|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/MONOCHROME-OCT17-M-N4.jpg",
+    "Exit Url": "/men/all-products/?gender=men&dir=desc&sort=popularity&color=black--white&csa=monochrome",
+    "Headline": "Monochrome Muse",
+    "Subline": "Showcase your versatility even when it comes to tried-and-tested colours.",
+    "EventLabel": "TRE|Men|monochrome|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -363,41 +363,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
-    "Headline": "October’s New Arrivals",
-    "Subline": "Make this month count with the latest collection to hit town.",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Headline": "It’s Party Time",
+    "Subline": "Get heads turning and rule your next night out.",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-W-N2.jpg",
-    "Exit Url": "/women/odlo/?csa=odloawseventeen",
-    "Headline": "Odlo",
-    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
-    "EventLabel": "bra|women|odloawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/TIMBERLAND-ZAP-OCT17-W-N2.jpg",
+    "Exit Url": "/women/timberland/?csa=timberlandawseventeen",
+    "Headline": "Timberland",
+    "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
+    "EventLabel": "bra|women|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-W-N2.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
-    "Headline": "Calvin Klein",
-    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
-    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SGFW-OCT17-W-N2.jpg",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "SINGAPORE FASHION WEEK",
+    "Subline": "COMING SOON: STREAM & SHOP DESIGNERS LIVE HERE >",
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ANDREACHONG-INFLUENCER-OCT17-W-N2.jpg",
-    "Exit Url": "/dreachong?csa=DreaChong",
-    "Headline": "Style Stars: Drea Chong",
-    "Subline": "Take a cue from Singapore’s top fashion blogger and perfect your next holiday look.",
-    "EventLabel": "TRE-MRC|Women|DreaChong|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HDILA-EP8-N2.jpg",
+    "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA8Stripes",
+    "Headline": "SHOP FROM OUR INTERACTIVE VIDEOS",
+    "Subline": "See how stripes and heels go a long way in helping you stand out from the crowd.",
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -423,41 +423,41 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-OCTOBERNEWARRIVALS-OCT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
-    "Headline": "On To October",
-    "Subline": "Skip the queue and get first dibs on the latest arrivals.",
-    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/FIRSTDROP-OCT17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
+    "Headline": "Just Landed",
+    "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-ODLO-ZAP-OCT17-M-N2.jpg",
-    "Exit Url": "/men/odlo/?csa=odloawseventeen",
-    "Headline": "Odlo",
-    "Subline": "Move and breathe easy in sportswear that’s always performance-ready.",
-    "EventLabel": "bra|men|odloawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/TIMBERLAND-ZAP-OCT17-M-N2.jpg",
+    "Exit Url": "/men/timberland/?csa=timberlandawseventeen",
+    "Headline": "Timberland",
+    "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CALVINKLEIN-OCT17-M-N2-1.jpg",
-    "Exit Url": "/calvin-klein-shop/?csa=calvinkleinawseventeen",
-    "Headline": "Calvin Klein",
-    "Subline": "Put your best foot forward in clothing and accessories you can trust.",
-    "EventLabel": "bra|men|calvinkleinawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/THRILLSNEAKERS-OCT17-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=413&csa=sneakers",
+    "Headline": "Thrill Sneakers",
+    "Subline": "Break new ground in the latest kicks that have arrived.",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BOHOMAN-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
-    "Headline": "Effortlessly Boho",
-    "Subline": "Forget everything you knew about typical styling and dress down in total comfort.",
-    "EventLabel": "TRE|Men|bohoman|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/STREETSTYLE-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle",
+    "Headline": "Street Style Goals",
+    "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -495,29 +495,29 @@
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-BESTBRANDS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
     "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa=bestbrandssixtyoff",
-    "Headline": "Top Brands Up to 60% Off",
-    "Subline": "Why settle for less when you can get your hands on the very best?",
+    "Headline": "High Street Edit",
+    "Subline": "Blur the line between casual and dapper with this range of fine clothing.",
     "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CW43-FALLINLOVEOCTOBER-OCT17-W-BOTTOM.jpg",
-    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
-    "Headline": "October’s New Arrivals",
-    "Subline": "Make this month count with the latest collection to hit town.",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/TWOTWENTYTHREETHIRTHY-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=mssbuytwobuythree&csa=mssbuytwobuythree",
+    "Headline": "Buy 2 Get 20% Off. Buy 3 Or More Get 30% Off",
+    "Subline": "Your fashion haul just got bigger and better.",
+    "EventLabel": "SAL|Women|mssbuytwobuythree|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw41/Oct17/CW42-HIGHSTREETBRANDSUPTO40OFF-OCT17-M-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--converse--cotton-on--factorie--fjallraven-kanken--hollister--jack-jones--jaxon--mango-man--river-island&discount=20-40&csa=highstreetthirty",
-    "Headline": "Premium Picks Up to 40% Off",
-    "Subline": "Let these high street threads tell the story of your unspoken style.",
-    "EventLabel": "SAL|Men|highstreetthirty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Headline": "It’s Party Time",
+    "Subline": "Get heads turning and rule your next night out.",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wb1",
@@ -614,7 +614,7 @@
     "Gender": "unisex",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
@@ -644,7 +644,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
@@ -654,7 +654,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#99b2d6",
-    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
     "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
     "Subline": "#FFF",
     "EventLabel": "THE|Women|sphmagazine|ALL|NA"
@@ -674,7 +674,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
@@ -684,8 +684,8 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#99b2d6",
-    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17",
-    "Headline": "SUBSCRIBE TO SINGAPORE'S LEADING FASHION MAGAZINES >",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
+    "Headline": "SUBSCRIBE TO SINGAPORE'S LEADING FASHION & BEAUTY MAGAZINES >",
     "Subline": "#FFF",
     "EventLabel": "THE|Women|sphmagazine|ALL|NA"
   },
@@ -694,7 +694,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
@@ -704,7 +704,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
@@ -734,7 +734,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#ffb202",
-    "Exit Url": "/zalora-now/",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
