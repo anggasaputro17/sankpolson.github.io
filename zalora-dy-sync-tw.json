@@ -1,53 +1,53 @@
 [
-{
+  {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/na_women_SEGMENT_HERO_996x500.jpg",
-    "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--RI009AA0RSDDMY--0EF62ZZ8E39FC8GS--NA323AA0RU82MY&csa=fallinloveoctobernewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/partygirl_SEGMENT_HERO_SLICED_996x500.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/Benetton_N1_360x420_woman.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenetton2awseventeen",
-    "Headline": "班尼頓（United Colors of Benetton）",
-    "Subline": "超越眾望的風格，體驗將活力帶回家的真實性",
-    "EventLabel": "bra|women|unitedcolorsofbenetton2awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sisley_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/sisley/?csa=sisley2awseventeen",
+    "Headline": "Sisley",
+    "Subline": "秀出你獨特的風格，展現你的自信。",
+    "EventLabel": "bra|women|sisley2awseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/bridesmaid_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/floralbridesmaid/?csa=floralbridesmaid",
-    "Headline": "迷人花卉伴娘裙",
-    "Subline": "動人美裙創造美好回憶",
-    "EventLabel": "CAT|Women|floralbridesmaid|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/aldo_N2_620x420.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo",
+    "Subline": "發掘手錶與飾品的致命魅力",
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/hdila_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA7JewelTones",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/hdila_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA8Stripes",
     "Headline": "選購互動影片商品",
-    "Subline": "立即觀看影片，認識本季熱門寶石色系，盡收衣櫃",
-    "EventLabel": "TRE|Women|HDILA7JewelTones|ALL|NA"
+    "Subline": "立即觀看影片，學習如何以條紋服飾及高跟鞋展現個性，突出自己",
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/nudes_N4_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/neutrals/?csa=nudeandneutrals",
-    "Headline": "裸色美感",
-    "Subline": "裸色系列襯托完美氣質",
-    "EventLabel": "TRE|Women|nudeandneutrals|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/denim_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/denim/?csa=rpldenim",
+    "Headline": "完美丹寧",
+    "Subline": "百變丹寧 打造時尚必備單品",
+    "EventLabel": "TRE|Women|rpldenim|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -103,11 +103,11 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/Aldo_B1-6_322x165.jpg",
-    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/guessB1-6_322x165.jpg",
+    "Exit Url": "/guess/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|wb1wsguessss17|ALL|NA|guess"
   },
   {
     "Placement": "wfb3",
@@ -203,41 +203,41 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/na_women_MOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/women/new-products/?csa=fallinloveoctobernewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/tre0women0partygirls0all0na_women_600x600.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/Benetton_N2_620x420_woman.jpg",
-    "Exit Url": "/women/united-colors-of-benetton/?csa=unitedcolorsofbenetton2awseventeen",
-    "Headline": "班尼頓（United Colors of Benetton）",
-    "Subline": "超越眾望的風格，體驗將活力帶回家的真實性",
-    "EventLabel": "bra|women|unitedcolorsofbenetton2awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sisley_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/sisley/?csa=sisley2awseventeen",
+    "Headline": "Sisley",
+    "Subline": "秀出你獨特的風格，展現你的自信。",
+    "EventLabel": "bra|women|sisley2awseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/bridesmaid_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/floralbridesmaid/?csa=floralbridesmaid",
-    "Headline": "迷人花卉伴娘裙",
-    "Subline": "動人美裙創造美好回憶",
-    "EventLabel": "CAT|Women|floralbridesmaid|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/aldo_N2_620x420.jpg",
+    "Exit Url": "/women/aldo/?csa=aldoawseventeen",
+    "Headline": "Aldo",
+    "Subline": "發掘手錶與飾品的致命魅力",
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/hdila_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA7JewelTones",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/hdila_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/how-do-i-look-asia?csa=HDILA8Stripes",
     "Headline": "選購互動影片商品",
-    "Subline": "立即觀看影片，認識本季熱門寶石色系，盡收衣櫃",
-    "EventLabel": "TRE|Women|HDILA7JewelTones|ALL|NA"
+    "Subline": "立即觀看影片，學習如何以條紋服飾及高跟鞋展現個性，突出自己",
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -273,11 +273,11 @@
     "Placement": "wb2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/mobile_brands_topshop.jpg",
-    "Exit Url": "/women/topshop/?csa=wtopshopss17",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/GUESS_Logo_436x248.jpg",
+    "Exit Url": "/guess/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|Women|wtopshopss17|ALL|NA"
+    "EventLabel": "BRA|Women|wb1wsguessss17|ALL|NA|guess"
   },
   {
     "Placement": "wb3",
@@ -303,51 +303,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/octnewarrival_SEGMENT_HERO_SLICED_996x500.jpg",
-    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/firstdrop_SEGMENT_HERO_996x500.jpg",
+    "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/Benetton_N1_360x420_man.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenetton2awseventeen",
-    "Headline": "班尼頓（United Colors of Benetton）",
-    "Subline": "超越眾望的風格，體驗將活力帶回家的真實性",
-    "EventLabel": "bra|men|unitedcolorsofbenetton2awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sisleymen_N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/sisley/?csa=sisley2awseventeen",
+    "Headline": "Sisley",
+    "Subline": "秀出你獨特的風格，展現你的自信。",
+    "EventLabel": "bra|men|sisley2awseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/men_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/accessories/?category_filter=1&gender=&dir=desc&sort=latest%20arrival&category_id=4243--4242--4245--4831&csa=accessories",
-    "Headline": "全新配飾",
-    "Subline": "配襯全新男包、皮帶、領帶及其他配飾，打造全新形象",
-    "EventLabel": "CAT|Men|accessories|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sneakers_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=4196&csa=sneakers",
+    "Headline": "運動鞋新品",
+    "Subline": "與最新運動鞋跳出日常框框",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/bohoman_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
-    "Headline": "不羈風格",
-    "Subline": "脫下平日風格，換上休閒舒適造型",
-    "EventLabel": "TRE|Men|bohoman|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/streetstyle_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
+    "Headline": "街頭霸主",
+    "Subline": "打破常規，接納不凡，成為新街頭潮人",
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/60off_N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/all-products/special-price/?discount=0-60&csa=lastofmss",
-    "Headline": "最後召集 - 低至4折",
-    "Subline": "把握最後機會，低價買入心儀商品",
-    "EventLabel": "SAL|Men|lastofmss|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/mono_N4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/all-products/?gender=men&dir=desc&sort=popularity&category_id=&color=白色--黑色",
+    "Headline": "黑白張力",
+    "Subline": "穿上百搭色系，展現無限可能",
+    "EventLabel": "TRE|Men|monochrome|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -463,41 +463,41 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/tre0men0octnewarrivals0all0na_men_600x600.jpg",
-    "Exit Url": "/men/all-products/?age=0-30&csa=octnewarrivals",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/firstdrop_MOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|octnewarrivals|ALL|NA"
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/Benetton_N2_620x420_man.jpg",
-    "Exit Url": "/men/united-colors-of-benetton/?csa=unitedcolorsofbenetton2awseventeen",
-    "Headline": "班尼頓（United Colors of Benetton）",
-    "Subline": "超越眾望的風格，體驗將活力帶回家的真實性",
-    "EventLabel": "bra|men|unitedcolorsofbenetton2awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sisleymen_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/sisley/?csa=sisley2awseventeen",
+    "Headline": "Sisley",
+    "Subline": "秀出你獨特的風格，展現你的自信。",
+    "EventLabel": "bra|men|sisley2awseventeen|all|zap"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/men_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/accessories/?category_filter=1&gender=&dir=desc&sort=latest%20arrival&category_id=4243--4242--4245--4831&csa=accessories",
-    "Headline": "全新配飾",
-    "Subline": "配襯全新男包、皮帶、領帶及其他配飾，打造全新形象",
-    "EventLabel": "CAT|Men|accessories|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/sneakers_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=4196&csa=sneakers",
+    "Headline": "運動鞋新品",
+    "Subline": "與最新運動鞋跳出日常框框",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/bohoman_N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bohoman&csa=bohoman",
-    "Headline": "不羈風格",
-    "Subline": "脫下平日風格，換上休閒舒適造型",
-    "EventLabel": "TRE|Men|bohoman|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/streetstyle_N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
+    "Headline": "街頭霸主",
+    "Subline": "打破常規，接納不凡，成為新街頭潮人",
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -573,17 +573,17 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/60off_HOMEPAGE_BOTTOMBANNER_326x304.jpg",
-    "Exit Url": "/women/all-products/?brand=casio--vans--ray-ban--melissa--mango--dorothy-perkins--topshop--miss-selfridge--river-island--cotton-on--cotton-on-body--missguided--factorie--eyescream--esprit&discount=20-60&csa= bestbrandssixtyoff",
-    "Headline": "熱門品牌低至4折",
-    "Subline": "寵愛自己就趁現在",
-    "EventLabel": "SAL|Women|bestbrandssixtyoff|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/backtobasicSEGMENT_HEADER_326x304.jpg",
+    "Exit Url": "/men/back-to-basics/?csa= backtobasics",
+    "Headline": "簡約回歸",
+    "Subline": "不退潮流之時尚基本準則",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw43/ub2_SEGMENT_HEADER_326x304.jpg",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/b2SEGMENT_HEADER_326x304.jpg",
     "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--RI009AA0RSDDMY--0EF62ZZ8E39FC8GS--NA323AA0RU82MY&csa=fallinloveoctobernewarrivals",
     "Headline": "十月新品",
     "Subline": "本月熱推時尚新裝",
@@ -593,10 +593,100 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw41/highstreet_SEGMENT_HEADER_326x304.jpg",
-    "Exit Url": "/men/all-products/?brand=-solid--life8--burton-menswear-london--converse--cotton-on--factorie--hollister--jaxon--river-island&discount=20-40&csa=bestselling",
-    "Headline": "高街品牌低至6折",
-    "Subline": "讓高街服飾展現你的低調時尚風格",
-    "EventLabel": "SAL|Men|highstreetthirty|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw44/partygirlHOMEPAGE_BANNER_326x304.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Headline": "Party Time",
+    "Subline": "聚集所有派對視線",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|NA|skinnyfullcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|NA|skinnyhalfleftcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|NA|skinnyhalfrightcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-women",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Women|skinnyfullcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-women",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Women|skinnyhalfleftcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-women",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "url('https://static-hk.zacdn.com/cms/cw27/SKINNY_SLICED_996x25-womens.jpg')",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Women|skinnyhalfrightcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-men",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#000",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|skinnyfullcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-men",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#000",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|skinnyhalfleftcampaign|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-men",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#000",
+    "Exit Url": "/beta-erv/",
+    "Headline": "Lorem ipsum blahblahblah",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|skinnyhalfrightcampaign|ALL|NA"
   }
 ]
