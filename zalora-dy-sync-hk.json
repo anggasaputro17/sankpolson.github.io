@@ -29,14 +29,14 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw44/cw44_women_en_N2_NEWARRIVALS_620x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw44/cw44_women_en_monday_N2_620x420.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/innisfree/?csa=innisfreeawseventeen",
-    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap",
-    "ENHeadline": "Innisfree",
-    "ENSubline": "Own the latest in natural skincare and discover beauty that glows from within.",
-    "ZHHeadline": "Innisfree",
-    "ZHSubline": "選購最新天然護膚品，散發自然內在美"
+    "ExitUrl": "/dorothy-perkins-hongkong/?csa=dorothyperkinsawseventeen",
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na",
+    "ENHeadline": "Dorothy Perkins",
+    "ENSubline": "Contemporary designs made for every modern woman.",
+    "ZHHeadline": "Dorothy Perkins",
+    "ZHSubline": "為每個摩登女性精心打造現代時尚設計"
   },
   {
     "Placement": "wn3",
@@ -497,14 +497,14 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw44/cw44_women_en_N2_NEWARRIVALS_620x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw44/cw44_women_en_monday_N2_620x420.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/innisfree/?csa=innisfreeawseventeen",
-    "EventLabel": "bra|women|calvinkleinawseventeen|all|zap",
-    "ENHeadline": "Innisfree",
-    "ENSubline": "Own the latest in natural skincare and discover beauty that glows from within.",
-    "ZHHeadline": "Innisfree",
-    "ZHSubline": "選購最新天然護膚品，散發自然內在美"
+    "ExitUrl": "/dorothy-perkins-hongkong/?csa=dorothyperkinsawseventeen",
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na",
+    "ENHeadline": "Dorothy Perkins",
+    "ENSubline": "Contemporary designs made for every modern woman.",
+    "ZHHeadline": "Dorothy Perkins",
+    "ZHSubline": "為每個摩登女性精心打造現代時尚設計"
   },
   {
     "Placement": "wn3",
