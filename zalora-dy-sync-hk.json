@@ -666,14 +666,14 @@
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw42/cw42_men_en_N3_SEGMENT_HEADER_326x304.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw44/cw44_women_en_ub3_HOMEPAGE_BANNER_326x304.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/all-products/?brand=life8--burton-menswear-london--converse--cotton-on--factorie--fjallraven-kanken--hollister--jack-jones--jaxon--mango-man--river-island&discount=20-40&csa=highstreetthirty",
-    "EventLabel": "SAL|Men|highstreetthirty|ALL|NA",
-    "ENHeadline": "Premium Picks Up to 40% Off",
-    "ENSubline": "Let these high street threads tell the story of your unspoken style.",
-    "ZHHeadline": "高街品牌低至6折",
-    "ZHSubline": "讓高街服飾展現你的低調時尚風格"
+    "ExitUrl": "/product-index/partygirls/?csa=partygirls",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA",
+    "ENHeadline": "It’s Party Time",
+    "ENSubline": "Get heads turning and rule your next night out.",
+    "ZHHeadline": "派對時間",
+    "ZHSubline": "成為下場派對的焦點所在"
   },
   {
     "Placement": "wb1",
