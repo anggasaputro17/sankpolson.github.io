@@ -8,7 +8,7 @@
     .cms-pl-mtop-md {margin-top: 35px;}
     .cms-pl-mtop-dd {margin-top: 25px;}
     .cms-pl-mbot-lg {margin-bottom: 50px;}
-    .cms-res-font-lg {font-size: 1.5em;line-height: 1.5em;color: #000;}
+    .cms-res-font-lg {font-size: 1.5em;line-height: 1.5em;color: #000;font-weight:bold;}
     .cms-res-font-sm {font-size: 1em;line-height: 1.5em;color: #000;padding-left: 20px;padding-right: 20px;height:50px;overflow:hidden;}
     /* override paper to remove borders */
     .paper {margin:0px;border: 0px;}
@@ -16,7 +16,7 @@
     .cms-half-pl {padding-left: 2%;}
     .cms-third-lfloat {float:left;width:32%;}
     .cms-third-pl {padding-left: 2%;}
-    .cms-third-text {width:100%;overflow:hidden;line-height:1.5em;font-size:0.8em;}
+    .cms-third-text {width:100%;overflow:hidden;line-height:3em;font-size:0.9em;}
     .cms-full {width:100%}
     .cms-spacer-25 {height:25px}
     .cms-spacer-35 {height:35px}
@@ -34,14 +34,22 @@
     .rfloat {float:right;}
     .strong {font-weight:bold;}
     .btn {color: #000;background-color: #FFF;border: 1px solid #000;display: inline-block;vertical-align: middle;font-size: 1.3em;padding:12px 0px;width:70%;}
+    /*hero leadgen css */
+    .cms-headline-font {font-size:1.5em;line-height: 1.2em; padding:0% 5%;}
+    .cms-subline-font {font-size:0.9em;letter-spacing: 0.075em;}
+    .cms-hero-content {width:90%;margin:5% 4.5%;}
+    .cms-email-add {width:80%;text-align: center;background:transparent;border:1px solid transparent;background:transparent;text-align: center;border-bottom:1px solid grey;font-size:1.2em;line-height:1.2em;}
+    .btn--unverted {background: #000;color: #FFF;font-size:1.1em;width:60%;}
+    #js-show-success-msg {display:none;}
+    /*hero leadgen css */
     /*skinny timer css */
     .cms-skinny-timer {background:grey;width:100%;height:50px;}
     .cms-skinny-timer-text{color:#FFF;line-height:50px;font-size:0.8em;}
     /*skinny timer css */
     /*women men tab switch css */
     ul.cms-tabs {border-bottom:0px;width:100%;}
-    ul.cms-tabs li {border:0px;width:42%;text-align:center;color:grey;text-transform:none;font-size:1.3em;padding:0px 0px;}
-    ul.cms-tabs li.current {border:0px;width:42%;text-align:center;color:#000;background:transparent;}
+    ul.cms-tabs li {border:0px;width:49%;text-align:center;color:grey;text-transform:none;font-size:1.3em;padding:0px 0px;padding:12px 0px;}
+    ul.cms-tabs li.current {border:0px;width:49%;text-align:center;color:#000;background:lightgrey;padding:12px 0px;}
     .cms-tabrow ul {-webkit-padding-start:0px;}
     /*women men tab switch css */
 </style>
@@ -55,18 +63,52 @@
             <span id='days'></span> DAYS : <span id='hours'></span> HRS : <span id='minutes'></span> MINS
             <span class='txtUpper rfloat mrm'>
                 <a id='js-add-to-cal' style='color:#fff'>
-                    Save The Date
+                    Save
                 </a>
             </span>
         </div>
     </div>
 </div>
 <!-- Skinny Timer -->
-<!-- Hero -->
-<div class='cms-full align-center mtl lfloat'>
-<div id='dy-1111-mob-hero'>
-    <a href='#'><img src='http://via.placeholder.com/600x600' width='100%'/></a>
+<div class="cms-full mtm">
+    <img src='http://via.placeholder.com/600x300' width='100%'/>
 </div>
+<!-- Hero -->
+<div class="cms-hero-bg cms-full">
+    <div class="cms-hero-content">
+        <div class="txtCenter">
+            <!-- Form -->
+            <div class='cms-form-container txtCenter'>
+                <div class="txtCenter strong cms-headline-font">
+                    <b>11.11 Deals</b>
+                </div>
+                <div class="txtCenter mtl cms-subline-font">
+                    Exclusive Deals including 15% Off, $11 gift card and more
+                </div>
+                <!--thanksPop-->
+                <div id='submissionResult' class='h5 cms-sb-highlight-red'></div>
+                <div id='js-show-success-msg' class='cms-popup txtCenter'>
+                    <div class='cms-row txtCenter'>
+                        <p class='cms-thankyou strong cms-vertical-align txtUpper mtl'>You'll be notified for upcoming deals!</p>
+                    </div>
+                    <div class='cms-row txtCenter'>
+                        <div class='cms-line'></div>
+                    </div>
+                </div>
+                <form id='js-form-lead-gen' class='mtl' autocapitalize='off' autocorrect='off'>
+                    <input name='newsletter[where]' id='where' value='newsletter_landing' type='hidden'>
+                    <input name='newsletter[page]' id='page' value='singles day - sign up' type='hidden'>
+                    <input type='hidden' value='ec4911d021c15a2702befcd692247e4a403fa6a0' name='YII_CSRF_TOKEN'>
+                    <input name='newsletter[email]' class='cms-email-add' tmpplaceholder='Enter your@email.com' placeholder='Enter your@email.com'>
+                    <div class='cms-spacer-15'></div>
+                    <span>
+                        <button name='newsletter[gender]' value='signup' id='js-btn-signup' class='mtm btn btn--unverted'>Sign Up Now</button>
+                    </span>
+                </form>
+            </div> 
+            <!-- End of Form -->
+        </div>
+    </div>
 </div>
 <!-- Hero -->
 <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
@@ -76,16 +118,16 @@
         Early Birds
     </div>
 </div>
-<div class='cms-full align-center lfloat'>
+<div class='cms-full align-center lfloat mtl'>
     <div class='cms-half-lfloat'>
-    <div id='dy-1111-mob-earlybird-left'>
-        <a href='#'><img src='http://via.placeholder.com/260x140' width='100%'/></a>
-    </div>
+        <div id='dy-1111-mob-earlybird-left'>
+            <a href='#'><img src='http://via.placeholder.com/260x140' width='100%'/></a>
+        </div>
     </div>
     <div class='cms-half-lfloat cms-half-pl'>
-    <div id='dy-1111-mob-earlybird-right'>
-        <a href='#'><img src='http://via.placeholder.com/260x140' width='100%'/></a>
-    </div>
+        <div id='dy-1111-mob-earlybird-right'>
+            <a href='#'><img src='http://via.placeholder.com/260x140' width='100%'/></a>
+        </div>
     </div>
 </div>
 <!-- Early Bird Deals -->
@@ -105,14 +147,14 @@
     </div>
     <div class='cms-full mtl'></div>
     <div class='cms-full'>
-    <div id='dy-1111-mob-hourlydeal-women'>
-        <a href='#' class='cms-top-brands'>
-            <img src='http://via.placeholder.com/520x140' width='100%'/>
-        </a>
-    </div>
+        <div id='dy-1111-mob-hourlydeal-women'>
+            <a href='#' class='cms-top-brands'>
+                <img src='http://via.placeholder.com/520x140' width='100%'/>
+            </a>
+        </div>
     </div>
     <!-- Hourly Deals -->
-<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+    <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
     <!-- Brands -->
     <div class='cms-full align-center mbs lfloat'>
         <div class='cms-res-font-lg'>
@@ -121,83 +163,83 @@
     </div>
     <div class='cms-full mtl'></div>
     <div class='cms-full'>
-    <div id='dy-1111-mob-zap-brand-women'>
-        <!-- Brands Row 1 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+        <div id='dy-1111-mob-zap-brand-women'>
+            <!-- Brands Row 1 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 2 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 3 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-        </div>
-        <!-- Brands Row 2 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 4 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 5 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 3 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 4 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 5 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-    </div>   
+        </div>   
     </div>
     <!-- Brands -->
 </div>
@@ -210,11 +252,11 @@
     </div>
     <div class='cms-full mtl'></div>
     <div class='cms-full'>
-    <div id='dy-1111-mob-hourlydeal-men'>
-        <a href='#' class='cms-top-brands'>
-            <img src='http://via.placeholder.com/520x140' width='100%'/>
-        </a>
-    </div>
+        <div id='dy-1111-mob-hourlydeal-men'>
+            <a href='#' class='cms-top-brands'>
+                <img src='http://via.placeholder.com/520x140' width='100%'/>
+            </a>
+        </div>
     </div>
     <!-- Hourly Deals -->
     <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
@@ -226,102 +268,118 @@
     </div>
     <div class='cms-full mtl'></div>
     <div class='cms-full'>
-    <div id='dy-1111-mob-zap-brand-men'>
-        <!-- Brands Row 1 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+        <div id='dy-1111-mob-zap-brand-men'>
+            <!-- Brands Row 1 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 2 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
+            <!-- Brands Row 3 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <!-- Brands Row 4 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <!-- Brands Row 5 -->
+            <div class='cms-full align-center mbs lfloat'>
+                <div class='cms-third-lfloat'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+                <div class='cms-third-lfloat cms-third-pl'>
+                    <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
             </div>
         </div>
-        <!-- Brands Row 2 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 3 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 4 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-        <!-- Brands Row 5 -->
-        <div class='cms-full align-center mbs lfloat'>
-            <div class='cms-third-lfloat'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-            <div class='cms-third-lfloat cms-third-pl'>
-                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>
-                <div class='cms-third-text'>Up to 50% Off</div>
-            </div>
-        </div>
-    </div>
     </div>
     <!-- Brands -->
 </div>
-    <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
 <!-- Social Media Contest -->
 <div class='cms-full align-center mbs lfloat'>
     <div class='cms-res-font-lg'>
         Competition
     </div>
 </div>
-<div class='cms-full align-center lfloat'>
+<div class='cms-full align-center lfloat mtl'>
     <div id='dy-1111-mob-social-contest'>
-    <a href='#'><img src='http://via.placeholder.com/520x350' width='100%'/></a>
+        <a href='#'><img src='http://via.placeholder.com/520x350' width='100%'/></a>
     </div>
 </div>
 <!-- Social Media Contest -->
-    <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
 <script src='/js/jquery-1.7.min.js'></script>
 <script>
+    $(function () {
+        $('#js-btn-signup').click(function (s) {
+            s.preventDefault(), $.ajax({
+                type: 'POST',
+                url: '/newsletter/validate//',
+                data: $('#js-form-lead-gen').serialize(),
+                success: function (s) {
+                    s = jQuery.parseJSON(s);
+                    $("#submissionResult").html(s.message);
+                    $('#js-form-lead-gen').hide();
+                    $('#js-show-success-msg').show();
+                }
+            })
+        });
+    });
+
     $('ul.cms-tabs li').click(function () {
         var t = $(this).attr('data-tab');
         $('ul.cms-tabs li').removeClass('current');
