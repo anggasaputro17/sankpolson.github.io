@@ -11,21 +11,20 @@
     #js-add-to-cal:hover {cursor:pointer;}
     /*skinny timer css */
     /*hero leadgen css */
-    .cms-hero-bg {background: url('http://via.placeholder.com/996x585');width: 996px;height:585px;}
+    .cms-hero-bg {background: url('[MEDIA_BASE_URL]/cms/test/SEGMENT_HERO_996x585_newsletter.jpg');width: 996px;height:585px;}
     .btn--unverted {background: #000; color: #FFF; border: 1px solid #000;}
-    .cms-hero-content {height:200px;width:400px;margin-left:100px; margin-top:300px;}
-    .btn--unverted:hover {background: transparent;color: #000;}
+    .cms-hero-content {height:200px;width:400px;margin-left:50px; margin-top:325px;}
+    .btn--unverted:hover {background: transparent;color: #FFF;border: 1px solid #FFF;}
     .cms-headline-font {font-size:32px;letter-spacing: 1px; margin-top:-20px;}
     .cms-subline-font {font-size:18px;letter-spacing: 0.5px;padding:10px 0;}
-    .cms-email-add {width:300px;background:transparent}
+    .cms-email-add {width:350px;text-align: center;background:transparent;border:1px solid transparent;background:transparent;text-align: center;border-bottom:1px solid #FFF;color:#FFF}
     #js-show-success-msg {display:none;}
     .cms-thankyou {font-size:20px;}
     .js-btn-submit {width:135px;}
-    .cms-email-add {text-align: center; width: 400px;background:transparent;border:1px solid transparent;background:transparent;text-align: center;border-bottom:1px solid grey;}
-    ::-webkit-input-placeholder {color: grey;}
-    ::-moz-placeholder {color: grey;}
-    :-ms-input-placeholder {color: grey;}
-    :-moz-placeholder {color: grey;}
+    ::-webkit-input-placeholder {color: white;}
+    ::-moz-placeholder {color: white;}
+    :-ms-input-placeholder {color: white;}
+    :-moz-placeholder {color: white;}
     /*hero leadgen css */
     /*anchor css */
     .cms-anchor-header {width:199px;line-height:2.3em;font-size:16px;}
@@ -46,9 +45,7 @@
     .cms-back-to-top-cp{font-size:10px;position:fixed;top:88.5%;left:90.18%;color:#000}
     /*back to top btn css */
     /*women men tab switch css */
-    ul.cms-tabs {border-bottom:0px;}
-    ul.cms-tabs li {border:0px;width:450px;text-align:center;color:grey;text-transform:none;font-size:16px;}
-    ul.cms-tabs li.current {border:0px;width:450px;text-align:center;color:#000;background:transparent;}
+     ul.cms-tabs li.cms-sis-tabs {border-top: 1px solid #000;border-left: 1px solid #000;border-right: 1px solid #000;padding: 10px 15px;letter-spacing: 2px;font-size: 14px;margin-left:-4px;}
     /*women men tab switch css */
 </style>
 <!-- Scroll To Top Btn Start -->
@@ -106,7 +103,7 @@
                                     <input name='newsletter[email]' class='cms-email-add' tmpplaceholder='Enter your@email.com' placeholder='Enter your@email.com'>
                                     <div class='cms-spacer-15'></div>
                                     <span>
-                                        <button name='newsletter[gender]' value='signup' id='js-btn-signup' class='mtl btn btn--unverted mll'>Sign Up Now</button>
+                                        <button name='newsletter[gender]' value='signup' id='js-btn-signup' class='btn btn--unverted mll prl pll'>Sign Up Now</button>
                                     </span>
                                 </form>
                             </div> 
@@ -190,7 +187,7 @@
         </div>
     </div>
     <div class='cms-row'>
-        <div class='cms-full mtxl'>
+        <div class='cms-full'>
             <div class='lfloat'>
                 <div id="dy-1111-dsk-earlybird-left">
                 <a href='#' class='cms-top-brands'>
@@ -198,7 +195,7 @@
                 </a>
                 </div>
             </div>
-            <div class='lfloat mlm'>
+            <div class='rfloat'>
                 <div id="dy-1111-dsk-earlybird-right">
                 <a href='#' class='cms-top-brands'>
                     <img src='http://via.placeholder.com/485x420'>
@@ -223,8 +220,8 @@
     <div class='cms-row'>
         <div class='cms-full mtxl txtCenter'>
             <ul class='cms-tabs txtCenter'>
-                <li class='tab-link cms-sis-tabs current' data-tab='jsTab-1' id='js-women-tab'>Women</li>
-                <li class='tab-link cms-sis-tabs' data-tab='jsTab-2' id='js-men-tab' >Men</li>
+                <li class='tab-link cms-sis-tabs current' data-tab='jsTab-1' id='js-women-tab'>Women's Deals</li>
+                <li class='tab-link cms-sis-tabs' data-tab='jsTab-2' id='js-men-tab' >Men's Deals</li>
             </ul>
         </div>
         <div class='cms-full mtl'></div>
@@ -250,19 +247,10 @@
                     </div>
                 </div>
             </div>
-            <div class='cms-row'>
-                <div class='cms-full'>
-                    <div id="dy-1111-dsk-hourlydeal-men">
-                    <a href='#' class='cms-top-brands'>
-                        <img src='http://via.placeholder.com/996x250'>
-                    </a>
-                    </div>
-                </div>
-            </div>
             <!-- Hourly Deals-->
             <!-- Brands -->
             <div class='cms-row'>
-                <div class='cms-full mtxl'>
+                <div class='cms-full mtxxl'>
                     <div class='cms-headline-font strong txtCenter'>
                         Brands
                     </div>
@@ -304,7 +292,7 @@
         <!-- Hourly Deals-->
         <!-- Brands -->
             <div class='cms-row'>
-                <div class='cms-full mtxl'>
+                <div class='cms-full mtxxl'>
                     <div class='cms-headline-font strong txtCenter'>
                         Brands
                     </div>
@@ -331,7 +319,7 @@
         </div>
     </div>
     <div class='cms-row'>
-        <div class='cms-full mtxxl'>
+        <div class='cms-full mtxl'>
             <div class='cms-headline-font strong txtCenter'>
                 Competition
             </div>
@@ -403,14 +391,14 @@
     });
 
     $(function () {
-        $('#js-btn-signup').click(function (s) {
+        $("#js-btn-signup").click(function (s) {
             s.preventDefault(), $.ajax({
-                type: 'POST',
-                url: '/newsletter/validate//',
-                data: $('#js-form-lead-gen').serialize(),
+                type: "POST",
+                url: "/newsletter/validate//",
+                data: $("#js-form-lead-gen").serialize(),
                 success: function (s) {
                     s = jQuery.parseJSON(s);
-                    $('#submissionResult').html(s.message);
+                    $("#submissionResult").html(s.message); 
                 }
             })
         });
@@ -433,7 +421,7 @@
         return false;
     });
     $('#js-scrollBtn-rewards').on('click', function () {
-        $('html,body').animate({scrollTop: $('#js-scrollTo-rewards').offset().top -310}, 500);
+        $('html,body').animate({scrollTop: $('#js-scrollTo-rewards').offset().top}, 500);
         return false;
     });
 
