@@ -99,11 +99,11 @@
                                 <form id='js-form-lead-gen' autocapitalize='off' autocorrect='off'>
                                     <input name='newsletter[where]' id='where' value='newsletter_landing' type='hidden'>
                                     <input name='newsletter[page]' id='page' value='single day - sign up' type='hidden'>
-                                    <input type='hidden' value='ec4911d021c15a2702befcd692247e4a403fa6a0' name='YII_CSRF_TOKEN'>
+                                    [CSRF_INPUT]
                                     <input name='newsletter[email]' class='cms-email-add' tmpplaceholder='Enter your@email.com' placeholder='Enter your@email.com'>
                                     <div class='cms-spacer-15'></div>
                                     <span>
-                                        <button name='newsletter[gender]' value='signup' id='js-btn-signup' class='btn btn--unverted mll prl pll'>Sign Up Now</button>
+                                        <button type='submit' name='newsletter[gender]' value='signup' id='js-btn-signup' class='btn btn--unverted prl pll'>Sign Up Now</button>
                                     </span>
                                 </form>
                             </div> 
@@ -435,5 +435,10 @@
     $('.cms-back-to-top').on('click', function () {
         $('html,body').animate({scrollTop: 0}, 500);
         return false;
+    });
+
+    $("#js-add-to-cal").click(function (event) {
+        event.preventDefault();
+        window.open("https://www.google.com/calendar/render?action=TEMPLATE&text=Spend%2011.11%20Singles'%20Day%20with%20ZALORA!&dates=20170911T161000Z/20161211T155900Z&details=Between%209th%20to%2012th%20November%2C%20shop%20to%20your%20heart%E2%80%99s%20content!%0A-%20Dig%20in%20to%20all%20our%20brand%20exclusive%20Single%27s%20Day%20deals!%0A-%20Complete%20all%20your%20festive%20shopping%20at%20one%20go!%0A%0AEnd%20this%20year%20off%20with%20a%20boost%20of%20retail%20therapy%2C%20you%20totally%20deserved%20it.%20Shop%20now!&location=ZALORA%20SG&sprop=&sprop=name:", "popupWindow", "width=600,height=600,scrollbars=yes");
     });
 </script>
