@@ -363,11 +363,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/FAVENEWARRIVAL-W-OCT17-HERO-MOB.jpg",
-    "Exit Url": "/women/all-products/?age=0-30&brand=dorothy-perkins--drum--esprit--eyescream--love-bonito--mango--river-island--something-borrowed--topshop--zalora&csa=bestofnewarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-OCT17-VC-W-HERO-MOB.jpg",
+    "Exit Url": "/women/all-products/?csa=paydayoctvcpdayoct",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Women|paydayoctvcpdayoct|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -413,11 +413,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/FAVENEWARRIVAL-M-OCT17-HERO-MOB.jpg",
-    "Exit Url": "/men/new-products/?age=0-30&brand=adidas--cotton-on--esprit--jaxon--river-island--skmei--superdry--tomaz--topman--zalora&csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAY-OCT17-VC-M-MOB-HERO.jpg",
+    "Exit Url": "/men/all-products/?csa=paydayoctvcpdayoct",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Men|paydayoctvcpdayoct|ALL|NA"
   },
   {
     "Placement": "mn1",
