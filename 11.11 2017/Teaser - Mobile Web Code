@@ -33,13 +33,14 @@
     .lfloat {float:left;}
     .rfloat {float:right;}
     .strong {font-weight:bold;}
-    .btn {color: #000;background-color: #FFF;border: 1px solid #000;display: inline-block;vertical-align: middle;font-size: 1.3em;padding:12px 0px;width:70%;}
+    .btn {color: #FFF;background-color: #69919b;border: 1px solid #FFF;display: inline-block;vertical-align: middle;font-size: 1.3em;padding:12px 0px;}
     /*hero leadgen css */
     .cms-headline-font {font-size:1.5em;line-height: 1.2em; padding:0% 5%;}
     .cms-subline-font {font-size:0.9em;letter-spacing: 0.075em;}
     .cms-hero-content {width:90%;margin:5% 4.5%;}
-    .cms-email-add {width:80%;text-align: center;background:transparent;border:1px solid transparent;background:transparent;text-align: center;border-bottom:1px solid grey;font-size:1.2em;line-height:1.2em;}
-    .btn--unverted {background: #000;color: #FFF;font-size:1.1em;width:60%;}
+    .cms-email-add {width:80%;text-align: center;border:1px solid transparent;background:transparent;border-bottom:2px solid #69919b;font-size:1.2em;line-height:1.2em;padding-bottom:5px;}
+    .btn--unverted {background: #69919b;color: #FFF;font-size:1.1em;width:60%;}
+    .btn--unverted:hover {background: #69919b;color: #FFF;}
     #js-show-success-msg {display:none;}
     /*hero leadgen css */
     /*skinny timer css */
@@ -49,7 +50,7 @@
     /*women men tab switch css */
     ul.cms-tabs {border-bottom:0px;width:100%;}
     ul.cms-tabs li {border:0px;width:49%;text-align:center;color:grey;text-transform:none;font-size:1.3em;padding:0px 0px;padding:12px 0px;}
-    ul.cms-tabs li.current {border:0px;width:49%;text-align:center;color:#000;background:lightgrey;padding:12px 0px;}
+    ul.cms-tabs li.current {border:0px;width:49%;text-align:center;color:#FFF;background: #69919b;padding:12px 0px;}
     .cms-tabrow ul {-webkit-padding-start:0px;}
     /*women men tab switch css */
 </style>
@@ -71,7 +72,7 @@
 </div>
 <!-- Skinny Timer -->
 <div class="cms-full mtm">
-    <img src='http://via.placeholder.com/600x300' width='100%'/>
+    <img src='[MEDIA_BASE_URL]/cms/1111-teaser/MOBILEWEB_HERO_600x600-teaserhero.jpg' width='100%'/>
 </div>
 <!-- Hero -->
 <div class="cms-hero-bg cms-full">
@@ -79,14 +80,8 @@
         <div class="txtCenter">
             <!-- Form -->
             <div class='cms-form-container txtCenter'>
-                <div class="txtCenter strong cms-headline-font">
-                    <b>11.11 Deals</b>
-                </div>
-                <div class="txtCenter mtl cms-subline-font">
-                    Exclusive Deals including 15% Off, $11 gift card and more
-                </div>
                 <!--thanksPop-->
-                <div id='submissionResult' class='h5 cms-sb-highlight-red'></div>
+                <div id='submissionResult' class='h5'></div>
                 <div id='js-show-success-msg' class='cms-popup txtCenter'>
                     <div class='cms-row txtCenter'>
                         <p class='cms-thankyou strong cms-vertical-align txtUpper mtl'>You'll be notified for upcoming deals!</p>
@@ -97,13 +92,11 @@
                 </div>
                 <form id='js-form-lead-gen' class='mtl' autocapitalize='off' autocorrect='off'>
                     <input name='newsletter[where]' id='where' value='newsletter_landing' type='hidden'>
-                    <input name='newsletter[page]' id='page' value='singles day - sign up' type='hidden'>
+                    <input name='newsletter[page]' id='page' value='2017SinglesDay' type='hidden'>
                     [CSRF_INPUT]
                     <input name='newsletter[email]' class='cms-email-add' tmpplaceholder='Enter your@email.com' placeholder='Enter your@email.com'>
                     <div class='cms-spacer-15'></div>
-                    <span>
-                        <button type='submit' name='newsletter[gender]' value='signup' id='js-btn-signup' class='mtm btn btn--unverted'>Sign Up Now</button>
-                    </span>
+                    <input name='newsletter[gender]' value='Sign Up Now' id='js-btn-signup' type='submit' class='btn btn--unverted'>
                 </form>
             </div> 
             <!-- End of Form -->
@@ -365,18 +358,38 @@
 <script src='/js/jquery-1.7.min.js'></script>
 <script>
     $(function () {
-        $('#js-btn-signup').click(function (s) {
-            s.preventDefault(), $.ajax({
-                type: 'POST',
-                url: '/newsletter/validate//',
-                data: $('#js-form-lead-gen').serialize(),
-                success: function (s) {
-                    s = jQuery.parseJSON(s);
-                    $("#submissionResult").html(s.message);
-                    $('#js-form-lead-gen').hide();
-                    $('#js-show-success-msg').show();
+
+        function getParameter(theParameter) {
+            var params = window.location.search.substr(1).split('&');
+
+            for (var i = 0; i < params.length; i++) {
+                var p = params[i].split('=');
+                if (p[0] == theParameter) {
+                    return decodeURIComponent(p[1]);
                 }
-            })
+            }
+            return false;
+        }
+
+        if (getParameter('from') == 'men') {
+            $('#js-women-tab').removeClass('current');
+            $('#js-men-tab').addClass('current');
+            $('#jsTab-1').removeClass('current');
+            $('#jsTab-2').addClass('current');
+        }
+        ;
+
+       $("#js-btn-signup").click(function (s) {
+            s.preventDefault();
+            $.ajax({
+                type: "POST",
+                url: "/newsletter/validate//",
+                data: $("#js-form-lead-gen").serialize(),
+                success: function (res) {
+                    resj = jQuery.parseJSON(res);
+                    $("#submissionResult").html(resj.message); 
+                }
+            });
         });
     });
 
@@ -406,6 +419,6 @@
 
     $("#js-add-to-cal").click(function (event) {
         event.preventDefault();
-        window.open("https://www.google.com/calendar/render?action=TEMPLATE&text=Spend%2011.11%20Singles'%20Day%20with%20ZALORA!&dates=20170911T161000Z/20161211T155900Z&details=Between%209th%20to%2012th%20November%2C%20shop%20to%20your%20heart%E2%80%99s%20content!%0A-%20Dig%20in%20to%20all%20our%20brand%20exclusive%20Single%27s%20Day%20deals!%0A-%20Complete%20all%20your%20festive%20shopping%20at%20one%20go!%0A%0AEnd%20this%20year%20off%20with%20a%20boost%20of%20retail%20therapy%2C%20you%20totally%20deserved%20it.%20Shop%20now!&location=ZALORA%20SG&sprop=&sprop=name:", "popupWindow", "width=600,height=600,scrollbars=yes");
+        window.open("https://www.google.com/calendar/render?action=TEMPLATE&text=Spend%2011.11%20Singles'%20Day%20with%20ZALORA!&dates=20170911T260000Z/20161211T155900Z&details=Between%209th%20to%2012th%20November%2C%20shop%20to%20your%20heart%E2%80%99s%20content!%0A-%20Dig%20in%20to%20all%20our%20brand%20exclusive%20Single%27s%20Day%20deals!%0A-%20Complete%20all%20your%20festive%20shopping%20at%20one%20go!%0A%0AEnd%20this%20year%20off%20with%20a%20boost%20of%20retail%20therapy%2C%20you%20totally%20deserved%20it.%20Shop%20now!&location=ZALORA%20SG&sprop=&sprop=name:", "popupWindow", "width=600,height=600,scrollbars=yes");
     });
 </script>
