@@ -38,7 +38,7 @@
     "Headline": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
     "Subline": "#FFF",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -52,7 +52,7 @@
     "Headline": "",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -80,7 +80,7 @@
     "Headline": "",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -94,7 +94,7 @@
     "Headline": "",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -122,7 +122,7 @@
     "Headline": "",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -136,7 +136,7 @@
     "Headline": "",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -145,11 +145,11 @@
     "Device": "multi",
     "Status": "",
     "Desktop Image": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/sg/sg-1111-9th-women.html",
-    "Mobile Image": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
+    "Mobile Image": "",
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na",
+    "EventLabel": "",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -164,7 +164,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -178,7 +178,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -192,7 +192,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -206,7 +206,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -220,7 +220,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -234,7 +234,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -248,7 +248,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -262,7 +262,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -276,7 +276,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -290,7 +290,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -304,7 +304,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -318,7 +318,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -332,7 +332,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -346,7 +346,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -360,7 +360,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -369,11 +369,11 @@
     "Device": "multi",
     "Status": "",
     "Desktop Image": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html",
-    "Mobile Image": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
+    "Mobile Image": "",
     "Exit Url": "",
     "Headline": "",
     "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na",
+    "EventLabel": "",
     "App Deeplinks": "",
     "Notes": ""
   },
@@ -388,7 +388,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -402,7 +402,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -416,7 +416,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -430,7 +430,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -444,7 +444,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -458,7 +458,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -472,7 +472,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -486,7 +486,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -500,7 +500,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -514,7 +514,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -528,7 +528,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -542,7 +542,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -556,7 +556,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -570,7 +570,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   },
   {
@@ -584,7 +584,7 @@
     "Headline": "Up to 50% Off",
     "Subline": "",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplinks": "",
+    "App Deeplinks": "#",
     "Notes": ""
   }
 ]
