@@ -363,11 +363,11 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SFW-OCT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
     "Headline": "It’s Party Time",
     "Subline": "Get heads turning and rule your next night out.",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -383,11 +383,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/DOROTHYPERKINS-OCT17-W-OCT17-N2.jpg",
-    "Exit Url": "/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
-    "Headline": "Dorothy Perkins",
-    "Subline": "Contemporary designs made for every modern woman.",
-    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SGFW-OCT17-W-N2-1.jpg",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "SINGAPORE FASHION WEEK",
+    "Subline": "COMING SOON: STREAM & SHOP DESIGNERS LIVE HERE >",
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
   },
   {
     "Placement": "wn3",
