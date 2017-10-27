@@ -643,11 +643,11 @@
     "Placement": "skinny-full-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
-    "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "Image": "#6bbab7",
+    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
   },
   {
     "Placement": "skinny-half-left-women-global",
@@ -673,11 +673,11 @@
     "Placement": "skinny-full-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
-    "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "Image": "#6bbab7",
+    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
   },
   {
     "Placement": "skinny-half-left-women-segment",
