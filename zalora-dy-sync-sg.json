@@ -3,11 +3,12 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SFW-OCT17-W-HERO-DESKTOP.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SFW-OCT17-W-HERO-DESKTOP-LATEST.jpg",
     "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
     "Headline": "It’s Party Time",
     "Subline": "Get heads turning and rule your next night out.",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wn1",
@@ -17,7 +18,8 @@
     "Exit Url": "/women/timberland/?csa=timberlandawseventeen",
     "Headline": "Timberland",
     "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
-    "EventLabel": "bra|women|timberlandawseventeen|all|zap"
+    "EventLabel": "bra|women|timberlandawseventeen|all|zap",
+    "": ""
   },
   {
     "Placement": "wn2",
@@ -27,7 +29,8 @@
     "Exit Url": "/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
     "Headline": "Dorothy Perkins",
     "Subline": "Contemporary designs made for every modern woman.",
-    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na",
+    "": ""
   },
   {
     "Placement": "wn3",
@@ -37,7 +40,8 @@
     "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA8Stripes",
     "Headline": "SHOP OUR INTERACTIVE VIDEOS",
     "Subline": "See how stripes and heels go a long way in helping you stand out from the crowd.",
-    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wn4",
@@ -47,7 +51,8 @@
     "Exit Url": "/women/denim/?csa=rpldenim",
     "Headline": "The Perfect Denim",
     "Subline": "Our take on denim puts it at the forefront of all your fashion needs.",
-    "EventLabel": "TRE|Women|rpldenim|ALL|NA"
+    "EventLabel": "TRE|Women|rpldenim|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb1",
@@ -57,7 +62,8 @@
     "Exit Url": "/reebok-shop/?csa=wspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop",
+    "": ""
   },
   {
     "Placement": "wfb2",
@@ -67,7 +73,8 @@
     "Exit Url": "/women/thomas-sabo/?csa=thomassaboawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|thomassaboawseventeen|all|na"
+    "EventLabel": "bra|women|thomassaboawseventeen|all|na",
+    "": ""
   },
   {
     "Placement": "wfb3",
@@ -77,7 +84,8 @@
     "Exit Url": "/miss-selfridge/?csa=wb1wsguessss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|missselfridgeawseventeen|all|na"
+    "EventLabel": "bra|women|missselfridgeawseventeen|all|na",
+    "": ""
   },
   {
     "Placement": "wfb4",
@@ -87,7 +95,8 @@
     "Exit Url": "/women/something-borrowed/?csa=somethingborrowed",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|somethingborrowed|ALL|NA"
+    "EventLabel": "BRA|Women|somethingborrowed|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb5",
@@ -97,7 +106,8 @@
     "Exit Url": "/women/goddiva/?csa=goddivaawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|goddivaawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wfb6",
@@ -107,7 +117,8 @@
     "Exit Url": "/women/call-it-spring/?csa=callitspringawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|callitspringawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc1",
@@ -117,7 +128,8 @@
     "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
     "Subline": "SHOP TOPS>",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "EventLabel": "CAT|Women|tops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc2",
@@ -127,7 +139,8 @@
     "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
     "Subline": "SHOP SKIRTS>",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "EventLabel": "CAT|Women|skirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc3",
@@ -137,7 +150,8 @@
     "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
     "Subline": "SHOP DRESSES>",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "EventLabel": "CAT|Women|dresses|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc4",
@@ -147,7 +161,8 @@
     "Exit Url": "/women/shoes/?csa=heels",
     "Headline": "NA",
     "Subline": "SHOP HEELS>",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "EventLabel": "CAT|Women|heels|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc5",
@@ -157,7 +172,8 @@
     "Exit Url": "/women/accessories/?csa=accessories",
     "Headline": "NA",
     "Subline": "SHOP ACCESSORIES>",
-    "EventLabel": "CAT|Women|accessories|ALL|NA"
+    "EventLabel": "CAT|Women|accessories|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu1",
@@ -167,7 +183,8 @@
     "Exit Url": "/women/shoes/?brand=dune-london--miss-kg--carvela-kg--public-desire--faith--vero-moda--missguided--lost-ink--selected-femme--only--river-island",
     "Headline": "Fit For Your Feet",
     "Subline": "Add a touch of British styling with shoes from Dune, Carvela and more.",
-    "EventLabel": "CAT|women|ukshoes|ALL|NA"
+    "EventLabel": "CAT|women|ukshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu2",
@@ -177,7 +194,8 @@
     "Exit Url": "/product-index/shortsandtees/",
     "Headline": "Laidback Staples",
     "Subline": "Beat the heat by pairing these must-have shorts and tees.",
-    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA"
+    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu3",
@@ -187,7 +205,8 @@
     "Exit Url": "/women/clothing/tank-tops/?csa=cw33catpushsleevelsstops",
     "Headline": "Feel the Breeze",
     "Subline": "These sleeveless tops will give you the air of confidence you totally deserve.",
-    "EventLabel": "CAT|Women|CatPushSleevelssTops|ALL|NA"
+    "EventLabel": "CAT|Women|CatPushSleevelssTops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wcu4",
@@ -197,7 +216,8 @@
     "Exit Url": "/women/all-products/?cmpgn_one=sportlounge&getSKU=SU225AA81PRQMY--BY059AA99ZGYMY",
     "Headline": "The Lounge Life",
     "Subline": "Get cosy with relaxed tailoring and a touch of sports inspiration.",
-    "EventLabel": "TRE|Women|SportLounge|Women|NA"
+    "EventLabel": "TRE|Women|SportLounge|Women|NA",
+    "": ""
   },
   {
     "Placement": "mh1",
@@ -207,7 +227,8 @@
     "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
     "Headline": "Just Landed",
     "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
-    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn1",
@@ -217,7 +238,8 @@
     "Exit Url": "/men/timberland/?csa=timberlandawseventeen",
     "Headline": "Timberland",
     "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
-    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap",
+    "": ""
   },
   {
     "Placement": "mn2",
@@ -227,7 +249,8 @@
     "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=413&csa=sneakers",
     "Headline": "Thrill Sneakers",
     "Subline": "Break new ground in the latest kicks that have arrived.",
-    "EventLabel": "CAT|Men|sneakers|ALL|NA"
+    "EventLabel": "CAT|Men|sneakers|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn3",
@@ -237,7 +260,8 @@
     "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
     "Headline": "Street Style Goals",
     "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
-    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn4",
@@ -247,7 +271,8 @@
     "Exit Url": "/men/all-products/?gender=men&dir=desc&sort=popularity&color=black--white&csa=monochrome",
     "Headline": "Monochrome Muse",
     "Subline": "Showcase your versatility even when it comes to tried-and-tested colours.",
-    "EventLabel": "TRE|Men|monochrome|ALL|NA"
+    "EventLabel": "TRE|Men|monochrome|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb1",
@@ -257,7 +282,8 @@
     "Exit Url": "/adidas-shop/?csa=adidasawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "DSK BRA|Men|adidasawseventeen|ALL|NA"
+    "EventLabel": "DSK BRA|Men|adidasawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb2",
@@ -267,7 +293,8 @@
     "Exit Url": "/men/herschel/?csa=herschelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RA|Men|herschelawseventeen|ALL|NA"
+    "EventLabel": "RA|Men|herschelawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb3",
@@ -277,7 +304,8 @@
     "Exit Url": "/men/thomas-sabo/?csa=thomassaboawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|thomassaboawseventeen|all|na"
+    "EventLabel": "bra|men|thomassaboawseventeen|all|na",
+    "": ""
   },
   {
     "Placement": "mfb4",
@@ -287,7 +315,8 @@
     "Exit Url": "/men/converse/?csa=conversamss",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp",
+    "": ""
   },
   {
     "Placement": "mfb5",
@@ -297,7 +326,8 @@
     "Exit Url": "/men/hollister/?csa=hollisterawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|hollisterawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mfb6",
@@ -307,7 +337,8 @@
     "Exit Url": "/men/mango-shop/?csa=mangoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|mangoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Men|mangoawseventeen|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc1",
@@ -317,7 +348,8 @@
     "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
     "Subline": "SHOP PANTS>",
-    "EventLabel": "CAT|men|pants|ALL|NA"
+    "EventLabel": "CAT|men|pants|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc2",
@@ -327,7 +359,8 @@
     "Exit Url": "/men/shoes/formal-shoes/?csa=businessshoes",
     "Headline": "NA",
     "Subline": "SHOP BUSINESS SHOES>",
-    "EventLabel": "CAT|Men|businessshoes|ALL|NA"
+    "EventLabel": "CAT|Men|businessshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc3",
@@ -337,7 +370,8 @@
     "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
     "Subline": "SHOP TSHIRTS>",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "EventLabel": "CAT|Men|tshirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc4",
@@ -347,7 +381,8 @@
     "Exit Url": "/men/clothing/hoodies-sweatshirts/?csa=hoodiesandsweatshirts",
     "Headline": "NA",
     "Subline": "SHOP HOODIES & SWEATSHIRTS>",
-    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA"
+    "EventLabel": "CAT|Men|hoodiesandsweatshirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc5",
@@ -357,17 +392,19 @@
     "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
     "Subline": "SHOP WATCHES>",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "EventLabel": "CAT|Men|watches|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SFW-OCT17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
     "Headline": "It’s Party Time",
     "Subline": "Get heads turning and rule your next night out.",
-    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wn1",
@@ -377,17 +414,19 @@
     "Exit Url": "/women/timberland/?csa=timberlandawseventeen",
     "Headline": "Timberland",
     "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
-    "EventLabel": "bra|women|timberlandawseventeen|all|zap"
+    "EventLabel": "bra|women|timberlandawseventeen|all|zap",
+    "": ""
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SGFW-OCT17-W-N2-1.jpg",
-    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
-    "Headline": "SINGAPORE FASHION WEEK",
-    "Subline": "COMING SOON: STREAM & SHOP DESIGNERS LIVE HERE >",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/DOROTHYPERKINS-OCT17-W-OCT17-N2.jpg",
+    "Exit Url": "/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
+    "Headline": "Dorothy Perkins",
+    "Subline": "Contemporary designs made for every modern woman.",
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na",
+    "": ""
   },
   {
     "Placement": "wn3",
@@ -397,7 +436,8 @@
     "Exit Url": "/women/how-do-i-look-asia/?csa=HDILA8Stripes",
     "Headline": "SHOP OUR INTERACTIVE VIDEOS",
     "Subline": "See how stripes and heels go a long way in helping you stand out from the crowd.",
-    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA"
+    "EventLabel": "TRE|Women|HDILA8Stripes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc1",
@@ -407,7 +447,8 @@
     "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
     "Subline": "SHOP TOPS>",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "EventLabel": "CAT|Women|tops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wc2",
@@ -417,7 +458,8 @@
     "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
     "Subline": "SHOP DRESSES>",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "EventLabel": "CAT|Women|dresses|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mh1",
@@ -427,7 +469,8 @@
     "Exit Url": "/men/all-products/?age=0-21&csa=firstdrops",
     "Headline": "Just Landed",
     "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
-    "EventLabel": "TRE|Men|firstdrops|ALL|NA"
+    "EventLabel": "TRE|Men|firstdrops|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn1",
@@ -437,7 +480,8 @@
     "Exit Url": "/men/timberland/?csa=timberlandawseventeen",
     "Headline": "Timberland",
     "Subline": "Explore the classic collection that keeps getting better the more you wear it.",
-    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap",
+    "": ""
   },
   {
     "Placement": "mn2",
@@ -447,7 +491,8 @@
     "Exit Url": "/men/shoes/sneakers-plimsolls/?gender=&dir=desc&sort=latest%20arrival&category_id=413&csa=sneakers",
     "Headline": "Thrill Sneakers",
     "Subline": "Break new ground in the latest kicks that have arrived.",
-    "EventLabel": "CAT|Men|sneakers|ALL|NA"
+    "EventLabel": "CAT|Men|sneakers|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mn3",
@@ -457,7 +502,8 @@
     "Exit Url": "/men/all-products/?cmpgn_one=octstreetstyle&csa=streetstyle",
     "Headline": "Street Style Goals",
     "Subline": "Venture beyond the basics with threads that will make you a true sartorialist.",
-    "EventLabel": "TRE|Men|streetstyle|ALL|NA"
+    "EventLabel": "TRE|Men|streetstyle|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc1",
@@ -467,7 +513,8 @@
     "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
     "Subline": "SHOP PANTS>",
-    "EventLabel": "CAT|men|pants|ALL|NA"
+    "EventLabel": "CAT|men|pants|ALL|NA",
+    "": ""
   },
   {
     "Placement": "mc2",
@@ -477,7 +524,8 @@
     "Exit Url": "/men/clothing/t-shirts/?csa=tshirts",
     "Headline": "NA",
     "Subline": "SHOP TSHIRTS>",
-    "EventLabel": "CAT|Men|tshirts|ALL|NA"
+    "EventLabel": "CAT|Men|tshirts|ALL|NA",
+    "": ""
   },
   {
     "Placement": "uh1",
@@ -487,7 +535,8 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|NA|homepagemain|ALL|NA"
+    "EventLabel": "SAL|NA|homepagemain|ALL|NA",
+    "": ""
   },
   {
     "Placement": "ub1",
@@ -497,7 +546,8 @@
     "Exit Url": "/men/back-to-basics/?csa=backtobasics",
     "Headline": "Back to Basics",
     "Subline": "uture-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA",
+    "": ""
   },
   {
     "Placement": "ub2",
@@ -507,7 +557,8 @@
     "Exit Url": "/women/new-products/?getSKU=DO816AA0RV35MY--BY867AA0RNOGMY--BY867AA0RNO8MY--ST450AA0G7UZSG--1F097AA2B94911GS--CE779AA651284DGS--TO175AA0G7PFSG&csa=fallinloveoctobernewarrivals",
     "Headline": "October’s New Arrivals",
     "Subline": "Make this month count with the latest collection to hit town.",
-    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA"
+    "EventLabel": "TRE|Women|fallinloveoctobernewarrivals|ALL|NA",
+    "": ""
   },
   {
     "Placement": "ub3",
@@ -517,7 +568,8 @@
     "Exit Url": "/product-index/partygirls/?csa=partygirls",
     "Headline": "It’s Party Time",
     "Subline": "Get heads turning and rule your next night out.",
-    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+    "EventLabel": "TRE|Women|partygirls|ALL|NA",
+    "": ""
   },
   {
     "Placement": "wb1",
@@ -527,7 +579,8 @@
     "Exit Url": "/women/tokichoi/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|tokichoi2ssseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|tokichoi2ssseventeen|ALL|ZAP",
+    "": ""
   },
   {
     "Placement": "wb2",
@@ -537,7 +590,8 @@
     "Exit Url": "/women/ray-ban/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|wrayban|ALL|maxp|rayban"
+    "EventLabel": "BRA|NA|wrayban|ALL|maxp|rayban",
+    "": ""
   },
   {
     "Placement": "wb3",
@@ -547,7 +601,8 @@
     "Exit Url": "/women/topshop/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|WSP|wtopshop|ALL|maxp|topshop"
+    "EventLabel": "BRA|WSP|wtopshop|ALL|maxp|topshop",
+    "": ""
   },
   {
     "Placement": "wb4",
@@ -557,7 +612,8 @@
     "Exit Url": "/women/esprit/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|NA|wesprit|ALL|maxp|esprit"
+    "EventLabel": "BRA|NA|wesprit|ALL|maxp|esprit",
+    "": ""
   },
   {
     "Placement": "mb1",
@@ -567,7 +623,8 @@
     "Exit Url": "/men/ray-ban/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|WA|mrayban|ALL|maxp|rayban"
+    "EventLabel": "SAL-BRA|WA|mrayban|ALL|maxp|rayban",
+    "": ""
   },
   {
     "Placement": "mb2",
@@ -577,7 +634,8 @@
     "Exit Url": "/men/burton-menswear-london/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|NA|mburton|ALL|maxp|burton"
+    "EventLabel": "SAL-BRA|NA|mburton|ALL|maxp|burton",
+    "": ""
   },
   {
     "Placement": "mb3",
@@ -587,7 +645,8 @@
     "Exit Url": "/men/mango-man/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|NA|mmangoman|ALL|maxp|mangoman"
+    "EventLabel": "SAL-BRA|NA|mmangoman|ALL|maxp|mangoman",
+    "": ""
   },
   {
     "Placement": "mb4",
@@ -597,7 +656,8 @@
     "Exit Url": "/men/topman/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL-BRA|MC|mtopman|ALL|maxp|topman"
+    "EventLabel": "SAL-BRA|MC|mtopman|ALL|maxp|topman",
+    "": ""
   },
   {
     "Placement": "testbug",
@@ -607,7 +667,8 @@
     "Exit Url": "/beta-erv/",
     "Headline": "Test $10 against test $150",
     "Subline": "Test $10 against test $1500 again",
-    "EventLabel": "test|MA|test$symbolbug|ALL"
+    "EventLabel": "test|MA|test$symbolbug|ALL",
+    "": ""
   },
   {
     "Placement": "skinny-full-homepage",
@@ -617,7 +678,8 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-left-homepage",
@@ -627,7 +689,8 @@
     "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
     "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+    "EventLabel": "THE|Women|sphmagazine|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-right-homepage",
@@ -637,7 +700,8 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-full-women-global",
@@ -647,7 +711,8 @@
     "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
     "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-left-women-global",
@@ -657,7 +722,8 @@
     "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
     "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-right-women-global",
@@ -667,7 +733,8 @@
     "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
     "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-full-women-segment",
@@ -677,7 +744,8 @@
     "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
     "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-left-women-segment",
@@ -687,7 +755,8 @@
     "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
     "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-right-women-segment",
@@ -697,7 +766,8 @@
     "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
     "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-full-men-global",
@@ -707,7 +777,8 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-left-men-global",
@@ -717,7 +788,8 @@
     "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
     "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-right-men-global",
@@ -727,7 +799,8 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-full-men-segment",
@@ -737,7 +810,8 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-left-men-segment",
@@ -747,7 +821,8 @@
     "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
     "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA",
+    "": ""
   },
   {
     "Placement": "skinny-half-right-men-segment",
@@ -757,6 +832,7 @@
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
     "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA",
+    "": ""
   }
 ]
