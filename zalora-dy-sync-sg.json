@@ -24,7 +24,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/COTTONONBODY-OCT17-W-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen",
+    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen&sort=latest%20arrival",
     "Headline": "Cotton On Body",
     "Subline": "Activewear and intimates designed to suit your every mood.",
     "EventLabel": "bra|women|cottononbodyawseventeen|all|zap"
@@ -354,7 +354,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Jackets-CW45.jpg",
-    "Exit Url": "/men/clothing/jackets-and-coats/?csa=jackets",
+    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
     "Headline": "NA",
     "Subline": "SHOP JACKETS >",
     "EventLabel": "CAT|Men|jackets|ALL|NA"
