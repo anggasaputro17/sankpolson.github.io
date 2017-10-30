@@ -3,34 +3,34 @@
     "Placement": "countdown",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
-    "Desktop Image EN": "",
-    "Desktop Image ZH": "",
-    "Mobile Image EN": "",
-    "Mobile Image ZH": "",
-    "Exit Url": "",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
-    "EventLabel": "",
-    "App Deeplink": "#",
+    "Status": "NA",
+    "Desktop Image EN": "NA",
+    "Desktop Image ZH": "NA",
+    "Mobile Image EN": "NA",
+    "Mobile Image ZH": "NA",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "NA",
+    "App Deeplink": "NA",
     "Notes": "JS in CMS only"
   },
   {
     "Placement": "hero",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/996x585",
     "Desktop Image ZH": "http://via.placeholder.com/996x585",
     "Mobile Image EN": "http://via.placeholder.com/600x600",
     "Mobile Image ZH": "http://via.placeholder.com/600x600",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
     "Notes": "NL in CMS only"
@@ -39,11 +39,11 @@
     "Placement": "parcel",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "#000",
     "Desktop Image ZH": "#000",
-    "Mobile Image EN": "",
-    "Mobile Image ZH": "",
+    "Mobile Image EN": "NA",
+    "Mobile Image ZH": "NA",
     "Exit Url": "#",
     "Headline EN": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
@@ -51,151 +51,151 @@
     "Subline ZH": "#FFF",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "social-contest",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/996x250",
     "Desktop Image ZH": "http://via.placeholder.com/996x250",
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Early Bird Deals",
-    "Gender": "",
-    "Device": "",
-    "Status": "",
-    "Desktop Image EN": "",
-    "Desktop Image ZH": "",
-    "Mobile Image EN": "",
-    "Mobile Image ZH": "",
-    "Exit Url": "",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
-    "EventLabel": "",
-    "App Deeplink": "#",
-    "Notes": ""
+    "Gender": "NA",
+    "Device": "NA",
+    "Status": "NA",
+    "Desktop Image EN": "NA",
+    "Desktop Image ZH": "NA",
+    "Mobile Image EN": "NA",
+    "Mobile Image ZH": "NA",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "NA",
+    "App Deeplink": "NA",
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-left",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/485x420",
     "Desktop Image ZH": "http://via.placeholder.com/485x420",
     "Mobile Image EN": "http://via.placeholder.com/300x198",
     "Mobile Image ZH": "http://via.placeholder.com/300x198",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-right",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/485x420",
     "Desktop Image ZH": "http://via.placeholder.com/485x420",
     "Mobile Image EN": "http://via.placeholder.com/300x198",
     "Mobile Image ZH": "http://via.placeholder.com/300x198",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Hourly Deals",
-    "Gender": "",
-    "Device": "",
-    "Status": "",
-    "Desktop Image EN": "",
-    "Desktop Image ZH": "",
-    "Mobile Image EN": "",
-    "Mobile Image ZH": "",
-    "Exit Url": "",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
-    "EventLabel": "",
-    "App Deeplink": "#",
-    "Notes": ""
+    "Gender": "NA",
+    "Device": "NA",
+    "Status": "NA",
+    "Desktop Image EN": "NA",
+    "Desktop Image ZH": "NA",
+    "Mobile Image EN": "NA",
+    "Mobile Image ZH": "NA",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "NA",
+    "App Deeplink": "NA",
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
     "Gender": "women",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/996x250",
     "Desktop Image ZH": "http://via.placeholder.com/996x250",
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
     "Gender": "men",
     "Device": "multi",
-    "Status": "",
+    "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/996x250",
     "Desktop Image ZH": "http://via.placeholder.com/996x250",
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Women ZAP Brands",
     "Gender": "",
-    "Device": "",
-    "Status": "",
+    "Device": "multi",
+    "Status": "NA",
     "Desktop Image EN": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html",
     "Desktop Image ZH": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html",
     "Mobile Image EN": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
     "Mobile Image ZH": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
-    "Exit Url": "",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
-    "EventLabel": "",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -209,11 +209,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -227,11 +227,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -245,11 +245,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -263,11 +263,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -281,11 +281,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -299,11 +299,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -317,11 +317,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -335,11 +335,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -353,11 +353,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -371,11 +371,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -389,11 +389,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -407,11 +407,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -425,11 +425,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -443,11 +443,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -461,29 +461,29 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Men ZAP Brands",
-    "Gender": "",
-    "Device": "",
-    "Status": "",
+    "Gender": "Men",
+    "Device": "multi",
+    "Status": "NA",
     "Desktop Image EN": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html",
     "Desktop Image ZH": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html",
     "Mobile Image EN": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
     "Mobile Image ZH": "<!-- Brands Row 1 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 2 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 3 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 4 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>\n        <!-- Brands Row 5 -->\n        <div class='cms-full align-center mbs lfloat'>\n            <div class='cms-third-lfloat'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n            <div class='cms-third-lfloat cms-third-pl'>\n                <a href='#'><img src='http://via.placeholder.com/436x248' width='100%'/></a>\n                <div class='cms-third-text'>Up to 50% Off</div>\n            </div>\n        </div>",
-    "Exit Url": "",
-    "Headline EN": "",
-    "Headline ZH": "",
-    "Subline EN": "",
-    "Subline ZH": "",
-    "EventLabel": "",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -497,11 +497,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -515,11 +515,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -533,11 +533,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -551,11 +551,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -569,11 +569,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -587,11 +587,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -605,11 +605,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -623,11 +623,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -641,11 +641,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -659,11 +659,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -677,11 +677,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -695,11 +695,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -713,11 +713,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -731,11 +731,11 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -749,10 +749,10 @@
     "Exit Url": "#",
     "Headline EN": "Up to 50% Off",
     "Headline ZH": "Up to 50% Off",
-    "Subline EN": "",
-    "Subline ZH": "",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplink": "#",
-    "Notes": ""
+    "Notes": "NA"
   }
 ]
