@@ -35,22 +35,24 @@
     .strong {font-weight:bold;}
     .btn {color: #FFF;background-color: #69919b;border: 1px solid #FFF;display: inline-block;vertical-align: middle;font-size: 1.3em;padding:12px 0px;}
     /*hero leadgen css */
+    .cms-hero-bg {background: #b72126;}
     .cms-headline-font {font-size:1.5em;line-height: 1.2em; padding:0% 5%;}
     .cms-subline-font {font-size:0.9em;letter-spacing: 0.075em;}
     .cms-hero-content {width:90%;margin:5% 4.5%;}
-    .cms-email-add {width:80%;text-align: center;border:1px solid transparent;background:transparent;border-bottom:2px solid #69919b;font-size:1.2em;line-height:1.2em;padding-bottom:5px;}
-    .btn--unverted {background: #69919b;color: #FFF;font-size:1.1em;width:60%;}
-    .btn--unverted:hover {background: #69919b;color: #FFF;}
+    .cms-email-add {width:80%;text-align: center;border:1px solid transparent;background:transparent;border-bottom:2px solid #FFF;font-size:1.2em;line-height:1.2em;padding-bottom:5px;color:#FFF}
+    .btn--unverted {background: transparent;color: #FFF;font-size:1.1em;width:60%;border: 1px solid #FFF;}
+    .btn--unverted:hover {background: transparent;color: #FFF;width:60%;border: 1px solid #FFF;}
     #js-show-success-msg {display:none;}
+    #submissionResult {color:#FFF;}
     /*hero leadgen css */
     /*skinny timer css */
-    .cms-skinny-timer {background:grey;width:100%;height:50px;}
+    .cms-skinny-timer {background:#5b1647;width:100%;height:50px;}
     .cms-skinny-timer-text{color:#FFF;line-height:50px;font-size:0.8em;}
     /*skinny timer css */
     /*women men tab switch css */
     ul.cms-tabs {border-bottom:0px;width:100%;}
     ul.cms-tabs li {border:0px;width:49%;text-align:center;color:grey;text-transform:none;font-size:1.3em;padding:0px 0px;padding:12px 0px;}
-    ul.cms-tabs li.current {border:0px;width:49%;text-align:center;color:#FFF;background: #69919b;padding:12px 0px;}
+    ul.cms-tabs li.current {border:0px;width:49%;text-align:center;color:#FFF;background: #5b1647;padding:12px 0px;}
     .cms-tabrow ul {-webkit-padding-start:0px;}
     /*women men tab switch css */
 </style>
@@ -59,12 +61,12 @@
     <div class='cms-skinny-timer txtCenter cms-animate'>
         <div class='cms-skinny-timer-text'>
             <span class='lfloat mlm'>
-                9-12 Nov
+                STARTING IN
             </span>                              
             <span id='days'></span> DAYS : <span id='hours'></span> HRS : <span id='minutes'></span> MINS
             <span class='txtUpper rfloat mrm'>
                 <a id='js-add-to-cal' style='color:#fff'>
-                    Save
+                    SAVE >
                 </a>
             </span>
         </div>
@@ -81,7 +83,7 @@
             <!-- Form -->
             <div class='cms-form-container txtCenter'>
                 <!--thanksPop-->
-                <div id='submissionResult' class='h5'></div>
+                <div id='submissionResult' class='h2'></div>
                 <div id='js-show-success-msg' class='cms-popup txtCenter'>
                     <div class='cms-row txtCenter'>
                         <p class='cms-thankyou strong cms-vertical-align txtUpper mtl'>You'll be notified for upcoming deals!</p>
