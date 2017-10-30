@@ -6,7 +6,7 @@
     .cms-headline-font {font-size:20px;}
     .cms-subline-font {font-size:16px;}
     /*skinny timer css */
-    .cms-skinny-timer {background:#000;width:996px;height:30px;}
+    .cms-skinny-timer {background:#5b1647;width:996px;height:30px;}
     .cms-skinny-timer-text{color:#FFF;line-height:30px}
     #js-add-to-cal:hover {cursor:pointer;}
     /*skinny timer css */
@@ -28,7 +28,7 @@
     /*hero leadgen css */
     /*anchor css */
     .cms-anchor-header {width:249px;line-height:2.3em;font-size:16px;}
-    .cms-anchor-header:hover {border-bottom: 2px solid #69919b;color: #69919b;margin-bottom:-2px;cursor: pointer;}
+    .cms-anchor-header:hover {border-bottom: 2px solid #ee7216;color: #ee7216;margin-bottom:-2px;cursor: pointer;}
     /*anchor css */
     /*skinny css */
     .cms-parcel a:hover {text-decoration:none!important;}
@@ -63,13 +63,13 @@
         <div class='cms-full'>
             <div class='cms-skinny-timer txtCenter cms-animate'>
                 <div class='cms-skinny-timer-text'>
-                    <span class='lfloat mlm'>
-                        Coming 9th to 12th Nov
+                    <span class='lfloat mlm txtUpper'>
+                        Starting in
                     </span>                              
                     <span id='days'></span> DAYS : <span id='hours'></span> HRS : <span id='minutes'></span> MINS : <span id='seconds'></span> SECS
                     <span class='txtUpper rfloat mrm'>
                         <a id='js-add-to-cal' style='color:#fff'>
-                            Save The Date
+                            Save The Date >
                         </a>
                     </span>
                 </div>
@@ -434,7 +434,7 @@
         return false;
     });
     $('#js-scrollBtn-brands').on('click', function () {
-        $('html,body').animate({scrollTop: $('#js-scrollTo-brands').offset().top}, 500);
+        $('html,body').animate({scrollTop: $('#js-scrollTo-brands').offset().top +700}, 500);
         return false;
     });
     $('#js-scrollBtn-competition').on('click', function () {
