@@ -384,7 +384,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/COTTONONBODY-OCT17-W-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen",
+    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen&sort=latest%20arrival",
     "Headline": "Cotton On Body",
     "Subline": "Activewear and intimates designed to suit your every mood.",
     "EventLabel": "bra|women|cottononbodyawseventeen|all|zap"
@@ -424,7 +424,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SPORTSPERFORMANCE-OCT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/sports/all-products/?csa=sportsperformance",
+    "Exit Url": "/men/sports/all-products/?csa=sportsperformance&getSKU=AD372AA0RXM4MY--D372AA0RXM7MY--D372AA0RXM9MY--AD372AC0REUPMY--AD372AC0REURMY--AD372AC0RMRFMY---AD372AC0RMRDMY--AD372AC0RMREMY--AD372AC0RMRGMY",
     "Headline": "Just Landed",
     "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
     "EventLabel": "CAT|Men|sportsperformance|ALL|NA"
