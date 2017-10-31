@@ -11,8 +11,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "JS in CMS only",
-    "": ""
+    "Notes": "JS in CMS only"
   },
   {
     "Placement": "hero",
@@ -26,8 +25,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NL in CMS only",
-    "": ""
+    "Notes": "NL in CMS only"
   },
   {
     "Placement": "parcel",
@@ -41,8 +39,7 @@
     "Subline": "#FFF",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "social-contest",
@@ -56,8 +53,7 @@
     "Subline": "參與詳情於11月9日在Instagram公佈",
     "EventLabel": "SAL|Men|smcontest|ALL|NA",
     "App Deeplinks": "zalora://tw/nb/https%3A%2F%2Fwww.instagram.com%2Fzaloratw%2F",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Early Bird Deals",
@@ -71,8 +67,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-left",
@@ -86,8 +81,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Women|earlybirddresses|ALL|NA",
     "App Deeplinks": "zalora://tw/urlc/products/?segment=women&categoryId=4205&discount=10-50&csa=earlybirddresses",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-right",
@@ -101,8 +95,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Men|sneakerspp|ALL|NA",
     "App Deeplinks": "zalora://tw/urlc/products/?segment=men&categoryId=4196&price=1000-100000&csa=sneakerspp",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Hourly Deals",
@@ -116,8 +109,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
@@ -131,8 +123,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Women|dealplan|ALL|NA",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
@@ -146,8 +137,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Men|dealplan|ALL|NA",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Women ZAP Brands",
@@ -161,8 +151,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -176,8 +165,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -191,8 +179,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -206,8 +193,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -221,8 +207,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -236,8 +221,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -251,8 +235,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -266,8 +249,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -281,8 +263,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -296,8 +277,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -311,8 +291,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -326,8 +305,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -341,8 +319,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -356,8 +333,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -371,8 +347,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -386,8 +361,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Men ZAP Brands",
@@ -401,8 +375,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -416,8 +389,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -431,8 +403,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -446,8 +417,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -461,8 +431,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -476,8 +445,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -491,8 +459,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -506,8 +473,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -521,8 +487,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -536,8 +501,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -551,8 +515,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -566,8 +529,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -581,8 +543,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -596,8 +557,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -611,8 +571,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -626,7 +585,6 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": ""
+    "Notes": "NA"
   }
 ]
