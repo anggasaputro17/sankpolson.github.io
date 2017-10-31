@@ -52,7 +52,7 @@
     "Headline": "Stand a chance to take home ZALORA gift cards worth S$200!",
     "Subline": "Contest details will be posted via Instagram on 9 November.",
     "EventLabel": "SAL|Men|smcontest|ALL|NA",
-    "App Deeplinks": "#",
+    "App Deeplinks": "zalora://sg/nb/https%3A%2F%2Fwww.instagram.com%2Fzalora%2F",
     "Notes": "NA"
   },
   {
@@ -80,7 +80,7 @@
     "Headline": "Dresses Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "SAL|Women|earlybirddresses|ALL|NA",
-    "App Deeplinks": "sg/urlc/products/?segment=women&categoryId=25&discount=10-50&csa=earlybirddresses",
+    "App Deeplinks": "zalora://sg/urlc/products/?segment=women&categoryId=25&discount=10-50&csa=earlybirddresses",
     "Notes": "NA"
   },
   {
@@ -94,7 +94,7 @@
     "Headline": "Sneakers From S$50",
     "Subline": "NA",
     "EventLabel": "SAL|Men|sneakerspp|ALL|NA",
-    "App Deeplinks": "sg/urlc/products/?segment=men&categoryId=413&price=50-10000&csa=sneakerspp",
+    "App Deeplinks": "zalora://sg/urlc/products/?segment=men&categoryId=413&price=50-10000&csa=sneakerspp",
     "Notes": "NA"
   },
   {
