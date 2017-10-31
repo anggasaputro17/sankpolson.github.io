@@ -14,7 +14,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-tw.zacdn.com/cms/cw45/riverislandN1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
+    "Exit Url": "/women/river-island/?gender=women&dir=desc&sort=latest%20arrival&category_id=&csa=riverislandawseventeen&enable_visual_sort=1&brand=river-island",
     "Headline": "River Island",
     "Subline": "精選品牌，立即擁有一直想要的單品",
     "EventLabel": "BRA|Women|riverislandawseventeen|ALL|NA"
@@ -214,7 +214,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-tw.zacdn.com/cms/cw45/riverislandN2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/river-island-taiwan/?csa=riverislandawseventeen",
+    "Exit Url": "/women/river-island/?gender=women&dir=desc&sort=latest%20arrival&category_id=&csa=riverislandawseventeen&enable_visual_sort=1&brand=river-island",
     "Headline": "River Island",
     "Subline": "精選品牌，立即擁有一直想要的單品",
     "EventLabel": "BRA|Women|riverislandawseventeen|ALL|NA"
