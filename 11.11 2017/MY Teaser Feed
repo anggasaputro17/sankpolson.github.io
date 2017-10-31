@@ -18,8 +18,8 @@
     "Gender": "unisex",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x585",
-    "Mobile Image": "http://via.placeholder.com/600x600",
+    "Desktop Image": "https://static-my.zacdn.com/dy/1111-TEASER-LEADGEN-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/dy/1111-TEASER-LEADGEN-WEB.jpg",
     "Exit Url": "#",
     "Headline": "NA",
     "Subline": "NA",
@@ -46,8 +46,8 @@
     "Gender": "unisex",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/dy/1111-TEASER-SMCONTEST-DESKTOP.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/dy/1111-TEASER-SMCONTEST-MOB.jpg",
+    "Desktop Image": "https://static-my.zacdn.com/dy/1111-TEASER-SMCONTEST-DESKTOP-1.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/dy/1111-TEASER-SMCONTEST-MOB-1.jpg",
     "Exit Url": "#",
     "Headline": "NA",
     "Subline": "NA",
@@ -80,7 +80,7 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL-CAT|Women|onlinefeverdressesfiftyoff|ALL|NA",
-    "App Deeplinks": "my/urlc_s/m/products/?categoryId=25&segment=women&discount=10-50&shop=m",
+    "App Deeplinks": "zalora://my/urlc_s/m/products/?categoryId=25&segment=women&discount=10-50&shop=m",
     "Notes": "NA"
   },
   {
@@ -94,7 +94,7 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL-CAT|Men|onlinefeversneakersrmhundredfifty|ALL|NA",
-    "App Deeplinks": "my/urlc_s/m/products/?categoryId=169&segment=men&price=150-3000&shop=m",
+    "App Deeplinks": "zalora://my/urlc_s/m/products/?categoryId=169&segment=men&price=150-3000&shop=m",
     "Notes": "NA"
   },
   {
