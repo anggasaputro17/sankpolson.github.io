@@ -130,7 +130,7 @@
     "System ID": "b1629",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw41_unisex_fossil_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_fossil_zap_LP_996x250.jpg",
     "Gender": "Unisex",
     "Notes": "contains /fossil"
   },
@@ -139,7 +139,7 @@
     "System ID": "b1629",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/FossilSIS/cw39_women_Fossil_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_fossil_zap_LP_996x250.jpg",
     "Gender": "Women",
     "Notes": "contains /fossil & /women"
   },
@@ -148,7 +148,7 @@
     "System ID": "b1629",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/FossilSIS/cw39_men_Fossil_LP_996x250.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_men_fossil_zap_LP_996x250.jpg",
     "Gender": "Men",
     "Notes": "contains /fossil & /men"
   },
@@ -652,7 +652,7 @@
     "System ID": "b137",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-superdry-women-MIDDLE-april2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_superdry_zap_LP_996x250.jpg",
     "Gender": "Women",
     "Notes": "contains /superdry & /women"
   },
@@ -661,7 +661,7 @@
     "System ID": "b137",
     "Copy": "NA",
     "Language": "EN ZH",
-    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-superdry-men-MIDDLE-april2017.jpg",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_men_superdry_zap_LP_996x250.jpg",
     "Gender": "Men",
     "Notes": "contains /superdry & /men"
   },
