@@ -12,8 +12,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "JS in CMS only",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "hero",
@@ -28,8 +27,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NL in CMS only",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "parcel",
@@ -44,8 +42,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "social-contest",
@@ -60,8 +57,7 @@
     "EventLabel": "SAL|Men|smcontest|ALL|NA",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "Early Bird Deals",
@@ -76,8 +72,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "earlybird-left",
@@ -92,8 +87,7 @@
     "EventLabel": "SAL|Women|earlybirddresses|ALL|NA",
     "App Deeplinks": "tw/urlc/products/?segment=women&categoryId=4205&discount=10-50&csa=earlybirddresses",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "earlybird-right",
@@ -108,8 +102,7 @@
     "EventLabel": "SAL|Men|sneakerspp|ALL|NA",
     "App Deeplinks": "tw/urlc/products/?segment=men&categoryId=4196&price=1000-100000&csa=sneakerspp",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "Hourly Deals",
@@ -124,8 +117,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "hourlydeal",
@@ -140,8 +132,7 @@
     "EventLabel": "SAL|Women|dealplan|ALL|NA",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "hourlydeal",
@@ -156,8 +147,7 @@
     "EventLabel": "SAL|Men|dealplan|ALL|NA",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "Women ZAP Brands",
@@ -172,8 +162,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-1",
@@ -188,8 +177,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-2",
@@ -204,8 +192,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-3",
@@ -220,8 +207,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-4",
@@ -236,8 +222,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-5",
@@ -252,8 +237,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-6",
@@ -268,8 +252,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-7",
@@ -284,8 +267,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-8",
@@ -300,8 +282,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-9",
@@ -316,8 +297,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-10",
@@ -332,8 +312,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-11",
@@ -348,8 +327,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-12",
@@ -364,8 +342,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-13",
@@ -380,8 +357,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-14",
@@ -396,8 +372,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-15",
@@ -412,8 +387,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "Men ZAP Brands",
@@ -428,8 +402,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-1",
@@ -444,8 +417,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-2",
@@ -460,8 +432,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-3",
@@ -476,8 +447,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-4",
@@ -492,8 +462,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-5",
@@ -508,8 +477,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-6",
@@ -524,8 +492,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-7",
@@ -540,8 +507,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-8",
@@ -556,8 +522,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-9",
@@ -572,8 +537,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-10",
@@ -588,8 +552,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-11",
@@ -604,8 +567,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-12",
@@ -620,8 +582,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-13",
@@ -636,8 +597,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-14",
@@ -652,8 +612,7 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   },
   {
     "Placement": "zap-brand-15",
@@ -668,7 +627,6 @@
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
     "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "": ""
   }
 ]
