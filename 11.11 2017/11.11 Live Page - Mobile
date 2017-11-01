@@ -1,0 +1,280 @@
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, user-scalable=no, initial-scale=1, height=device-height'/>
+<link rel='stylesheet' href='//static.zalora.com/css/onsite.css'>
+<style>
+    body {background-color: #fff !important;font-family: 'Apercu','Roboto', 'Helvetica';}
+    .align-center {text-align: center;}
+    .cms-pl-mtop-lg {margin-top: 50px;}
+    .cms-pl-mtop-md {margin-top: 35px;}
+    .cms-pl-mtop-dd {margin-top: 25px;}
+    .cms-pl-mbot-lg {margin-bottom: 50px;}
+    .cms-res-font-lg {font-size: 1.5em;line-height: 1.5em;color: #000;font-weight:bold;}
+    .cms-res-font-sm {font-size: 1em;line-height: 1.5em;color: #000;padding-left: 20px;padding-right: 20px;height:50px;overflow:hidden;}
+    /* override paper to remove borders */
+    .paper {margin:0px;border: 0px;}
+    .cms-half-lfloat {float:left;width:49%;}
+    .cms-half-pl {padding-left: 2%;}
+    .cms-third-lfloat {float:left;width:32%;}
+    .cms-third-pl {padding-left: 2%;}
+    .cms-third-text {width:100%;overflow:hidden;line-height:3em;font-size:0.9em;}
+    .cms-full {width:100%}
+    .cms-spacer-25 {height:25px}
+    .cms-spacer-35 {height:35px}
+    .txtCenter {text-align:center;}
+    .txtLeft {text-align:left;}
+    .mtl {margin-top:20px;}
+    .mtm {margin-top:12px;}    
+    .mtxl {margin-top:40px;}
+    .mbl {margin-bottom:20px;}
+    .mbs {margin-bottom:5px;}
+    .mlm {margin-left:12px;}
+    .pls {padding-left:5px;}
+    .mrm {margin-right:12px;}
+    .lfloat {float:left;}
+    .rfloat {float:right;}
+    .strong {font-weight:bold;}
+    /* skinny css */
+    .cms-mobile-skinny {background:#5b1647; color:#FFF;width:95%;height:50px;line-height:25px;font-size:1em;overflow:hidden;padding:0 2.5%;}
+    .cms-sidepad {padding:0 5%;}
+</style>
+
+<!-- Skinny -->
+<div class='cms-full'>
+    <div class='cms-fallback'>
+        <div class='cms-mobile-skinny align-center'>
+            Lorem ipsum lalalala lum even more lorem ipsum blahlala blahlala awesum handsum mansum
+        </div>
+    </div>
+</div>
+
+<!-- Hero -->
+<div class='cms-full mtm'>
+    <div class='cms-fallback'>
+        <a href='#'>
+            <img data-src='[MEDIA_BASE_URL]/cms/1111-teaser/MOBILEWEB_HERO_600x600-teaserhero.jpg' width='100%' src=''/>
+        </a>
+    </div>
+</div>
+
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+
+<div class='cms-full mtl align-center'>
+    <div id='dy-singles-mob-campaignsD1'>
+        <div class='cms-fallback'>
+            <a href='#' class='cms-top-brands'>
+                <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
+            </a>
+            <div class='breathing-room'>
+                <div class='strong cms-res-font-lg'>
+                    River Island
+                </div>
+                <div class='cms-res-font-sm cms-sidepad'>
+                    Get the new outfit you truly deserve, from the brand we know you’ll love.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class='cms-full mtl align-center'>
+    <div id='dy-singles-mob-campaignsD2'>
+        <div class='cms-fallback'>
+            <a href='#' class='cms-top-brands'>
+                <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
+            </a>
+            <div class='breathing-room'>
+                <div class='strong cms-res-font-lg'>
+                    River Island
+                </div>
+                <div class='cms-res-font-sm cms-sidepad'>
+                    Get the new outfit you truly deserve, from the brand we know you’ll love.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Hourly Deals -->
+<div class='cms-full mtl align-center'>
+    <div id='dy-singles-mob-HourlyDeal'>
+        <div class='cms-fallback'>
+            <a href='#' class='cms-top-brands'>
+                <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
+            </a>
+            <div class='breathing-room'>
+                <div class='strong cms-res-font-lg'>
+                    River Island
+                </div>
+                <div class='cms-res-font-sm cms-sidepad'>
+                    Get the new outfit you truly deserve, from the brand we know you’ll love.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+
+<!-- Brands -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Brands
+    </div>
+</div>
+<div class='cms-full mtl'></div>
+<div class='cms-full'>
+    <div id='dy-1111-mob-zap-brand-women'>
+        <!-- Brands Row 1 -->
+        <div class='cms-full align-center mbs lfloat'>
+            <div class='cms-third-lfloat'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+        </div>
+        <!-- Brands Row 2 -->
+        <div class='cms-full align-center mbs lfloat'>
+            <div class='cms-third-lfloat'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+        </div>
+        <!-- Brands Row 3 -->
+        <div class='cms-full align-center mbs lfloat'>
+            <div class='cms-third-lfloat'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+        </div>
+        <!-- Brands Row 4 -->
+        <div class='cms-full align-center mbs lfloat'>
+            <div class='cms-third-lfloat'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+        </div>
+        <!-- Brands Row 5 -->
+        <div class='cms-full align-center mbs lfloat'>
+            <div class='cms-third-lfloat'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+            <div class='cms-third-lfloat cms-third-pl'>
+                <div class='cms-fallback'>
+                    <a href='#'><img data-src='http://via.placeholder.com/436x248' width='100%' src=''/></a>
+                    <div class='cms-third-text'>Up to 50% Off</div>
+                </div>
+            </div>
+        </div>
+    </div>   
+</div>
+
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+<!-- Social Media Contest -->
+<div class='cms-full align-center mbs lfloat'>
+    <div class='cms-res-font-lg'>
+        Competition
+    </div>
+</div>
+<div class='cms-full align-center lfloat mtl'>
+    <div id='dy-1111-mob-social-contest'>
+        <div class='cms-fallback'>
+            <a href='#'><img data-src='http://via.placeholder.com/620x420' width='100%' src=''/></a>
+        </div>
+    </div>
+</div>
+
+<div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
+
+<script src='/js/jquery-1.7.min.js'></script>
+<script>
+    function loadFallback() {
+        if (!$('.dy_unit').is(':visible')) {
+
+            $('.cms-placeholder-height').each(function () {
+                $(this).removeClass();
+            });
+
+            $('.cms-fallback img').each(function () {
+                this.src = $(this).data('src');
+            });
+
+            $('.cms-fallback').show();
+            console.log('Loaded Fallback');
+        } else {
+            //$('.cms-fallback').remove();
+            console.log('Do Not Load Fallback');
+        }
+    }
+
+    function detectEvergageStatus() {
+        var timeoutID = window.setTimeout(loadFallback, 4000);
+    }
+
+    $(function () {
+        detectEvergageStatus();
+    });
+</script>
