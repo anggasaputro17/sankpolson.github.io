@@ -11,9 +11,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "JS in CMS only",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "JS in CMS only"
   },
   {
     "Placement": "hero",
@@ -27,9 +25,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NL in CMS only",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NL in CMS only"
   },
   {
     "Placement": "parcel",
@@ -43,9 +39,7 @@
     "Subline": "#FFF",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "social-contest",
@@ -59,9 +53,7 @@
     "Subline": "Contest details will be posted via Instagram on 9 November.",
     "EventLabel": "SAL|Men|smcontest|ALL|NA",
     "App Deeplinks": "zalora://sg/nb/https%3A%2F%2Fwww.instagram.com%2Fzalora%2F",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Early Bird Deals",
@@ -75,9 +67,7 @@
     "Subline": "Skip the queue and get started on these deals!",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-left",
@@ -91,9 +81,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Women|earlybirddresses|ALL|NA",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&categoryId=25&discount=10-50&csa=earlybirddresses",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "earlybird-right",
@@ -107,9 +95,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Men|sneakerspp|ALL|NA",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=men&categoryId=413&price=50-10000&csa=sneakerspp",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Hourly Deals",
@@ -123,9 +109,7 @@
     "Subline": "Hour-long markdowns you can't afford to miss.",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
@@ -139,9 +123,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Women|dealplan|ALL|NA",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "hourlydeal",
@@ -155,9 +137,7 @@
     "Subline": "NA",
     "EventLabel": "SAL|Men|dealplan|ALL|NA",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Women ZAP Brands",
@@ -171,9 +151,7 @@
     "Subline": "Irresistible products at unbeatable prices!",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -187,9 +165,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "bra|women|aldo2awseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc_s/m/products/?brandIds[]=87&segment=women&csa=aldo2awseventeen&shop=m",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -203,9 +179,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "BRA|Women|fossil5awseventeen|ALL|NA",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=2313&csa=fossil5awseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -219,9 +193,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "bra|women|forevernew3awseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=4169&csa=forevernew3awseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -235,9 +207,7 @@
     "Subline": "Up to 70% Off",
     "EventLabel": "bra|women|unisaawseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=3038&csa=unisaawseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -251,9 +221,7 @@
     "Subline": "Up to 40% Off",
     "EventLabel": "bra|women|kodz2awseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=3692&csa=kodz2awseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -267,9 +235,7 @@
     "Subline": "Up to 70% Off",
     "EventLabel": "bra|women|sunnydaysweetyawseventeen|all|na",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=4219&csa=sunnydaysweetyawseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -283,9 +249,7 @@
     "Subline": "Up to 11% Off",
     "EventLabel": "bra|women|sigma2awseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=4025&csa=sigma2awseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -299,9 +263,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "bra|women|hconnectawseventeen|all|zap",
     "App Deeplinks": "zalora://sg/urlc/products/?segment=women&brandIds[]=4349&csa=hconnectawseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -315,9 +277,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -331,9 +291,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -347,9 +305,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -363,9 +319,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -379,9 +333,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -395,9 +347,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -411,9 +361,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "Men ZAP Brands",
@@ -427,9 +375,7 @@
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-1",
@@ -443,9 +389,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "BRA|Men|fossil5awseventeen|ALL|NA",
     "App Deeplinks": "zalora://sg/urlc/products/?brandIds[]=2313&segment=men&csa=fossil5awseventeen",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-2",
@@ -459,9 +403,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-3",
@@ -475,9 +417,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-4",
@@ -491,9 +431,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -507,9 +445,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-6",
@@ -523,9 +459,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-7",
@@ -539,9 +473,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-8",
@@ -555,9 +487,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-9",
@@ -571,9 +501,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-10",
@@ -587,9 +515,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-11",
@@ -603,9 +529,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-12",
@@ -619,9 +543,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-13",
@@ -635,9 +557,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-14",
@@ -651,9 +571,7 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   },
   {
     "Placement": "zap-brand-15",
@@ -667,8 +585,6 @@
     "Subline": "Up to 50% Off",
     "EventLabel": "na|na|eventlabel|all|na",
     "App Deeplinks": "#",
-    "Notes": "NA",
-    "": "",
-    "SG Trello Card": ""
+    "Notes": "NA"
   }
 ]
