@@ -1,0 +1,326 @@
+<link rel='stylesheet' href='//static.zalora.com/css/onsite.css'>
+<style>
+    .cms-fallback{display: none;}
+    #cms-link-spec-inc > div.cms-container > a:hover {text-decoration: none!important;}
+    #BannersTop.hpBannersTop{display:block!important}
+    .b-mainBanner,#Brands.hpBrands,#Topsellers.hpTopsellers{display:none!important}
+    body{background:#fff!important}
+    .cms-headline-font {font-size:20px;}
+    .cms-subline-font {font-size:16px;}
+    .mtdeals {margin-top:26px;}
+    /*anchor css */
+    .cms-anchor-header {width:249px;line-height:2.3em;font-size:16px;}
+    .cms-anchor-header:hover {border-bottom: 2px solid #ee7216;color: #ee7216;margin-bottom:-2px;cursor: pointer;}
+    /*anchor css */
+    /*skinny css */
+    .cms-parcel a:hover {text-decoration:none!important;}
+    .cms-skinny-full-img {background: #000;width: 996px;height: 30px;}
+    .cms-sb-full-text {color: #FFF;text-align: center;font-size: 14px;line-height: 30px;}
+    .cms-sb-half-left-img {background: #5b1647;float:left;width:495px;height:30px;}
+    .cms-sb-left-text {color: #FFF;text-align: center;font-size: 12px;text-decoration: none;line-height: 30px;vertical-align: middle;overflow: hidden;padding:0px 5px}
+    .cms-sb-half-right-img {background: #84153b;float:left;width:495px;height:30px;}
+    .cms-sb-right-text {color: #FFF;text-align: center;font-size: 12px;text-decoration: none;line-height: 30px;vertical-align: middle;overflow: hidden;padding:0px 5px}
+    /*skinny css */
+    /*back to top btn css */
+    .cms-back-to-top{position:fixed;top:85%;left:90%;bottom:10px;width:20px;height:20px;z-index:3;font-size:21px;cursor:pointer}
+    .cms-back-to-top a:hover{text-decoration:none}
+    .cms-back-to-top-cp{font-size:10px;position:fixed;top:88.5%;left:90.18%;color:#000}
+    /*back to top btn css */
+</style>
+
+<!-- Scroll To Top Btn -->
+<div class='cms-back-top' style='display:none'>
+    <div class='cms-back-to-top'>
+        <i class='icon_arrow-large-dark-up'></i>
+        <div class='cms-back-to-top-cp'>Back<br>to Top</div>
+    </div>
+</div>
+
+<!-- Skinny -->
+<div class='cms-row'>
+    <div class='cms-full cms-parcel'>
+        <div id='dy-singles-skinny-full'>
+            <!--
+            <div class='cms-fallback'>
+                <a href='#'>
+                    <div class='cms-skinny-full-img'>
+                        <div class='cms-sb-full-text txtCenter strong'>
+                            Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah
+                        </div>
+                    </div>
+                </a>
+            </div>
+            -->
+        </div>
+        <div id='dy-singles-skinny-left'>
+            <div class='cms-fallback'>
+                <a href='#'>
+                    <div class='cms-sb-half-left-img txtCenter cms-animate'>
+                        <div class='cms-sb-left-text strong'>
+                            Lorem ipsum blahblahblah
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div id='dy-singles-skinny-right'>
+            <div class='cms-fallback'>
+                <a href='#'>
+                    <div class='cms-sb-half-right-img txtCenter cms-animate mls'>
+                        <div class='cms-sb-right-text strong'>
+                            Even more Lorem ipsum blahblahblah Lorem ipsum
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Hero -->
+<div class='cms-row'> 
+    <div class='cms-full mtm'>
+        <div id='dy-singles-dsk-hero' style='width:996px;height:500px;'>
+            <div class='cms-hero-placeholder-spinner'></div>
+            <div class='cms-fallback'>
+                <a class='cms-top-brands' href='/women/special-price/?from=fallback'>
+                    <img data-src='[MEDIA_BASE_URL]/cms/1111-2017/SEGMENT_HERO_996x500-test2.jpg' src=''>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Anchor Bar -->
+<div class='cms-row'>
+    <div class='cms-full mtxl txtCenter strong'>
+        <div id='js-scrollBtn-dailydeals' class='lfloat cms-anchor-header txtCenter'>
+            Daily Deals
+        </div>
+        <div id='js-scrollBtn-hourlydeals' class='lfloat cms-anchor-header txtCenter'>
+            Limited Time Specials
+        </div>
+        <div id='js-scrollBtn-brands' class='lfloat cms-anchor-header txtCenter'>
+            Top Brands on Offer
+        </div>
+        <div id='js-scrollBtn-competition' class='lfloat cms-anchor-header txtCenter'>
+            Singles' Day Giveaway
+        </div>
+        <!--
+        <div id='js-scrollBtn-rewards' class='lfloat cms-anchor-header txtCenter'>
+            Rewards
+        </div>
+        -->
+    </div>
+</div>
+
+<!-- Daily Deals -->
+<div class='cms-row'>
+    <div class='cms-full'>
+        <div id='js-scrollTo-dailydeals'></div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtxxl'>
+        <div class='cms-headline-font strong txtCenter'>
+            DAILY DEALS
+        </div>
+        <div class='cms-subline-font strong txtCenter'>
+            Amazing discounts you won't find anywhere else!
+        </div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtl'>
+        <div class='lfloat'>
+            <div id='dy-singles-dsk-campaignsD1'>
+                <div class='cms-fallback'>
+                    <a href='#' class='cms-top-brands'>
+                        <img data-src='[MEDIA_BASE_URL]/cms/1111teaser/D1-4_DESKTOP_485x420-women-dresses.jpg' src=''>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class='rfloat'>
+            <div id='dy-singles-dsk-campaignsD2'>
+                <div class='cms-fallback'>
+                    <a href='#' class='cms-top-brands'>
+                        <img data-src='[MEDIA_BASE_URL]/cms/1111teaser/D1-4_DESKTOP_485x420-men-sneakers.jpg' src=''>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtdeals'>
+        <div class='lfloat'>
+            <div id='dy-singles-dsk-campaignsD3'>
+                <div class='cms-fallback'>
+                    <a href='#' class='cms-top-brands'>
+                        <img data-src='[MEDIA_BASE_URL]/cms/1111teaser/D1-4_DESKTOP_485x420-men-sneakers.jpg' src=''>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class='rfloat'>
+            <div id='dy-singles-dsk-campaignsD4'>
+                <div class='cms-fallback'>
+                    <a href='#' class='cms-top-brands'>
+                        <img data-src='[MEDIA_BASE_URL]/cms/1111teaser/D1-4_DESKTOP_485x420-women-dresses.jpg' src=''>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Limited Time Specials -->
+<div class='cms-row'>
+    <div class='cms-full'>
+        <div id='js-scrollTo-hourlydeals'></div>
+    </div>
+</div>
+<div id='dy-singles-dsk-HourlyDeal'>
+    <div class='cms-fallback'>
+        <div class='cms-row'>
+            <div class='cms-full mtxxl'>
+                <div class='cms-headline-font strong txtCenter'>
+                    Limited Time Specials
+                </div>
+                <div class='cms-subline-font strong txtCenter'>
+                    Grab these hour-long markdowns before time's up!
+                </div>
+            </div>
+        </div>
+        <div class='cms-row'>
+            <div class='cms-full mtl'>            
+                <a href='#' class='cms-top-brands'>
+                    <img data-src='[MEDIA_BASE_URL]/cms/1111-2017/HOURLY_DESKTOP_996x250_-_with_vc_&_time.jpg' src=''>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Brands -->
+<div class='cms-row'>
+    <div class='cms-full'>
+        <div id='js-scrollTo-brands'></div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtxxl'>
+        <div class='cms-headline-font strong txtCenter'>
+            TOP BRANDS ON OFFER
+        </div>
+        <div class='cms-subline-font strong txtCenter'>
+            Irresistible products at unbeatable prices!
+        </div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtl'>
+        <div id='dy-singles-dsk-ZAPBrands'>
+            <div class='cms-fallback'>
+                <div class='unit size1of1'>
+                    <iframe src='https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html' style='width:996px;height:450px;min-height:1px;border:none;' frameborder='0' scrolling='no'></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>      
+
+<!-- Competition -->
+<div class='cms-row'>
+    <div class='cms-full'>
+        <div id='js-scrollTo-competition'></div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtxxl'>
+        <div class='cms-headline-font strong txtCenter'>
+            SINGLES' DAY GIVEAWAY
+        </div>
+        <div class='cms-subline-font strong txtCenter'>
+            Snap, share and win!
+        </div>
+    </div>
+</div>
+<div class='cms-row'>
+    <div class='cms-full mtl'>
+        <div id='dy-singles-dsk-SocialContest'>
+            <div class='cms-fallback'>
+                <a href='#' class='cms-top-brands'>
+                    <img data-src='[MEDIA_BASE_URL]/cms/1111teaser/TEASER_SM_DESKTOP_996x250.jpg' src=''>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Rewards -->
+<div class='cms-row'>
+    <div class='cms-full'>
+        <div id='js-scrollTo-rewards'></div>
+    </div>
+</div>
+
+
+<div class='cms-row'><div class='cms-full mtxxl'></div></div>
+<script>
+    function loadFallback() {
+        if (!$('.dy_unit').is(':visible')) {
+
+            /* Start Loading Fallback */
+            $('.cms-fallback img').each(function () {
+                this.src = $(this).data('src');
+            });
+            $('.cms-fallback').show();
+
+            console.log('Loaded Fallback');
+        } else {
+            $('.cms-fallback').remove();
+            console.log('Do Not Load Fallback');
+        }
+    }
+    function detectEvergageStatus() {
+        var timeoutID = window.setTimeout(loadFallback, 8000);
+    }
+    $(function () {
+        detectEvergageStatus();
+    });
+
+    $('#js-scrollBtn-dailydeals').on('click', function () {
+        $('html,body').animate({scrollTop: $('#js-scrollTo-dailydeals').offset().top}, 500);
+        return false;
+    });
+    $('#js-scrollBtn-hourlydeals').on('click', function () {
+        $('html,body').animate({scrollTop: $('#js-scrollTo-hourlydeals').offset().top}, 500);
+        return false;
+    });
+    $('#js-scrollBtn-brands').on('click', function () {
+        $('html,body').animate({scrollTop: $('#js-scrollTo-brands').offset().top}, 500);
+        return false;
+    });
+    $('#js-scrollBtn-competition').on('click', function () {
+        $('html,body').animate({scrollTop: $('#js-scrollTo-competition').offset().top}, 500);
+        return false;
+    });
+    $('#js-scrollBtn-rewards').on('click', function () {
+        $('html,body').animate({scrollTop: $('#js-scrollTo-rewards').offset().top}, 500);
+        return false;
+    });
+
+    /* back to top button */
+    $(window).scroll(function () {
+        if ($(this).scrollTop() < 0)
+            $('.cms-back-top').css('display', 'none');
+        else
+            $('.cms-back-top').css('display', 'block');
+    });
+    $('.cms-back-to-top').on('click', function () {
+        $('html,body').animate({scrollTop: 0}, 500);
+        return false;
+    });
+</script>
