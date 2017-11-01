@@ -623,21 +623,21 @@
     "Placement": "skinny-half-left-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "#99b2d6",
-    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
-    "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
+    "Image": "#8f2c4d",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+    "EventLabel": "TRE|Women|singlesday|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#FFC5D5",
+    "Exit Url": "/all-products/?cmpgn_one=payday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|unisex|payday|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-global",
@@ -653,21 +653,21 @@
     "Placement": "skinny-half-left-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#6bbab7",
-    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
-    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Image": "#8f2c4d",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "TRE|Women|singlesday|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#F2E6F7",
-    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
-    "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
+    "Image": "#FFC5D5",
+    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-segment",
@@ -683,21 +683,21 @@
     "Placement": "skinny-half-left-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#6bbab7",
-    "Exit Url": "/product-index/heelsbagsshoes/?discount=10-40&age=30-90&csa=heelsbagsshoes",
-    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Image": "#8f2c4d",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": "TRE|Women|singlesday|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#F2E6F7",
-    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
-    "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
+    "Image": "#FFC5D5",
+    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-global",
@@ -713,21 +713,21 @@
     "Placement": "skinny-half-left-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#99b2d6",
-    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
-    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
+    "Image": "#8f2c4d",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": "TRE|Men|singlesday|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#ffab89",
+    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|Men|menpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-segment",
@@ -743,20 +743,20 @@
     "Placement": "skinny-half-left-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#99b2d6",
-    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
-    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
+    "Image": "#8f2c4d",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": "TRE|Men|singlesday|ALL|NA"
   },
   {
     "Placement": "skinny-half-right-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#ffab89",
+    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|Men|menpayday|ALL|NA"
   }
 ]
