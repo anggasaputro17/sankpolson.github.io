@@ -615,9 +615,9 @@
     "Device": "desktop",
     "Image": "#99b2d6",
     "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "光棍節優惠：立即入手享受早鳥優惠>",
+    "Headline": "光棍節優惠：立即入手享受早鳥優惠",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-homepage",
@@ -627,7 +627,7 @@
     "Exit Url": "/all-products/?cmpgn_one=payday&csa=payday",
     "Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-global",
@@ -645,9 +645,9 @@
     "Device": "desktop",
     "Image": "#6bbab7",
     "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "光棍節優惠：立即入手享受早鳥優惠 >",
+    "Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-women-global",
@@ -657,7 +657,7 @@
     "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
     "Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-women-segment",
@@ -675,9 +675,9 @@
     "Device": "desktop",
     "Image": "#6bbab7",
     "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "光棍節優惠：立即入手享受早鳥優惠 >",
+    "Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
     "Subline": "#FFF",
-    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-women-segment",
@@ -687,7 +687,7 @@
     "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
     "Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
     "Subline": "#000",
-    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-global",
@@ -705,9 +705,9 @@
     "Device": "desktop",
     "Image": "#99b2d6",
     "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "光棍節優惠：立即入手享受早鳥優惠 >",
+    "Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-men-global",
@@ -717,7 +717,7 @@
     "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday,
     "Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|Men|menpayday|ALL|NA"
   },
   {
     "Placement": "skinny-full-men-segment",
@@ -735,9 +735,9 @@
     "Device": "desktop",
     "Image": "#99b2d6",
     "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "光棍節優惠：立即入手享受早鳥優惠 >",
+    "Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
     "Subline": "#FFF",
-    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-men-segment",
@@ -747,6 +747,6 @@
     "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
     "Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
     "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "EventLabel": "SAL|Men|menpayday|ALL|NA"
   }
 ]
