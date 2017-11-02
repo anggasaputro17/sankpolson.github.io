@@ -2,15 +2,14 @@
   {
     "Placement": "Hero",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "/women/clothing/?csa=smthg",
+    "Status": "/women/shoes/?csa=something",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/SEGMENT_HERO_SLICED_996x500.jpg",
     "Mobile Image": "http://via.placeholder.com/600x600",
     "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
+    "Headline": "/women/bags/?csa=smgth",
+    "Subline": "/women/accessories/?csa=smg",
     "EventLabel": "SAL|Women|mssninenovwomen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -24,7 +23,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|mssninenovwomen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -38,7 +36,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -52,7 +49,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -66,7 +62,6 @@
     "Headline": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -80,7 +75,6 @@
     "Headline": "Lorem ipsum blahblahblah >",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -94,7 +88,6 @@
     "Headline": "Lorem ipsum blahblahblah >",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -108,7 +101,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -122,7 +114,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -136,7 +127,6 @@
     "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
     "Subline": "#fff",
     "EventLabel": "SAL|Women|parcelsurprise|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -150,7 +140,6 @@
     "Headline": "Top 11 spenders receive 4,500 bonus LinkPoints! >",
     "Subline": "NA",
     "EventLabel": "SAL|Women|ntucpluspoints|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -164,7 +153,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -178,7 +166,6 @@
     "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
     "Subline": "#fff",
     "EventLabel": "SAL|Women|parcelsurprise|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -192,7 +179,6 @@
     "Headline": "Top 11 spenders receive 4,500 bonus LinkPoints! >",
     "Subline": "#fff",
     "EventLabel": "SAL|Women|ntucpluspoints|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -206,7 +192,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "mobile"
   },
   {
@@ -220,7 +205,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -233,8 +217,7 @@
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
+    "EventLabel": "SAL|Men|skinnyfull|all|na",
     "Notes": "NA"
   },
   {
@@ -248,7 +231,6 @@
     "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
     "Subline": "#fff",
     "EventLabel": "SAL|Men|parcelsurprise|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -262,7 +244,6 @@
     "Headline": "Lorem ipsum blahblahblah >",
     "Subline": "#fff",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -276,7 +257,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -290,7 +270,6 @@
     "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
     "Subline": "#fff",
     "EventLabel": "SAL|Men|parcelsurprise|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -304,7 +283,6 @@
     "Headline": "Lorem ipsum blahblahblah >",
     "Subline": "#fff",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -318,7 +296,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "mobile"
   },
   {
@@ -332,7 +309,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -346,7 +322,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|shoesandbags|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -360,7 +335,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|beautymysteryset|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -374,7 +348,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -388,7 +361,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|loungewear1111|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -402,7 +374,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|shoesandbags|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -416,7 +387,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|beautymysteryset|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -430,7 +400,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -444,7 +413,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|loungewear1111|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -458,7 +426,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -472,147 +439,136 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal1",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-hd1.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-hd1.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal2",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-hd2.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-hd1.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
     "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d3.jpg",
+    "Device": "Limited Time Specials",
+    "Status": "",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d4.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d3.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal4",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d4.jpg",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d3.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d3.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
     "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal5",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d5.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d5.jpg",
     "Exit Url": "/women/all-products/?brand=calvin-klein&discount=10-50",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|calvinkleintwenty|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal1",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-hd1.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-hd1.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal2",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-hd2.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-hd1.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
     "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d3.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d3.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal4",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d4.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d3.jpg",
     "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
     "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
     "Placement": "HourlyDeal5",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
+    "Device": "Limited Time Specials",
+    "Status": "",
     "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_DESKTOP_996x250-d5.jpg",
     "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/HOURLY_MOBILE_620x420-d5.jpg",
     "Exit Url": "/women/all-products/?brand=calvin-klein&discount=10-50",
-    "Headline": "Limited Time Specials",
+    "Headline": "GUESS Up to 70% Off",
     "Subline": "",
     "EventLabel": "SAL|Women|calvinkleintwenty|ALL|NA",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -626,7 +582,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -634,13 +589,12 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "",
-    "Mobile Image": "",
+    "Desktop Image": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/sg/women-carosel-teaser-v8.html",
+    "Mobile Image": "s3 url",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -654,7 +608,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -668,7 +621,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -682,7 +634,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -696,7 +647,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -710,7 +660,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -724,7 +673,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -738,7 +686,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -752,7 +699,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -766,7 +712,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -780,7 +725,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -794,7 +738,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -808,7 +751,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -822,7 +764,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -836,7 +777,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -850,7 +790,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -864,7 +803,6 @@
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -872,13 +810,12 @@
     "Gender": "men",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "",
-    "Mobile Image": "",
+    "Desktop Image": "s3 url",
+    "Mobile Image": "s3 url",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA",
-    "App Deeplink": "NA",
     "Notes": "NA"
   },
   {
@@ -892,7 +829,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -906,7 +842,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -920,7 +855,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -934,7 +868,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -948,7 +881,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -962,7 +894,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -976,7 +907,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -990,7 +920,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1004,7 +933,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1018,7 +946,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1032,7 +959,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1046,7 +972,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1060,7 +985,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1074,7 +998,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   },
   {
@@ -1088,161 +1011,6 @@
     "Headline": "Up to 50% Off",
     "Subline": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "Partners",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "NA",
-    "Mobile Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-1",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-2",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-3",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-4",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-5",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-6",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-7",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-8",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-9",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
-  },
-  {
-    "Placement": "partner-10",
-    "Gender": "unisex",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/620x420",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Lorem ipsum blahblahblah",
-    "Subline": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
     "Notes": "NA"
   }
 ]
