@@ -3,7 +3,7 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "https://static-tw.zacdn.com/cms/cw45/dressesSEGMENT_HERO_996x500.jpg",
-		"Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY--SU225AA0RWXHMY&csa=newarrivaldresses",
+		"Exit Url": "/women/clothing/dresses/new-products/?dir=desc&csa=newarrivaldresses&enable_visual_sort=true",
 		"Headline": "NA",
 		"Subline": "NA",
 		"EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
@@ -203,7 +203,7 @@
 		"Gender": "women",
 		"Device": "mobile",
 		"Image": "https://static-tw.zacdn.com/cms/cw45/dressesMOBILEWEB_HERO_600x600.jpg",
-		"Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY--SU225AA0RWXHMY&csa=newarrivaldresses",
+		"Exit Url": "/women/clothing/dresses/new-products/?dir=desc&csa=newarrivaldresses&enable_visual_sort=true",
 		"Headline": "NA",
 		"Subline": "NA",
 		"EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
