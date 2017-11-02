@@ -1,7 +1,7 @@
 [
   {
     "Placement": "Hero",
-    "Gender": "unisex",
+    "Gender": "women",
     "Device": "multi",
     "Status": "NA",
     "Desktop Image EN": "http://via.placeholder.com/996x500",
@@ -13,9 +13,23 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
+  },
+  {
+    "Placement": "Hero",
+    "Gender": "men",
+    "Device": "multi",
+    "Status": "NA",
+    "Desktop Image EN": "http://via.placeholder.com/996x500",
+    "Desktop Image ZH": "http://via.placeholder.com/996x500",
+    "Mobile Image EN": "http://via.placeholder.com/600x600",
+    "Mobile Image ZH": "http://via.placeholder.com/600x600",
+    "Exit Url": "#",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "SocialContest",
@@ -31,9 +45,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Skinnies",
@@ -49,9 +61,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "Homepage Skinny Full",
@@ -67,9 +77,7 @@
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Homepage Skinny Left",
@@ -85,9 +93,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Homepage Skinny Right",
@@ -103,9 +109,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Skinnies Women",
@@ -121,9 +125,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "Women SegmentSkinny Full",
@@ -139,9 +141,7 @@
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women SegmentSkinny Left",
@@ -157,9 +157,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women SegmentSkinny Right",
@@ -175,9 +173,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women GlobalSkinny Full",
@@ -193,9 +189,7 @@
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women GlobalSkinny Left",
@@ -211,9 +205,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women GlobalSkinny Right",
@@ -229,9 +221,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women MobileSkinny",
@@ -247,9 +237,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "",
-    "Notes": "mobile"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Skinnies Men",
@@ -265,9 +253,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "Men SegmentSkinny Full",
@@ -283,9 +269,7 @@
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men SegmentSkinny Left",
@@ -301,9 +285,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men SegmentSkinny Right",
@@ -319,9 +301,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men GlobalSkinny Full",
@@ -337,9 +317,7 @@
     "Headline ZH": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men GlobalSkinny Left",
@@ -355,9 +333,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men GlobalSkinny Right",
@@ -373,9 +349,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men MobileSkinny",
@@ -391,9 +365,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah >",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "",
-    "Notes": "mobile"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Campaigns (D1-4)",
@@ -409,9 +381,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "campaignsD1",
@@ -423,13 +393,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD2",
@@ -441,13 +409,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD3",
@@ -459,13 +425,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD4",
@@ -477,13 +441,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD1",
@@ -495,13 +457,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD2",
@@ -513,13 +473,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD3",
@@ -531,13 +489,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "campaignsD4",
@@ -549,13 +505,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Hourly Deals",
@@ -571,9 +525,23 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
+  },
+  {
+    "Placement": "Hourly Deals Beta",
+    "Gender": "NA",
+    "Device": "NA",
+    "Status": "NA",
+    "Desktop Image EN": "",
+    "Desktop Image ZH": "",
+    "Mobile Image EN": "",
+    "Mobile Image ZH": "",
+    "Exit Url": "NA",
+    "Headline EN": "NA",
+    "Headline ZH": "NA",
+    "Subline EN": "NA",
+    "Subline ZH": "NA",
+    "EventLabel": "NA"
   },
   {
     "Placement": "HourlyDeal1",
@@ -585,13 +553,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal2",
@@ -603,13 +569,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "Grab these hour-long markdowns before time's up!",
+    "Subline ZH": "Grab these hour-long markdowns before time's up!",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal3",
@@ -621,13 +585,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal4",
@@ -639,13 +601,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "Grab these hour-long markdowns before time's up!",
+    "Subline ZH": "Grab these hour-long markdowns before time's up!",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal5",
@@ -657,13 +617,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal1",
@@ -675,13 +633,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal2",
@@ -693,13 +649,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "Grab these hour-long markdowns before time's up!",
+    "Subline ZH": "Grab these hour-long markdowns before time's up!",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal3",
@@ -711,13 +665,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal4",
@@ -729,13 +681,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "Grab these hour-long markdowns before time's up!",
+    "Subline ZH": "Grab these hour-long markdowns before time's up!",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "HourlyDeal5",
@@ -747,13 +697,11 @@
     "Mobile Image EN": "http://via.placeholder.com/620x420",
     "Mobile Image ZH": "http://via.placeholder.com/620x420",
     "Exit Url": "#",
-    "Headline EN": "Lorem ipsum blahblahblah",
-    "Headline ZH": "Lorem ipsum blahblahblah",
-    "Subline EN": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "Subline ZH": "More Lorem ipsum blahblahblah Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "Headline EN": "Limited Time Specials",
+    "Headline ZH": "Limited Time Specials",
+    "Subline EN": "",
+    "Subline ZH": "",
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Women ZAP Brands",
@@ -769,9 +717,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "Women ZAPBrands",
@@ -787,135 +733,119 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA",
-    "App Deeplink": "",
-    "Notes": ""
+    "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA"
   },
   {
     "Placement": "zap-brand-1",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_logo_436x248.jpg",
+    "Exit Url": "/women/levis/?csa=levishkawseventeen",
+    "Headline EN": "Up to 80% Off",
+    "Headline ZH": "低至2折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|levishkawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-2",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_fossil_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_fossil_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_fossil_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_fossil_logo_436x248.jpg",
+    "Exit Url": "/fossil-hongkong/?csa=fossil5awseventeen",
     "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Headline ZH": "低至5折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "BRA|Women|fossil5awseventeen|ALL|NA"
   },
   {
     "Placement": "zap-brand-3",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_unisa_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_unisa_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_unisa_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_unisa_logo_436x248.jpg",
+    "Exit Url": "/women/unisa/?csa=unisaawseventeen",
+    "Headline EN": "Up to 70% Off",
+    "Headline ZH": "低至3折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|unisaawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-4",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_kodz_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_kodz_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_kodz_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_kodz_logo_436x248.jpg",
+    "Exit Url": "/women/kodz/?csa=kodz2awseventeen",
+    "Headline EN": "Up to 40% Off",
+    "Headline ZH": "低至6折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|kodz2awseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-5",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sundaysweety_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sundaysweety_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sundaysweety_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sundaysweety_logo_436x248.jpg",
+    "Exit Url": "/women/sunnydaysweety/?csa=sunnydaysweetyawseventeen",
+    "Headline EN": "Up to 70% Off",
+    "Headline ZH": "低至3折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|sunnydaysweetyawseventeen|all|na"
   },
   {
     "Placement": "zap-brand-6",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_wonderlust_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_wonderlust_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_wonderlust_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_wonderlust_logo_436x248.jpg",
+    "Exit Url": "/women/wanderlust-co/?csa=wanderlustcoawseventeen",
+    "Headline EN": "Up to 80% Off",
+    "Headline ZH": "低至2折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|wanderlustcoawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-7",
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sothatme_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sothatme_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sothatme_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Women_carousel_en_sothatme_logo_436x248.jpg",
+    "Exit Url": "/women/so-that-s-me/?csa=sothatsmeawseventeen",
     "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Headline ZH": "低至5折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|women|sothatsmeawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-8",
@@ -931,9 +861,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-9",
@@ -949,9 +877,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-10",
@@ -967,9 +893,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-11",
@@ -985,9 +909,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-12",
@@ -1003,9 +925,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-13",
@@ -1021,9 +941,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-14",
@@ -1039,9 +957,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-15",
@@ -1057,9 +973,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Men ZAP Brands",
@@ -1075,9 +989,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "Men ZAPBrands",
@@ -1093,81 +1005,71 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA",
-    "App Deeplink": "",
-    "Notes": "NA"
+    "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA"
   },
   {
     "Placement": "zap-brand-1",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_Levis_logo_436x248.jpg",
+    "Exit Url": "/men/levis/?csa=levishkawseventeen",
+    "Headline EN": "Up to 80% Off",
+    "Headline ZH": "低至2折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|men|levishkawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-2",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_life8_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_life8_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_life8_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_life8_logo_436x248.jpg",
+    "Exit Url": "/men/life8/?csa=life8aweventeen",
     "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Headline ZH": "低至5折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|men|life8aweventeen|all|zap"
   },
   {
     "Placement": "zap-brand-3",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_itemms_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_itemms_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_itemms_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_itemms_logo_436x248.jpg",
+    "Exit Url": "/men/itemms/?csa=itemmsawseventeen",
+    "Headline EN": "Up to 80% Off",
+    "Headline ZH": "低至2折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "bra|men|itemmsawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-4",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image EN": "http://via.placeholder.com/996x350",
-    "Desktop Image ZH": "http://via.placeholder.com/996x350",
-    "Mobile Image EN": "http://via.placeholder.com/436x248",
-    "Mobile Image ZH": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_fossil_996x350.jpg",
+    "Desktop Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_fossil_996x350.jpg",
+    "Mobile Image EN": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_fossil_logo_436x248.jpg",
+    "Mobile Image ZH": "https://static-hk.zacdn.com/cms/1.11/hk-1111-1stNov-Men_carousel_en_fossil_logo_436x248.jpg",
+    "Exit Url": "/fossil-hongkong/?csa=fossil5awseventeen",
     "Headline EN": "Up to 50% Off",
-    "Headline ZH": "Up to 50% Off",
+    "Headline ZH": "低至5折",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "BRA|Men|fossil5awseventeen|ALL|NA"
   },
   {
     "Placement": "zap-brand-5",
@@ -1183,9 +1085,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-6",
@@ -1201,9 +1101,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-7",
@@ -1219,9 +1117,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-8",
@@ -1237,9 +1133,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-9",
@@ -1255,9 +1149,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-10",
@@ -1273,9 +1165,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-11",
@@ -1291,9 +1181,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-12",
@@ -1309,9 +1197,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-13",
@@ -1327,9 +1213,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-14",
@@ -1345,9 +1229,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "zap-brand-15",
@@ -1363,9 +1245,7 @@
     "Headline ZH": "Up to 50% Off",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "Partners",
@@ -1381,9 +1261,7 @@
     "Headline ZH": "NA",
     "Subline EN": "NA",
     "Subline ZH": "NA",
-    "EventLabel": "NA",
-    "App Deeplink": "NA",
-    "Notes": "NA"
+    "EventLabel": "NA"
   },
   {
     "Placement": "partner-1",
@@ -1399,9 +1277,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-2",
@@ -1417,9 +1293,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-3",
@@ -1435,9 +1309,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-4",
@@ -1453,9 +1325,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-5",
@@ -1471,9 +1341,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-6",
@@ -1489,9 +1357,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-7",
@@ -1507,9 +1373,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-8",
@@ -1525,9 +1389,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-9",
@@ -1543,9 +1405,7 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   },
   {
     "Placement": "partner-10",
@@ -1561,8 +1421,6 @@
     "Headline ZH": "Lorem ipsum blahblahblah",
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
-    "EventLabel": "na|na|eventlabel|all|na",
-    "App Deeplink": "#",
-    "Notes": "NA"
+    "EventLabel": "na|na|eventlabel|all|na"
   }
 ]
