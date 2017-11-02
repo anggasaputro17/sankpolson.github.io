@@ -635,7 +635,7 @@
     "Device": "desktop",
     "Image": "#FFC5D5",
     "Exit Url": "/all-products/?cmpgn_one=payday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
     "Subline": "#000",
     "EventLabel": "SAL|unisex|payday|ALL|NA"
   },
@@ -665,7 +665,7 @@
     "Device": "desktop",
     "Image": "#FFC5D5",
     "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
     "Subline": "#000",
     "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
@@ -695,7 +695,7 @@
     "Device": "desktop",
     "Image": "#FFC5D5",
     "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
     "Subline": "#000",
     "EventLabel": "SAL|Women|womenpayday|ALL|NA"
   },
@@ -725,7 +725,7 @@
     "Device": "desktop",
     "Image": "#ffab89",
     "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
     "Subline": "#000",
     "EventLabel": "SAL|Men|menpayday|ALL|NA"
   },
@@ -755,7 +755,7 @@
     "Device": "desktop",
     "Image": "#ffab89",
     "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
     "Subline": "#000",
     "EventLabel": "SAL|Men|menpayday|ALL|NA"
   }
