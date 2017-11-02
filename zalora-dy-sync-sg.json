@@ -4,7 +4,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw45/Nov17/NEWARRIVALS-OCT17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY&csa=newarrivaldresses",
+    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
     "Headline": "The Dress List",
     "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
     "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
@@ -364,7 +364,7 @@
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw45/Nov17/NEWARRIVALS-OCT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY&csa=newarrivaldresses",
+    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
     "Headline": "The Dress List",
     "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
     "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
