@@ -493,7 +493,7 @@
 		"Gender": "men",
 		"Device": "mobile",
 		"Image": "https://static-tw.zacdn.com/cms/3.11/D1-4_MOBWEB_620x420_tw.jpg",
-		"Exit Url": "/singles-day/?csa=singlesday",
+		"Exit Url": "/singles-day/?from=men&csa=singlesday",
 		"Headline": "光棍節熱身優惠",
 		"Subline": "雙11熱身優惠，立即入手享受早鳥優惠 ",
 		"EventLabel": "sal|men|singlesday|all|na"
@@ -703,7 +703,7 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#99b2d6",
-		"Exit Url": "/singles-day/?csa=singlesday",
+		"Exit Url": "/singles-day/?from=men&csa=singlesday",
 		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
@@ -733,7 +733,7 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#99b2d6",
-		"Exit Url": "/singles-day/?csa=singlesday",
+		"Exit Url": "/singles-day/?from=men&csa=singlesday",
 		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
