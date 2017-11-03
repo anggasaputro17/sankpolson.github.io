@@ -232,11 +232,11 @@
 		"Placement": "wn3",
 		"Gender": "women",
 		"Device": "mobile",
-		"Image": "https://static-tw.zacdn.com/cms/cw45/classicN3_NEWARRIVALS_620x420.jpg",
-		"Exit Url": "/women/all-products/?cmpgn_one=classicpieces&csa=classicpieces",
-		"Headline": "永恆經典",
-		"Subline": "人氣與時尚的打造，從經典單品開始",
-		"EventLabel": "TRE|Women|classicpieces|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/3.11/D1-4_MOBWEB_620x420_tw.jpg",
+		"Exit Url": "/singles-day/?csa=singlesday",
+		"Headline": "光棍節熱身優惠",
+		"Subline": "雙11熱身優惠，立即入手享受早鳥優惠",
+		"EventLabel": "sal|unisex|singlesday|all|na"
 	},
 	{
 		"Placement": "wc1",
