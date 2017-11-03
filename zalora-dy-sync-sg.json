@@ -454,7 +454,7 @@
     "Gender": "men",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/1111-SINGLESDAY-NOV17-N2.jpg",
-    "Exit Url": "/singles-day/?csa=singlesday",
+    "Exit Url": "/singles-day/?csa=singlesday&from=men",
     "Headline": "Singles' Day Preview",
     "Subline": "See what's coming this 11.11 and shop our early bird deals now.",
     "EventLabel": "TRE|Men|singlesday|ALL|NA"
@@ -714,7 +714,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday",
+    "Exit Url": "/singles-day/?csa=singlesday&from=men",
     "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
     "EventLabel": "TRE|Men|singlesday|ALL|NA"
@@ -744,7 +744,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday",
+    "Exit Url": "/singles-day/?csa=singlesday&from=men",
     "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
     "Subline": "#FFF",
     "EventLabel": "TRE|Men|singlesday|ALL|NA"
