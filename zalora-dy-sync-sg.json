@@ -393,11 +393,11 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CLASSICPIECES-OCT17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=classiccpieces&csa=classicpieces",
-    "Headline": "Timeless Classics",
-    "Subline": "Start on a clean slate with trend-defying staples that are relevant all year round.",
-    "EventLabel": "TRE|Women|classicpieces|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/1111-SINGLESDAY-NOV17-N2.jpg",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "Singles' Day Preview",
+    "Subline": "See what's coming this 11.11 and shop our early bird deals now.",
+    "EventLabel": "TRE|Women|singlesday|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -453,11 +453,11 @@
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NEWARRIVALS-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?age=0-31&csa=editorsnewarrivals",
-    "Headline": "Editor’s Picks",
-    "Subline": "New arrivals this good, they’ll go from our shortlist to your wishlist in no time.",
-    "EventLabel": "NA|Men|editorsnewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/1111-SINGLESDAY-NOV17-N2.jpg",
+    "Exit Url": "/singles-day/?csa=singlesday",
+    "Headline": "Singles' Day Preview",
+    "Subline": "See what's coming this 11.11 and shop our early bird deals now.",
+    "EventLabel": "TRE|Men|singlesday|ALL|NA"
   },
   {
     "Placement": "mc1",
