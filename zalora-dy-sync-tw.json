@@ -236,7 +236,7 @@
 		"Exit Url": "/singles-day/?csa=singlesday",
 		"Headline": "光棍節熱身優惠",
 		"Subline": "雙11熱身優惠，立即入手享受早鳥優惠 ",
-		"EventLabel": "sal|unisex|singlesday|all|na"
+		"EventLabel": "sal|women|singlesday|all|na"
 	},
 	{
 		"Placement": "wc1",
@@ -489,14 +489,14 @@
 		"EventLabel": "bra|men|superdryawseventeen|all|na"
 	},
 	{
-		"Placement": "mn3",
+		"Placement": "wn3",
 		"Gender": "men",
 		"Device": "mobile",
-		"Image": "https://static-tw.zacdn.com/cms/cw45/editorspickN3_NEWARRIVALS_620x420.jpg",
-		"Exit Url": "/men/all-products/?age=0-31&csa=editorsnewarrivals",
-		"Headline": "編輯精選",
-		"Subline": "主編精心挑選真心推薦，不能錯過的新貨等著你",
-		"EventLabel": "NA|Men|editorsnewarrivals|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/3.11/D1-4_MOBWEB_620x420_tw.jpg",
+		"Exit Url": "/singles-day/?csa=singlesday",
+		"Headline": "光棍節熱身優惠",
+		"Subline": "雙11熱身優惠，立即入手享受早鳥優惠 ",
+		"EventLabel": "sal|men|singlesday|all|na"
 	},
 	{
 		"Placement": "mc1",
