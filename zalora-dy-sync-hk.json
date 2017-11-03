@@ -510,14 +510,14 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw45/cw45_women_en_N3_NEWARRIVALS_620x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw45/D1-4_MOBWEB_620x420_hk.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/women/all-products/?cmpgn_one=classicpieces&csa=classicpieces",
-    "EventLabel": "TRE|Women|classicpieces|ALL|NA",
-    "ENHeadline": "Timeless Classics",
-    "ENSubline": "Start on a clean slate with trend-defying staples that are relevant all year round.",
-    "ZHHeadline": "永恆經典",
-    "ZHSubline": "加入經典單品，從零開始建構個人時尚風格"
+    "ExitUrl": "/singles-day/?csa=singlesday",
+    "EventLabel": "Sal|Women|singlesday|ALL|NA",
+    "ENHeadline": "Singles' Day Preview",
+    "ENSubline": "See what's coming this 11.11 and shop our early bird deals now.",
+    "ZHHeadline": "單身節優惠前奏",
+    "ZHSubline": "預覽11.11多重禮遇，立即享受早鳥優惠"
   },
   {
     "Placement": "wc1",
@@ -588,14 +588,14 @@
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw45/cw45_men_en_N3_NEWARRIVALS_620x420.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw45/D1-4_MOBWEB_620x420_hk.jpg",
     "ZHImageUrl": "NA",
-    "ExitUrl": "/men/all-products/?age=0-31&csa=editorsnewarrivals",
-    "EventLabel": "NA|Men|editorsnewarrivals|ALL|NA",
-    "ENHeadline": "Editor’s Picks",
-    "ENSubline": "New arrivals this good, they’ll go from our shortlist to your wishlist in no time.",
-    "ZHHeadline": "精挑細選",
-    "ZHSubline": "新到商品好得讓您無法抗拒"
+    "ExitUrl": "/singles-day/?csa=singlesday",
+    "EventLabel": "Sal|Men|singlesday|ALL|NA",
+    "ENHeadline": "Singles' Day Preview",
+    "ENSubline": "See what's coming this 11.11 and shop our early bird deals now.",
+    "ZHHeadline": "單身節優惠前奏",
+    "ZHSubline": "預覽11.11多重禮遇，立即享受早鳥優惠"
   },
   {
     "Placement": "mc1",
