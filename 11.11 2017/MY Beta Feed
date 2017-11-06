@@ -2,266 +2,600 @@
   {
     "Placement": "Hero",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x500",
-    "Mobile Image": "http://via.placeholder.com/600x600",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "/women/clothing/fashion-tops/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Status": "#",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/SEGMENT_HERO_SLICED_996x500-mssninenovwomen.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/MOBILEWEB_HERO_600x600-mssninenovwomen.jpg",
+    "Exit Url": "/women/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Headline": "/women/clothing/dresses/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Subline": "#",
+    "EventLabel": "SAL|Women|mssninenovwomen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Hero",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x500",
-    "Mobile Image": "http://via.placeholder.com/600x600",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "/women/clothing/fashion-tops/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Status": "#",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/SEGMENT_HERO_SLICED_996x500-mssninenovwomen.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/MOBILEWEB_HERO_600x600-mssninenovwomen.jpg",
+    "Exit Url": "/women/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Headline": "/women/clothing/dresses/special-price/?discount=20-50&csa=mssninenovwomen",
+    "Subline": "#",
+    "EventLabel": "SAL|Women|mssninenovwomen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "SocialContest",
     "Gender": "unisex",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111teaser/TEASER_SM_DESKTOP_996x250.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/1111teaser/TEASER_SM_MOBILEWEB_620x420.jpg",
+    "Exit Url": "https://www.instagram.com/zalora/",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "pro|all|socialcontest|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Skinnies",
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Homepage Skinny Full",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
     "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Headline": "Even more Lorem ipsum blahblahblah Lorem ipsum blahblahblah Lorem ipsum blahblahblah >",
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Homepage Skinny Left",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "Lorem ipsum blahblahblah >",
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Homepage Skinny Right",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "Lorem ipsum blahblahblah >",
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Skinnies Women",
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women SegmentSkinny Full",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women SegmentSkinny Left",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#84153b",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "/women/clothing/special-price/?csa=parcelsurprise",
+    "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
+    "Subline": "#fff",
+    "EventLabel": "pro|women|parcelsurprise|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women SegmentSkinny Right",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#5b1647",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "/plus-linkpoints/?csa=ntucpluspoints",
+    "Headline": "Top 11 spenders receive 4,500 bonus LinkPoints! >",
+    "Subline": "ZALORA",
+    "EventLabel": "par|women|ntucpluspoints|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women GlobalSkinny Full",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women GlobalSkinny Left",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#84153b",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "/women/clothing/special-price/?csa=parcelsurprise",
+    "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
+    "Subline": "#fff",
+    "EventLabel": "pro|women|parcelsurprise|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women GlobalSkinny Right",
+    "Gender": "women",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#5b1647",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "/plus-linkpoints/?csa=ntucpluspoints",
+    "Headline": "Top 11 spenders receive 4,500 bonus LinkPoints! >",
+    "Subline": "ZALORA",
+    "EventLabel": "par|women|ntucpluspoints|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Women MobileSkinny",
+    "Gender": "women",
+    "Device": "mobile",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "mobile"
+  },
+  {
+    "Placement": "Skinnies Men",
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men SegmentSkinny Full",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Men|skinnyfull|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men SegmentSkinny Left",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#84153b",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
+    "Subline": "#fff",
+    "EventLabel": "SAL|Men|parcelsurprise|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men SegmentSkinny Right",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "Lorem ipsum blahblahblah >",
+    "Subline": "#fff",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men GlobalSkinny Full",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men GlobalSkinny Left",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "GET A PARCEL INSERT SURPRISE WHEN YOU ORDER FROM 9 TO 12 NOV!",
+    "Subline": "#fff",
+    "EventLabel": "SAL|Men|parcelsurprise|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men GlobalSkinny Right",
+    "Gender": "men",
+    "Device": "desktop",
+    "Status": "ZALORA",
+    "Desktop Image": "#000",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "#",
+    "Headline": "Lorem ipsum blahblahblah >",
+    "Subline": "#fff",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "Men MobileSkinny",
+    "Gender": "men",
+    "Device": "mobile",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "mobile"
   },
   {
     "Placement": "Campaigns (D1-4)",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "NA",
-    "Mobile Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD1",
     "Gender": "women",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_DESKTOP_485x420-shoesandbags.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_MOBWEB_620x420-shoesandbags.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayshoesandbags&csa=shoesandbags",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|shoesandbags|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD2",
     "Gender": "women",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_DESKTOP_485x420-beautymysteryset-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_MOBWEB_620x420-beautymysteryset-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaybeautybox&csa=beautymysteryset",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|beautymysteryset|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD3",
     "Gender": "women",
     "Device": "desktop",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_DESKTOP_485x420-apparelessentials1111-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_MOBWEB_620x42-apparelessentials1111-sg.jpg",
+    "Exit Url": "/women/clothing/?price=0-29.9&csa=apparelessentials1111",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD4",
     "Gender": "women",
     "Device": "desktop",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_DESKTOP_485x420-loungewear1111-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/D1-4_MOBWEB_620x420-loungewear1111-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=loungewear1111&csa=loungewear1111",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|loungewear1111|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD1",
     "Gender": "men",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_DESKTOP_485x420-d1.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_MOBWEB_620x420-d1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayshoesandbags",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|shoesandbags|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD2",
     "Gender": "men",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_DESKTOP_485x420-d2.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_MOBWEB_620x420-d2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaybeautybox",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|beautymysteryset|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD3",
     "Gender": "men",
     "Device": "desktop",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_DESKTOP_485x420-d3.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_MOBWEB_620x420-d3.jpg",
+    "Exit Url": "/women/clothing/?price=0-29.9",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "campaignsD4",
     "Gender": "men",
     "Device": "desktop",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/485x420",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "ZALORA",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_DESKTOP_485x420-d4.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/1111launch/D1-4_MOBWEB_620x420-d4.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=loungewear1111",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|loungewear1111|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Hourly Deals",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "NA",
-    "Mobile Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Hourly Deals Beta",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "",
-    "Mobile Image": "",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal1",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-denimeighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim&getSKU=3D999ZZDC91000GS--MA193AA58CARMY&csa=denimeighteen",
+    "Headline": "Denim Up to 60% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal2",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-withvc-denimeighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim&getSKU=3D999ZZDC91000GS--MA193AA58CARMY&csa=denimeighteen",
+    "Headline": "Denim Up to 60% Off",
+    "Subline": "Use \"DENIM18\" for Extra 18% Off (Min S$90)",
+    "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "women",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-guesseighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess&getSKU=GU020SH0RJC3MY--GU020AC0RJ87MY&csa=guesseighteen",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "HourlyDeal4",
+    "Gender": "women",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-withvc-guesseighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess&getSKU=GU020SH0RJC3MY--GU020AC0RJ87MY&csa=guesseighteen",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
+    "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "HourlyDeal5",
+    "Gender": "women",
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-calvinkleintwenty-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-calvinkleintwenty-sg.jpg",
+    "Exit Url": "/women/calvin-klein/?discount=10-50&csa=calvinkleintwenty",
+    "Headline": "Calvin Klein Up to 50% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|calvinkleintwenty|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal1",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-denimeighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim&getSKU=3D999ZZDC91000GS--MA193AA58CARMY&csa=denimeighteen",
+    "Headline": "Denim Up to 60% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal2",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-withvc-denimeighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdaydenim&getSKU=3D999ZZDC91000GS--MA193AA58CARMY&csa=denimeighteen",
+    "Headline": "Denim Up to 60% Off",
+    "Subline": "Use \"DENIM18\" for Extra 18% Off (Min S$90)",
+    "EventLabel": "SAL|Women|denimeighteen|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "http://via.placeholder.com/996x250",
-    "Mobile Image": "http://via.placeholder.com/620x420",
-    "Exit Url": "#",
-    "Headline": "Limited Time Specials",
-    "Subline": "",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-guesseighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess&getSKU=GU020SH0RJC3MY--GU020AC0RJ87MY&csa=guesseighteen",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "HourlyDeal4",
+    "Gender": "men",
+    "Device": "Limited Time Specials",
+    "Status": "Grab these hour-long markdowns before time's up!",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-withvc-guesseighteen-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-sg.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=singlesdayguess&getSKU=GU020SH0RJC3MY--GU020AC0RJ87MY&csa=guesseighteen",
+    "Headline": "GUESS Up to 70% Off",
+    "Subline": "Use \"GUESS25\" for Extra 25% Off (Min S$100)",
+    "EventLabel": "SAL|Women|guesseighteen|ALL|NA",
+    "Notes": "ZALORA"
+  },
+  {
+    "Placement": "HourlyDeal5",
+    "Gender": "men",
+    "Device": "Limited Time Specials",
+    "Status": "<span></span>",
+    "Desktop Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-novc-calvinkleintwenty-sg.jpg",
+    "Mobile Image": "https://static-sg.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-calvinkleintwenty-sg.jpg",
+    "Exit Url": "/women/all-products/?brand=calvin-klein&discount=10-50&csa=calvinkleintwenty",
+    "Headline": "Calvin Klein Up to 50% Off",
+    "Subline": "<span></span>",
+    "EventLabel": "SAL|Women|calvinkleintwenty|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Women ZAP Brands",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "NA",
-    "Mobile Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Women ZAPBrands",
     "Gender": "women",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "",
-    "Mobile Image": "",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA"
+    "Status": "ZALORA",
+    "Desktop Image": "https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/sg/women-carosel-teaser-v8.html",
+    "Mobile Image": "s3 url",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-1",
@@ -272,8 +606,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-2",
@@ -284,8 +619,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-3",
@@ -296,8 +632,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-4",
@@ -308,8 +645,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-5",
@@ -320,8 +658,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-6",
@@ -332,8 +671,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-7",
@@ -344,8 +684,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-8",
@@ -356,8 +697,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-9",
@@ -368,8 +710,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-10",
@@ -380,8 +723,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-11",
@@ -392,8 +736,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-12",
@@ -404,8 +749,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-13",
@@ -416,8 +762,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-14",
@@ -428,8 +775,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-15",
@@ -440,32 +788,35 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Men ZAP Brands",
-    "Gender": "NA",
-    "Device": "NA",
-    "Status": "NA",
-    "Desktop Image": "NA",
-    "Mobile Image": "NA",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "NA"
+    "Gender": "ZALORA",
+    "Device": "ZALORA",
+    "Status": "ZALORA",
+    "Desktop Image": "ZALORA",
+    "Mobile Image": "ZALORA",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "ZALORA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "Men ZAPBrands",
     "Gender": "men",
     "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "",
-    "Mobile Image": "",
-    "Exit Url": "NA",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA"
+    "Status": "ZALORA",
+    "Desktop Image": "s3 url",
+    "Mobile Image": "s3 url",
+    "Exit Url": "ZALORA",
+    "Headline": "ZALORA",
+    "Subline": "ZALORA",
+    "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-1",
@@ -476,8 +827,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-2",
@@ -488,8 +840,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-3",
@@ -500,8 +853,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-4",
@@ -512,8 +866,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-5",
@@ -524,8 +879,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-6",
@@ -536,8 +892,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-7",
@@ -548,8 +905,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-8",
@@ -560,8 +918,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-9",
@@ -572,8 +931,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-10",
@@ -584,8 +944,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-11",
@@ -596,8 +957,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-12",
@@ -608,8 +970,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-13",
@@ -620,8 +983,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-14",
@@ -632,8 +996,9 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   },
   {
     "Placement": "zap-brand-15",
@@ -644,7 +1009,8 @@
     "Mobile Image": "http://via.placeholder.com/436x248",
     "Exit Url": "#",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "na|na|eventlabel|all|na",
+    "Notes": "ZALORA"
   }
 ]
