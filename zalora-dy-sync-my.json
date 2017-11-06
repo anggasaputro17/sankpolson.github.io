@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RIVERISLAND-OCT17-ZAP-W-N1-UPDATED.jpg",
-    "Exit Url": "/river-island-malaysia/?csa=riverislandzap",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love",
-    "EventLabel": "BRA|Women|RiverIsland|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ESSENTIALMIDISKIRT-NOV17-N1.jpg",
+    "Exit Url": "/women/clothing/skirts/?age=0-60&csa=essentialmidiskirt",
+    "Headline": "Essential Midi Skirts",
+    "Subline": "Give your wardrobe a new edge with this versatile piece",
+    "EventLabel": "CAT|Women|Essentialmidiskirt|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COB-OCT17-ZAP-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyzap",
-    "Headline": "Cotton On Body",
-    "Subline": "Activewear and intimates designed to suit your every mood",
-    "EventLabel": "BRA|Women|cottononbody|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-N2.jpg",
+    "Exit Url": "/women/love-bonito/?csa=lovebonito",
+    "Headline": "Love, Bonito",
+    "Subline": "Now on ZALORA",
+    "EventLabel": "BRA|Women|lovebonito|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -53,11 +53,11 @@
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/STEALSONSHOESBAGS-OCT17-W-N1.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=cw45rplwomen2f15n3more30&csa=cw45rplwomen2f15n3more30",
-    "Headline": "Steals on shoes and bags",
-    "Subline": "Get 30% off when you purchase 3 or more!",
-    "EventLabel": "SAL|Women|rplwomentwoffifteennthreemorethirty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N1.jpg",
+    "Exit Url": "/women/new-products/sport/?csa=sportsnewarrivals",
+    "Headline": "Sports New Arrivals",
+    "Subline": "Where style meets functionality",
+    "EventLabel": "CAT|Women|sportsnewarrivals|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -123,11 +123,11 @@
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-B1.jpg",
-    "Exit Url": "/women/love-bonito/?csa=lovebonito",
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-W-B1.jpg",
+    "Exit Url": "/women/zalora/?csa=zalora",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|LoveBonito|ALL|NA"
+    "EventLabel": "BRA|Women|zalora|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -194,7 +194,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N1.jpg",
-    "Exit Url": "/men/zalora/?csa=zalora",
+    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zalora",
     "Headline": "Zalora Must-Haves",
     "Subline": "Shop our latest pieces now",
     "EventLabel": "BRA|Men|zalora|ALL|NA"
@@ -213,11 +213,11 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/PAYDAYREG-OCT-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=cw45menregionalpayday&csa=cw45menregionalpayday",
-    "Headline": "Payday Treat",
-    "Subline": "Enjoy 18% off with code 'PDAY18' . Valid on items here only with min spend RM250",
-    "EventLabel": "SAL|Men|menregionalpayday|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N2.jpg",
+    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zaloranewarrivals",
+    "Headline": "ZALORA",
+    "Subline": "New Arrivals",
+    "EventLabel": "SAL|Men|zaloranewarrivals|ALL|NA"
   },
   {
     "Placement": "mcu2",
@@ -373,21 +373,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/RIVERISLAND-OCT17-ZAP-W-N2.jpg",
-    "Exit Url": "/women/river-island/?csa=riverislandzap",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love",
-    "EventLabel": "BRA|Women|riverislandzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-N2.jpg",
+    "Exit Url": "/women/love-bonito/?csa=lovebonito",
+    "Headline": "Love, Bonito",
+    "Subline": "Now on ZALORA",
+    "EventLabel": "BRA|Women|lovebonito|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/COB-OCT17-ZAP-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyzap",
-    "Headline": "Cotton On Body",
-    "Subline": "Shop the must-have Holiday 2017 sets now",
-    "EventLabel": "BRA|Women|cottononbodyzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N2.jpg",
+    "Exit Url": "/women/new-products/sport/?csa=sportsnewarrivals",
+    "Headline": "Sports New Arrivals",
+    "Subline": "Where style meets functionality",
+    "EventLabel": "CAT|Women|sportsnewarrivals|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -423,11 +423,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/PAYDAYREG-OCT-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_four=cw45menregionalpayday&csa=cw45menregionalpayday",
-    "Headline": "Payday Treat",
-    "Subline": "Enjoy 18% off with code 'PDAY18' . Valid on items here only with min spend RM250",
-    "EventLabel": "SAL|Men|menregionalpayday|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N2.jpg",
+    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zaloranewarrivals",
+    "Headline": "ZALORA",
+    "Subline": "New Arrivals",
+    "EventLabel": "BRA|Men|newarrivals|ALL|NA"
   },
   {
     "Placement": "mn2",
@@ -437,7 +437,7 @@
     "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
     "Headline": "Sports New Arrivals",
     "Subline": "Where style meets functionality",
-    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|ZAP"
+    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|NA"
   },
   {
     "Placement": "mc1",
