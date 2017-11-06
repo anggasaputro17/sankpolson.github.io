@@ -213,11 +213,11 @@
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N2.jpg",
-    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zaloranewarrivals",
-    "Headline": "ZALORA",
-    "Subline": "New Arrivals",
-    "EventLabel": "SAL|Men|zaloranewarrivals|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/STREETSTYLE-OCT17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=cw44menstreetstyle&csa=cw44menstreetstyle",
+    "Headline": "Street style",
+    "Subline": "Venture beyond the basics with threads that will make you a true sartorialist",
+    "EventLabel": "TRE|Men|menstreetstyle|ALL|NA"
   },
   {
     "Placement": "mcu2",
