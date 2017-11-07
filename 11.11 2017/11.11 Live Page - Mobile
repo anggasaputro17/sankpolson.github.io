@@ -9,7 +9,7 @@
     .cms-pl-mtop-dd {margin-top: 25px;}
     .cms-pl-mbot-lg {margin-bottom: 50px;}
     .cms-res-font-lg {font-size: 1.5em;line-height: 1.5em;color: #000;font-weight:bold;}
-    .cms-res-font-sm {font-size: 1em;line-height: 1.5em;color: #000;padding-left: 20px;padding-right: 20px;height:50px;overflow:hidden;}
+    .cms-res-font-sm {font-size: 1em;color: #000;padding-left: 20px;padding-right: 20px;overflow:hidden;}
     /* override paper to remove borders */
     .paper {margin:0px;border: 0px;}
     .cms-half-lfloat {float:left;width:49%;}
@@ -38,7 +38,7 @@
     .cms-sidepad {padding:0 5%;}
 </style>
 
-<!-- Skinny -->
+<!-- Skinny 
 <div class='cms-full'>
     <div class='cms-fallback'>
         <div class='cms-mobile-skinny align-center'>
@@ -46,32 +46,26 @@
         </div>
     </div>
 </div>
-
+-->
 <!-- Hero -->
 <div class='cms-full mtm'>
-    <div class='cms-fallback'>
-        <a href='#'>
-            <img data-src='[MEDIA_BASE_URL]/cms/1111-teaser/MOBILEWEB_HERO_600x600-teaserhero.jpg' width='100%' src=''/>
-        </a>
+    <div id='dy-singles-mob-hero'>
+        <div class='cms-fallback'>
+            <a href='#'>
+                <img data-src='[MEDIA_BASE_URL]/cms/1111-teaser/MOBILEWEB_HERO_600x600-teaserhero.jpg' width='100%' src=''/>
+            </a>
+        </div>
     </div>
 </div>
 
 <div class='cms-full align-center lfloat'><div class='cms-spacer-25'></div></div>
 
-<div class='cms-full mtl align-center'>
+<div class='cms-full align-center'>
     <div id='dy-singles-mob-campaignsD1'>
         <div class='cms-fallback'>
             <a href='#' class='cms-top-brands'>
                 <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
             </a>
-            <div class='breathing-room'>
-                <div class='strong cms-res-font-lg'>
-                    River Island
-                </div>
-                <div class='cms-res-font-sm cms-sidepad'>
-                    Get the new outfit you truly deserve, from the brand we know you’ll love.
-                </div>
-            </div>
         </div>
     </div>
 </div>
@@ -82,14 +76,6 @@
             <a href='#' class='cms-top-brands'>
                 <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
             </a>
-            <div class='breathing-room'>
-                <div class='strong cms-res-font-lg'>
-                    River Island
-                </div>
-                <div class='cms-res-font-sm cms-sidepad'>
-                    Get the new outfit you truly deserve, from the brand we know you’ll love.
-                </div>
-            </div>
         </div>
     </div>
 </div>
@@ -97,19 +83,6 @@
 <!-- Hourly Deals -->
 <div class='cms-full mtl align-center'>
     <div id='dy-singles-mob-HourlyDeal'>
-        <div class='cms-fallback'>
-            <a href='#' class='cms-top-brands'>
-                <img data-src='http://via.placeholder.com/620x420' width='80%' src=''/>
-            </a>
-            <div class='breathing-room'>
-                <div class='strong cms-res-font-lg'>
-                    River Island
-                </div>
-                <div class='cms-res-font-sm cms-sidepad'>
-                    Get the new outfit you truly deserve, from the brand we know you’ll love.
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 
@@ -123,7 +96,7 @@
 </div>
 <div class='cms-full mtl'></div>
 <div class='cms-full'>
-    <div id='dy-1111-mob-zap-brand-women'>
+    <div id='dy-singles-mob-zap-brand'>
         <!-- Brands Row 1 -->
         <div class='cms-full align-center mbs lfloat'>
             <div class='cms-third-lfloat'>
@@ -236,13 +209,13 @@
 <!-- Social Media Contest -->
 <div class='cms-full align-center mbs lfloat'>
     <div class='cms-res-font-lg'>
-        Competition
+        SINGLES' DAY GIVEAWAY
     </div>
 </div>
 <div class='cms-full align-center lfloat mtl'>
-    <div id='dy-1111-mob-social-contest'>
+    <div id='dy-singles-mob-SocialContest'>
         <div class='cms-fallback'>
-            <a href='#'><img data-src='http://via.placeholder.com/620x420' width='100%' src=''/></a>
+            <a href='https://www.instagram.com/zalora/'><img data-src='https://static-sg.zacdn.com/cms/1111teaser/TEASER_SM_MOBILEWEB_620x420.jpg' width='100%' src=''/></a>
         </div>
     </div>
 </div>
@@ -276,5 +249,13 @@
 
     $(function () {
         detectEvergageStatus();
+    });
+
+    $('ul.cms-tabs li').click(function () {
+        var t = $(this).attr('data-tab');
+        $('ul.cms-tabs li').removeClass('current');
+        $('.cms-tab-content').removeClass('current');
+        $(this).addClass('current');
+        $('#' + t).addClass('current');
     });
 </script>
