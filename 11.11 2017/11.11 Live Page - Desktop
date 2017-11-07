@@ -95,22 +95,17 @@
 <div class='cms-row'>
     <div class='cms-full mtxl txtCenter strong'>
         <div id='js-scrollBtn-dailydeals' class='lfloat cms-anchor-header txtCenter'>
-            Daily Deals
+            Daily Deals >
         </div>
         <div id='js-scrollBtn-hourlydeals' class='lfloat cms-anchor-header txtCenter'>
-            Limited Time Specials
+            Limited Time Specials >
         </div>
         <div id='js-scrollBtn-brands' class='lfloat cms-anchor-header txtCenter'>
-            Top Brands on Offer
+            Top Brands on Offer >
         </div>
         <div id='js-scrollBtn-competition' class='lfloat cms-anchor-header txtCenter'>
-            Singles' Day Giveaway
+            Singles' Day Giveaway >
         </div>
-        <!--
-        <div id='js-scrollBtn-rewards' class='lfloat cms-anchor-header txtCenter'>
-            Rewards
-        </div>
-        -->
     </div>
 </div>
 
@@ -182,25 +177,6 @@
     </div>
 </div>
 <div id='dy-singles-dsk-HourlyDeal'>
-    <div class='cms-fallback'>
-        <div class='cms-row'>
-            <div class='cms-full mtxxl'>
-                <div class='cms-headline-font strong txtCenter'>
-                    Limited Time Specials
-                </div>
-                <div class='cms-subline-font strong txtCenter'>
-                    Grab these hour-long markdowns before time's up!
-                </div>
-            </div>
-        </div>
-        <div class='cms-row'>
-            <div class='cms-full mtl'>            
-                <a href='#' class='cms-top-brands'>
-                    <img data-src='[MEDIA_BASE_URL]/cms/1111-2017/HOURLY_DESKTOP_996x250_-_with_vc_&_time.jpg' src=''>
-                </a>
-            </div>
-        </div>
-    </div>
 </div>
 
 <!-- Brands -->
@@ -221,7 +197,7 @@
 </div>
 <div class='cms-row'>
     <div class='cms-full mtl'>
-        <div id='dy-singles-dsk-ZAPBrands'>
+        <div id='dy-singles-dsk-zap-brand'>
             <div class='cms-fallback'>
                 <div class='unit size1of1'>
                     <iframe src='https://s3-ap-southeast-1.amazonaws.com/zalora-mktg/bannerfeed/test-zap-carousel.html' style='width:996px;height:450px;min-height:1px;border:none;' frameborder='0' scrolling='no'></iframe>
@@ -322,5 +298,13 @@
     $('.cms-back-to-top').on('click', function () {
         $('html,body').animate({scrollTop: 0}, 500);
         return false;
+    });
+
+    $('ul.cms-tabs li').click(function () {
+        var t = $(this).attr('data-tab');
+        $('ul.cms-tabs li').removeClass('current');
+        $('.cms-tab-content').removeClass('current');
+        $(this).addClass('current');
+        $('#' + t).addClass('current');
     });
 </script>
