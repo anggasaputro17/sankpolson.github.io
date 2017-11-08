@@ -634,7 +634,7 @@
     "Gender": "women",
     "Device": "Limited Time Specials",
     "Status": "Grab these hour-long markdowns before time's up!",
-    "Desktop Image EN": "[MEDIA_BASE_URL]/cms/singlesday/9updates/HOURLY_DESKTOP_996x250_women_hd2_hk.jpg",
+    "Desktop Image EN": "https://static-hk.zacdn.com/cms/singlesday/9updates/HOURLY_DESKTOP_996x250_women_hd2_hk.jpg",
     "Desktop Image ZH": "https://static-hk.zacdn.com/cms/singlesday17/HOURLY_DESKTOP_996x250-denimeighteen-withvc-hkzh.jpg",
     "Mobile Image EN": "https://static-hk.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-hk.jpg",
     "Mobile Image ZH": "https://static-hk.zacdn.com/cms/singlesday17/HOURLY_MOBILE_620x420-denimeighteen-hk.jpg",
