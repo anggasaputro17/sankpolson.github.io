@@ -14,13 +14,13 @@
   {
     "Placement": "Hero",
     "Gender": "men",
-    "Device": "multi",
-    "Status": "NA",
-    "Desktop Image": "https://static-tw.zacdn.com",
-    "Mobile Image": "https://static-tw.zacdn.com",
-    "Exit Url": "#",
-    "Headline": "NA",
-    "Subline": "NA",
+    "Device": "/men/clothing/t-shirts/?discount=20-60&csa=tennovmenhero",
+    "Status": "/men/clothing/t-shirts/?discount=20-60&csa=tennovmenhero",
+    "Desktop Image": "https://static-tw.zacdn.com/cms/singlesday/100nov/SEGMENT_HERO_996x500-10nov-tw.jpg",
+    "Mobile Image": "https://static-tw.zacdn.com/cms/singlesday/100nov/MOBILEWEB_HERO_600x600-10nov.jpg",
+    "Exit Url": "/men/clothing/special-price/?discount=20-60&csa=tennovmenhero",
+    "Headline": "/product-index/mensbottoms/?discount=20-60&csa=tennovmenhero",
+    "Subline": "/product-index/mensouterwear/?discount=20-60&csa=tennovmenhero",
     "Notes": "ZALORA"
   },
   {
