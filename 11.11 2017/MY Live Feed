@@ -64,12 +64,12 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "ZALORA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYBOX-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYBOX-MOB.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=911beautybox",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYMUSTHAVES50OFF-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYMUSTHAVES50OFF-MOB.jpg",
+    "Exit Url": "/women/beauty/special-price/?discount=5-50",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|women|sdbeautybox|all|na"
+    "EventLabel": "sal|women|sdbeautyuptofiftyoff|all|na"
   },
   {
     "Placement": "campaignsD3",
