@@ -562,7 +562,7 @@
 		"Placement": "uh1",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/singlesday17/SEGMENT_HERO_996x500-desktop-homepage-splash-tw.jpg",
+		"Image": "https://static-tw.zacdn.com/cms/hmpg1111/SEGMENT_HERO_996x500.jpg",
 		"Exit Url": "NA",
 		"Headline": "NA",
 		"Subline": "NA",
@@ -572,31 +572,31 @@
 		"Placement": "ub1",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw44/backtobasicSEGMENT_HEADER_326x304.jpg",
-		"Exit Url": "/men/back-to-basics/?csa= backtobasics",
-		"Headline": "簡約回歸",
-		"Subline": "不退潮流之時尚基本準則",
-		"EventLabel": "TRE|Men|backtobasics|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/hmpg1111/sal0men0bonedenim0all0na_men_326x304.jpg",
+		"Exit Url": "/men/denim/?discount=20-60&csa=denimuptosixty",
+		"Headline": "單寧服飾低至4折",
+		"Subline": "四季更迭，唯單寧魅力與質感永恆不變",
+		"EventLabel": "SAL|Men|denimuptosixty|ALL|NA"
 	},
 	{
 		"Placement": "ub2",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw45/dressesSEGMENT_HEADER_326x304.jpg",
-		"Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY--SU225AA0RWXHMY&csa=newarrivaldresses",
-		"Headline": "裙裝清單",
-		"Subline": "我們不是自吹自擂，但這些新到的裙子真的值得妳的關注！",
-		"EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/hmpg1111/sal0women0btwoessentials0all0na_women_326x304.jpg",
+		"Exit Url": "/women/clothing/?price=0-666&csa=apparelessentials1111",
+		"Headline": "日常必備單品NT$666以下",
+		"Subline": "自家品牌打造完美衣櫃時尚",
+		"EventLabel": "SAL|Women|apparelessentials1111|ALL|NA"
 	},
 	{
 		"Placement": "ub3",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw44/partygirlHOMEPAGE_BANNER_326x304.jpg",
-		"Exit Url": "/product-index/partygirls/?csa=partygirls",
-		"Headline": "Party Time",
-		"Subline": "聚集所有派對視線",
-		"EventLabel": "TRE|Women|partygirls|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/hmpg1111/sal0women0bthreewatches0all0na_women_326x304.jpg",
+		"Exit Url": "/women/watches/?discount=10-50&csa=watchesuptofifty",
+		"Headline": "手錶低至5折",
+		"Subline": "每日每分每秒，由你的新手錶開始記起",
+		"EventLabel": "SAL|Women|watchesuptofifty|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-homepage",
