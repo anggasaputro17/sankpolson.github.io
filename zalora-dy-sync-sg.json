@@ -493,31 +493,31 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BACKTOBASIC-OCT17-M-SEGMENT-HEADER.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B1-1111.jpg",
+    "Exit Url": "/men/denim/?discount=20-60&csa=denimuptosixty",
+    "Headline": "Denim Up to 60% Off",
+    "Subline": "Seasons may change, but denim's quality and appeal are here to stay.",
+    "EventLabel": "SAL|Men|denimuptosixty|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NEWARRIVALS-OCT17-W-DROPDOWN-BANNER.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
-    "Headline": "The Dress List",
-    "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
-    "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B2-1111.jpg",
+    "Exit Url": "/women/clothing/?price=0-29.9&csa=apparelessentials1111",
+    "Headline": "Daily Essentials Under S$29.90",
+    "Subline": "From Cotton On, Factorie, Supre and more",
+    "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/product-index/partygirls/?csa=partygirls",
-    "Headline": "It’s Party Time",
-    "Subline": "Get heads turning and rule your next night out.",
-    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B3-1111.jpg",
+    "Exit Url": "/women/watches/?discount=10-50&csa=watchesuptofifty",
+    "Headline": "Watches Up to 50% Off",
+    "Subline": "You deserve a new watch for any time of the day, any day of the week.",
+    "EventLabel": "SAL|Women|watchesuptofifty|ALL|NA"
   },
   {
     "Placement": "wb1",
