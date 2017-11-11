@@ -66,7 +66,7 @@
     "Status": "NA",
     "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MANGO-W-UPTO50OFF-DESK.jpg",
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MANGO-W-UPTO50OFF-MOB.jpg",
-    "Exit Url": "/women/mango/?discount=10-50",
+    "Exit Url": "/women/mango/?discount=10-70",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
     "EventLabel": "sal|women|sdmangouptofifty|all|na"
@@ -102,7 +102,7 @@
     "Status": "NA",
     "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-DENIM-M-DESK.jpg",
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-DENIM-M-MOB.jpg",
-    "Exit Url": "/men/denim/?discount=0-60",
+    "Exit Url": "/men/denim/?discount=0-70",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
     "EventLabel": "sal|men|sddenimuptosixty|all|na"
@@ -114,7 +114,7 @@
     "Status": "NA",
     "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-PREMIUMBRANDS-M-DESK.jpg",
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-PREMIUMBRANDS-M-MOB.jpg",
-    "Exit Url": "/men/all-products/?discount=10-40&brand=calvin-klein--converse--cr7--herschel--hugo-boss--rawrow--ray-ban--timberland--tommy-hilfiger--vans",
+    "Exit Url": "/men/all-products/?discount=10-60&brand=calvin-klein--converse--cr7--herschel--hugo-boss--rawrow--ray-ban--timberland--tommy-hilfiger--vans",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
     "EventLabel": "sal|men|sdpremiumbrandsuptoforty|all|na"
@@ -316,7 +316,7 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MAYBELLINE-W-DESK.jpg",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MAYBELLINE-W-DESK-1.jpg",
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MAYBELLINE-W-LOGO.jpg",
     "Exit Url": "/women/all-products/?brand=garnier--l-oreal-paris--maybelline",
     "Headline": "Up to 50% Off",
