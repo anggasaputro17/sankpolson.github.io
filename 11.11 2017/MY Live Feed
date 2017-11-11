@@ -2,26 +2,26 @@
   {
     "Placement": "Hero",
     "Gender": "women",
-    "Device": "/women/clothing/dresses/?discount=20-60",
-    "Status": "/women/clothing/fashion-tops/?discount=20-60",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELUPTO60OFF-W-HERO-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELUPTO60OFF-W-HERO-MOB.jpg",
-    "Exit Url": "/women/clothing/?discount=20-60",
-    "Headline": "/women/clothing/skirts/?discount=20-60",
-    "Subline": "/women/clothing/pants-trousers/?discount=20-60",
-    "EventLabel": "sal|women|sdapparelsuptosixty|all|na"
+    "Device": "/women/special-price/clothing/dresses/?discount=20-70",
+    "Status": "/women/special-price/clothing/fashion-tops/?discount=20-70",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-EXCLUSIVE70OFF-W-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-EXCLUSIVE70OFF-W-MOB.jpg",
+    "Exit Url": "/women/special-price/?discount=20-70",
+    "Headline": "/women/special-price/clothing/skirts/?discount=20-70",
+    "Subline": "/women/special-price/clothing/pants-trousers/?discount=20-70",
+    "EventLabel": "sal|women|sdexclusiveseventyvchelloeleven|all|na"
   },
   {
     "Placement": "Hero",
     "Gender": "men",
-    "Device": "/men/clothing/t-shirts/?discount=20-60",
-    "Status": "/men/clothing/shirts/?discount=20-60",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELUPTO60OFF-M-HERO-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELUPTO60OFF-M-HERO-MOB.jpg",
-    "Exit Url": "/men/clothing/?discount=20-60",
-    "Headline": "/men/clothing/pants/?discount=20-60",
-    "Subline": "/men/clothing/jeans/?discount=20-60",
-    "EventLabel": "sal|men|sdapparelsuptosixty|all|na"
+    "Device": "/men/special-price/clothing/t-shirts/?discount=20-70",
+    "Status": "/men/special-price/clothing/shirts/?discount=20-70",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-EXCLUSIVE70OFF-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-EXCLUSIVE70OFF-M-MOB.jpg",
+    "Exit Url": "/men/special-price/?discount=20-70",
+    "Headline": "/men/special-price/clothing/pants/?discount=20-70",
+    "Subline": "/men/special-price/clothing/jeans/?discount=20-70",
+    "EventLabel": "sal|men|sdexclusiveseventyvchelloeleven|all|na"
   },
   {
     "Placement": "SocialContest",
@@ -52,96 +52,96 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TOPSBOTTOM-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TOPSBOTTOM-W-MOB.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=1011womenstopsbottoms",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELBELOW100-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-APPARELBELOW100-MOB.jpg",
+    "Exit Url": "/women/clothing/special-price/?price=0-99",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|women|sdtopsbottomscartrule|all|na"
+    "EventLabel": "sal|women|sdapparelbelowhundred|all|na"
   },
   {
     "Placement": "campaignsD2",
     "Gender": "women",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MUSLIMAHWEARCARTRULE-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MUSLIMAHWEARCARTRULE-W-MOB.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=1011wtrad3get20",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MANGO-W-UPTO50OFF-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MANGO-W-UPTO50OFF-MOB.jpg",
+    "Exit Url": "/women/mango/?discount=10-50",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|women|sdmuslimahwearcartrule|all|na"
+    "EventLabel": "sal|women|sdmangouptofifty|all|na"
   },
   {
     "Placement": "campaignsD3",
     "Gender": "women",
     "Device": "desktop",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-WATCHES50OFF-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-WATCHES50OFF-W-MOB.jpg",
-    "Exit Url": "/women/all-products/watches/?discount=10-80",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYMUSTHAVES50OFF-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-BEAUTYMUSTHAVES50OFF-MOB.jpg",
+    "Exit Url": "/women/special-price/beauty/?discount=5-50",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|women|sdwatchesuptofiftyoff|all|na"
+    "EventLabel": "sal|women|sdbeautyuptofifty|all|na"
   },
   {
     "Placement": "campaignsD4",
     "Gender": "women",
     "Device": "desktop",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-SUNGLASSES30OFF-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SUNGLASSES30OFF-W-MOB.jpg",
-    "Exit Url": "/women/accessories/sunglasses/special-price/?discount=10-36",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MUSLIMAHWEAR60OFF-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MUSLIMAHWEAR60OFF-MOB.jpg",
+    "Exit Url": "/women/all-products/pakaian-tradisional/?discount=10-60",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|women|sdglassesuptothirtyoff|all|na"
+    "EventLabel": "sal|women|sdmuslimahwearsixtyoff|all|na"
   },
   {
     "Placement": "campaignsD1",
     "Gender": "men",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MENBUY3RM150DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MENBUY3RM150-MOB.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=1111buy3at150&price=69-69",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-DENIM-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-DENIM-M-MOB.jpg",
+    "Exit Url": "/men/denim/?discount=0-60",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|men|sdbuythreeathundredfifty|all|na"
+    "EventLabel": "sal|men|sddenimuptosixty|all|na"
   },
   {
     "Placement": "campaignsD2",
     "Gender": "men",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-SUNGLASSES30OFF-M-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SUNGLASSES30OFF-M-MOB.jpg",
-    "Exit Url": "/men/accessories/sunglasses/special-price/?discount=5-36",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-PREMIUMBRANDS-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-PREMIUMBRANDS-M-MOB.jpg",
+    "Exit Url": "/men/all-products/?discount=10-40&brand=calvin-klein--converse--cr7--herschel--hugo-boss--rawrow--ray-ban--timberland--tommy-hilfiger--vans",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|men|sdsunglassesuptothirtyoff|all|na"
+    "EventLabel": "sal|men|sdpremiumbrandsuptoforty|all|na"
   },
   {
     "Placement": "campaignsD3",
     "Gender": "men",
     "Device": "desktop",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-AFHOLLISTER-M-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-AFHOLLISTER-M-MOB.jpg",
-    "Exit Url": "/men/all-products/?discount=20-50&brand=abercrombie-fitch--hollister",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-SUPERDRY50OFF-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SUPERDRY50OFF-M-MOB.jpg",
+    "Exit Url": "/men/superdry/?discount=20-50",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|men|sdafhollisteruptofiftyoff|all|na"
+    "EventLabel": "sal|men|sdsuperdryuptosixty|all|na"
   },
   {
     "Placement": "campaignsD4",
     "Gender": "men",
     "Device": "desktop",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-WATCHES50OFF-M-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-WATCHES50OFF-M-MOB.jpg",
-    "Exit Url": "/men/watches/all-products/?discount=10-80",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-SNEAKERSUPTO60OFF-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SNEAKERSUPTO60OFF-M-MOB.jpg",
+    "Exit Url": "/men/special-price/shoes/sneakers-skate/?discount=20-60",
     "Headline": "ZALORA",
     "Subline": "ZALORA",
-    "EventLabel": "sal|men|sdwatchesuptofiftyoff|all|na"
+    "EventLabel": "sal|men|sdsneakersuptosixty|all|na"
   },
   {
     "Placement": "Hourly Deals",
@@ -184,24 +184,24 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEAL-FAVEBRANDS70OFF-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEAL-FAVEBRANDS70OFF-W-MOB.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_four=1111CKxWingtai",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALS-LOVEBONITORM59-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALS-LOVEBONITORM59-MOB.jpg",
+    "Exit Url": "/women/love-bonito/?price=59-59",
     "Headline": "Limited Time Specials",
     "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "SAL|Women|sdhourlydealswingtaick|ALL|NA"
+    "EventLabel": "SAL|Women|sdhourlydealslovebonitofiftynine|ALL|NA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "women",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-ATHLEISURE-W-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-ATHLEISURE-W-MOB.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_five=1111weekendessential",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALRAYBAN25OFF-W-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALRAYBAN25OFF-W-MOB.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_two=1111rayban",
     "Headline": "Limited Time Specials",
     "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "SAL|Women|sdwomenathleisure|ALL|NA"
+    "EventLabel": "SAL|Women|sdhourlydealsraybantwentyfiveoff|ALL|NA"
   },
   {
     "Placement": "HourlyDeal1",
@@ -220,24 +220,24 @@
     "Gender": "men",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALS-BAGSEXTRA18VC-DESK-1.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALS-BAGSEXTRA18VC-MOB.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_two=1111menbagsupto60",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALRAYBAN25OFF-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-HOURLYDEALRAYBAN25OFF-M-MOV.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_two=1111rayban",
     "Headline": "Limited Time Specials",
     "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "SAL|Men|sdhourlydealsmenbagsuptosixtyvc|ALL|NA"
+    "EventLabel": "SAL|Men|sdhourlydealsraybantwentyfiveoff|ALL|NA"
   },
   {
     "Placement": "HourlyDeal3",
     "Gender": "men",
     "Device": "multi",
     "Status": "NA",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-SPORTSWEAR40OFFPLUS20OFFVC-M-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SPORTSWEAR40OFFPLUS20OFFVC-M-MOB.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=1111sportsupto40off",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-FJALLRAVENKANKEN-HOURLYDEALS-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-FJALLRAVENKANKEN-HOURLYDEALS-MOB.jpg",
+    "Exit Url": "/men/fjallraven-kanken/?discount=10-25",
     "Headline": "Limited Time Specials",
     "Subline": "Grab these hour-long markdowns before time's up!",
-    "EventLabel": "SAL|Men|sdhourlydealssportsuptofortyoff|ALL|NA"
+    "EventLabel": "SAL|Men|sdhourlydealsfjallravenkanken|ALL|NA"
   },
   {
     "Placement": "Women ZAP Brands",
@@ -292,12 +292,12 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-UNISA-W-NOV17-BRANDS.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-UNISA-W-NOV17-BRANDS-MOBILE.jpg",
-    "Exit Url": "/women/unisa/",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TEASER-ESPRIT-W-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TEASER-ESPRIT-W-LOGO.jpg",
+    "Exit Url": "/women/esprit/",
     "Headline": "Up to 70% Off",
     "Subline": "ZALORA",
-    "EventLabel": "bra|women|sdunisa|all|na"
+    "EventLabel": "bra|women|esprit2awseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-4",
@@ -316,12 +316,12 @@
     "Gender": "women",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TEASER-YOCO-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TEASER-YOCO-LOGO.jpg",
-    "Exit Url": "/women/yoco/",
-    "Headline": "Up to 40% Off",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-MAYBELLINE-W-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-MAYBELLINE-W-LOGO.jpg",
+    "Exit Url": "/women/all-products/?brand=garnier--l-oreal-paris--maybelline",
+    "Headline": "Up to 50% Off",
     "Subline": "ZALORA",
-    "EventLabel": "bra|women|sdyoco|all|na"
+    "EventLabel": "bra|women|maybelline|all|zap"
   },
   {
     "Placement": "zap-brand-6",
@@ -368,7 +368,7 @@
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-SKININC-LOGO.jpg",
     "Exit Url": "/women/skin-inc/",
     "Headline": "Up to 45% Off",
-    "Subline": "NA",
+    "Subline": "ZALORA",
     "EventLabel": "bra|women|skininc2awseventeen|all|zap"
   },
   {
@@ -380,68 +380,68 @@
     "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TEASER-CLUSE-LOGO-1.jpg",
     "Exit Url": "/women/cluse/",
     "Headline": "Up to 40% Off",
-    "Subline": "NA",
+    "Subline": "ZALORA",
     "EventLabel": "bra|women|cluseawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-11",
     "Gender": "women",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-DESIGUAL-W-NOV17-BRANDS.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-DESIGUAL-W-NOV17-BRANDS-MOBILE.jpg",
+    "Exit Url": "/women/desigual/",
     "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Subline": "ZALORA",
+    "EventLabel": "bra|women|desigualawseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-12",
     "Gender": "women",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-RAYBAN-W-NOV17-BRANDS.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-RAYBAN-W-NOV17-BRANDS-MOBILE.jpg",
+    "Exit Url": "/women/ray-ban/",
+    "Headline": "Up to 35% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|women|raybanseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-13",
     "Gender": "women",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TOKICHOI-W-NOV17-BRANDS.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TOKICHOI-W-NOV17-BRANDS-MOBILE.jpg",
+    "Exit Url": "/women/all-products/?brand=tokichoi--mayuki",
+    "Headline": "Up to 40% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|women|tokichoi2awseventeen|all|zap"
   },
   {
     "Placement": "zap-brand-14",
     "Gender": "women",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-UNISA-W-NOV17-BRANDS.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-UNISA-W-NOV17-BRANDS-MOBILE.jpg",
+    "Exit Url": "/women/unisa/",
+    "Headline": "Up to 70% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|women|sdunisa|all|na"
   },
   {
     "Placement": "zap-brand-15",
     "Gender": "women",
     "Device": "multi",
     "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-LANEIGE-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-LANEIGE-LOGO.jpg",
+    "Exit Url": "/women/laneige",
+    "Headline": "Up to 40% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|women|sdlaneige|all|na"
   },
   {
     "Placement": "Men ZAP Brands",
@@ -520,15 +520,27 @@
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TOPMAN-DESK.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TOPMAN-LOGO.jpg",
-    "Exit Url": "/men/topman",
-    "Headline": "Up to 60% Off",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-DANIELWELLINGTON-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-DANIELWELLINGTON-M-LOGO.jpg",
+    "Exit Url": "/men/daniel-wellington/",
+    "Headline": "Up to 40% Off",
     "Subline": "ZALORA",
-    "EventLabel": "bra|men|sdtopman|all|na"
+    "EventLabel": "bra|men|sddanielwellington|all|na"
   },
   {
     "Placement": "zap-brand-6",
+    "Gender": "men",
+    "Device": "multi",
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/onsite-banners/1111-ELECTRODENIMLAB-W-NOV17-BRANDS.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/onsite-banners/1111-ELECTRODENIMLAB-W-NOV17-BRANDS-MOBILE.jpg",
+    "Exit Url": "/men/electro-denim-lab/",
+    "Headline": "Up to 50% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|men|electrodenimlabawseventeen|all|zap"
+  },
+  {
+    "Placement": "zap-brand-7",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
@@ -540,7 +552,7 @@
     "EventLabel": "bra|men|sdcalvinklein|all|na"
   },
   {
-    "Placement": "zap-brand-7",
+    "Placement": "zap-brand-8",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
@@ -552,7 +564,7 @@
     "EventLabel": "bra|men|sdcottonon|all|na"
   },
   {
-    "Placement": "zap-brand-8",
+    "Placement": "zap-brand-9",
     "Gender": "men",
     "Device": "multi",
     "Status": "Active",
@@ -564,40 +576,28 @@
     "EventLabel": "bra|men|sdunderarmour|all|na"
   },
   {
-    "Placement": "zap-brand-9",
-    "Gender": "men",
-    "Device": "multi",
-    "Status": "Active",
-    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-ADIDAS-M-DESK-1.jpg",
-    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-ADIDAS-M-LOGO.jpg",
-    "Exit Url": "/men/adidas/",
-    "Headline": "Up to 20% Off",
-    "Subline": "ZALORA",
-    "EventLabel": "bra|men|adidasonlinefever|all|na"
-  },
-  {
     "Placement": "zap-brand-10",
     "Gender": "men",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-TOPMAN-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-TOPMAN-LOGO.jpg",
+    "Exit Url": "/men/topman/",
+    "Headline": "Up to 60% Off",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|men|sdtopman|all|na"
   },
   {
     "Placement": "zap-brand-11",
     "Gender": "men",
     "Device": "multi",
-    "Status": "Inactive",
-    "Desktop Image": "http://via.placeholder.com/996x350",
-    "Mobile Image": "http://via.placeholder.com/436x248",
-    "Exit Url": "#",
-    "Headline": "Up to 50% Off",
-    "Subline": "NA",
-    "EventLabel": "na|na|eventlabel|all|na"
+    "Status": "Active",
+    "Desktop Image": "https://static-my.zacdn.com/cms/dy/1111-NIKE-M-DESK.jpg",
+    "Mobile Image": "https://static-my.zacdn.com/cms/dy/1111-NIKE-M-LOGO.jpg",
+    "Exit Url": "/men/nike/",
+    "Headline": "Special Prices",
+    "Subline": "ZALORA",
+    "EventLabel": "bra|men|sdnike|all|na"
   },
   {
     "Placement": "zap-brand-12",
