@@ -14,7 +14,8 @@
     "Subline EN": "/women/accessories/special-price/?discount=20-70&csa=lastchancetwelve",
     "Subline ZH": "/women/accessories/special-price/?discount=20-70&csa=lastchancetwelve",
     "EventLabel": "SAL|Women|lastchancetwelve|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Hero",
@@ -31,7 +32,8 @@
     "Subline EN": "/men/sports/sports-equipment/?discount=20-60&csa=mentwelvenovhero",
     "Subline ZH": "/men/sports/sports-equipment/?discount=20-60&csa=mentwelvenovhero",
     "EventLabel": "SAL|Men|mentwelvenovhero|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "SocialContest",
@@ -48,7 +50,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "pro|all|socialcontest|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Skinnies",
@@ -65,7 +68,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "ZALORA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Homepage Skinny Full",
@@ -82,7 +86,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Homepage Skinny Left",
@@ -99,7 +104,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Homepage Skinny Right",
@@ -116,7 +122,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Skinnies Women",
@@ -133,7 +140,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "ZALORA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women SegmentSkinny Full",
@@ -150,7 +158,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women SegmentSkinny Left",
@@ -167,7 +176,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "par|women|expedia|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women SegmentSkinny Right",
@@ -184,7 +194,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "pro|women|freeshipping|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women GlobalSkinny Full",
@@ -201,7 +212,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women GlobalSkinny Left",
@@ -218,7 +230,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "par|women|expedia|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women GlobalSkinny Right",
@@ -235,7 +248,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "pro|women|freeshipping|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women MobileSkinny",
@@ -252,7 +266,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Skinnies Men",
@@ -269,7 +284,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "ZALORA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men SegmentSkinny Full",
@@ -286,7 +302,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men SegmentSkinny Left",
@@ -303,7 +320,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "par|men|expedia|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men SegmentSkinny Right",
@@ -320,7 +338,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "pro|men|freeshipping|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men GlobalSkinny Full",
@@ -337,7 +356,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men GlobalSkinny Left",
@@ -354,7 +374,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "par|men|expedia|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men GlobalSkinny Right",
@@ -371,7 +392,8 @@
     "Subline EN": "#fff",
     "Subline ZH": "#fff",
     "EventLabel": "pro|men|freeshipping|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men MobileSkinny",
@@ -388,7 +410,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Campaigns (D1-4)",
@@ -405,7 +428,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD1",
@@ -422,7 +446,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Women|allapparelbelowtwentynine|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD2",
@@ -439,7 +464,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Women|shoesbuytwogettwentyfive|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD3",
@@ -456,7 +482,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Women|winterewear1111|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD4",
@@ -473,7 +500,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Women|innerwear1111|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD1",
@@ -490,7 +518,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Men|buythreeforthirty|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD2",
@@ -507,7 +536,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Men|denimuptosixty|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD3",
@@ -524,7 +554,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Men|premiumbrands1111|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "campaignsD4",
@@ -541,7 +572,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Men|highstreetdeals1111|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Hourly Deals",
@@ -558,7 +590,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Hourly Deals Beta",
@@ -575,7 +608,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "HourlyDeal1",
@@ -592,7 +626,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|Women|dresseseighteen|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "HourlyDeal2",
@@ -609,7 +644,8 @@
     "Subline EN": "Use \"DRESSUP18\" for Extra 18% Off (Min HK$450)",
     "Subline ZH": "輸入DRESSUP18，即享額外82折（需購滿HK$450）",
     "EventLabel": "SAL|Women|dresseseighteen|ALL|NA",
-    "Notes 1": "把握時間，購得心頭好！"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "把握時間，購得心頭好！"
   },
   {
     "Placement": "HourlyDeal3",
@@ -626,7 +662,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|Women|sportseighteen|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "HourlyDeal4",
@@ -643,7 +680,8 @@
     "Subline EN": "Use \"SPORTS18\" for Extra 18% Off (Min HK$460)",
     "Subline ZH": "輸入SPORTS18，即享額外82折（需購滿HK$460）",
     "EventLabel": "SAL|Women|sportseighteen|ALL|NA",
-    "Notes 1": "把握時間，購得心頭好！"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "把握時間，購得心頭好！"
   },
   {
     "Placement": "HourlyDeal5",
@@ -660,7 +698,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|Women|sportseighteen|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "HourlyDeal1",
@@ -677,7 +716,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|men|topbrandstwenty|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "HourlyDeal2",
@@ -694,7 +734,8 @@
     "Subline EN": "Use TBRAND20 For Extra 20% Off",
     "Subline ZH": "輸入TBRAND20，即享額外8折（需購滿HK$450",
     "EventLabel": "SAL|men|topbrandstwenty|ALL|NA",
-    "Notes 1": "把握時間，購得心頭好！"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "把握時間，購得心頭好！"
   },
   {
     "Placement": "HourlyDeal3",
@@ -711,7 +752,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|men|herscheleighteen|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "HourlyDeal4",
@@ -728,7 +770,8 @@
     "Subline EN": "Use \"HERSCH18\" for Extra 18% Off",
     "Subline ZH": "輸入HERSCH18，即享額外82折",
     "EventLabel": "SAL|men|herscheleighteen|ALL|NA",
-    "Notes 1": "把握時間，購得心頭好！"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "把握時間，購得心頭好！"
   },
   {
     "Placement": "HourlyDeal5",
@@ -745,7 +788,8 @@
     "Subline EN": "<span></span>",
     "Subline ZH": "<span></span>",
     "EventLabel": "SAL|men|herscheleighteen|ALL|NA",
-    "Notes 1": "<span></span>"
+    "Notes 1": "限時快閃活動",
+    "Notes 2": "<span></span>"
   },
   {
     "Placement": "Women ZAP Brands",
@@ -762,7 +806,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Women ZAPBrands",
@@ -779,7 +824,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Women|WomenZAPBrands|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-1",
@@ -796,7 +842,8 @@
     "Subline EN": "Up to 80% Off",
     "Subline ZH": "低至2折",
     "EventLabel": "bra|women|levishkawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Levi's HK",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-2",
@@ -813,7 +860,8 @@
     "Subline EN": "Up to 30% Off",
     "Subline ZH": "低至7折",
     "EventLabel": "bra|women|hellosweetyawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Hello Sweety",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-3",
@@ -830,7 +878,8 @@
     "Subline EN": "Up to 45% Off",
     "Subline ZH": "低至55折",
     "EventLabel": "bra|women|skininc2awseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Skin Inc",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-4",
@@ -847,7 +896,8 @@
     "Subline EN": "Up to 70% Off",
     "Subline ZH": "低至3折",
     "EventLabel": "bra|women|esprit2awseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ESPRIT",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-5",
@@ -864,7 +914,8 @@
     "Subline EN": "Up to 70% Off",
     "Subline ZH": "低至3折",
     "EventLabel": "bra|women|sunnydaysweetyawseventeen|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Sunnydaysweety",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-6",
@@ -881,7 +932,8 @@
     "Subline EN": "Up to 10% Off",
     "Subline ZH": "低至9折",
     "EventLabel": "bra|women|oryany2awseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Oryany",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-7",
@@ -898,7 +950,8 @@
     "Subline EN": "Up to 15% Off",
     "Subline ZH": "低至85折",
     "EventLabel": "bra|women|xixiliawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "XIXILI",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-8",
@@ -915,7 +968,8 @@
     "Subline EN": "Up to 20% Off",
     "Subline ZH": "低至8折",
     "EventLabel": "bra|women|unitedcolorsofbenetton2awseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "United Colors of Benetton",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-9",
@@ -932,7 +986,8 @@
     "Subline EN": "Up to 50% Off",
     "Subline ZH": "低至5折",
     "EventLabel": "bra|women|adidaslaunchawseventeen|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Adidas",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-10",
@@ -949,7 +1004,8 @@
     "Subline EN": "Up to 60% Off",
     "Subline ZH": "低至4折",
     "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Cotton On",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-11",
@@ -966,7 +1022,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-12",
@@ -983,7 +1040,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-13",
@@ -1000,7 +1058,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-14",
@@ -1017,7 +1076,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-15",
@@ -1034,7 +1094,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men ZAP Brands",
@@ -1051,7 +1112,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Men ZAPBrands",
@@ -1068,7 +1130,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "SAL|Men|MenZAPBrands|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-1",
@@ -1085,7 +1148,8 @@
     "Subline EN": "Up to 80% Off",
     "Subline ZH": "低至2折",
     "EventLabel": "bra|men|levishkawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Levi's HK",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-2",
@@ -1102,7 +1166,8 @@
     "Subline EN": "Up to 70% Off",
     "Subline ZH": "低至3折",
     "EventLabel": "bra|men|esprit2awseventeen|all|zap",
-    "Notes 1": "ESPRIT"
+    "Notes 1": "ESPRIT",
+    "Notes 2": "ESPRIT"
   },
   {
     "Placement": "zap-brand-3",
@@ -1119,7 +1184,8 @@
     "Subline EN": "Up to 80% Off",
     "Subline ZH": "低至2折",
     "EventLabel": "bra|men|itemmsawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ITEMMS",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-4",
@@ -1136,7 +1202,8 @@
     "Subline EN": "Up to 60% Off",
     "Subline ZH": "低至4折",
     "EventLabel": "BRA|Men|cottononssseventeen|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Cotton On",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-5",
@@ -1153,7 +1220,8 @@
     "Subline EN": "Up to 20% Off",
     "Subline ZH": "低至8折",
     "EventLabel": "bra|men|unitedcolorsofbenetton2awseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "United Colors of Benetton",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-6",
@@ -1170,7 +1238,8 @@
     "Subline EN": "Up to 60% Off",
     "Subline ZH": "低至4折",
     "EventLabel": "bra|men|calvinkleinawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Calvin Klein",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-7",
@@ -1187,7 +1256,8 @@
     "Subline EN": "Up to 60% Off",
     "Subline ZH": "低至6折",
     "EventLabel": "bra|men|timberlandawseventeen|all|zap",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Timberland",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-8",
@@ -1204,7 +1274,8 @@
     "Subline EN": "Up to 50% Off",
     "Subline ZH": "低至5折",
     "EventLabel": "BRA|Men|mspreebokss17|ALL|NA|reebok-shop",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Reebok",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-9",
@@ -1221,7 +1292,8 @@
     "Subline EN": "Up to 50% Off",
     "Subline ZH": "低至5折",
     "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "New Balance",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-10",
@@ -1238,7 +1310,8 @@
     "Subline EN": "Up to 50% Off",
     "Subline ZH": "低至5折",
     "EventLabel": "BRA|Men|asicsssseventeen|ALL|NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "Asics",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-11",
@@ -1255,7 +1328,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-12",
@@ -1272,7 +1346,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-13",
@@ -1289,7 +1364,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-14",
@@ -1306,7 +1382,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "zap-brand-15",
@@ -1323,7 +1400,8 @@
     "Subline EN": "ZALORA",
     "Subline ZH": "ZALORA",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "Partners",
@@ -1340,7 +1418,8 @@
     "Subline EN": "NA",
     "Subline ZH": "NA",
     "EventLabel": "NA",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-1",
@@ -1357,7 +1436,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-2",
@@ -1374,7 +1454,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-3",
@@ -1391,7 +1472,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-4",
@@ -1408,7 +1490,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-5",
@@ -1425,7 +1508,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-6",
@@ -1442,7 +1526,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-7",
@@ -1459,7 +1544,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-8",
@@ -1476,7 +1562,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-9",
@@ -1493,7 +1580,8 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   },
   {
     "Placement": "partner-10",
@@ -1510,6 +1598,7 @@
     "Subline EN": "Lorem ipsum blahblahblah",
     "Subline ZH": "Lorem ipsum blahblahblah",
     "EventLabel": "na|na|eventlabel|all|na",
-    "Notes 1": "ZALORA"
+    "Notes 1": "ZALORA",
+    "Notes 2": "ZALORA"
   }
 ]
