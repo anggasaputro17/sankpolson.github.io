@@ -13,44 +13,34 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESSENTIALMIDISKIRT-NOV17-N1.jpg",
-    "Exit Url": "/women/clothing/skirts/?age=0-60&csa=essentialmidiskirt",
-    "Headline": "Essential Midi Skirts",
-    "Subline": "Give your wardrobe a new edge with this versatile piece",
-    "EventLabel": "CAT|Women|Essentialmidiskirt|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/KATESPADE-NOV17-N1.jpg",
+    "Exit Url": "/women/watches/all-products/kate-spade/?csa=katespadelaunch",
+    "Headline": "Kate Spade",
+    "Subline": "You deserve a designer watch that does more than just tell the time",
+    "EventLabel": "BRA|Women|katespade|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-N2.jpg",
-    "Exit Url": "/women/love-bonito/?csa=lovebonito",
+    "Exit Url": "/women/love-bonito/?sort=latest%20arrival&csa=lovebonito",
     "Headline": "Love, Bonito",
-    "Subline": "Now on ZALORA",
+    "Subline": "New Arrivals",
     "EventLabel": "BRA|Women|lovebonito|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AFIQM-OCT17-W-HERO-N2.jpg",
-    "Exit Url": "/women/afiqm/?csa=afiqmlaunch",
-    "Headline": "Afiq M - Now on ZALORA",
-    "Subline": "Sleek statement pieces you need to have now",
-    "EventLabel": "BRA|Women|afiqmlaunch|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MUSTHAVEDRESSES-NOV17-W-N2.jpg",
+    "Exit Url": "/women/new-products/clothing/dresses/?csa=dressesmusthave",
+    "Headline": "Must-have Dresses",
+    "Subline": "Can't go wrong with a new dress or two",
+    "EventLabel": "CAT|Women|musthavedresses|ALL|NA"
   },
   {
     "Placement": "wcu2",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HERMO-OCT17-N1.jpg",
-    "Exit Url": "/women/beauty/all-products/?brand=benton--canmake--cosrx--guerisson--hanaka--heimish--huxley--kate--klairs--mirae--pyunkang-yul",
-    "Headline": "Hermo - Now on ZALORA",
-    "Subline": "Shop Canmake, COSRX, Hanaka, Kate and more",
-    "EventLabel": "TRE|Women|Hermolaunch|ALL|NA"
-  },
-  {
-    "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N1.jpg",
@@ -60,64 +50,74 @@
     "EventLabel": "CAT|Women|sportsnewarrivals|ALL|NA"
   },
   {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/HOTTESTSKIRTS-W-NOV17-N1.jpg",
+    "Exit Url": "/women/new-products/clothing/skirts/?csa=hottestskirts",
+    "Headline": "The Hottest Skirts",
+    "Subline": "Shop the latest style staple",
+    "EventLabel": "CAT|Women|hottestskirts|ALL|NA"
+  },
+  {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-CARTRULE-W-N2.jpg",
-    "Exit Url": "/women/all-products?cmpgn_three=cw45watches&csa=cw45watches",
-    "Headline": "Watches - Buy 2 Get 20% Off, 3 Get 30% Off",
-    "Subline": "The most coveted wristwear now at even lower prices",
-    "EventLabel": "SAL|Women|watchescartrule|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/MUSLIMWEAR-NOV17-W-N2.jpg",
+    "Exit Url": "/women/new-products/pakaian-tradisional/?csa=muslimwearmusthaves",
+    "Headline": "Muslim Wear Must-Haves",
+    "Subline": "Shop our latest arrivals now",
+    "EventLabel": "CAT|Women|musliwearmusthaves|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-OCT17-B1.jpg",
-    "Exit Url": "/women/beauty/laneige/?csa=laneige",
+    "Image": "https://static-my.zacdn.com/cms/dy/DIDA-NOV17-W-B1.jpg",
+    "Exit Url": "/women/beauty/dida/?csa=didalaunch",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|laneige|ALL|NA"
+    "EventLabel": "BRA|Women|didalaunch|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW40-ZAP-ALDO-SEPT17-B1.jpg",
-    "Exit Url": "/women/all-products/aldo/?csa=aldo",
+    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/mango/?csa=mango",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldo|ALL|NA"
+    "EventLabel": "BRA|Women|mango|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CHRISTYNG-OCT17-B1.jpg",
-    "Exit Url": "/women/christy-ng/?csa=christyngpostlaunch",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-OCT17-W-B1.jpg",
+    "Exit Url": "/women/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|christyngpostlaunch|ALL|NA"
+    "EventLabel": "BRA|Women|fossil|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NYX-OCY17-B1.jpg",
-    "Exit Url": "/women/nyx-professional-makeup/?csa=nyxpostlaunch",
+    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/daniel-wellington/?csa=danielwellington",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|nyxpostlaunch|ALL|NA"
+    "EventLabel": "BRA|Women|danielwellington|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SIGMA-SEPT17-B1.jpg",
-    "Exit Url": "/women/sigma-beauty/?csa=sigma",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-SEPT17-W-B1.jpg",
+    "Exit Url": "/women/nike/?csa=nike",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|Sigma|ALL|NA"
+    "EventLabel": "BRA|Women|nike|ALL|NA"
   },
   {
     "Placement": "wfb6",
@@ -193,91 +193,91 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N1.jpg",
-    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zalora",
-    "Headline": "Zalora Must-Haves",
-    "Subline": "Shop our latest pieces now",
-    "EventLabel": "BRA|Men|zalora|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-M-N1.jpg",
+    "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
+    "Headline": "Optimise Your Performance",
+    "Subline": "Shop Our Latest Arrivals now",
+    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/JAXON-AUGUST17-N2-CU1-CU4.jpg",
-    "Exit Url": "/men/jaxon/?csa=jaxon",
-    "Headline": "Jaxon",
-    "Subline": "Shop now",
-    "EventLabel": "BRA|Men|Jaxon|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWINSNEAKERS-NOV17-M-N2.jpg",
+    "Exit Url": "/men/new-products/shoes/sneakers-skate/?csa=sneakersnewarrvials",
+    "Headline": "New-in Sneakers",
+    "Subline": "Get ready to hit the streets with our latest arrivals",
+    "EventLabel": "CAT|Men|sneakersnewarrvials|ALL|NA"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/STREETSTYLE-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=cw44menstreetstyle&csa=cw44menstreetstyle",
-    "Headline": "Street style",
-    "Subline": "Venture beyond the basics with threads that will make you a true sartorialist",
-    "EventLabel": "TRE|Men|menstreetstyle|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/LOAFERS-M-NOV17-N2.jpg",
+    "Exit Url": "/men/shoes/loafers/?csa=loafers",
+    "Headline": "Loafers",
+    "Subline": "Go from smart to casual effortlessly",
+    "EventLabel": "CAT|Men|loafers|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-M-N1.jpg",
-    "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
-    "Headline": "Sports New Arrivals",
-    "Subline": "Where style meets functionality",
-    "EventLabel": "TRE|MEN|Sportsnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SHIRTSFOROCCASION-M-NOV17-N1.jpg",
+    "Exit Url": "/men/clothing/shirts/?age=0-60&csa=shirtsforoccasion",
+    "Headline": "Shirts for Every Occasion",
+    "Subline": "Shop our latest arrivals now",
+    "EventLabel": "CAT|MEN|shirtsforoccasion|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-CARTRULE-M-N1.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_three=cw45watches&csa=cw45watches",
-    "Headline": "Watches - Buy 2 Get 20% Off, 3 Get 30% Off",
-    "Subline": "The most coveted wristwear now at even lower prices",
-    "EventLabel": "CAT|Men|Watchescartrule|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/DRESSUPWITHWATCHES-NOV17-M-N1.jpg",
+    "Exit Url": "/men/all-products/watches/?csa=dressupwithwatches",
+    "Headline": "Dress Up with Watches",
+    "Subline": "Shop from chronographs to smart watches",
+    "EventLabel": "TRE|Men|dressupwithwatches|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SUNGLASSES-OCT17-M-N2.jpg",
-    "Exit Url": "/men/sunglasses/?csa=sunglassesmusthaves",
-    "Headline": "Must-Have Sunglasses",
-    "Subline": "Update your look with new shades",
-    "EventLabel": "CAT|Men|sunglassesmusthaves|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/DENIMDUTY-M-NOV17-N2.jpg",
+    "Exit Url": "/men/new-products/clothing/jeans/?csa=denimduty",
+    "Headline": "Denim Duty",
+    "Subline": "Fuss-free jeans for the modern man",
+    "EventLabel": "TRE|Men|denimduty|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-M-B1.jpg",
-    "Exit Url": "/men/cotton-on/?csa=cottonon",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-NOV16-M-B1-6.jpg",
+    "Exit Url": "/men/nike/?csa=nike",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|cottonon|ALL|NA"
+    "EventLabel": "BRA|Men|nike|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CONVERSE-JUNE17-B1.jpg",
-    "Exit Url": "/men/converse/?csa=converse",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-NOV17-M-B1.jpg",
+    "Exit Url": "/men/fossil/?csa=fossil",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|converse|ALL|NA"
+    "EventLabel": "BRA|Men|fossil|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-FEB17-M-B1.jpg",
-    "Exit Url": "/men/puma/?csa=puma",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-B1.jpg",
+    "Exit Url": "/men/topman/?csa=topman",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|puma|ALL|NA"
+    "EventLabel": "BRA|Men|topman|ALL|NA"
   },
   {
     "Placement": "mfb4",
@@ -303,11 +303,11 @@
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ADIDASLATESTAUGUST-AUGUST17-M-B1.jpg",
-    "Exit Url": "/men/adidas/?csa=adidas",
+    "Image": "https://static-my.zacdn.com/cms/dy/SUPERDRY-OCT17-M-N1.jpg",
+    "Exit Url": "/men/superdry/?csa=superdry",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|adidas|ALL|NA"
+    "EventLabel": "BRA|Men|superdry|ALL|NA"
   },
   {
     "Placement": "mc1",
