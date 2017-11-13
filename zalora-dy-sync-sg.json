@@ -1,340 +1,360 @@
 [
   {
+    "Placement": "WOMEN DEKSTOP",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
+  },
+  {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw45/Nov17/NEWARRIVALS-OCT17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
-    "Headline": "The Dress List",
-    "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
-    "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/SEGMENT_HERO_996x500_women_hero_sg.jpg",
+    "Exit Url": "http://www.zalora.sg/product-index/partygirls",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/RIVERISLAND-OCT17-W-N1.jpg",
-    "Exit Url": "/river-island-singapore/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "https://www.zalora.sg/women/havaianas/",
+    "Headline": "Havaianas",
+    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
+    "EventLabel": "bra|women|havaianasawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/COTTONONBODY-OCT17-W-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen&sort=latest%20arrival",
-    "Headline": "Cotton On Body",
-    "Subline": "Activewear and intimates designed to suit your every mood.",
-    "EventLabel": "bra|women|cottononbodyawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__women_N2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/sportswear/",
+    "Headline": "The Sports Edit",
+    "Subline": "Make this the starting point of your fitness journey and shop all the gear you need.",
+    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/CLASSICPIECES-OCT17-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=classiccpieces&csa=classicpieces",
-    "Headline": "Timeless Classics",
-    "Subline": "Start on a clean slate with trend-defying staples that are relevant all year round.",
-    "EventLabel": "TRE|Women|classicpieces|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420__men_tshirts_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
+    "Headline": "Work Hard, Dress Smart",
+    "Subline": "Head-turning office wear for that much needed pick-me-up.",
+    "EventLabel": "NA|Women|novworkwear|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/AUSTRALIANBRANDS-OCT17-W-N4.jpg",
-    "Exit Url": "/women/all-products/?brand=au-revoir-les-filles--dvnt--forcast--forever-new--gorman--nina-armando--roc-boots-australia--toffee&csa=australianbrands",
-    "Headline": "Australian Fashion",
-    "Subline": "Let the best brands from Australia put you at the pinnacle of your style game.",
-    "EventLabel": "CAT|Women|australianbrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420_women_N4_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/new-products/clothing/?getSKU=CA221AA0S00AMY--TO729AA0G1Q2SG",
+    "Headline": "A November to Remember",
+    "Subline": "Act now and this month’s latest arrivals will be unforgettably yours.",
+    "EventLabel": "NA|Women|nonewarrivals|ALL|NA"
   },
   {
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/MANGO-OCT17-W-B1-1.jpg",
-    "Exit Url": "/women/mango-shop/?csa=mangoawseventeen",
+    "Image": "https://static-sg.zacdn.com/cw47brands/ElisaLitz_B1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.sg/women/elisa-litz/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|mangoawseventeen|ALL|NA"
+    "EventLabel": "bra|women|elisalitzawseventeen|all|zap"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/STORETS-OCT17-W-B1.jpg",
-    "Exit Url": "/storets/?csa=storetsawseventeen",
+    "Image": "https://static-sg.zacdn.com/cw47brands/HellyHansen-B1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.sg/women/helly-hansen/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|storetsawseventeen|all|na"
+    "EventLabel": "bra|women|hellyhansenawseventeen|all|na"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BOLON-OCT17-W-B1.jpg",
-    "Exit Url": "/women/bolon/?csa=bolonawseventeen",
+    "Image": "https://static-sg.zacdn.com/cw47brands/Melissa_B_322x165_1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/melissa/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|bolonawseventeen|all|na"
+    "EventLabel": "BRA|Women|melissa1awseventeen|ALL|ZAP"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms//cw42/Oct17/SHUTALK-OCT17-W-B1.jpg",
-    "Exit Url": "/women/shu-talk/?csa=shutalkawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/HellyHansen-B1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.sg/women/odlo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|shutalkawseventeen|all|na"
+    "EventLabel": "bra|women|odloawseventeen|all|zap"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/WAREHOUSE-OCT17-W-B1.jpg",
-    "Exit Url": "/warehouse-shop/?csa=warehouseawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(4).jpg",
+    "Exit Url": "https://www.zalora.sg/women/the-fifth-label",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|warehouseawseventeen|all|na"
+    "EventLabel": "bra|women|thefifthlabelawseventeen|all|na"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ADIDAS-OCT17-W-B1.jpg",
-    "Exit Url": "/women/adidas/?csa=adidaslaunchawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(5).jpg",
+    "Exit Url": "https://www.zalora.sg/dorothy-perkins-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_SPORTS-W-CW45.jpg",
-    "Exit Url": "/women/sports/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_DRESSES__women_C1_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/clothing/dresses/",
     "Headline": "NA",
-    "Subline": "SHOP SPORTS >",
-    "EventLabel": "CAT|Women|sports|ALL|NA"
+    "Subline": "SHOP DRESSES >",
+    "EventLabel": "CAT|Women|dresses |ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_PLAYJUMPSUITS-W-CW45.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/shoes/heels/",
     "Headline": "NA",
-    "Subline": "SHOP PLAYSUITS & JUMPSUITS >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "SHOP HEELS >",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C3_375x500_CLOTHING-W-CW45.jpg",
-    "Exit Url": "/women/clothing/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C3_375x500_BEAUTY_women_C3_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/beauty/",
     "Headline": "NA",
-    "Subline": "SHOP CLOTHING >",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Subline": "SHOP BEAUTY >",
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_HEELS-W-CW45.jpg",
-    "Exit Url": "/women/shoes/?csa=heels",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_SKIRTS_women_C4_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/clothing/skirts/",
     "Headline": "NA",
-    "Subline": "SHOP HEELS>",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "SHOP SKIRTS >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_JEANS-W-CW45.jpg",
-    "Exit Url": "/women/clothing/jeans/?csa=jeans",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_TOPS_women_C5_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/clothing/fashion-tops/",
     "Headline": "NA",
-    "Subline": "SHOP JEANS >",
-    "EventLabel": "CAT|Women|jeans|ALL|NA"
+    "Subline": "SHOP TOPS >",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-junebackinstock-women.jpg",
-    "Exit Url": "/women/shoes/?brand=dune-london--miss-kg--carvela-kg--public-desire--faith--vero-moda--missguided--lost-ink--selected-femme--only--river-island",
-    "Headline": "Fit For Your Feet",
-    "Subline": "Add a touch of British styling with shoes from Dune, Carvela and more.",
-    "EventLabel": "CAT|women|ukshoes|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-laidbackstaples-women.jpg",
-    "Exit Url": "/product-index/shortsandtees/",
-    "Headline": "Laidback Staples",
-    "Subline": "Beat the heat by pairing these must-have shorts and tees.",
-    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N1_NEWARRIVALS_360x420-summergetaways-women.jpg",
-    "Exit Url": "/women/clothing/tank-tops/?csa=cw33catpushsleevelsstops",
-    "Headline": "Feel the Breeze",
-    "Subline": "These sleeveless tops will give you the air of confidence you totally deserve.",
-    "EventLabel": "CAT|Women|CatPushSleevelssTops|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": ""
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jun2017/N2_NEWARRIVALS_620x420-sportslounge-women.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=sportlounge&getSKU=SU225AA81PRQMY--BY059AA99ZGYMY",
-    "Headline": "The Lounge Life",
-    "Subline": "Get cosy with relaxed tailoring and a touch of sports inspiration.",
-    "EventLabel": "TRE|Women|SportLounge|Women|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": ""
+  },
+  {
+    "Placement": "MEN DEKSTOP",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SPORTSPERFORMANCE-OCT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/sports/all-products/?csa=sportsperformance&getSKU=AD372AA0RXM4MY--D372AA0RXM7MY--D372AA0RXM9MY--AD372AC0REUPMY--AD372AC0REURMY--AD372AC0RMRFMY---AD372AC0RMRDMY--AD372AC0RMREMY--AD372AC0RMRGMY",
-    "Headline": "Just Landed",
-    "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
-    "EventLabel": "CAT|Men|sportsperformance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/SEGMENT_HERO_996x500__men_hero_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/product-index/varsity/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "NA|Men|varsity|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/WINTERESSENTIALS-OCT17-M-N1.jpg",
-    "Exit Url": "/product-index/winteressentials/?csa=winteressentials",
-    "Headline": "Travel Essentials",
-    "Subline": "Stay one step ahead of the changing weather with next season’s first drop.",
-    "EventLabel": "TRE|Men|winteressentials|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N1_NEWARRIVALS_360x420_(1).jpg",
+    "Exit Url": "https://www.zalora.sg/men/havaianas/",
+    "Headline": "Havaianas",
+    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
+    "EventLabel": "bra|men|havaianasawseventeen|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SUPERDRY-OCT17-M-N2.jpg",
-    "Exit Url": "/men/superdry/?csa=superdryawseventeen",
-    "Headline": "Superdry",
-    "Subline": "Buy 3 and get 30% off, or better yet, buy 4 and get 35% off (selected items only).",
-    "EventLabel": "DSK bra|men|superdryawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__men_N2_sg.",
+    "Exit Url": "http://www.zalora.sg/product-index/travelessentials/",
+    "Headline": "Travel Basics From S$20",
+    "Subline": "Sort out all your getaway needs with essentials for the sun, sand and snow.",
+    "EventLabel": "TRE|Men|travelessentialspp|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NEWARRIVALS-OCT17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?age=0-31&csa=editorsnewarrivals",
-    "Headline": "Editor’s Picks",
-    "Subline": "New arrivals this good, they’ll go from our shortlist to your wishlist in no time.",
-    "EventLabel": "NA|Men|editorsnewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420__men_N4_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/product-index/tshirtsandshirts",
+    "Headline": "Shirts and Tees",
+    "Subline": "From casual tops to button-down pieces, perfecting your next outfit starts from here.",
+    "EventLabel": "TRE|Men|tshirtshirts|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/FORMALWEAR-OCT17-M-N4.jpg",
-    "Exit Url": "/product-index/formalwear/?csa=formalwear",
-    "Headline": "Daily Dapper",
-    "Subline": "Breeze through the day in formal wear that’s fit for both work and play.",
-    "EventLabel": "TRE|Men|formalwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420__men_N4_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/all-products/?brand=jaxon--zalora&price=24.90-100000",
+    "Headline": "Essentials From S$24.90",
+    "Subline": "Open the doors to new style options with a little help from JAXON and ZALORA.",
+    "EventLabel": "BRA|Men|rplessentials|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/FJALLRAVENKANKEN-OCT17-M-B1.jpg",
-    "Exit Url": "/men/fjallraven-kanken/?csa=adidasawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cms/cw47brands/B1-6_322x165_converse_(1).jpg",
+    "Exit Url": "https://www.zalora.sg/men/converse/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "DSK bra|men|fjallravenkankenawseventeen|all|na"
+    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/HUGOBOSS-OCT17-M-B1.jpg",
-    "Exit Url": "/men/all-products/?brand=boss--boss-green--boss-orange&csa=mhugobosslaunch",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(1).jpg",
+    "Exit Url": "https://www.zalora.sg/men/helly-hansen/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MC|mhugobosslaunch|ALL|NA|hugo-boss"
+    "EventLabel": "bra|men|hellyhansenawseventeen|all|na"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/ABERCROMBIEFITCH-OCT17-M-B1.jpg",
-    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombiefitch2awseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(2).jpg",
+    "Exit Url": "https://www.zalora.sg/men/odlo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|abercrombiefitch2awseventeen|ALL|NA"
+    "EventLabel": "bra|men|odloawseventeen|all|zap"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NORTHFACE-OCT17-M-B1.jpg",
-    "Exit Url": "/men/the-north-face/?csa=mspthenorthfacelaunch",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/adidas-Taiwan_B1-6_322x165_Men_(1).jpg",
+    "Exit Url": "https://www.zalora.sg/men/adidas/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MSP|mspthenorthfacelaunch|ALL|NA|the-north-face"
+    "EventLabel": "bra|men|adidaslaunchawseventeen|all|na"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/VANS-OCT17-M-B1.jpg",
-    "Exit Url": "/men/vans/?csa=msmspmbvans16",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_Herschel.jpg",
+    "Exit Url": "https://www.zalora.sg/men/herschel/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|MS-MSP-MB|msmspmbvans16|ALL|NA|vans"
+    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/REEBOK-OCT17-M-B1.jpg",
-    "Exit Url": "/reebok-shop/?from=men&csa=wspreebokss17",
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(7).jpg",
+    "Exit Url": "https://www.zalora.sg/topman-singapore/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|wsp|wspreebokss17|ALL|NA|reebok-shop"
+    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_polo-CW45.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=polos",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/clothing/jackets-coats/",
     "Headline": "NA",
-    "Subline": "SHOP POLO SHIRTS>",
-    "EventLabel": "CAT|Men|polos|ALL|NA"
+    "Subline": "SHOP JACKETS >",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Backpacks-CW45.jpg",
-    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/watches/",
     "Headline": "NA",
-    "Subline": "SHOP BACKPACKS >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "SHOP WATCHES >",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C3_375x500_Longpants-CW45.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C3_375x500_Longpants_men_C3_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/clothing/pants/",
     "Headline": "NA",
     "Subline": "SHOP PANTS >",
     "EventLabel": "CAT|Men|pants|ALL|NA"
@@ -343,147 +363,177 @@
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_WATCHES-CW45.jpg",
-    "Exit Url": "/men/watches/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Sports_men_N4_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/sports/",
     "Headline": "NA",
-    "Subline": "SHOP WATCHES>",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "SHOP SPORTS >",
+    "EventLabel": "CAT|Men|sports|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Jackets-CW45.jpg",
-    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Backpacks_men_C5_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/bags/backpacks/",
     "Headline": "NA",
-    "Subline": "SHOP JACKETS >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "SHOP BACKPACKS >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+  },
+  {
+    "Placement": "WOMEN MOBILE WEB",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw45/Nov17/NEWARRIVALS-OCT17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
-    "Headline": "The Dress List",
-    "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
-    "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/tre0women0partygirls0all0na_women_600x600_C1_sg.jpg",
+    "Exit Url": "http://www.zalora.sg/product-index/partygirls",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/RIVERISLAND-OCT17-W-N2.jpg",
-    "Exit Url": "/river-island-singapore/?csa=riverislandawseventeen",
-    "Headline": "River Island",
-    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
-    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420_(1).jpg",
+    "Exit Url": "https://www.zalora.sg/women/havaianas/",
+    "Headline": "Havaianas",
+    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
+    "EventLabel": "bra|women|havaianasawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/COTTONONBODY-OCT17-W-N2.jpg",
-    "Exit Url": "/women/cotton-on-body/?csa=cottononbodyawseventeen&sort=latest%20arrival",
-    "Headline": "Cotton On Body",
-    "Subline": "Activewear and intimates designed to suit your every mood.",
-    "EventLabel": "bra|women|cottononbodyawseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__women_N2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/sportswear/",
+    "Headline": "The Sports Edit",
+    "Subline": "Make this the starting point of your fitness journey and shop all the gear you need.",
+    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/1111-SINGLESDAY-NOV17-N2.jpg",
-    "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "Singles' Day Preview",
-    "Subline": "See what's coming this 11.11 and shop our early bird deals now.",
-    "EventLabel": "TRE|Women|singlesday|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_women_N3_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
+    "Headline": "Work Hard, Dress Smart",
+    "Subline": "Head-turning office wear for that much needed pick-me-up.",
+    "EventLabel": "NA|Women|novworkwear|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_SPORTS-W-CW45.jpg",
-    "Exit Url": "/women/sports/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_DRESSES__women_C1_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/clothing/dresses/",
     "Headline": "NA",
-    "Subline": "SHOP SPORTS >",
-    "EventLabel": "CAT|Women|sports|ALL|NA"
+    "Subline": "SHOP DRESSES >",
+    "EventLabel": "CAT|Women|dresses |ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_CLOTHING-W-CW45.jpg",
-    "Exit Url": "/women/clothing/?csa=clothing",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/shoes/heels/",
     "Headline": "NA",
-    "Subline": "SHOP CLOTHING >",
-    "EventLabel": "CAT|Women|clothing|ALL|NA"
+    "Subline": "SHOP HEELS >",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
+  },
+  {
+    "Placement": "MEN MOBILE WEB",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SPORTSPERFORMANCE-OCT17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/sports/all-products/?csa=sportsperformance&getSKU=AD372AA0RXM4MY--D372AA0RXM7MY--D372AA0RXM9MY--AD372AC0REUPMY--AD372AC0REURMY--AD372AC0RMRFMY---AD372AC0RMRDMY--AD372AC0RMREMY--AD372AC0RMRGMY",
-    "Headline": "Just Landed",
-    "Subline": "See what’s new and intriguing from brands like Converse, Jaxon, Timberland and more.",
-    "EventLabel": "CAT|Men|sportsperformance|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/na0men0varsity0all0na_men_600x600_hero_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/product-index/varsity/",
+    "Headline": "College Inspired",
+    "Subline": "Our varsity edit will take you from work to gym and everywhere in-between.",
+    "EventLabel": "NA|Men|varsity|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/WINTERESSENTIALS-OCT17-M-N2.jpg",
-    "Exit Url": "/product-index/winteressentials/?csa=winteressentials",
-    "Headline": "Travel Essentials",
-    "Subline": "Stay one step ahead of the changing weather with next season’s first drop.",
-    "EventLabel": "TRE|Men|winteressentials|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.sg/men/havaianas/",
+    "Headline": "Havaianas",
+    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
+    "EventLabel": "bra|men|havaianasawseventeen|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/SUPERDRY-OCT17-M-N2.jpg",
-    "Exit Url": "/men/superdry/?csa=superdryawseventeen",
-    "Headline": "Superdry",
-    "Subline": "Buy 3 and get 30% off, or better yet, buy 4 and get 35% off (selected items only).",
-    "EventLabel": "DSK bra|men|superdryawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cw47/N2_NEWARRIVALS_620x420__women_N2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/women/sportswear/",
+    "Headline": "The Sports Edit",
+    "Subline": "Make this the starting point of your fitness journey and shop all the gear you need.",
+    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/1111-SINGLESDAY-NOV17-N2.jpg",
-    "Exit Url": "/singles-day/?csa=singlesday&from=men",
-    "Headline": "Singles' Day Preview",
-    "Subline": "See what's coming this 11.11 and shop our early bird deals now.",
-    "EventLabel": "TRE|Men|singlesday|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420__men_N3_sg_(2).jpg",
+    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
+    "Headline": "Work Hard, Dress Smart",
+    "Subline": "Head-turning office wear for that much needed pick-me-up.",
+    "EventLabel": "NA|Women|novworkwear|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_polo-CW45.jpg",
-    "Exit Url": "/men/clothing/polos/?csa=polos",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/clothing/jackets-coats/",
     "Headline": "NA",
-    "Subline": "SHOP POLO SHIRTS>",
-    "EventLabel": "CAT|Men|polos|ALL|NA"
+    "Subline": "SHOP JACKETS >",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/C1245_300x198_Longpants-CW45.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_sg.jpg",
+    "Exit Url": "https://www.zalora.sg/men/watches/",
     "Headline": "NA",
-    "Subline": "SHOP PANTS >",
-    "EventLabel": "CAT|Men|pants|ALL|NA"
+    "Subline": "SHOP WATCHES >",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
+  },
+  {
+    "Placement": "UNISEX HOMEPAGE",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/singlesday17/SEGMENT_HERO_996x500-desktop-homepage-splash-sg.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/onsitefashionability/Desktop_996x500-homepagewtext.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -493,270 +543,280 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B1-1111.jpg",
-    "Exit Url": "/men/denim/?discount=20-60&csa=denimuptosixty",
-    "Headline": "Denim Up to 60% Off",
-    "Subline": "Seasons may change, but denim's quality and appeal are here to stay.",
-    "EventLabel": "SAL|Men|denimuptosixty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BACKTOBASIC-OCT17-M-SEGMENT-HEADER.jpg",
+    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
+    "Headline": "Back to Basics",
+    "Subline": "uture-proof your wardrobe with these timeless essentials.",
+    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B2-1111.jpg",
-    "Exit Url": "/women/clothing/?price=0-29.9&csa=apparelessentials1111",
-    "Headline": "Daily Essentials Under S$29.90",
-    "Subline": "From Cotton On, Factorie, Supre and more",
-    "EventLabel": "SAL|Women|apparelessentials1111|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NEWARRIVALS-OCT17-W-DROPDOWN-BANNER.jpg",
+    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
+    "Headline": "The Dress List",
+    "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
+    "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/1111/Nov17/HOMEPAGE-DESKTOP-B3-1111.jpg",
-    "Exit Url": "/women/watches/?discount=10-50&csa=watchesuptofifty",
-    "Headline": "Watches Up to 50% Off",
-    "Subline": "You deserve a new watch for any time of the day, any day of the week.",
-    "EventLabel": "SAL|Women|watchesuptofifty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/PARTYGIRLS-OCT17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/product-index/partygirls/?csa=partygirls",
+    "Headline": "It’s Party Time",
+    "Subline": "Get heads turning and rule your next night out.",
+    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+  },
+  {
+    "Placement": "STOP HERE",
+    "Gender": "",
+    "Device": "",
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wb1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/mobile_brands_Tokichoi.gif",
-    "Exit Url": "/women/tokichoi/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Women|tokichoi2ssseventeen|ALL|ZAP"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wb2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_rayban.gif",
-    "Exit Url": "/women/ray-ban/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|NA|wrayban|ALL|maxp|rayban"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wb3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/Evergage/mobile_brands_topshop.gif",
-    "Exit Url": "/women/topshop/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|WSP|wtopshop|ALL|maxp|topshop"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "wb4",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_esprit.gif",
-    "Exit Url": "/women/esprit/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|NA|wesprit|ALL|maxp|esprit"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mb1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_rayban.gif",
-    "Exit Url": "/men/ray-ban/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL-BRA|WA|mrayban|ALL|maxp|rayban"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mb2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_burtonmenwear.gif",
-    "Exit Url": "/men/burton-menswear-london/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL-BRA|NA|mburton|ALL|maxp|burton"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mb3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_mango-man.gif",
-    "Exit Url": "/men/mango-man/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL-BRA|NA|mmangoman|ALL|maxp|mangoman"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "mb4",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_topman.gif",
-    "Exit Url": "/men/topman/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "SAL-BRA|MC|mtopman|ALL|maxp|topman"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "testbug",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Jul2017/N2_NEWARRIVALS_620x420-everythingbelow20-men.jpg",
-    "Exit Url": "/beta-erv/",
-    "Headline": "Test $10 against test $150",
-    "Subline": "Test $10 against test $1500 again",
-    "EventLabel": "test|MA|test$symbolbug|ALL"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-full-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
-    "Subline": "#000",
-    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
-    "Subline": "#FFF",
-    "EventLabel": "TRE|Women|singlesday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-homepage",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/all-products/?cmpgn_one=payday",
-    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|unisex|payday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-full-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
-    "Subline": "#FFF",
-    "EventLabel": "TRE|Women|singlesday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-full-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday",
-    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
-    "Subline": "#FFF",
-    "EventLabel": "TRE|Women|singlesday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Women|womenpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-full-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffab89",
-    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Men|menpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday&from=men",
-    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
-    "Subline": "#FFF",
-    "EventLabel": "TRE|Men|singlesday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffab89",
-    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Men|menpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-full-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffab89",
-    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Men|menpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#8f2c4d",
-    "Exit Url": "/singles-day/?csa=singlesday&from=men",
-    "Headline": "SINGLES' DAY: SEE THE DEALS AND SHOP ALL EARLY BIRD SPECIALS NOW >",
-    "Subline": "#FFF",
-    "EventLabel": "TRE|Men|singlesday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   },
   {
     "Placement": "skinny-half-right-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffab89",
-    "Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-    "Headline": "18% OFF: USE CODE “OCTPAYDAY” (MIN S$80, SELECTED ITEMS ONLY) >",
-    "Subline": "#000",
-    "EventLabel": "SAL|Men|menpayday|ALL|NA"
+    "Image": "",
+    "Exit Url": "",
+    "Headline": "",
+    "Subline": "",
+    "EventLabel": ""
   }
 ]
