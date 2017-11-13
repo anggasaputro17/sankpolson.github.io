@@ -103,21 +103,21 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-W-B1.jpg",
-    "Exit Url": "/women/daniel-wellington/?csa=danielwellington",
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-W-B1.jpg",
+    "Exit Url": "/women/odlo/?csa=odlo",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|danielwellington|ALL|NA"
+    "EventLabel": "BRA|Women|odlo|ALL|ZAP"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/nike/?csa=nike",
+    "Image": "https://static-my.zacdn.com/cms/dy/THEFIFTHLABEL-OCT17-B1.jpg",
+    "Exit Url": "/women/the-fifth-label//?csa=thefifthlabel",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|nike|ALL|NA"
+    "EventLabel": "BRA|Women|thefifthlabel|ALL|ZAP"
   },
   {
     "Placement": "wfb6",
@@ -273,11 +273,11 @@
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-B1.jpg",
-    "Exit Url": "/men/topman/?csa=topman",
+    "Image": "https://static-my.zacdn.com/cms/dy/ODLO-OCT17-ZAP-B1.jpg",
+    "Exit Url": "/men/odlo/?csa=odlo",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|topman|ALL|NA"
+    "EventLabel": "BRA|Men|odlo|ALL|NA"
   },
   {
     "Placement": "mfb4",
