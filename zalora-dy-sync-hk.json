@@ -566,9 +566,9 @@
     "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_DRESSES_women_wc1_hk.jpg",
     "ExitUrl": "https://www.zalora.com.hk/women/clothing/dresses/",
     "EventLabel": "CAT|Women|dresses |ALL|NA",
-    "ENHeadline": "N/A",
+    "ENHeadline": "SHOP DRESSES >",
     "ENSubline": "SHOP DRESSES >",
-    "ZHHeadline": "N/A",
+    "ZHHeadline": "選購連身裙 >",
     "ZHSubline": "選購連身裙 >"
   },
   {
@@ -579,9 +579,9 @@
     "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_wc2_hk.jpg",
     "ExitUrl": "https://www.zalora.com.hk/women/shoes/heels/",
     "EventLabel": "CAT|Women|heels|ALL|NA",
-    "ENHeadline": "N/A",
+    "ENHeadline": "SHOP HEELS >",
     "ENSubline": "SHOP HEELS >",
-    "ZHHeadline": "N/A",
+    "ZHHeadline": "選購高跟鞋 >",
     "ZHSubline": "選購高跟鞋 >"
   },
   {
@@ -653,26 +653,26 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_sg.jpg",
-    "ZHImageUrl": "[MEDIA_BASE_URL]/cms/cw47/C1245_300x198_Jackets_men_C1_hk.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_hk.jpg",
+    "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_hk.jpg",
     "ExitUrl": "https://www.zalora.com.hk/men/clothing/jackets-coats/",
     "EventLabel": "CAT|Men|jackets|ALL|NA",
-    "ENHeadline": "N/A",
+    "ENHeadline": "SHOP JACKETS >",
     "ENSubline": "SHOP JACKETS >",
-    "ZHHeadline": "N/A",
+    "ZHHeadline": "選購外套 >",
     "ZHSubline": "選購外套 >"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_sg.jpg",
+    "ENImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_hk.jpg",
     "ZHImageUrl": "https://static-hk.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_hk.jpg",
     "ExitUrl": "https://www.zalora.com.hk/men/watches/",
     "EventLabel": "CAT|Men|watches|ALL|NA",
-    "ENHeadline": "N/A",
+    "ENHeadline": "SHOP WATCHES >",
     "ENSubline": "SHOP WATCHES >",
-    "ZHHeadline": "N/A",
+    "ZHHeadline": "選購手錶 >",
     "ZHSubline": "選購手錶 >"
   },
   {
