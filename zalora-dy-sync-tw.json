@@ -468,6 +468,17 @@
     "Subline": "穿上學院運動風服飾，各種場合都是你的伸展台",
     "EventLabel": "NA|Men|varsity|ALL|NA"
   },
+    {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420__menbenetton.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/united-colors-of-benetton/",
+    "Headline": "United Colors of Benetton",
+    "Subline": "搶購最新流行單品，輕鬆駕馭街頭時尚",
+    "EventLabel": "bra|men|unitedcolorsofbenetton3awseventeen|all|zap"
+  },
+  {
   {
     "Placement": "mn2",
     "Gender": "men",
