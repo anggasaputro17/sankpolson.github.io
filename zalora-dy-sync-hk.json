@@ -913,14 +913,14 @@
     "Placement": "skinny-full-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "#FFC5D5",
-    "ZHImageUrl": "#FFC5D5",
+    "ENImageUrl": "##ee7216",
+    "ZHImageUrl": "##ee7216",
     "ExitUrl": "/singles-day/?csa=singlesday",
     "EventLabel": "pro|women|globalskinny|all|na",
     "ENHeadline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "非常感謝您於此次11.11在ZALORA網站購物!",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   },
   {
     "Placement": "skinny-half-left-women-global",
@@ -952,14 +952,14 @@
     "Placement": "skinny-full-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "ENImageUrl": "#FFC5D5",
-    "ZHImageUrl": "#FFC5D5",
+    "ENImageUrl": "##ee7216",
+    "ZHImageUrl": "##ee7216",
     "ExitUrl": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
     "EventLabel": "pro|women|segmentskinny|all|na",
     "ENHeadline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "非常感謝您於此次11.11在ZALORA網站購物!",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   },
   {
     "Placement": "skinny-half-left-women-segment",
@@ -991,14 +991,14 @@
     "Placement": "skinny-full-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "#ffab89",
-    "ZHImageUrl": "#ffab89",
+    "ENImageUrl": "##ee7216",
+    "ZHImageUrl": "##ee7216",
     "ExitUrl": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
     "EventLabel": "pro|men|globalskinny|all|na",
     "ENHeadline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "非常感謝您於此次11.11在ZALORA網站購物!",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   },
   {
     "Placement": "skinny-half-left-men-global",
@@ -1030,14 +1030,14 @@
     "Placement": "skinny-full-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "ENImageUrl": "#ffab89",
-    "ZHImageUrl": "#ffab89",
+    "ENImageUrl": "##ee7216",
+    "ZHImageUrl": "##ee7216",
     "ExitUrl": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
     "EventLabel": "pro|men|segmentskinny|all|na",
     "ENHeadline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "非常感謝您於此次11.11在ZALORA網站購物!",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   },
   {
     "Placement": "skinny-half-left-men-segment",
