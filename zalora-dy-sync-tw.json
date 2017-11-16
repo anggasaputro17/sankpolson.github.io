@@ -656,7 +656,7 @@
 		"Image": "#000",
 		"Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
 		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
-		"Subline": "#000",
+		"Subline": "#FFF",
 		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
 	},
 	{
@@ -686,7 +686,7 @@
 		"Image": "#000",
 		"Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
 		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
-		"Subline": "#000",
+		"Subline": "#FFF",
 		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
 	},
 	{
@@ -716,7 +716,7 @@
 		"Image": "#000",
 		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
 		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
-		"Subline": "#000",
+		"Subline": "#FFF",
 		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	},
 	{
@@ -746,7 +746,7 @@
 		"Image": "#000",
 		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
 		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
-		"Subline": "#000",
+		"Subline": "#FFF",
 		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	}
 ]
