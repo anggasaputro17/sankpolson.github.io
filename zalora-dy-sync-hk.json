@@ -1022,9 +1022,9 @@
     "ExitUrl": "/men/adidas/?s=originals&classifier=false",
     "EventLabel": "BRA|Men|Adidas|ALL|NA",
     "ENHeadline": "SHOP THE LATEST ADIDAS ORIGINALS' COLLECTION HERE >",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "自己生活、自己掌握﹕立即選購最新ADIDAS ORIGINALS系列商品>",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   },
   {
     "Placement": "skinny-full-men-segment",
@@ -1061,8 +1061,8 @@
     "ExitUrl": "/men/adidas/?s=originals&classifier=false",
     "EventLabel": "BRA|Men|Adidas|ALL|NA",
     "ENHeadline": "SHOP THE LATEST ADIDAS ORIGINALS' COLLECTION HERE >",
-    "ENSubline": "#000",
+    "ENSubline": "#FFF",
     "ZHHeadline": "自己生活、自己掌握﹕立即選購最新ADIDAS ORIGINALS系列商品>",
-    "ZHSubline": "#000"
+    "ZHSubline": "#FFF"
   }
 ]
