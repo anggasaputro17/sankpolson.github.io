@@ -643,9 +643,9 @@
 		"Placement": "skinny-half-left-women-global",
 		"Gender": "women",
 		"Device": "desktop",
-		"Image": "#6bbab7",
+		"Image": "#ffb202",
 		"Exit Url": "/singles-day/?csa=singlesday",
-		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
+		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
 	},
@@ -653,11 +653,11 @@
 		"Placement": "skinny-half-right-women-global",
 		"Gender": "women",
 		"Device": "desktop",
-		"Image": "#F2E6F7",
-		"Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-		"Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
+		"Image": "#000",
+		"Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
+		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
 		"Subline": "#000",
-		"EventLabel": "SAL|Women|womenpayday|ALL|NA"
+		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-women-segment",
@@ -673,9 +673,9 @@
 		"Placement": "skinny-half-left-women-segment",
 		"Gender": "women",
 		"Device": "desktop",
-		"Image": "#6bbab7",
+		"Image": "#ffb202",
 		"Exit Url": "/singles-day/?csa=singlesday",
-		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
+		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
 	},
@@ -683,11 +683,11 @@
 		"Placement": "skinny-half-right-women-segment",
 		"Gender": "women",
 		"Device": "desktop",
-		"Image": "#F2E6F7",
-		"Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-		"Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
+		"Image": "#000",
+		"Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
+		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
 		"Subline": "#000",
-		"EventLabel": "SAL|Women|womenpayday|ALL|NA"
+		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-men-global",
@@ -703,9 +703,9 @@
 		"Placement": "skinny-half-left-men-global",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#99b2d6",
+		"Image": "#ffb202",
 		"Exit Url": "/singles-day/?from=men&csa=singlesday",
-		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
+		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
 	},
@@ -713,11 +713,11 @@
 		"Placement": "skinny-half-right-men-global",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#ffb202",
-		"Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-		"Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
+		"Image": "#000",
+		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
+		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
 		"Subline": "#000",
-		"EventLabel": "SAL|Men|menpayday|ALL|NA"
+		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-men-segment",
@@ -733,9 +733,9 @@
 		"Placement": "skinny-half-left-men-segment",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#99b2d6",
+		"Image": "#ffb202",
 		"Exit Url": "/singles-day/?from=men&csa=singlesday",
-		"Headline": "光棍節優惠：立即入手享受早鳥優惠 ",
+		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >,
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
 	},
@@ -743,10 +743,10 @@
 		"Placement": "skinny-half-right-men-segment",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#ffb202",
-		"Exit Url": "/men/all-products/?cmpgn_one=payday&csa=menpayday",
-		"Headline": "輸入優惠碼OCTPAYDAY享82折優惠（需購滿NT$1700，限指定商品）",
+		"Image": "#000",
+		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
+		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
 		"Subline": "#000",
-		"EventLabel": "SAL|Men|menpayday|ALL|NA"
+		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	}
 ]
