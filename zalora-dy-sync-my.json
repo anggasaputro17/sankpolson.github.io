@@ -33,21 +33,21 @@
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MUSTHAVEDRESSES-NOV17-W-N2.jpg",
-    "Exit Url": "/women/new-products/clothing/dresses/?csa=dressesmusthave",
-    "Headline": "Must-have Dresses",
-    "Subline": "Can't go wrong with a new dress or two",
-    "EventLabel": "CAT|Women|musthavedresses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/STACKUPANDSAVE-BUY2GET20OFF-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=rplbuy2get20offcr&csa=stackupandsavebuytwogettwenty",
+    "Headline": "Stack up and save",
+    "Subline": "Buy 2 get 20% off",
+    "EventLabel": "SAL|Women|stackupandsavebuytwogettwenty|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N1.jpg",
-    "Exit Url": "/women/new-products/sport/?csa=sportsnewarrivals",
-    "Headline": "Sports New Arrivals",
-    "Subline": "Where style meets functionality",
-    "EventLabel": "CAT|Women|sportsnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SAMSONITELAUNCH-NOV17-W-N1.jpg",
+    "Exit Url": "/women/all-products/?brand=american-tourister--samsonite--samsonite-red&csa=samsonitelaunch",
+    "Headline": "Samsonite, Samsonite Red & American Tourister",
+    "Subline": "Shop the essential travel backpacks",
+    "EventLabel": "BRA|Women|Samsonitelaunch|ALL|NA"
   },
   {
     "Placement": "wcu3",
@@ -223,11 +223,11 @@
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SHIRTSFOROCCASION-M-NOV17-N1.jpg",
-    "Exit Url": "/men/clothing/shirts/?age=0-60&csa=shirtsforoccasion",
-    "Headline": "Shirts for Every Occasion",
-    "Subline": "Shop our latest arrivals now",
-    "EventLabel": "CAT|MEN|shirtsforoccasion|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SAMSONITELAUNCH-NOV17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?brand=american-tourister--samsonite--samsonite-red&csa=samsonitelaunch",
+    "Headline": "Samsonite, Samsonite Red & American Tourister",
+    "Subline": "Shop the essential travel backpacks",
+    "EventLabel": "BRA|MEN|Samsonitelaunch|ALL|NA"
   },
   {
     "Placement": "mcu3",
