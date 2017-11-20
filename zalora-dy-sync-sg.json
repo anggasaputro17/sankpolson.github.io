@@ -33,11 +33,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__women_N2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/sportswear/",
-    "Headline": "The Sports Edit",
-    "Subline": "Make this the starting point of your fitness journey and shop all the gear you need.",
-    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
+    "Exit Url": "https://www.zalora.sg/women/hello-sweety/?csa=hellosweety2awseventeen",
+    "Headline": "Hello Sweety",
+    "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
+    "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
@@ -63,11 +63,11 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/ElisaLitz_B1-6_322x165.jpg",
-    "Exit Url": "https://www.zalora.sg/women/elisa-litz/",
+    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/ALDO-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/aldo/?csa=aldoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|elisalitzawseventeen|all|zap"
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
@@ -413,11 +413,11 @@
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__women_N2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/sportswear/",
-    "Headline": "The Sports Edit",
-    "Subline": "Make this the starting point of your fitness journey and shop all the gear you need.",
-    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
+    "Exit Url": "https://www.zalora.sg/women/hello-sweety/?csa=hellosweety2awseventeen",
+    "Headline": "Hello Sweety",
+    "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
+    "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
