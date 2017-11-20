@@ -12,21 +12,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/N1_NEWARRIVALS_360x420_womenbenetton.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/united-colors-of-benetton/",
-    "Headline": "United Colors of Benetton",
-    "Subline": "搶購最新流行單品，輕鬆駕馭街頭時尚",
-    "EventLabel": "bra|women|unitedcolorsofbenetton3awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N1w_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/sisley/?csa=sisley4awseventeen",
+    "Headline": "Sisley",
+    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
+    "EventLabel": "bra|women|sisley4awseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420_women_desktopmobileweb_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/sports/?gender=&dir=desc&sort=latest%20arrival&category_id=4288&enable_visual_sort=1",
-    "Headline": "精選運動服飾",
-    "Subline": "選購運動服飾，開展健康運動生活",
-    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N2w_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/all-products/sk-ii/?csa=skiiawseventeen",
+    "Headline": "SK-II",
+    "Subline": "打造晶瑩剔透的肌膚，留住自然美",
+    "EventLabel": "bra|women|skiiawseventeen|all|na"
   },
   {
     "Placement": "wn3",
@@ -212,21 +212,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420__womenbenetton.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/united-colors-of-benetton/",
-    "Headline": "United Colors of Benetton",
-    "Subline": "搶購最新流行單品，輕鬆駕馭街頭時尚",
-    "EventLabel": "bra|women|unitedcolorsofbenetton3awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N12w_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/sisley/?csa=sisley4awseventeen",
+    "Headline": "Sisley",
+    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
+    "EventLabel": "bra|women|sisley4awseventeen|all|zap"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420_women_desktopmobileweb_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/sports/?gender=&dir=desc&sort=latest%20arrival&category_id=4288&enable_visual_sort=1",
-    "Headline": "精選運動服飾",
-    "Subline": "選購運動服飾，開展健康運動生活",
-    "EventLabel": "CAT|Women|sportsstatic|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N2w_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/all-products/sk-ii/?csa=skiiawseventeen",
+    "Headline": "SK-II",
+    "Subline": "打造晶瑩剔透的肌膚，留住自然美",
+    "EventLabel": "bra|women|skiiawseventeen|all|na"
   },
   {
     "Placement": "wn3",
@@ -312,11 +312,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/benetN1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/united-colors-of-benetton/",
-    "Headline": "United Colors of Benetton",
-    "Subline": "搶購最新流行單品，輕鬆駕馭街頭時尚",
-    "EventLabel": "bra|men|unitedcolorsofbenetton3awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N1m_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/sisley/?csa=sisley4awseventeen",
+    "Headline": "Sisley",
+    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
+    "EventLabel": "bra|men|sisley4awseventeen|all|zap"
   },
   {
     "Placement": "mn2",
@@ -472,11 +472,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420__menbenetton.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/united-colors-of-benetton/",
-    "Headline": "United Colors of Benetton",
-    "Subline": "搶購最新流行單品，輕鬆駕馭街頭時尚",
-    "EventLabel": "bra|men|unitedcolorsofbenetton3awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N12m_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/sisley/?csa=sisley4awseventeen",
+    "Headline": "Sisley",
+    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
+    "EventLabel": "bra|men|sisley4awseventeen|all|zap"
   },
   
   {
