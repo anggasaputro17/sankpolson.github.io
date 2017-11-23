@@ -644,8 +644,8 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/?csa=singlesday",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/women/shoes/?price=400-10000&getSKU=RU506SH90OCZMY--D9F83SH8153828GS--BF118SHD2F2CAFGS--F22E6SHBB89A4AGS--F2711SH40B6582GS--84897SHC5B773CGS",
+		"Headline": "鞋子NT$400起，馬上入手打造時尚造型 >",
 		"Subline": "#FFF",
 		"EventLabel": "sal|women|singlesday|all|na"
 	},
@@ -654,8 +654,8 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "#000",
-		"Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
-		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
+		"Exit Url": "/women/clothing/dresses/?discount=20-60",
+		"Headline": " 精選洋裝低至4折>",
 		"Subline": "#FFF",
 		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
 	},
