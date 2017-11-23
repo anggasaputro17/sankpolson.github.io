@@ -203,7 +203,7 @@
     "ExitUrl": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "EventLabel": "CAT|Women|skirts|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP SKIRTS UP TO 70% OFF >",
+    "ENSubline": "SKIRTS UP TO 70% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "半截裙低至3折 >"
   },
@@ -216,7 +216,7 @@
     "ExitUrl": "/women/clothing/playsuits-jumpsuits/?discount=0-50&csa=playsuits",
     "EventLabel": "CAT|Women|playsuits|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP PLAYSUITS UP TO 50% OFF >",
+    "ENSubline": "PLAYSUITS UP TO 50% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "連身褲低至5折>"
   },
@@ -229,7 +229,7 @@
     "ExitUrl": "/women/sports/all-products/?discount=20-50&csa=sports",
     "EventLabel": "CAT|Women|sports|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP SPORTS UP TO 50% OFF >",
+    "ENSubline": "SPORTS UP TO 50% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "運動服飾>"
   },
@@ -242,7 +242,7 @@
     "ExitUrl": "/women/accessories/eyewear/?discount=0-30&csa=accessories",
     "EventLabel": "CAT|Women|accessories|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP SUNGLASSES UP TO 30% OFF >",
+    "ENSubline": "SUNGLASSES UP TO 30% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "太陽眼鏡低至7折>"
   },
@@ -255,7 +255,7 @@
     "ExitUrl": "/women/bags/backpacks/?discount=20-50&csa=backpacks",
     "EventLabel": "CAT|Women|backpacks|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP BACKPACKS UP TO 50% OFF>",
+    "ENSubline": "BACKPACKS UP TO 50% OFF>",
     "ZHHeadline": "NA",
     "ZHSubline": "背囊低至5折 >"
   },
@@ -411,7 +411,7 @@
     "ExitUrl": "/men/clothing/shirt/?discount=20-70&csa=shirts",
     "EventLabel": "CAT|Men|shirts|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP SHIRTS UP TO 70% OFF >",
+    "ENSubline": "SHIRTS UP TO 70% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "恤衫低至3折 >"
   },
@@ -424,7 +424,7 @@
     "ExitUrl": "/men/bags/backpack/?discount=20-50&csa=backpacks",
     "EventLabel": "CAT|Men|backpacks|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP BACKPACKS UP TO 50% OFF >",
+    "ENSubline": "BACKPACKS UP TO 50% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "背囊低至5折 >"
   },
@@ -437,7 +437,7 @@
     "ExitUrl": "/men/clothing/pants/?discount=10-50&csa=pants",
     "EventLabel": "CAT|Men|pants|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP PANTS UP TO 50% OFF >",
+    "ENSubline": "PANTS UP TO 50% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "長褲低至5折 >"
   },
@@ -463,7 +463,7 @@
     "ExitUrl": "/men/accessories/?discount=20-60&csa=accessories",
     "EventLabel": "CAT|Men|accessories|ALL|NA",
     "ENHeadline": "NA",
-    "ENSubline": "SHOP ACCESSORIES UP TO 60% OFF >",
+    "ENSubline": "ACCESSORIES UP TO 60% OFF >",
     "ZHHeadline": "NA",
     "ZHSubline": "飾物低至4折 >"
   },
@@ -527,8 +527,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "EventLabel": "CAT|Women|skirts|ALL|NA",
-    "ENHeadline": "SHOP SKIRTS UP TO 70% OFF >",
-    "ENSubline": "SHOP SKIRTS UP TO 70% OFF >",
+    "ENHeadline": "SKIRTS UP TO 70% OFF >",
+    "ENSubline": "SKIRTS UP TO 70% OFF >",
     "ZHHeadline": "半截裙低至3折 >",
     "ZHSubline": "半截裙低至3折 >"
   },
@@ -540,8 +540,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/women/sports/all-products/?discount=20-50&csa=sports",
     "EventLabel": "CAT|Women|sports|ALL|NA",
-    "ENHeadline": "SHOP SPORTS UP TO 50% OFF >",
-    "ENSubline": "SHOP SPORTS UP TO 50% OFF >",
+    "ENHeadline": "SPORTS UP TO 50% OFF >",
+    "ENSubline": "SPORTS UP TO 50% OFF >",
     "ZHHeadline": "運動服飾>",
     "ZHSubline": "運動服飾>"
   },
@@ -605,8 +605,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/men/clothing/shirt/?discount=20-70&csa=shirts",
     "EventLabel": "CAT|Men|shirts|ALL|NA",
-    "ENHeadline": "SHOP SHIRTS UP TO 70% OFF >",
-    "ENSubline": "SHOP SHIRTS UP TO 70% OFF >",
+    "ENHeadline": "SHIRTS UP TO 70% OFF >",
+    "ENSubline": "SHIRTS UP TO 70% OFF >",
     "ZHHeadline": "恤衫低至3折 >",
     "ZHSubline": "恤衫低至3折 >"
   },
@@ -618,8 +618,8 @@
     "ZHImageUrl": "NA",
     "ExitUrl": "/men/clothing/pants/?discount=10-50&csa=pants",
     "EventLabel": "CAT|Men|pants|ALL|NA",
-    "ENHeadline": "SHOP PANTS UP TO 50% OFF >",
-    "ENSubline": "SHOP PANTS UP TO 50% OFF >",
+    "ENHeadline": "PANTS UP TO 50% OFF >",
+    "ENSubline": "PANTS UP TO 50% OFF >",
     "ZHHeadline": "長褲低至5折 >",
     "ZHSubline": "長褲低至5折 >"
   },
