@@ -1,12 +1,13 @@
-[{
+[
+  {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/SEGMENT_HERO_996x500_women_herodesktop_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/all-products/?cmpgn_one=winterwear1111",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/SEGMENT_HERO_996x500herow.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Women|Winterwear|ALL|NA"
+    "EventLabel": "SAL|Women|triplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -32,21 +33,21 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_women_n3mobileweb_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/office-wear/",
-    "Headline": "職場衣Q",
-    "Subline": "嚴選上班服飾讓你精準掌握「辦公時尚」",
-    "EventLabel": "NA|Women|novworkwear|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N3w_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
+    "Headline": "買3件7折",
+    "Subline": "Miss Selfridge、Topshop及更多人氣品牌（限指定商品）",
+    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420_women_N4_desktop_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/new-products/clothing/?getSKU=HO422AA0S3ALMY--MI665AA0RZH2MY",
-    "Headline": "11月新品",
-    "Subline": "搶先一覽時尚新品",
-    "EventLabel": "NA|Women|nonewarrivals|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N4w_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/all-products/?brand=zalia--something-borrowed--zalora--velvet&price=250-100000&csa=RPLPP",
+    "Headline": "自家商品NT$250起",
+    "Subline": "ZALORA獨家優惠，不容錯過！",
+    "EventLabel": "SAL|Women|RPLPP|ALL|NA"
   },
 	{
 		"Placement": "wcu1",
@@ -152,61 +153,61 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_DRESSES_C1_women_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/clothing/dresses/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0women0skirts0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "Headline": "NA",
-    "Subline": "選購洋裝 >",
-    "EventLabel": "CAT|Women|dresses |ALL|NA"
+    "Subline": "裙子低至3折 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0women0playsuits0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?discount=0-50&csa=playsuits",
     "Headline": "NA",
-    "Subline": "選購高跟鞋 >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "連身褲低至5折>",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C3_375x500_BEAUTY_women_c3_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/beauty/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C3_375x500_SPORTS.jpg",
+    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
     "Headline": "NA",
-    "Subline": "選購美容產品 >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "運動裝備>",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_SKIRTS_c4_women_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/clothing/skirts/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C1245_300x198_SUNGLASSES.jpg",
+    "Exit Url": "/women/accessories/sunglasses/?discount=0-30&csa=sunglasses",
     "Headline": "NA",
-    "Subline": "選購裙子 >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "太陽眼鏡低至7折>",
+    "EventLabel": "CAT|Women|sunglasses|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_TOPS.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/clothing/fashion-tops/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0women0backpacks0all0na_women_300x198.jpg",
+    "Exit Url": "/women/bags/backpacks/?discount=20-50&csa=backpacks",
     "Headline": "NA",
-    "Subline": "選購上衣>",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "背包低至5折 >",
+    "EventLabel": "CAT|Women|backpacks|ALL|NA"
   },
- {
+  {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/SEGMENT_HERO_600x600_women_heromobileweb_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/all-products/?cmpgn_one=winterwear1111",
-    "Headline": "冬之旅行",
-    "Subline": "冬日時尚即將啟程",
-    "EventLabel": "NA|Women|Winterwear|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/sal0women0triplevc0all0na_women_600x600.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Women|triplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
@@ -228,35 +229,35 @@
     "Subline": "打造晶瑩剔透的肌膚，留住自然美",
     "EventLabel": "bra|women|skiiawseventeen|all|na"
   },
-  {
+ {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_women_n3mobileweb_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/office-wear/",
-    "Headline": "職場衣Q",
-    "Subline": "嚴選上班服飾讓你精準掌握「辦公時尚」",
-    "EventLabel": "NA|Women|novworkwear|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N3w_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
+    "Headline": "買3件7折",
+    "Subline": "Miss Selfridge、Topshop及更多人氣品牌（限指定商品）",
+    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
   },
- {
+  {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_DRESSES_C1_women_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/clothing/dresses/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0women0skirts0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "Headline": "NA",
-    "Subline": "選購洋裝 >",
-    "EventLabel": "CAT|Women|dresses |ALL|NA"
+    "Subline": "裙子低至3折 >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/shoes/heels/",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C1245_300x198_SPORTS.jpg",
+    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
     "Headline": "NA",
-    "Subline": "選購高跟鞋 >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "運動裝備>",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
 	{
 		"Placement": "wb1",
@@ -298,15 +299,15 @@
 		"Subline": "NA",
 		"EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
 	},
-	 {
+ {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/SEGMENT_HERO_996x500_men_herodesktop_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/product-index/varsity/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/SEGMENT_HERO_996x500herom.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Men|varsity|ALL|NA"
+    "EventLabel": "SAL|Men|triplevc|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -322,31 +323,31 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420_men_n2_tw.jpg",
-    "Exit Url": "/product-index/travelessentials/?csa=travelessentialspp",
-    "Headline": "旅行裝備NT$450起",
-    "Subline": "準備好四季旅行裝備，隨時出走去！",
-    "EventLabel": "TRE|Men|travelessentialspp|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N2m_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=billabong--burton-menswear-london--calvin-klein--converse--fjallraven-kanken--herschel--hollister--new-balance--superdry--topman&csa=bbmensbfcm",
+    "Headline": "精選品牌8折",
+    "Subline": "選購Topman和其他精選品牌，輸入優惠碼BB8（需購滿NT$1800，限指定商品）",
+    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_men_n3_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/product-index/tshirtsandshirts",
-    "Headline": "襯衫&T恤",
-    "Subline": "從頭到腳的完美穿搭，在此開始",
-    "EventLabel": "TRE|Men|tshirtshirts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N3m_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-800&csa=bottoms",
+    "Headline": "褲裝NT$800以下",
+    "Subline": "找到對的上衣？再來一件褲裝就完美了！",
+    "EventLabel": "SAL|Men|bottoms|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420_men_n4_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/all-products/?brand=jaxon--zalora&price=550-100000",
-    "Headline": "必備單品NT$550起",
-    "Subline": "讓JAXON和ZALORA打造您的新造型",
-    "EventLabel": "BRA|Men|rplessentials|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N4m_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=600-10000&csa=sneakers",
+    "Headline": "休閒鞋NT$600起",
+    "Subline": "精彩的旅程，從一雙新鞋開始",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   },
 {
     "Placement": "mfb1",
@@ -408,65 +409,65 @@
     "Subline": "NA",
     "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
   },
-	 {
+  {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_Jackets_c1_men_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/clothing/jackets-and-coats/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0men0shirts0all0namens_men_300x198.jpg",
+    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
     "Headline": "NA",
-    "Subline": "選購外套 >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "襯衫低至3折 >",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_WATCHES_c2_men_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/watches/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0men0backpacks0all0na_men_300x198.jpg",
+    "Exit Url": "/men/bags/backpacks/?discount=0-50&csa=backpacks",
     "Headline": "NA",
-    "Subline": "選購手錶 >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "背包低至5折 >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C3_375x500_Longpants_men_c3_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/clothing/pants/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C3_375x500_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
     "Headline": "NA",
-    "Subline": "選購長褲 >",
+    "Subline": "長褲低至5折 >",
     "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_Sports_men_c4_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/sports/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C1245_300x198_WATCHES.jpg",
+    "Exit Url": "/men/watches/?discount=20-70&csa=watches",
     "Headline": "NA",
-    "Subline": "選購運動服飾 >",
-    "EventLabel": "CAT|Men|sports|ALL|NA"
+    "Subline": "手錶低至3折 >",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_Backpacks_men_c5_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/bags/backpacks/",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0men0accessories0all0na_men_300x198.jpg",
+    "Exit Url": "/men/accessories/?discount=20-60&csa=accessories",
     "Headline": "NA",
-    "Subline": "選購後背包 >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "飾品低至4折 >",
+    "EventLabel": "CAT|Men|accessories|ALL|NA"
   },
- {
+  {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/MOBILE_WEB_men_600x600_men_hero_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/product-index/varsity/",
-    "Headline": "學院運動風",
-    "Subline": "穿上學院運動風服飾，各種場合都是你的伸展台",
-    "EventLabel": "NA|Men|varsity|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/sal0men0triplevc0all0na_men_600x600.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|triplevc|ALL|NA"
   },
     {
     "Placement": "mn1",
@@ -478,46 +479,45 @@
     "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
     "EventLabel": "bra|men|sisley4awseventeen|all|zap"
   },
-  
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420_men_n2_tw.jpg",
-    "Exit Url": "http://www.zalora.com.tw/men/all-products/?cmpgn_one=travelessentials",
-    "Headline": "旅行裝備NT$450起",
-    "Subline": "準備好四季旅行裝備，隨時出走去！",
-    "EventLabel": "TRE|Men|travelessentialspp|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N2m_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=billabong--burton-menswear-london--calvin-klein--converse--fjallraven-kanken--herschel--hollister--new-balance--superdry--topman&csa=bbmensbfcm",
+    "Headline": "精選品牌8折",
+    "Subline": "選購Topman和其他精選品牌，輸入優惠碼BB8（需購滿NT$1800，限指定商品）",
+    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_men_n3_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/product-index/tshirtsandshirts",
-    "Headline": "襯衫&T恤",
-    "Subline": "從頭到腳的完美穿搭，在此開始",
-    "EventLabel": "TRE|Men|tshirtshirts|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw48/N3m_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-800&csa=bottoms",
+    "Headline": "褲裝NT$800以下",
+    "Subline": "找到對的上衣？再來一件褲裝就完美了！",
+    "EventLabel": "SAL|Men|bottoms|ALL|NA"
   },
- {
+  {
     "Placement": "mc1",
     "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_Jackets_c1_men_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/clothing/jackets-coats/",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/cat0men0shirts0all0namens_men_300x198.jpg",
+    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
     "Headline": "NA",
-    "Subline": "選購外套 >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "襯衫低至3折 >",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47/C1245_300x198_WATCHES_c2_men_tw.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/watches/",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw48/C1245_300x198_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
     "Headline": "NA",
-    "Subline": "選購手錶 >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "長褲低至5折 >",
+    "EventLabel": "CAT|Men|pants|ALL|NA"
   },
 	{
 		"Placement": "mb1",
@@ -563,7 +563,7 @@
 		"Placement": "uh1",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw32/HOMEPAGE_SPLASH_996x500-cw32-2017.jpg",
+		"Image": "https://static-tw.zacdn.com/cms/cw48/tw_homepage_splash.jpg",
 		"Exit Url": "NA",
 		"Headline": "NA",
 		"Subline": "NA",
@@ -573,30 +573,30 @@
 		"Placement": "ub1",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw44/backtobasicSEGMENT_HEADER_326x304.jpg",
-		"Exit Url": "/men/back-to-basics/?csa= backtobasics",
-		"Headline": "簡約回歸",
-		"Subline": "不退潮流之時尚基本準則",
-		"EventLabel": "TRE|Men|backtobasics|ALL|NA"
+		"Image": "https://static-tw.zacdn.com/cms/cw48/ub1.jpg",
+		"Exit Url": "/men/sports/all-products/?discount=10-50&csa= sports",
+		"Headline": "運動系列低至5折",
+		"Subline": "低至5折",
+		"EventLabel": "TRE|Men|sports|ALL|NA"
 	},
 	{
 		"Placement": "ub2",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw45/dressesSEGMENT_HEADER_326x304.jpg",
-		"Exit Url": "/women/clothing/dresses/new-products/?gender=&dir=desc&sort=latest%20arrival&getSKU=QL088AA0F2WOSG--DO816AA0RY0ZMY--08B99AAF25519BGS--2F491AA5D81413GS--TO412AA0RIA0MY--YO696AA0S1C9MY--SU225AA0RWXHMY&csa=newarrivaldresses",
-		"Headline": "裙裝清單",
-		"Subline": "我們不是自吹自擂，但這些新到的裙子真的值得妳的關注！",
+		"Image": "https://static-tw.zacdn.com/cms/cw48/ub2SEGMENT_HEADER_326x304.jpg",
+		"Exit Url": "/women/shoes/?price=400-10000&getSKU=RU506SH90OCZMY--D9F83SH8153828GS--BF118SHD2F2CAFGS--F22E6SHBB89A4AGS--F2711SH40B6582GS--84897SHC5B773CGS",
+		"Headline": "鞋子NT$400起",
+		"Subline": "NT$400起",
 		"EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
 	},
 	{
 		"Placement": "ub3",
 		"Gender": "unisex",
 		"Device": "desktop",
-		"Image": "https://static-tw.zacdn.com/cms/cw44/partygirlHOMEPAGE_BANNER_326x304.jpg",
-		"Exit Url": "/product-index/partygirls/?csa=partygirls",
-		"Headline": "Party Time",
-		"Subline": "聚集所有派對視線",
+		"Image": "https://static-tw.zacdn.com/cms/cw48/ub3SEGMENT_HEADER_326x304.jpg",
+		"Exit Url": "/women/clothing/dresses/?discount=20-60",
+		"Headline": "洋裝低至4折",
+		"Subline": "低至4折",
 		"EventLabel": "TRE|Women|partygirls|ALL|NA"
 	},
 	{
@@ -704,18 +704,18 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/?from=men&csa=singlesday",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/product-index/mensouterwear/",
+		"Headline": "冬季大衣和外套NT$450起，趕快入手禦寒吧！ >",
 		"Subline": "#FFF",
-		"EventLabel": "sal|women|singlesday|all|na"
+		"EventLabel": "sal|men|mensouterwear|all|na"
 	},
 	{
 		"Placement": "skinny-half-right-men-global",
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#000",
-		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
-		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
+		"Exit Url": "/men/sports/all-products/?discount=10-50",
+		"Headline": "低至5折，趕快入手我們精選的運動裝備>",
 		"Subline": "#FFF",
 		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	},
@@ -734,18 +734,18 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/?from=men&csa=singlesday",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/product-index/mensouterwear/",
+		"Headline": "冬季大衣和外套NT$450起，趕快入手禦寒吧！ >",
 		"Subline": "#FFF",
-		"EventLabel": "sal|women|singlesday|all|na"
+		"EventLabel": "sal|men|mensouterwear|all|na"
 	},
 	{
 		"Placement": "skinny-half-right-men-segment",
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#000",
-		"Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
-		"Headline": "黑色星期五/網購星期一優惠前奏﹕2件8折>",
+		"Exit Url": "/men/sports/all-products/?discount=10-50",
+		"Headline": "低至5折，趕快入手我們精選的運動裝備>",
 		"Subline": "#FFF",
 		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
 	}
