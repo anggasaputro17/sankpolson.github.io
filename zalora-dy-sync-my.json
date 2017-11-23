@@ -3,71 +3,71 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-W-HERO.jpg",
-    "Exit Url": "/women/new-products/?csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-3VCS-35OFF-W-DESK-HERO-1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=bfcmtriplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Women|bfcmbfcmtriplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-SEPT17-W-N1.jpg",
-    "Exit Url": "/women/fossil/?csa=fossilzap",
-    "Headline": "Fossil",
-    "Subline": "Shop the ever-popular watches and leathergoods",
-    "EventLabel": "BRA|Women|fossilzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-DRESSES60OFF-N1.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=20-60&csa=bfcmdressesuptosixty",
+    "Headline": "Dresses Up to 60% Off",
+    "Subline": "Take home a new dress or two without breaking the bank",
+    "EventLabel": "SAL|Women|bfcmdressesuptosixty|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LIPSTICKLOVES-NOV17-N2.jpg",
-    "Exit Url": "/women/beauty/lips/?csa=lipstickloves",
-    "Headline": "Lipstick Loves",
-    "Subline": "Transform your look with new lip colours",
-    "EventLabel": "CAT|Women|lipstickloves|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-WINGTAI-BUY3GET20OFF-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=womenbfcmcr",
+    "Headline": "Buy 3 Get 20% Off",
+    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only)",
+    "EventLabel": "SAL|Women|bfcmwomenbfcmcr|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/STACKUPANDSAVE-BUY2GET20OFF-W-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=rplbuy2get20offcr&csa=stackupandsavebuytwogettwenty",
-    "Headline": "Black Friday / Cyber Monday preview",
-    "Subline": "Buy 2 get 20% off",
-    "EventLabel": "SAL|Women|stackupandsavebuytwogettwenty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-MODESTWEARUPTO80OFF-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmmodest&csa=bfcmmodest",
+    "Headline": "Modest Wear Up to 80% Off",
+    "Subline": "Featuring the best designers such as Rizalman, Jovian and more",
+    "EventLabel": "SAL|Women|bfcmmodest|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SAMSONITELAUNCH-NOV17-W-N1.jpg",
-    "Exit Url": "/women/all-products/?brand=american-tourister--samsonite--samsonite-red&csa=samsonitelaunch",
-    "Headline": "Samsonite, Samsonite Red & American Tourister",
-    "Subline": "Shop the essential travel backpacks",
-    "EventLabel": "BRA|Women|Samsonitelaunch|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-INHOUSEITEM-W-N1.jpg",
+    "Exit Url": "/women/all-products/?brand=zalia--something-borrowed--zalora--velvet&price=60-1000&csa=bfcminhouseitem",
+    "Headline": "In-house items starting from RM60",
+    "Subline": "Look no further for a collection that's exclusive to ZALORA",
+    "EventLabel": "SAL|Women|bfcminhouseitem|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ELLIGERMANY-NOV17-W-N1.jpg",
-    "Exit Url": "/women/elli-germany/?csa=elligermany",
-    "Headline": "Elli Germany - New Arrivals",
-    "Subline": "Shop the latest in sterling silver jewellery",
-    "EventLabel": "BRA|Women|elligermany|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-OUTERWEARUNDERRM150-W-N1.jpg",
+    "Exit Url": "/product-index/womensouterwear/?price=0-150&csa=bfcmwomensouterwear",
+    "Headline": "Outerwear Under RM150",
+    "Subline": "Keep the chills away with coats and jackets that will get you through the day",
+    "EventLabel": "SAL|Women|bfcmwomensouterwear|ALL|NA"
   },
   {
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WATCHESNEWARRIVALS-W-NOV17-N2.jpg",
-    "Exit Url": "/women/new-products/watches/?csa=watchesnewarrivals",
-    "Headline": "New Arrival Watches",
-    "Subline": "Shop our latest timeless pieces",
-    "EventLabel": "CAT|Women|watchesnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-MAKEUP60OFF-N2.jpg",
+    "Exit Url": "/women/beauty/make-up/?discount=10-60&csa=bfcmmakeupuptosixtyoff",
+    "Headline": "Makeup Up to 60% off",
+    "Subline": "Revamp your look with new cosmetics",
+    "EventLabel": "SAL|Women|bfcmmakeupuptosixtyoff|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -83,51 +83,51 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/MANGO-SEPT17-W-B1.jpg",
-    "Exit Url": "/women/mango/?csa=mango",
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-W-B1.jpg",
+    "Exit Url": "/women/calvin-klein/?csa=calvinklein",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|mango|ALL|NA"
+    "EventLabel": "BRA|Women|calvinklein|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy//UNISA-JUNE17-B1.jpg",
-    "Exit Url": "/women/unisa/?csa=unisa",
+    "Image": "https://static-my.zacdn.com/cms/dy/DOROTHYPERKINS-APR17-B1.jpg",
+    "Exit Url": "/women/dorothy-perkins/?csa=dorothyperkins",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|unisa|ALL|NA"
+    "EventLabel": "BRA|Women|dorothyperkins|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/AQEELAMUSLIMAHWEAR-OCT17-B1.jpg",
-    "Exit Url": "/women/aqeela-muslimah-wear/?csa=aqeelamuslimahwear",
+    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTON-AUGUST17-W-B1.jpg",
+    "Exit Url": "/women/daniel-wellington/?csa=danielwellington",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aqeelamuslimahwear|ALL|NA"
+    "EventLabel": "BRA|Women|danielwellington|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-W-B1.jpg",
-    "Exit Url": "/women/esprit/?csa=esprit",
+    "Image": "https://static-my.zacdn.com/cms/dy/THEFIFTHLABEL-OCT17-B1.jpg",
+    "Exit Url": "/women/the-fifth-label/?csa=thefifthlabel",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|esprit|ALL|NA"
+    "EventLabel": "BRA|Women|thefifthlabel|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SKII-SEPT17-B1.jpg",
-    "Exit Url": "/women/beauty/sk-ii/?csa=skii",
+    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-OCT17-B1.jpg",
+    "Exit Url": "/women/beauty/laneige/?csa=laneige",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|skii|ALL|NA"
+    "EventLabel": "BRA|Women|laneige|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,71 +183,71 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-M-HERO.jpg",
-    "Exit Url": "/men/new-products/?gender=men&dir=desc&sort=popularity&enable_visual_sort=1&brand=adidas--aldo--calvin-klein--cotton-on--jaxon--mango-man--nike--superdry--topman--zalora&csa=bestofnewarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-3VCS-35OFF-M-DESK-HERO-1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=bfcmtriplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Men|bfcmbfcmtriplevc|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-M-N1.jpg",
-    "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
-    "Headline": "Optimise Your Performance",
-    "Subline": "Shop Our Latest Arrivals now",
-    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-SHIRTSTEESFROMRM60-M-N1.jpg",
+    "Exit Url": "/men/special-price/clothing/shirts/?price=60-1000&csa=bfcmshirtstees",
+    "Headline": "Shirts and Tees From RM60",
+    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more",
+    "EventLabel": "SAL|Men|bfcmshirtstees|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWINSNEAKERS-NOV17-M-N2.jpg",
-    "Exit Url": "/men/new-products/shoes/sneakers-skate/?csa=sneakersnewarrvials",
-    "Headline": "New-in Sneakers",
-    "Subline": "Get ready to hit the streets with our latest arrivals",
-    "EventLabel": "CAT|Men|sneakersnewarrvials|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-M-BOTTOMSUNDERRM120-N2.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-120&csa=bfcmbottomsunderhundredtwenty",
+    "Headline": "Bottoms Under RM120",
+    "Subline": "Found the right top? Complement it with the best shorts and trousers here",
+    "EventLabel": "SAL|Men|bfcmbottomsunderhundredtwenty|ALL|NA"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/JAXON-AUGUST17-N2-CU1-CU4.jpg",
-    "Exit Url": "/men/jaxon/?csa=jaxon",
-    "Headline": "Jaxon",
-    "Subline": "Shop the latest arrivals now",
-    "EventLabel": "BRA|Men|Jaxon|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/BFCM17-SNEAKERSFROMRM99-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-skate/?price=99-2500&csa=bfcmsneakersunderninetynine",
+    "Headline": "Sneakers from RM99",
+    "Subline": "Your next big adventure deserves a pair of new kicks to go along with it",
+    "EventLabel": "SAL|Men|bfcmsneakersunderninetynine|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SAMSONITELAUNCH-NOV17-M-N1.jpg",
-    "Exit Url": "/men/all-products/?brand=american-tourister--samsonite--samsonite-red&csa=samsonitelaunch",
-    "Headline": "Samsonite, Samsonite Red & American Tourister",
-    "Subline": "Shop the essential travel backpacks",
-    "EventLabel": "BRA|MEN|Samsonitelaunch|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-M-WATCHES70OFF-N1.jpg",
+    "Exit Url": "/men/watches/all-products/?discount=10-70&csa=bfcmwatchesseventyoff",
+    "Headline": "Must-Have Watches",
+    "Subline": "Now up to 70% off",
+    "EventLabel": "SAL|MEN|bfcmwatchesseventyoff|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-OCT17-N1.jpg",
-    "Exit Url": "/men/new-products/watches/?csa=watches",
-    "Headline": "Watches",
-    "Subline": "Shop the latest features and designs in wristwear",
-    "EventLabel": "TRE|Men|watches|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-BESTBRANDS20OFF-M-N1.jpg",
+    "Exit Url": "/men/all-products/?brand=birkenstock--burton-menswear-london--calvin-klein--converse--herschel--nike--puma--superdry--topman--under-armour&csa=bfcmbestbrandsvc",
+    "Headline": "Best brands now at 20% off",
+    "Subline": "Use code 'BB20' on Topman and other great brands",
+    "EventLabel": "SAL|Men|bfcmbestbrandsvc|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SUNGLASSES-OCT17-M-N2.jpg",
-    "Exit Url": "/men/sunglasses/?csa=sunglasses",
-    "Headline": "Must-Have Sunglasses",
-    "Subline": "Update your look with new shades",
-    "EventLabel": "CAT|Men|sunglasses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-SPORTSUPTO50-M-N2.jpg",
+    "Exit Url": "/men/sport/all-products/?discount=10-50&csa=bfcmsportssalefiftyoff",
+    "Headline": "Sports Sale",
+    "Subline": "Now up to 50% off",
+    "EventLabel": "SAL|Men|bfcmsportssalefiftyoff|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-W-HERO-MOB.jpg",
-    "Exit Url": "/women/new-products/?csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-3VCS-35OFF-W-MOB-HERO.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=bfcmtriplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Women|bfcmbfcmtriplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/LOVEBONITO-OCT17-N2.jpg",
-    "Exit Url": "/women/love-bonito/?csa=lovebonito",
-    "Headline": "Love, Bonito",
-    "Subline": "Now on ZALORA",
-    "EventLabel": "BRA|Women|lovebonito|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-DRESSES60OFF-N2.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=20-60&csa=bfcmdressesuptosixty",
+    "Headline": "Dresses Up to 60% Off",
+    "Subline": "Take home a new dress or two without breaking the bank",
+    "EventLabel": "SAL|Women|bfcmdressesuptosixty|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-W-N2.jpg",
-    "Exit Url": "/women/new-products/sport/?csa=sportsnewarrivals",
-    "Headline": "Sports New Arrivals",
-    "Subline": "Where style meets functionality",
-    "EventLabel": "CAT|Women|sportsnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-WINGTAI-BUY3GET20OFF-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=womenbfcmcr",
+    "Headline": "Buy 3 Get 20% Off",
+    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only)",
+    "EventLabel": "SAL|Women|bfcmwomenbfcmcr|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-M-HERO-MOB.jpg",
-    "Exit Url": "/men/new-products/?gender=men&dir=desc&sort=popularity&enable_visual_sort=1&brand=adidas--aldo--calvin-klein--cotton-on--jaxon--mango-man--nike--superdry--topman--zalora&csa=bestofnewarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-3VCS-35OFF-M-MOB-HERO.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=bfcmtriplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Men|NewArrivals|ALL|NA"
+    "EventLabel": "SAL|Men|bfcmbfcmtriplevc|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N2.jpg",
-    "Exit Url": "/men/zalora/?sort=latest%20arrival&csa=zaloranewarrivals",
-    "Headline": "ZALORA",
-    "Subline": "New Arrivals",
-    "EventLabel": "BRA|Men|newarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-SHIRTSTEESFROMRM60-M-N2.jpg",
+    "Exit Url": "/men/special-price/clothing/shirts/?price=60-1000&csa=bfcmshirtstees",
+    "Headline": "Shirts and Tees From RM60",
+    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more",
+    "EventLabel": "SAL|Men|bfcmshirtstees|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSNEWARRIVALS-OCT17-M-N2.jpg",
-    "Exit Url": "/men/new-products/sport/?csa=sportsnewarrivals",
-    "Headline": "Sports New Arrivals",
-    "Subline": "Where style meets functionality",
-    "EventLabel": "CAT|Men|sportsnewarrivals|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/BFCM17-M-BOTTOMSUNDERRM120-N2.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-120&csa=bfcmbottomsunderhundredtwenty",
+    "Headline": "Bottoms Under RM120",
+    "Subline": "Found the right top? Complement it with the best shorts and trousers here",
+    "EventLabel": "SAL|Men|bfcmbottomsunderhundredtwenty|ALL|NA"
   },
   {
     "Placement": "mc1",
