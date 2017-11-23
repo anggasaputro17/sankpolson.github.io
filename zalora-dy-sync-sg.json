@@ -13,28 +13,28 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/SEGMENT_HERO_996x500_women_hero_sg.jpg",
-    "Exit Url": "http://www.zalora.sg/women/all-products/?cmpgn_one=partywear1111&getSKU=36034AA595C3E5GS",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+    "EventLabel": "SAL|Women|triplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "https://www.zalora.sg/women/havaianas/",
-    "Headline": "Havaianas",
-    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
-    "EventLabel": "bra|women|havaianasawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N1.jpg",
+    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
+    "Headline": "Outerwear Under S$50",
+    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
+    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
-    "Exit Url": "https://www.zalora.sg/women/hello-sweety/?csa=hellosweety2awseventeen",
+    "Exit Url": "/women/hello-sweety/?csa=hellosweety2awseventeen",
     "Headline": "Hello Sweety",
     "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
     "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
@@ -43,21 +43,21 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/N3_NEWARRIVALS_620x420-cw47-workwear.jpg",
-    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
-    "Headline": "Work Hard, Dress Smart",
-    "Subline": "Head-turning office wear for that much needed pick-me-up.",
-    "EventLabel": "NA|Women|novworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-WINGTAIBUY3GET40OFF-NOV17-W-N3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only).",
+    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420_women_N4_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/new-products/clothing/?getSKU=CA221AA0S00AMY--TO729AA0G1Q2SG",
-    "Headline": "A November to Remember",
-    "Subline": "Act now and this month’s latest arrivals will be unforgettably yours.",
-    "EventLabel": "NA|Women|nonewarrivals|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-INFHOUSEITEMS-NOV17-W-N4.jpg",
+    "Exit Url": "/women/all-products/?brand=zalia--something-borrowed--zalora--velvet&price=20-100000&csa=rplpp",
+    "Headline": "In-House Items From S$20",
+    "Subline": "Look no further for a collection that's exclusive to ZALORA.",
+    "EventLabel": "SAL|Women|RPLPP|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -74,7 +74,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47brands/HellyHansen-B1-6_322x165.jpg",
-    "Exit Url": "https://www.zalora.sg/women/helly-hansen/",
+    "Exit Url": "https://www.zalora.sg/women/helly-hansen/?csa=hellyhansenawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "bra|women|hellyhansenawseventeen|all|na"
@@ -84,7 +84,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47brands/Melissa_B_322x165_1.jpg",
-    "Exit Url": "https://www.zalora.sg/women/melissa/",
+    "Exit Url": "https://www.zalora.sg/women/melissa/?csa=melissa1awseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "BRA|Women|melissa1awseventeen|ALL|ZAP"
@@ -94,7 +94,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/CW43-ODLO-ZAP-OCT17-W-B1.jpg",
-    "Exit Url": "https://www.zalora.sg/women/odlo/",
+    "Exit Url": "https://www.zalora.sg/women/odlo/?csa=odloawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "bra|women|odloawseventeen|all|zap"
@@ -104,7 +104,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(4).jpg",
-    "Exit Url": "https://www.zalora.sg/women/the-fifth-label",
+    "Exit Url": "https://www.zalora.sg/women/the-fifth-label/?csa=thefifthlabelawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "bra|women|thefifthlabelawseventeen|all|na"
@@ -114,7 +114,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(5).jpg",
-    "Exit Url": "https://www.zalora.sg/dorothy-perkins-singapore/",
+    "Exit Url": "https://www.zalora.sg/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
@@ -123,51 +123,51 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_DRESSES__women_C1_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/clothing/dresses/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0skirts0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "Headline": "NA",
-    "Subline": "SHOP DRESSES >",
-    "EventLabel": "CAT|Women|dresses |ALL|NA"
+    "Subline": "SKIRTS UP TO 70% OFF >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/shoes/heels/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0playsuits0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?discount=0-50&csa=playsuits",
     "Headline": "NA",
-    "Subline": "SHOP HEELS >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "PLAYSUITS UP TO 50% OFF >",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C3_375x500_BEAUTY_women_C3_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/beauty/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_SPORTS.jpg",
+    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
     "Headline": "NA",
-    "Subline": "SHOP BEAUTY >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "SPORTS UP TO 50% OFF >",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_SKIRTS_women_C4_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/clothing/skirts/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SUNGLASSES.jpg",
+    "Exit Url": "/women/accessories/sunglasses/?discount=0-30&csa=sunglasses",
     "Headline": "NA",
-    "Subline": "SHOP SKIRTS >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "SUNGLASSES UP TO 30% OFF >",
+    "EventLabel": "CAT|Women|sunglasses|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_TOPS_women_C5_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/clothing/fashion-tops/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0backpacks0all0na_women_300x198.jpg",
+    "Exit Url": "/women/bags/backpacks/?discount=20-50&csa=backpacks",
     "Headline": "NA",
-    "Subline": "SHOP TOPS >",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "BACKPACKS UP TO 50% OFF>",
+    "EventLabel": "CAT|Women|backpacks|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -223,51 +223,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/SEGMENT_HERO_996x500__men_hero_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/product-index/varsity/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NA|Men|varsity|ALL|NA"
+    "EventLabel": "SAL|Men|triplevc|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N1_NEWARRIVALS_360x420_(1).jpg",
-    "Exit Url": "https://www.zalora.sg/men/havaianas/",
-    "Headline": "Havaianas",
-    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
-    "EventLabel": "bra|men|havaianasawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TSHIRTSFROM$20-NOV17-M-N1.jpg",
+    "Exit Url": "/product-index/tshirtsandshirts/?csa=teespp",
+    "Headline": "Shirts and Tees From S$20",
+    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more.",
+    "EventLabel": "TRE|men|teespp|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__men_N2_sg.jpg",
-    "Exit Url": "http://www.zalora.sg/product-index/travelessentials/",
-    "Headline": "Travel Basics From S$20",
-    "Subline": "Sort out all your getaway needs with essentials for the sun, sand and snow.",
-    "EventLabel": "TRE|Men|travelessentialspp|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--topman--puma--under-armour--nike--converse--hollister--calvin-klein--superdry--herschel&csa=bbmens",
+    "Headline": "Best Brands Now at 20% Off",
+    "Subline": "Use code \"BB20\" on Topman and other great brands (S$100 min. spend, exclusions apply).",
+    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/N3_NEWARRIVALS_620x420-tshirts.jpg",
-    "Exit Url": "https://www.zalora.sg/product-index/tshirtsandshirts",
-    "Headline": "Shirts and Tees",
-    "Subline": "From casual tops to button-down pieces, perfecting your next outfit starts from here.",
-    "EventLabel": "TRE|Men|tshirtshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BOTTOMS-UNDER$40-NOV17-M-N3.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-40&csa=bottoms",
+    "Headline": "Bottoms Under S$40",
+    "Subline": "Found the right top? Complement it with the best shorts and trousers here.",
+    "EventLabel": "SAL|Men|bottoms|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N4_NEWARRIVALS_360x420__men_N4_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/all-products/?brand=jaxon--zalora&price=24.90-100000",
-    "Headline": "Essentials From S$24.90",
-    "Subline": "Open the doors to new style options with a little help from JAXON and ZALORA.",
-    "EventLabel": "BRA|Men|rplessentials|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SNEAKERSFROM$30-NOV17-M-N4.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=30-10000&csa=sneakers",
+    "Headline": "Sneakers From S$30",
+    "Subline": "Your next big adventure deserves a pair of new kicks to go along with it.",
+    "EventLabel": "SAL|Men|sneakers|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -333,51 +333,51 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/clothing/jackets-coats/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0shirts0all0namens_men_300x198.jpg",
+    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
     "Headline": "NA",
-    "Subline": "SHOP JACKETS >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "SHIRTS UP TO 70% OFF >",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/watches/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0backpacks0all0na_men_300x198.jpg",
+    "Exit Url": "/men/bags/backpacks/?discount=20-50&csa=backpacks",
     "Headline": "NA",
-    "Subline": "SHOP WATCHES >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "BACKPACKS UP TO 50% OFF >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C3_375x500_Longpants_men_C3_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/clothing/pants/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
     "Headline": "NA",
-    "Subline": "SHOP PANTS >",
+    "Subline": "PANTS UP TO 50% OFF >",
     "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Sports_men_N4_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/sports/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_WATCHES.jpg",
+    "Exit Url": "/men/watches/?discount=20-70&csa=watches",
     "Headline": "NA",
-    "Subline": "SHOP SPORTS >",
-    "EventLabel": "CAT|Men|sports|ALL|NA"
+    "Subline": "WATCHES UP TO 70% OFF >",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Backpacks_men_C5_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/bags/backpacks/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0accessories0all0na_men_300198.jpg",
+    "Exit Url": "/men/accessories/?discount=20-60&csa=accessories",
     "Headline": "NA",
-    "Subline": "SHOP BACKPACKS >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "ACCESSORIES UP TO 60% OFF >",
+    "EventLabel": "CAT|Men|accessories|ALL|NA"
   },
   {
     "Placement": "WOMEN MOBILE WEB",
@@ -393,28 +393,28 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/tre0women0partygirls0all0na_women_600x600_C1_sg.jpg",
-    "Exit Url": "http://www.zalora.sg/women/all-products/?cmpgn_one=partywear1111&getSKU=36034AA595C3E5GS",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "TRE|Women|partygirls|ALL|NA"
+    "EventLabel": "SAL|Women|triplevc|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420_(1).jpg",
-    "Exit Url": "https://www.zalora.sg/women/havaianas/",
-    "Headline": "Havaianas",
-    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
-    "EventLabel": "bra|women|havaianasawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N2.jpg",
+    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
+    "Headline": "Outerwear Under S$50",
+    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
+    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
-    "Exit Url": "https://www.zalora.sg/women/hello-sweety/?csa=hellosweety2awseventeen",
+    "Exit Url": "/women/hello-sweety/?csa=hellosweety2awseventeen",
     "Headline": "Hello Sweety",
     "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
     "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
@@ -423,31 +423,31 @@
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N3_NEWARRIVALS_620x420_women_N3_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
-    "Headline": "Work Hard, Dress Smart",
-    "Subline": "Head-turning office wear for that much needed pick-me-up.",
-    "EventLabel": "NA|Women|novworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-WINGTAIBUY3GET40OFF-NOV17-W-N3.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
+    "Headline": "Buy 3 Get 30% Off",
+    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only).",
+    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_DRESSES__women_C1_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/clothing/dresses/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0skirts0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
     "Headline": "NA",
-    "Subline": "SHOP DRESSES >",
-    "EventLabel": "CAT|Women|dresses |ALL|NA"
+    "Subline": "SKIRTS UP TO 70% OFF >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_HEELS_women_C2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/women/shoes/heels/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SPORTS.jpg",
+    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
     "Headline": "NA",
-    "Subline": "SHOP HEELS >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "SPORTS UP TO 50% OFF >",
+    "EventLabel": "CAT|Women|sports|ALL|NA"
   },
   {
     "Placement": "MEN MOBILE WEB",
@@ -463,61 +463,61 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/na0men0varsity0all0na_men_600x600_hero_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/product-index/varsity/",
-    "Headline": "College Inspired",
-    "Subline": "Our varsity edit will take you from work to gym and everywhere in-between.",
-    "EventLabel": "NA|Men|varsity|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|triplevc|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/N2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "https://www.zalora.sg/men/havaianas/",
-    "Headline": "Havaianas",
-    "Subline": "Lifestyle flip-flops you can wear from the beach to the streets.",
-    "EventLabel": "bra|men|havaianasawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TSHIRTSFROM$20-NOV17-M-N2.jpg",
+    "Exit Url": "/product-index/tshirtsandshirts/?csa=teespp",
+    "Headline": "Shirts and Tees From S$20",
+    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more.",
+    "EventLabel": "TRE|men|teespp|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/N2_NEWARRIVALS_620x420__men_N2_sg.jpg",
-    "Exit Url": "http://www.zalora.sg/product-index/travelessentials/",
-    "Headline": "Travel Basics From S$20",
-    "Subline": "Sort out all your getaway needs with essentials for the sun, sand and snow.",
-    "EventLabel": "TRE|Men|travelessentialspp|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--topman--puma--under-armour--nike--converse--hollister--calvin-klein--superdry--herschel&csa=bbmens",
+    "Headline": "Best Brands Now at 20% Off",
+    "Subline": "Use code \"BB20\" on Topman and other great brands (S$100 min. spend, exclusions apply).",
+    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/N3_NEWARRIVALS_620x420-tshirts.jpg",
-    "Exit Url": "https://www.zalora.sg/product-index/tshirtsandshirts",
-    "Headline": "Shirts and Tees",
-    "Subline": "From casual tops to button-down pieces, perfecting your next outfit starts from here.",
-    "EventLabel": "TRE|Men|tshirtshirts|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BOTTOMS-UNDER$40-NOV17-M-N3.jpg",
+    "Exit Url": "/product-index/mensbottoms/?price=0-40&csa=bottoms",
+    "Headline": "Bottoms Under S$40",
+    "Subline": "Found the right top? Complement it with the best shorts and trousers here.",
+    "EventLabel": "SAL|Men|bottoms|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_Jackets_men_C1_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/clothing/jackets-coats/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0shirts0all0namens_men_300x198.jpg",
+    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
     "Headline": "NA",
-    "Subline": "SHOP JACKETS >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "SHIRTS UP TO 70% OFF >",
+    "EventLabel": "CAT|Men|shirts|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/C1245_300x198_WATCHES__men_C2_sg.jpg",
-    "Exit Url": "https://www.zalora.sg/men/watches/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Longpants.jpg",
+    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
     "Headline": "NA",
-    "Subline": "SHOP WATCHES >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "PANTS UP TO 50% OFF >",
+    "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "UNISEX HOMEPAGE",
@@ -543,31 +543,31 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/BACKTOBASIC-OCT17-M-SEGMENT-HEADER.jpg",
-    "Exit Url": "/men/back-to-basics/?csa=backtobasics",
-    "Headline": "Back to Basics",
-    "Subline": "Future-proof your wardrobe with these timeless essentials.",
-    "EventLabel": "TRE|Men|backtobasics|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SPORTSUPTO50OFF-NOV17-M-HOMEPAGE-BANNER.jpg",
+    "Exit Url": "/men/sports/all-products/?discount=10-50&csa=menssports",
+    "Headline": "Sports Sale",
+    "Subline": "Up to 50% Off",
+    "EventLabel": "TRE|Men|menssports|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw42/Oct17/NEWARRIVALS-OCT17-W-DROPDOWN-BANNER.jpg",
-    "Exit Url": "/women/clothing/dresses/new-products/?csa=newarrivaldresses",
-    "Headline": "The Dress List",
-    "Subline": "We don’t mean to boast, but these newly arrived dresses mean serious business.",
-    "EventLabel": "CAT|Women|newarrivaldresses|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SHOESFROM$15-NOV17-W-HOMEPAGE-BANNER.jpg",
+    "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
+    "Headline": "Shoes",
+    "Subline": "From S$15",
+    "EventLabel": "CAT|Women|shoesbfcm|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HOMEPAGE_BANNER_326x304-cw47.jpg",
-    "Exit Url": "https://www.zalora.sg/women/occasions/work-wear/",
-    "Headline": "Work Hard, Dress Smart",
-    "Subline": "Head-turning office wear for that much needed pick-me-up.",
-    "EventLabel": "NA|Women|novworkwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-DRESSESUPTO60OFF-NOV17-W-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/women/clothing/dresses/?discount=20-60",
+    "Headline": "Dresses",
+    "Subline": "Up to 60% Off",
+    "EventLabel": "NA|Women|DRESSESBFCM|ALL|NA"
   },
   {
     "Placement": "STOP HERE",
@@ -713,9 +713,9 @@
     "Placement": "skinny-half-left-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
+    "Image": "#7d02f7",
+    "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
+    "Headline": "STEP UP YOUR STYLE WITH SHOES FROM AS LOW AS S$15 >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -724,8 +724,8 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#000",
-    "Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
-    "Headline": "BLACK FRIDAY/CYBER MONDAY PREVIEW: BUY 2 AND GET 20% OFF >",
+    "Exit Url": "/women/clothing/dresses/?discount=20-60",
+    "Headline": "ENJOY UP TO 60% OFF THESE SELECTED DRESSES >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -733,19 +733,19 @@
     "Placement": "skinny-full-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "Subline": "#FFF",
+    "Image": "#FFC5D5",
+    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
+    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Subline": "#000",
     "EventLabel": ""
   },
   {
     "Placement": "skinny-half-left-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
+    "Image": "#7d02f7",
+    "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
+    "Headline": "STEP UP YOUR STYLE WITH SHOES FROM AS LOW AS S$15 >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -754,8 +754,8 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "#000",
-    "Exit Url": "/women/all-products/?cmpgn_one=bfcmteaserwomen&csa=bfcmteaser",
-    "Headline": "BLACK FRIDAY/CYBER MONDAY PREVIEW: BUY 2 AND GET 20% OFF >",
+    "Exit Url": "/women/clothing/dresses/?discount=20-60",
+    "Headline": "ENJOY UP TO 60% OFF THESE SELECTED DRESSES >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -773,9 +773,9 @@
     "Placement": "skinny-half-left-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
+    "Image": "#7d02f7",
+    "Exit Url": "/product-index/mensouterwear/?csa=mensouterwear",
+    "Headline": "STAY WARM WITH COATS & OUTERWEAR FROM JUST S$20 EACH >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -784,8 +784,8 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#000",
-    "Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
-    "Headline": "BLACK FRIDAY/CYBER MONDAY PREVIEW: BUY 2 AND GET 20% OFF >",
+    "Exit Url": "/men/sports/all-products/?discount=10-50&csa=menssports",
+    "Headline": "GET FIT WITH OUR SPORTS EDIT, NOW UP TO 50% OFF >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -803,9 +803,9 @@
     "Placement": "skinny-half-left-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
+    "Image": "#7d02f7",
+    "Exit Url": "/product-index/mensouterwear/?csa=mensouterwear",
+    "Headline": "STAY WARM WITH COATS & OUTERWEAR FROM JUST S$20 EACH >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -814,8 +814,8 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "#000",
-    "Exit Url": "/men/all-products/?cmpgn_one=bfcmteasermen&csa=bfcmteaser",
-    "Headline": "BLACK FRIDAY/CYBER MONDAY PREVIEW: BUY 2 AND GET 20% OFF >",
+    "Exit Url": "/men/sports/all-products/?discount=10-50&csa=menssports",
+    "Headline": "GET FIT WITH OUR SPORTS EDIT, NOW UP TO 50% OFF >",
     "Subline": "#FFF",
     "EventLabel": ""
   }
