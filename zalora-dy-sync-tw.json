@@ -13,21 +13,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N1w_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/sisley/?csa=sisley4awseventeen",
-    "Headline": "Sisley",
-    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
-    "EventLabel": "bra|women|sisley4awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanN1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
+    "EventLabel": "bra|women|raybanawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N2w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/all-products/sk-ii/?csa=skiiawseventeen",
-    "Headline": "SK-II",
-    "Subline": "打造晶瑩剔透的肌膚，留住自然美",
-    "EventLabel": "bra|women|skiiawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/betsyN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
@@ -213,21 +213,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N12w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/sisley/?csa=sisley4awseventeen",
-    "Headline": "Sisley",
-    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
-    "EventLabel": "bra|women|sisley4awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
+    "EventLabel": "bra|women|raybanawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N2w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/all-products/sk-ii/?csa=skiiawseventeen",
-    "Headline": "SK-II",
-    "Subline": "打造晶瑩剔透的肌膚，留住自然美",
-    "EventLabel": "bra|women|skiiawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/betsyN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
  {
     "Placement": "wn3",
@@ -313,11 +313,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N1m_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/sisley/?csa=sisley4awseventeen",
-    "Headline": "Sisley",
-    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
-    "EventLabel": "bra|men|sisley4awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanmN1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
+    "EventLabel": "bra|men|raybanawseventeen|all|na"
   },
   {
     "Placement": "mn2",
@@ -473,11 +473,11 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/N12m_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/sisley/?csa=sisley4awseventeen",
-    "Headline": "Sisley",
-    "Subline": "以顏色和層次的混搭，為冬季穿搭添新意",
-    "EventLabel": "bra|men|sisley4awseventeen|all|zap"
+    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanmN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
+    "EventLabel": "bra|men|raybanawseventeen|all|na"
   },
   {
     "Placement": "mn2",
