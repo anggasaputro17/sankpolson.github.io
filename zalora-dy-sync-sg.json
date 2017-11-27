@@ -579,85 +579,85 @@
     "Subline": "",
     "EventLabel": ""
   },
-  {
+ {
     "Placement": "wb1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/DY/May2017/mobile_brands_Tokichoi.gif",
+    "Exit Url": "/women/tokichoi/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|tokichoi2ssseventeen|ALL|ZAP"
   },
   {
     "Placement": "wb2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_rayban.gif",
+    "Exit Url": "/women/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|NA|wrayban|ALL|maxp|rayban"
   },
   {
     "Placement": "wb3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/Evergage/mobile_brands_topshop.gif",
+    "Exit Url": "/women/topshop/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|WSP|wtopshop|ALL|maxp|topshop"
   },
   {
     "Placement": "wb4",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_esprit.gif",
+    "Exit Url": "/women/esprit/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|NA|wesprit|ALL|maxp|esprit"
   },
   {
     "Placement": "mb1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_rayban.gif",
+    "Exit Url": "/men/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|WA|mrayban|ALL|maxp|rayban"
   },
   {
     "Placement": "mb2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_burtonmenwear.gif",
+    "Exit Url": "/men/burton-menswear-london/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|NA|mburton|ALL|maxp|burton"
   },
   {
     "Placement": "mb3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_mango-man.gif",
+    "Exit Url": "/men/mango-man/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|NA|mmangoman|ALL|maxp|mangoman"
   },
   {
     "Placement": "mb4",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "",
-    "Exit Url": "",
-    "Headline": "",
-    "Subline": "",
-    "EventLabel": ""
+    "Image": "https://static-sg.zacdn.com/cms/1212eoss/mobile_brands_topman.gif",
+    "Exit Url": "/men/topman/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|MC|mtopman|ALL|maxp|topman"
   },
   {
     "Placement": "testbug",
