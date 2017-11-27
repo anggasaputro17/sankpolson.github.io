@@ -63,31 +63,31 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/ALDO-NOV17-W-B1.jpg",
-    "Exit Url": "https://www.zalora.sg/women/aldo/?csa=aldoawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/WALLI-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/wallis/?csa=wallisawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|wallisawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/HellyHansen-B1-6_322x165.jpg",
-    "Exit Url": "https://www.zalora.sg/women/helly-hansen/?csa=hellyhansenawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/ADDICTANONYMOUS-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/addicts-anonymous/?csa=addictsanonymous1awseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|hellyhansenawseventeen|all|na"
+    "EventLabel": "bra|women|addictsanonymous1awseventeen|all|na"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/Melissa_B_322x165_1.jpg",
-    "Exit Url": "https://www.zalora.sg/women/melissa/?csa=melissa1awseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/RAYBAN-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/ray-ban/?csa=raybanawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|melissa1awseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|raybanawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb4",
@@ -103,21 +103,21 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(4).jpg",
-    "Exit Url": "https://www.zalora.sg/women/the-fifth-label/?csa=thefifthlabelawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/UNDERARMOUR-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/under-armour-shop/?csa=underarmourawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|thefifthlabelawseventeen|all|na"
+    "EventLabel": "bra|women|underarmourawseventeen|all|na"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(5).jpg",
-    "Exit Url": "https://www.zalora.sg/dorothy-perkins-singapore/?csa=dorothyperkinsawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/MANGO-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/mango-shop/?csa=mangoawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
+    "EventLabel": "bra|women|mangoawseventeen|all|na"
   },
   {
     "Placement": "wc1",
@@ -273,61 +273,61 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_converse_(1).jpg",
-    "Exit Url": "https://www.zalora.sg/men/converse/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/TIMBERLAND-ZAP-OCT17-M-B1.jpg",
+    "Exit Url": "/men/timberland/?csa=timberlandawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(1).jpg",
-    "Exit Url": "https://www.zalora.sg/men/helly-hansen/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/RAWROW-NOV17-M-B1.jpg",
+    "Exit Url": "/men/rawrow/?csa=rawrowawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|hellyhansenawseventeen|all|na"
+    "EventLabel": "BRA|Men|rawrowawseventeen|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(2).jpg",
-    "Exit Url": "https://www.zalora.sg/men/odlo/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/PATAGONIA-NOV17-M-B1.jpg",
+    "Exit Url": "/men/patagonia/?csa=msp1mcpatagoniass17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|odloawseventeen|all|zap"
+    "EventLabel": "BRA|MSP-MC|msp1mcpatagoniass17|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/adidas-Taiwan_B1-6_322x165_Men_(1).jpg",
-    "Exit Url": "https://www.zalora.sg/men/adidas/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/REEBOK-NOV17-M-B1.jpg",
+    "Exit Url": "/reebok-shop/?from=men&csa=mspreebokss17",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|adidaslaunchawseventeen|all|na"
+    "EventLabel": "BRA|msp|mspreebokss17|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_Herschel.jpg",
-    "Exit Url": "https://www.zalora.sg/men/herschel/",
+    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondonawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|herschelawseventeen|ALL|NA"
+    "EventLabel": "bra|men|burtonmenswearlondonawseventeen|all|na"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47brands/B1-6_322x165_(7).jpg",
-    "Exit Url": "https://www.zalora.sg/topman-singapore/",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SUPERDRY-NOV17-M-B1.jpg",
+    "Exit Url": "/men/superdry/?csa=superdryawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "bra|men|superdryawseventeen|all|na"
   },
   {
     "Placement": "mc1",
