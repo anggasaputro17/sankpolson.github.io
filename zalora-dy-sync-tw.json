@@ -93,61 +93,61 @@
     "Placement": "wfb1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_aldo.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/aldo",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/wallisB1-6_322x165.png",
+    "Exit Url": "https://www.zalora.com.tw/women/wallis/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
+    "EventLabel": "bra|women|wallisawseventeen|all|na"
   },
   {
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_shopsfashion.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/shopsfashion/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/aldoB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/aldo/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|shopsfashionawseventeen|ALL|NA"
+    "EventLabel": "BRA|Women|aldoawseventeen|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_betsy.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/betsy/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/KG_B1_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/product-index/kurt-geiger/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "EventLabel": "BRA|Women|kurtgeigerlaunchssseventeen|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/adidas-Taiwan_B1-6_322x165_Women_(1).jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/adidas/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/dorothyB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/dorothy-perkins/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|adidaslaunchawseventeen|all|na"
+    "EventLabel": "bra|women|dorothyperkinsawseventeen|all|na"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_(4).jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/the-fifth-label",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/reebokB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/reebok/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|thefifthlabelawseventeen|all|na"
+    "EventLabel": "BRA|women|wspreebokss17|ALL|NA|reebok-shop"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_sunnydaysweety.jpg",
-    "Exit Url": "https://www.zalora.com.tw/women/sunnydaysweety/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/cottononB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/women/cotton-on/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|sunnydaysweetyawseventeen|all|na"
+    "EventLabel": "BRA|Women|cottononssseventeen|ALL|NA"
   },
  {
     "Placement": "wc1",
