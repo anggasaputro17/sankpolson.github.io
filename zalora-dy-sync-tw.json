@@ -353,61 +353,61 @@
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_converse_(1).jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/converse/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/timberlandB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/timberland/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|MS|conversamss|ALL|maxp"
+    "EventLabel": "bra|men|timberlandawseventeen|all|zap"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_burton.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/burton-menswear-london/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/fjallB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/fjallraven-kanken/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|burtonmenswearlondonawseventeen|all|na"
+    "EventLabel": "bra|men|fjallravenkankenawseventeen|all|na"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/New_Balance_(Men)_B_322x165_(1).jpg",
-    "Exit Url": "https://www.zalora.com.tw/new-balance/",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "BRA|Men|newbalancessseventeen|ALL|NA"
-  },
-  {
-    "Placement": "mfb4",
-    "Gender": "men",
-    "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/adidas-Taiwan_B1-6_322x165_Men_(1).jpg",
+    "Image": "https://static-tw.zacdn.com]/cms/cw49/adidas-Taiwan_B1-6_322x165_Men.jpg",
     "Exit Url": "https://www.zalora.com.tw/men/adidas/",
     "Headline": "NA",
     "Subline": "NA",
     "EventLabel": "bra|men|adidaslaunchawseventeen|all|na"
   },
   {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/reebokmenB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/reebok/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
+  },
+  {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/oakleyB1-6_322x165.jpg",
-    "Exit Url": "https://www.zalora.com.tw/men/oakley/?csa=oakleyawseventeen",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/burtonsB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/burton-menswear-london/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|men|oakleyawseventeen|all|na"
+    "EventLabel": "bra|men|burtonmenswearlondonawseventeen|all|na"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw47brands/B1-6_322x165_(7).jpg",
-    "Exit Url": "https://www.zalora.com.tw/topman-taiwan/",
+    "Image": "https://static-tw.zacdn.com/cms/cw49/superdryB1-6_322x165.jpg",
+    "Exit Url": "https://www.zalora.com.tw/men/superdry/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "NewA|MC-MA-MS|mcmamstopman17|ALL|NA"
+    "EventLabel": "bra|men|superdryawseventeen|all|na"
   },
   {
     "Placement": "mc1",
