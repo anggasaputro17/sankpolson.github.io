@@ -23,21 +23,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N1.jpg",
-    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
-    "Headline": "Outerwear Under S$50",
-    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
-    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/shiseido/?csa=shiseidoawseventeen",
+    "Headline": "Shiseido",
+    "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
+    "EventLabel": "bra|women|shiseidoawseventeen|all|na"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
-    "Exit Url": "/women/hello-sweety/?csa=hellosweety2awseventeen",
-    "Headline": "Hello Sweety",
-    "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
-    "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
+    "Exit Url": "https://www.zalora.sg/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
@@ -93,11 +93,11 @@
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/CW43-ODLO-ZAP-OCT17-W-B1.jpg",
-    "Exit Url": "https://www.zalora.sg/women/odlo/?csa=odloawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/HOPESHOW-NOV17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/hopeshow/?csa=hopeshowawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|odloawseventeen|all|zap"
+    "EventLabel": "bra|women|hopeshowawseventeen|all|na"
   },
   {
     "Placement": "wfb5",
@@ -403,21 +403,21 @@
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N2.jpg",
-    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
-    "Headline": "Outerwear Under S$50",
-    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N2.jpg",
+    "Exit Url": "/women/shiseido/?csa=shiseidoawseventeen",
+    "Headline": "Shiseido",
+    "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
     "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw47/Nov17/HELLOSWEETY-NOV17-W-N2.jpg",
-    "Exit Url": "/women/hello-sweety/?csa=hellosweety2awseventeen",
-    "Headline": "Hello Sweety",
-    "Subline": "Add this line of irresistible Korean clothing to your list of wardrobe must-haves.",
-    "EventLabel": "bra|women|hellosweety2awseventeen|all|zap"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
@@ -533,7 +533,7 @@
     "Placement": "uh1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/DY/Nov17/sg-splashNOV17-kott.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/onsitefashionability/Desktop_996x500-homepagewtext.jpg",
     "Exit Url": "NA",
     "Headline": "NA",
     "Subline": "NA",
@@ -579,7 +579,7 @@
     "Subline": "",
     "EventLabel": ""
   },
- {
+  {
     "Placement": "wb1",
     "Gender": "women",
     "Device": "mobile",
