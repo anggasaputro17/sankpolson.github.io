@@ -13,51 +13,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CNYSNEAKPEAK-NOV17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS&csa=cnysneakpeek",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|triplevc|ALL|NA"
+    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N1.jpg",
-    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
-    "Headline": "Outerwear Under S$50",
-    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
-    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
-  },
-  {
-    "Placement": "wn2",
-    "Gender": "women",
-    "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N2.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N1.jpg",
     "Exit Url": "/women/shiseido/?csa=shiseidoawseventeen",
     "Headline": "Shiseido",
     "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
     "EventLabel": "bra|women|shiseidoawseventeen|all|na"
   },
   {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+  },
+  {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-WINGTAIBUY3GET40OFF-NOV17-W-N3.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
-    "Headline": "Buy 3 Get 30% Off",
-    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only).",
-    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/NEWSWIMWEAR-NOV17-W-N3.jpg",
+    "Exit Url": "/women/clothing/beachwear/new-products/?csa=newswimwear",
+    "Headline": "Beachside Vibes",
+    "Subline": "Fancy a dip? Let our swimwear edit bring you closer to the sea, sand and sun.",
+    "EventLabel": "CAT|Women|newswimwear|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-INFHOUSEITEMS-NOV17-W-N4.jpg",
-    "Exit Url": "/women/all-products/?brand=zalia--something-borrowed--zalora--velvet&price=20-100000&csa=rplpp",
-    "Headline": "In-House Items From S$20",
-    "Subline": "Look no further for a collection that's exclusive to ZALORA.",
-    "EventLabel": "SAL|Women|RPLPP|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/HOWTOWEARYOURBOOTS-NOV17-W-N4.jpg",
+    "Exit Url": "/product-index/bootsandjeans/?csa=howtowearyourboots",
+    "Headline": "Best Staples: Jeans & Boots",
+    "Subline": "Far from basic, our reinvention of this classic pairing is just what you need.",
+    "EventLabel": "CA|Women|howtowearyourboots|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -123,51 +123,51 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0skirts0all0na_women_300x198.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_DRESSES-cw49.jpg",
+    "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
-    "Subline": "SKIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "SHOP DRESSES >",
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0playsuits0all0na_women_300x198.jpg",
-    "Exit Url": "/women/clothing/playsuits-jumpsuits/?discount=0-50&csa=playsuits",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_HEELS-cw49.jpg",
+    "Exit Url": "/women/shoes/heels/?csa=shoes",
     "Headline": "NA",
-    "Subline": "PLAYSUITS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+    "Subline": "SHOP HEELS >",
+    "EventLabel": "CAT|Women|heels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_SPORTS.jpg",
-    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_BEAUTY-cw49.jpg",
+    "Exit Url": "/women/beauty/?csa=beauty",
     "Headline": "NA",
-    "Subline": "SPORTS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|sports|ALL|NA"
+    "Subline": "SHOP BEAUTY >",
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SUNGLASSES.jpg",
-    "Exit Url": "/women/accessories/sunglasses/?discount=0-30&csa=sunglasses",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SKIRTS-cw49.jpg",
+    "Exit Url": "/women/clothing/skirts/?csa=skirts",
     "Headline": "NA",
-    "Subline": "SUNGLASSES UP TO 30% OFF >",
-    "EventLabel": "CAT|Women|sunglasses|ALL|NA"
+    "Subline": "SHOP SKIRTS >",
+    "EventLabel": "CAT|Women|skirts|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0backpacks0all0na_women_300x198.jpg",
-    "Exit Url": "/women/bags/backpacks/?discount=20-50&csa=backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_TOPS-cw49.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
     "Headline": "NA",
-    "Subline": "BACKPACKS UP TO 50% OFF>",
-    "EventLabel": "CAT|Women|backpacks|ALL|NA"
+    "Subline": "SHOP TOPS >",
+    "EventLabel": "CAT|Women|tops|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -223,51 +223,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERSHOES-NOV17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/men/shoes/?csa=bestsellershoes",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|triplevc|ALL|NA"
+    "EventLabel": "CAT|Men|bestsellershoes|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TSHIRTSFROM$20-NOV17-M-N1.jpg",
-    "Exit Url": "/product-index/tshirtsandshirts/?csa=teespp",
-    "Headline": "Shirts and Tees From S$20",
-    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more.",
-    "EventLabel": "TRE|men|teespp|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BIRKENSTOCK-NOV17-M-N1.jpg",
+    "Exit Url": "/men/birkenstock/?csa=birkenstockawseventeen",
+    "Headline": "Birkenstock",
+    "Subline": "Slide into the most comfortable sandals you can possibly find.",
+    "EventLabel": "BRA|Men|birkenstockawseventeen|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2-1.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--topman--puma--under-armour--nike--converse--hollister--calvin-klein--superdry--herschel&csa=bbmens",
-    "Headline": "Best Brands Now at 20% Off",
-    "Subline": "Use code \"BB20\" on Topman and other great brands (S$100 min. spend, exclusions apply).",
-    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-N2.jpg",
+    "Exit Url": "/product-index/mensbasics/?csa=basicsfrom",
+    "Headline": "Basics From Just S$19.90",
+    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
+    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BOTTOMS-UNDER$40-NOV17-M-N3.jpg",
-    "Exit Url": "/product-index/mensbottoms/?price=0-40&csa=bottoms",
-    "Headline": "Bottoms Under S$40",
-    "Subline": "Found the right top? Complement it with the best shorts and trousers here.",
-    "EventLabel": "SAL|Men|bottoms|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CW49-GIFTSETS-NOV17-M-N3.jpg",
+    "Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY&csa=giftsets",
+    "Headline": "Gift Sets Worth Giving",
+    "Subline": "Trust us, you’ll never run out of ideas this festive season.",
+    "EventLabel": "RET|Men|giftsets|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SNEAKERSFROM$30-NOV17-M-N4.jpg",
-    "Exit Url": "/men/shoes/sneakers-plimsolls/?price=30-10000&csa=sneakers",
-    "Headline": "Sneakers From S$30",
-    "Subline": "Your next big adventure deserves a pair of new kicks to go along with it.",
-    "EventLabel": "SAL|Men|sneakers|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERBRANDS-NOV17-M-N1.jpg",
+    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--adidas--burton-menswear-london--jack-jones--only-sons--selected-homme--topman&csa=bestsellerbrands",
+    "Headline": "Top of the Line",
+    "Subline": "Don’t miss out on best sellers from Jack & Jones, Selected Homme and more.",
+    "EventLabel": "TRE|Men|bestsellerbrands|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -333,51 +333,51 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0shirts0all0namens_men_300x198.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Jackets-CW49.jpg",
+    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
     "Headline": "NA",
-    "Subline": "SHIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "Subline": "SHOP JACKETS >",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0backpacks0all0na_men_300x198.jpg",
-    "Exit Url": "/men/bags/backpacks/?discount=20-50&csa=backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_WATCHES-CW49.jpg",
+    "Exit Url": "/men/watches/?csa=watches",
     "Headline": "NA",
-    "Subline": "BACKPACKS UP TO 50% OFF >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "SHOP WATCHES >",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_Longpants-CW49.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
-    "Subline": "PANTS UP TO 50% OFF >",
+    "Subline": "SHOP PANTS >",
     "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_WATCHES.jpg",
-    "Exit Url": "/men/watches/?discount=20-70&csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Sports-CW49.jpg",
+    "Exit Url": "/men/sports/?csa=sports",
     "Headline": "NA",
-    "Subline": "WATCHES UP TO 70% OFF >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "SHOP SPORTS >",
+    "EventLabel": "CAT|Men|sports|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0accessories0all0na_men_300198.jpg",
-    "Exit Url": "/men/accessories/?discount=20-60&csa=accessories",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Backpacks-CW49.jpg",
+    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
     "Headline": "NA",
-    "Subline": "ACCESSORIES UP TO 60% OFF >",
-    "EventLabel": "CAT|Men|accessories|ALL|NA"
+    "Subline": "SHOP BACKPACKS >",
+    "EventLabel": "CAT|Men|backpacks|ALL|NA"
   },
   {
     "Placement": "WOMEN MOBILE WEB",
@@ -393,61 +393,61 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CNYSNEAKPEAK-NOV17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS&csa=cnysneakpeek",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|triplevc|ALL|NA"
+    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
   },
   {
     "Placement": "wn1",
-    "Gender": "women",
-    "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-OUTERWEARBELOW$50-NOV17-W-N2.jpg",
-    "Exit Url": "/product-index/outerwear/?price=0-50&csa=outerwearbelow",
-    "Headline": "Outerwear Under S$50",
-    "Subline": "Keep the chills away with coats and jackets that will get you through the day.",
-    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
-  },
-  {
-    "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
     "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N2.jpg",
     "Exit Url": "/women/shiseido/?csa=shiseidoawseventeen",
     "Headline": "Shiseido",
     "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
-    "EventLabel": "bra|women|shiseidoawseventeen|all|na"
+    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
+    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
+    "Headline": "Betsy",
+    "Subline": "British-inspired shoes designed for work, play and everything else.",
+    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-WINGTAIBUY3GET40OFF-NOV17-W-N3.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_one=womenbfcmcr&csa=buythreethirty",
-    "Headline": "Buy 3 Get 30% Off",
-    "Subline": "On top brands like Miss Selfridge, Topshop and more (selected items only).",
-    "EventLabel": "SAL|Women|buythreethirty|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/NEWSWIMWEAR-NOV17-W-N3.jpg",
+    "Exit Url": "/women/clothing/beachwear/new-products/?csa=newswimwear",
+    "Headline": "Beachside Vibes",
+    "Subline": "Fancy a dip? Let our swimwear edit bring you closer to the sea, sand and sun.",
+    "EventLabel": "CAT|Women|newswimwear|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0women0skirts0all0na_women_300x198.jpg",
-    "Exit Url": "/women/clothing/skirts/?discount=20-70&csa=skirts",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_DRESSES-cw49.jpg",
+    "Exit Url": "/women/clothing/dresses/?csa=dresses",
     "Headline": "NA",
-    "Subline": "SKIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "SHOP DRESSES >",
+    "EventLabel": "CAT|Women|dresses|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SPORTS.jpg",
-    "Exit Url": "/women/sports/all-products/?discount=20-50&csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_BEAUTY-cw49.jpg",
+    "Exit Url": "/women/beauty/?csa=beauty",
     "Headline": "NA",
-    "Subline": "SPORTS UP TO 50% OFF >",
-    "EventLabel": "CAT|Women|sports|ALL|NA"
+    "Subline": "SHOP BEAUTY >",
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
   },
   {
     "Placement": "MEN MOBILE WEB",
@@ -463,11 +463,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TRIPLEVC-NOV17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERSHOES-NOV17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/men/shoes/?csa=bestsellershoes",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|triplevc|ALL|NA"
+    "EventLabel": "CAT|Men|bestsellershoes|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -483,7 +483,7 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2-1.jpg",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2.jpg",
     "Exit Url": "/men/all-products/?brand=burton-menswear-london--topman--puma--under-armour--nike--converse--hollister--calvin-klein--superdry--herschel&csa=bbmens",
     "Headline": "Best Brands Now at 20% Off",
     "Subline": "Use code \"BB20\" on Topman and other great brands (S$100 min. spend, exclusions apply).",
@@ -503,20 +503,20 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/cat0men0shirts0all0namens_men_300x198.jpg",
-    "Exit Url": "/men/clothing/shirts/?discount=20-70&csa=shirts",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Jackets-CW49.jpg",
+    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
     "Headline": "NA",
-    "Subline": "SHIRTS UP TO 70% OFF >",
-    "EventLabel": "CAT|Men|shirts|ALL|NA"
+    "Subline": "SHOP JACKETS >",
+    "EventLabel": "CAT|Men|jackets|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/?discount=10-50&csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Longpants-CW49.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=pants",
     "Headline": "NA",
-    "Subline": "PANTS UP TO 50% OFF >",
+    "Subline": "SHOP PANTS >",
     "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
@@ -543,31 +543,31 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SPORTSUPTO50OFF-NOV17-M-HOMEPAGE-BANNER.jpg",
-    "Exit Url": "/men/sports/all-products/?discount=10-50&csa=menssports",
-    "Headline": "Sports Sale",
-    "Subline": "Up to 50% Off",
-    "EventLabel": "TRE|Men|menssports|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-HOMEPAGE-BANNER.jpg",
+    "Exit Url": "/product-index/mensbasics/?csa=basicsfrom",
+    "Headline": "Basics From Just S$19.90",
+    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
+    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
   },
   {
     "Placement": "ub2",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-SHOESFROM$15-NOV17-W-HOMEPAGE-BANNER.jpg",
-    "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
-    "Headline": "Shoes",
-    "Subline": "From S$15",
-    "EventLabel": "CAT|Women|shoesbfcm|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/HOWTOWEARYOURBOOTS-NOV17-W-HOMEPAGE-BANNER.jpg",
+    "Exit Url": "/product-index/bootsandjeans/?csa=howtowearyourboots",
+    "Headline": "Best Staples: Jeans & Boots",
+    "Subline": "Far from basic, our reinvention of this classic pairing is just what you need.",
+    "EventLabel": "CA|Women|howtowearyourboots|ALL|NA"
   },
   {
     "Placement": "ub3",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-DRESSESUPTO60OFF-NOV17-W-HOMEPAGE-BOTTOM.jpg",
-    "Exit Url": "/women/clothing/dresses/?discount=20-60",
-    "Headline": "Dresses",
-    "Subline": "Up to 60% Off",
-    "EventLabel": "NA|Women|DRESSESBFCM|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SEGMENT_HEADER_326x304-cw49-b3.jpg",
+    "Exit Url": "/women/clothing/jackets-and-coats/",
+    "Headline": "Luxe Layering",
+    "Subline": "Throw on a coat or jacket and embrace the winter chill.",
+    "EventLabel": "CAT|Women|coatsandjackets|ALL|NA"
   },
   {
     "Placement": "STOP HERE",
@@ -715,7 +715,7 @@
     "Device": "desktop",
     "Image": "#7d02f7",
     "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
-    "Headline": "APP ONLY: ENTER \"18BFCM\" FOR 18% OFF SITEWIDE (S$80 MIN SPEND)",
+    "Headline": "STEP UP YOUR STYLE WITH SHOES FROM AS LOW AS S$15 >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -733,9 +733,9 @@
     "Placement": "skinny-full-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#FFC5D5",
-    "Exit Url": "/women/all-products/?cmpgn_one=payday&csa=womenpayday",
-    "Headline": "PAYDAY REWARD: 18% OFF WITH CODE “OCTPAYDAY” (S$80 MIN SPEND) >",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -745,7 +745,7 @@
     "Device": "desktop",
     "Image": "#7d02f7",
     "Exit Url": "/women/shoes/?price=15-1000&getSKU=66FF4SH477340EGS--1F6E6SH91E6F6DGS--RU506SH28QALMY--RU506SH55VPOMY--RU506SH04HYTMY--RU506SH54CLLMY",
-    "Headline": "APP ONLY: ENTER \"18BFCM\" FOR 18% OFF SITEWIDE (S$80 MIN SPEND)",
+    "Headline": "STEP UP YOUR STYLE WITH SHOES FROM AS LOW AS S$15 >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -763,10 +763,10 @@
     "Placement": "skinny-full-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "Subline": "#FFF",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
     "EventLabel": ""
   },
   {
@@ -775,7 +775,7 @@
     "Device": "desktop",
     "Image": "#7d02f7",
     "Exit Url": "/product-index/mensouterwear/?csa=mensouterwear",
-    "Headline": "APP ONLY: ENTER \"18BFCM\" FOR 18% OFF SITEWIDE (S$80 MIN SPEND)",
+    "Headline": "STAY WARM WITH COATS & OUTERWEAR FROM JUST S$20 EACH >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
@@ -793,10 +793,10 @@
     "Placement": "skinny-full-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "Subline": "#FFF",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
     "EventLabel": ""
   },
   {
@@ -805,7 +805,7 @@
     "Device": "desktop",
     "Image": "#7d02f7",
     "Exit Url": "/product-index/mensouterwear/?csa=mensouterwear",
-    "Headline": "APP ONLY: ENTER \"18BFCM\" FOR 18% OFF SITEWIDE (S$80 MIN SPEND)",
+    "Headline": "STAY WARM WITH COATS & OUTERWEAR FROM JUST S$20 EACH >",
     "Subline": "#FFF",
     "EventLabel": ""
   },
