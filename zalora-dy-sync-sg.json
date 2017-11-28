@@ -44,7 +44,7 @@
     "Gender": "women",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/NEWSWIMWEAR-NOV17-W-N3.jpg",
-    "Exit Url": "/women/clothing/beachwear/new-products/?csa=newswimwear",
+    "Exit Url": "/women/clothing/beachwear/?sort=latest%20arrival&csa=newswimwear",
     "Headline": "Beachside Vibes",
     "Subline": "Fancy a dip? Let our swimwear edit bring you closer to the sea, sand and sun.",
     "EventLabel": "CAT|Women|newswimwear|ALL|NA"
@@ -703,10 +703,10 @@
     "Placement": "skinny-full-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ee7216",
-    "Exit Url": "/singles-day/?csa=thankyou1111",
-    "Headline": "THANK YOU FOR SHOPPING WITH ZALORA THIS 11.11",
-    "Subline": "#FFF",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
     "EventLabel": ""
   },
   {
