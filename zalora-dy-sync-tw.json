@@ -694,10 +694,10 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
+		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
 		"Subline": "#000",
-		"EventLabel": "SAL|Men|menpayday|ALL|NA"
+		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	},
 	{
 		"Placement": "skinny-half-left-men-global",
@@ -724,10 +724,10 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
+		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
 		"Subline": "#000",
-		"EventLabel": "SAL|Men|menpayday|ALL|NA"
+		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	},
 	{
 		"Placement": "skinny-half-left-men-segment",
