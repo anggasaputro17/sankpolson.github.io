@@ -244,7 +244,7 @@
     "Gender": "men",
     "Device": "desktop",
     "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-N2.jpg",
-    "Exit Url": "/product-index/mensbasics/?csa=basicsfrom",
+    "Exit Url": "/product-index/mensbasics/?price=20-10000&csa=basicsfrom",
     "Headline": "Basics From Just S$19.90",
     "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
     "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
