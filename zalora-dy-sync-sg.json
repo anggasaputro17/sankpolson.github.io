@@ -473,31 +473,31 @@
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-TSHIRTSFROM$20-NOV17-M-N2.jpg",
-    "Exit Url": "/product-index/tshirtsandshirts/?csa=teespp",
-    "Headline": "Shirts and Tees From S$20",
-    "Subline": "Basic tops and button-down pieces fit for everyday occasions and more.",
-    "EventLabel": "TRE|men|teespp|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BIRKENSTOCK-NOV17-M-N2.jpg",
+    "Exit Url": "/men/birkenstock/?csa=birkenstockawseventeen",
+    "Headline": "Birkenstock",
+    "Subline": "Slide into the most comfortable sandals you can possibly find.",
+    "EventLabel": "BRA|Men|birkenstockawseventeen|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BESTBRANDS20OFF-NOV17-M-N2.jpg",
-    "Exit Url": "/men/all-products/?brand=burton-menswear-london--topman--puma--under-armour--nike--converse--hollister--calvin-klein--superdry--herschel&csa=bbmens",
-    "Headline": "Best Brands Now at 20% Off",
-    "Subline": "Use code \"BB20\" on Topman and other great brands (S$100 min. spend, exclusions apply).",
-    "EventLabel": "SAL|Men|bbmensbfcm|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-N2.jpg",
+    "Exit Url": "/product-index/mensbasics/?price=20-10000&csa=basicsfrom",
+    "Headline": "Basics From Just S$19.90",
+    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
+    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BFCM-BOTTOMS-UNDER$40-NOV17-M-N3.jpg",
-    "Exit Url": "/product-index/mensbottoms/?price=0-40&csa=bottoms",
-    "Headline": "Bottoms Under S$40",
-    "Subline": "Found the right top? Complement it with the best shorts and trousers here.",
-    "EventLabel": "SAL|Men|bottoms|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CW49-GIFTSETS-NOV17-M-N3.jpg",
+    "Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY&csa=giftsets",
+    "Headline": "Gift Sets Worth Giving",
+    "Subline": "Trust us, you’ll never run out of ideas this festive season.",
+    "EventLabel": "RET|Men|giftsets|ALL|NA"
   },
   {
     "Placement": "mc1",
