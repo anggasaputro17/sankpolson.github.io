@@ -63,11 +63,11 @@
     "Placement": "wcu4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/RPLBUY2GET20OFF-W-NOV17-N2.jpg",
-    "Exit Url": "/women/all-products/?cmpgn_three=rplbuy2get20offcr&csa=rplbuy2get20offcr",
-    "Headline": "The Best Things Come in Twos",
-    "Subline": "Buy 2 and Get 20% off items here",
-    "EventLabel": "SAL|Women|rplbuytwogettwentyoffcr|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ESSENTIALEMBELLISHMENT-NOV17-N2.jpg",
+    "Exit Url": "/women/catalog/?q=embellish&csa=embellish",
+    "Headline": "Essential Embellishments",
+    "Subline": "Give your look a little runway-inspired sparkle",
+    "EventLabel": "TRE|Women|essentialembellishment|ALL|NA"
   },
   {
     "Placement": "wfb1",
