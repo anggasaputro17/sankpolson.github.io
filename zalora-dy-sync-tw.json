@@ -634,10 +634,10 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物! >",
+		"Exit Url": "/online-fever/",
+		"Headline": "12.12網購狂熱，快人一步搶購心頭好 >",
 		"Subline": "#000",
-		"EventLabel": "SAL|Women|womenpayday|ALL|NA"
+		"EventLabel": "SAL|Women|1212teaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-half-left-women-global",
@@ -664,10 +664,10 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/singles-day/",
-		"Headline": "非常感謝您於此次11.11在ZALORA網站購物!）",
+		"Exit Url": "/online-fever/",
+		"Headline": "12.12網購狂熱，快人一步搶購心頭好 >",
 		"Subline": "#000",
-		"EventLabel": "SAL|Women|womenpayday|ALL|NA"
+		"EventLabel": "SAL|Women|1212teaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-half-left-women-segment",
@@ -704,20 +704,20 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/product-index/mensouterwear/",
-		"Headline": "限APP：使用82BFCM享全館82折優惠（需購滿NT$1,300）",
-		"Subline": "#FFF",
-		"EventLabel": "sal|men|mensouterwear|all|na"
+		"Exit Url": "/online-fever/",
+		"Headline": "12.12網購狂熱，快人一步搶購心頭好 >",
+		"Subline": "#000",
+		"EventLabel": "sal|men|1212teaser|all|na"
 	},
 	{
 		"Placement": "skinny-half-right-men-global",
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#000",
-		"Exit Url": "/men/sports/all-products/?discount=10-50",
-		"Headline": "低至5折，趕快入手我們精選的運動裝備>",
+		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
+		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
 		"Subline": "#FFF",
-		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
+		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-men-segment",
@@ -734,19 +734,19 @@
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/product-index/mensouterwear/",
-		"Headline": "限APP：使用82BFCM享全館82折優惠（需購滿NT$1,300）",
-		"Subline": "#FFF",
-		"EventLabel": "sal|men|mensouterwear|all|na"
+		"Exit Url": "/online-fever/",
+		"Headline": "12.12網購狂熱，快人一步搶購心頭好 >",
+		"Subline": "#000",
+		"EventLabel": "sal|men|1212teaser|all|na"
 	},
 	{
 		"Placement": "skinny-half-right-men-segment",
 		"Gender": "men",
 		"Device": "desktop",
 		"Image": "#000",
-		"Exit Url": "/men/sports/all-products/?discount=10-50",
-		"Headline": "低至5折，趕快入手我們精選的運動裝備>",
+		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
+		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
 		"Subline": "#FFF",
-		"EventLabel": "SAL|Men|bfcmteaser|ALL|NA"
+		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	}
 ]
