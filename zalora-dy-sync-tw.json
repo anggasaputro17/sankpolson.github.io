@@ -644,20 +644,20 @@
 		"Gender": "women",
 		"Device": "desktop",
 		"Image": "#ffb202",
-		"Exit Url": "/women/shoes/?price=400-10000&getSKU=RU506SH90OCZMY--D9F83SH8153828GS--BF118SHD2F2CAFGS--F22E6SHBB89A4AGS--F2711SH40B6582GS--84897SHC5B773CGS",
-		"Headline": "限APP：使用82BFCM享全館82折優惠（需購滿NT$1,300）>",
-		"Subline": "#FFF",
-		"EventLabel": "sal|women|singlesday|all|na"
+		"Exit Url": "/online-fever/",
+		"Headline": "12.12網購狂熱，快人一步搶購心頭好 >",
+		"Subline": "#000",
+		"EventLabel": "SAL|Women|1212teaser|ALL|NA"
 	},
 	{
 		"Placement": "skinny-half-right-women-global",
 		"Gender": "women",
 		"Device": "desktop",
-		"Image": "#000",
-		"Exit Url": "/women/clothing/dresses/?discount=20-60",
-		"Headline": " 精選洋裝低至4折>",
+		"Image": "#6BBAB7",
+		"Exit Url": "/women/zalorastyleedit/",
+		"Headline": "發掘更多時尚靈感，跟隨 #ZALORASTYLEEDIT >",
 		"Subline": "#FFF",
-		"EventLabel": "SAL|Women|bfcmteaser|ALL|NA"
+		"EventLabel": "RET|Women|giftsets|ALL|NA"
 	},
 	{
 		"Placement": "skinny-full-women-segment",
