@@ -13,51 +13,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CNYSNEAKPEAK-NOV17-W-HERO-DESKTOP.jpg",
-    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS&csa=cnysneakpeek",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/CNYCW50-DEC17-W-HERO-DESKTOP.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?csa=festivecny",
+    "Headline": "Two’s Better Than One",
+    "Subline": "Who said your December and Chinese New Year shopping can’t go hand in hand?",
+    "EventLabel": "RET|Women|festivecny|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N1.jpg",
-    "Exit Url": "/women/shiseido/?csa=shiseidoawseventeen",
-    "Headline": "Shiseido",
-    "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
-    "EventLabel": "bra|women|shiseidoawseventeen|all|na"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/CW40-RIVERISLAND-ZAP-SEPT17-W-N1.jpg",
+    "Exit Url": "/women/river-island/?sort=latest%20arrival&csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/MELISSA-DEC17-W-N2.jpg",
+    "Exit Url": "/women/melissa/?csa=melissa2awseventeen",
+    "Headline": "Melissa",
+    "Subline": "Take a step in the right direction with shoes designed for creative expression.",
+    "EventLabel": "bra|women|melissa2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/NEWSWIMWEAR-NOV17-W-N3.jpg",
-    "Exit Url": "/women/clothing/beachwear/?sort=latest%20arrival&csa=newswimwear",
-    "Headline": "Beachside Vibes",
-    "Subline": "Fancy a dip? Let our swimwear edit bring you closer to the sea, sand and sun.",
-    "EventLabel": "CAT|Women|newswimwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVEBRANDS-DEC17-W-N3.jpg",
+    "Exit Url": "/women/all-products/?brand=dorothy-perkins--esprit--mango--topshop&color=silver--gold--pink&getSKU=MA193AA0S6JMMY--DO816AA0SB7DMY--DO816AA0SB69MY--TO412AA0RFTGMY--MA193AA0S36RMY--MA193AA0S9MXMY&csa=bestbrands",
+    "Headline": "In the Mood to Celebrate",
+    "Subline": "Stay on-trend and party-ready with Topshop, Esprit and Dorothy Perkins.",
+    "EventLabel": "RET|Women|bestbrands|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/HOWTOWEARYOURBOOTS-NOV17-W-N4.jpg",
-    "Exit Url": "/product-index/bootsandjeans/?csa=howtowearyourboots",
-    "Headline": "Best Staples: Jeans & Boots",
-    "Subline": "Far from basic, our reinvention of this classic pairing is just what you need.",
-    "EventLabel": "CA|Women|howtowearyourboots|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/GIFTUNDER50-DEC17-W-N4.jpg",
+    "Exit Url": "/product-index/gifts-for-women/?price=0-50&csa=giftsunder",
+    "Headline": "Gift Ideas Under S$50",
+    "Subline": "Usher in the season of giving with stocking stuffers for everyone on your list.",
+    "EventLabel": "RET|Women|giftsunder|ALL|NA"
   },
   {
     "Placement": "wfb1",
@@ -103,11 +103,11 @@
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/UNDERARMOUR-NOV17-W-B1.jpg",
-    "Exit Url": "https://www.zalora.sg/under-armour-shop/?csa=underarmourawseventeen",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/LORNAJANE-DEC17-W-B1.jpg",
+    "Exit Url": "https://www.zalora.sg/women/lorna-jane/?csa=lornajaneawseventeen",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "bra|women|underarmourawseventeen|all|na"
+    "EventLabel": "bra|women|lornajaneawseventeen|all|na"
   },
   {
     "Placement": "wfb6",
@@ -123,51 +123,51 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_DRESSES-cw49.jpg",
-    "Exit Url": "/women/clothing/dresses/?csa=dresses",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festiveheels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/shoes/heels/?color=navy--pink--gold--silver--blue&getSKU=GU020SH0S7KQMY--DO816SH0SB6WMY--63F10SH22F9C7EGS--A5B39SH4C24082GS--50D6EZZ02E4346GS&csa=festiveheels",
     "Headline": "NA",
-    "Subline": "SHOP DRESSES >",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "Subline": "HOLIDAY HEELS >",
+    "EventLabel": "RET|Women|festiveheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_HEELS-cw49.jpg",
-    "Exit Url": "/women/shoes/heels/?csa=shoes",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festivejewels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/accessories/jewellery/?getSKU=RI009AC0S9U9MY--ON573AC0S429MY--EL474AC0S1ZMMY&csa=festivejewels",
     "Headline": "NA",
-    "Subline": "SHOP HEELS >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "JOLLY JEWELLERY >",
+    "EventLabel": "RET|Women|festivejewels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_BEAUTY-cw49.jpg",
-    "Exit Url": "/women/beauty/?csa=beauty",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festivedresses0all0na_women_375x500.jpg",
+    "Exit Url": "/women/clothing/dresses/?category_id=945--2344&color=blue--gold--pink--silver--navy&getSKU=-BD7BFZZA058326GS--LI571AA0S9X3MY--PR614AA0RZB8MY--PR614AA0RF3MMY--DO816AA0SB6AMY--79117AAE61BF48GS&csa=festivedresses",
     "Headline": "NA",
-    "Subline": "SHOP BEAUTY >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "DECEMBER DRESSES >",
+    "EventLabel": "RET|Women|festivedresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_SKIRTS-cw49.jpg",
-    "Exit Url": "/women/clothing/skirts/?csa=skirts",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festiveclutches0all0na_women_300x198.jpg",
+    "Exit Url": "/women/bags/clutches/?getSKU=CD8D9ACF8AE35CGS--MI665AC44FXJMY--VE975AC0SA7OMY&csa=festiveclutches",
     "Headline": "NA",
-    "Subline": "SHOP SKIRTS >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "CHERISHED CLUTCHES >",
+    "EventLabel": "RET|Women|festiveclutches|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_TOPS-cw49.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/?csa=tops",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festivemakeup0all0na_women_300x198.jpg",
+    "Exit Url": "/women/beauty/make-up/?getSKU=LO618BE0GAPBSG--BE114BE0FJTUSG--SH514BE0GQ5QSG&csa=festivemakeup",
     "Headline": "NA",
-    "Subline": "SHOP TOPS >",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "MAGICAL MAKEUP >",
+    "EventLabel": "RET|Women|festivemakeup|ALL|NA"
   },
   {
     "Placement": "wcu1",
@@ -223,51 +223,51 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERSHOES-NOV17-M-HERO-DESKTOP.jpg",
-    "Exit Url": "/men/shoes/?csa=bestsellershoes",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "CAT|Men|bestsellershoes|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVENEWARRIVALS-DEC17-M-HERO-DESKTOP.jpg",
+    "Exit Url": "/product-index/festive-wear/?csa=festivenewarrivals",
+    "Headline": "Festive Season",
+    "Subline": "Be the centre of attention for all the right reasons.",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BIRKENSTOCK-NOV17-M-N1.jpg",
-    "Exit Url": "/men/birkenstock/?csa=birkenstockawseventeen",
-    "Headline": "Birkenstock",
-    "Subline": "Slide into the most comfortable sandals you can possibly find.",
-    "EventLabel": "BRA|Men|birkenstockawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/RAYBAN-DEC17-M-N1.jpg",
+    "Exit Url": "/men/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "Keep these lifestyle shades handy for your next big moment.",
+    "EventLabel": "bra|men|raybanawseventeen|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-N2.jpg",
-    "Exit Url": "/product-index/mensbasics/?price=20-10000&csa=basicsfrom",
-    "Headline": "Basics From Just S$19.90",
-    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/KICKINTHEYEAR-DEC17-M-N2.jpg",
+    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=festiveshoes",
+    "Headline": "Just For Kicks",
+    "Subline": "Make loafers your choice of shoes for all the December parties.",
+    "EventLabel": "RET|Men|festiveshoes|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CW49-GIFTSETS-NOV17-M-N3.jpg",
-    "Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY&csa=giftsets",
-    "Headline": "Gift Sets Worth Giving",
-    "Subline": "Trust us, you’ll never run out of ideas this festive season.",
-    "EventLabel": "RET|Men|giftsets|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVEBRANDS-DEC17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--mango-man--selected-homme--topman&getSKU=MA449AA0RAY5MY--MA449AA84BRZMY--MA449AA0RAY2MY&csa=festivebrands",
+    "Headline": "Good Vibes Only",
+    "Subline": "Score points wherever you go, thanks to Selected Homme, Topman, Esprit and more.",
+    "EventLabel": "RET|Men|festivebrands|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERBRANDS-NOV17-M-N1.jpg",
-    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--adidas--burton-menswear-london--jack-jones--only-sons--selected-homme--topman&csa=bestsellerbrands",
-    "Headline": "Top of the Line",
-    "Subline": "Don’t miss out on best sellers from Jack & Jones, Selected Homme and more.",
-    "EventLabel": "TRE|Men|bestsellerbrands|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/GIFTUNDER50-DEC17-M-N4.jpg",
+    "Exit Url": "/product-index/gifts-for-him/?price=0-50&csa=giftsunder",
+    "Headline": "Gift Ideas Under S$50",
+    "Subline": "Usher in the season of giving with grooming needs, bags and other accessories.",
+    "EventLabel": "RET|Men|giftsunder|ALL|NA"
   },
   {
     "Placement": "mfb1",
@@ -333,51 +333,51 @@
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Jackets-CW49.jpg",
-    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festivesneakers0all0na_men_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=festivesneakers",
     "Headline": "NA",
-    "Subline": "SHOP JACKETS >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "SHOP SNEAKERS >",
+    "EventLabel": "RET|Men|festivesneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_WATCHES-CW49.jpg",
-    "Exit Url": "/men/watches/?csa=watches",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festiveouterwear0all0na_men_300x198.jpg",
+    "Exit Url": "/men/clothing/?category_id=9419--9420--9422--9421&csa=festiveouterwear",
     "Headline": "NA",
-    "Subline": "SHOP WATCHES >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "SHOP COATS & JACKETS >",
+    "EventLabel": "RET|Men|festiveouterwear|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C3_375x500_Longpants-CW49.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festivenewarrivals0all0na_men_375X500.jpg",
+    "Exit Url": "/men/new-products/?color=blue--gold--red--silver--white&csa=festivenewarrivals",
     "Headline": "NA",
-    "Subline": "SHOP PANTS >",
-    "EventLabel": "CAT|Men|pants|ALL|NA"
+    "Subline": "SHOP NEW ARRIVALS >",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Sports-CW49.jpg",
-    "Exit Url": "/men/sports/?csa=sports",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festivejeans0all0na_men_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/?csa=festivejeans",
     "Headline": "NA",
-    "Subline": "SHOP SPORTS >",
-    "EventLabel": "CAT|Men|sports|ALL|NA"
+    "Subline": "SHOP DENIM JEANS >",
+    "EventLabel": "RET|Men|festivejeans|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Backpacks-CW49.jpg",
-    "Exit Url": "/men/bags/backpacks/?csa=backpacks",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festiveblue0all0na_men_300x198.jpg",
+    "Exit Url": "/men/all-products/?color=blue&csa=festiveblue",
     "Headline": "NA",
-    "Subline": "SHOP BACKPACKS >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "SHOP EVERYTHING BLUE >",
+    "EventLabel": "RET|Men|festiveblue|ALL|NA"
   },
   {
     "Placement": "WOMEN MOBILE WEB",
@@ -393,61 +393,61 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CNYSNEAKPEAK-NOV17-W-HERO-MOBILE.jpg",
-    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS&csa=cnysneakpeek",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/CNYCW50-DEC17-W-HERO-MOBILE.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?csa=festivecny",
+    "Headline": "Two’s Better Than One",
+    "Subline": "Who said your December and Chinese New Year shopping can’t go hand in hand?",
+    "EventLabel": "RET|Women|festivecny|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/SHISEIDO-NOV17-W-N2.jpg",
-    "Exit Url": "/women/shiseido/?csa=shiseidoawseventeen",
-    "Headline": "Shiseido",
-    "Subline": "Give your skin the care it deserves and receive a free gift with selected purchases.",
-    "EventLabel": "SAL|Women|outerwearbelow|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/CW40-RIVERISLAND-ZAP-SEPT17-W-N2.jpg",
+    "Exit Url": "/women/river-island/?sort=latest%20arrival&csa=riverislandawseventeen",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love.",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BETSY-NOV17-W-N2.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/MELISSA-DEC17-W-N2.jpg",
+    "Exit Url": "/women/melissa/?csa=melissa2awseventeen",
+    "Headline": "Melissa",
+    "Subline": "Take a step in the right direction with shoes designed for creative expression.",
+    "EventLabel": "bra|women|melissa2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/NEWSWIMWEAR-NOV17-W-N3.jpg",
-    "Exit Url": "/women/clothing/beachwear/new-products/?csa=newswimwear",
-    "Headline": "Beachside Vibes",
-    "Subline": "Fancy a dip? Let our swimwear edit bring you closer to the sea, sand and sun.",
-    "EventLabel": "CAT|Women|newswimwear|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVEBRANDS-DEC17-W-N3.jpg",
+    "Exit Url": "/women/all-products/?brand=dorothy-perkins--esprit--mango--topshop&color=silver--gold--pink&getSKU=MA193AA0S6JMMY--DO816AA0SB7DMY--DO816AA0SB69MY--TO412AA0RFTGMY--MA193AA0S36RMY--MA193AA0S9MXMY&csa=bestbrands",
+    "Headline": "In the Mood to Celebrate",
+    "Subline": "Stay on-trend and party-ready with Topshop, Esprit and Dorothy Perkins.",
+    "EventLabel": "RET|Women|bestbrands|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_DRESSES-cw49.jpg",
-    "Exit Url": "/women/clothing/dresses/?csa=dresses",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festiveheels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/shoes/heels/?color=navy--pink--gold--silver--blue&getSKU=GU020SH0S7KQMY--DO816SH0SB6WMY--63F10SH22F9C7EGS--A5B39SH4C24082GS--50D6EZZ02E4346GS&csa=festiveheels",
     "Headline": "NA",
-    "Subline": "SHOP DRESSES >",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "Subline": "HOLIDAY HEELS >",
+    "EventLabel": "RET|Women|festiveheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_BEAUTY-cw49.jpg",
-    "Exit Url": "/women/beauty/?csa=beauty",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0women0festivedresses0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/dresses/?category_id=945--2344&color=blue--gold--pink--silver--navy&getSKU=-BD7BFZZA058326GS--LI571AA0S9X3MY--PR614AA0RZB8MY--PR614AA0RF3MMY--DO816AA0SB6AMY--79117AAE61BF48GS&csa=festivedresses",
     "Headline": "NA",
-    "Subline": "SHOP BEAUTY >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "DECEMBER DRESSES >",
+    "EventLabel": "RET|Women|festivedresses|ALL|NA"
   },
   {
     "Placement": "MEN MOBILE WEB",
@@ -463,61 +463,61 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BESTSELLERSHOES-NOV17-M-HERO-MOBILE.jpg",
-    "Exit Url": "/men/shoes/?csa=bestsellershoes",
-    "Headline": "NA",
-    "Subline": "NA",
-    "EventLabel": "CAT|Men|bestsellershoes|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVENEWARRIVALS-DEC17-M-HERO-MOBILE.jpg",
+    "Exit Url": "/product-index/festive-wear/?csa=festivenewarrivals",
+    "Headline": "Festive Season",
+    "Subline": "Be the centre of attention for all the right reasons.",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BIRKENSTOCK-NOV17-M-N2.jpg",
-    "Exit Url": "/men/birkenstock/?csa=birkenstockawseventeen",
-    "Headline": "Birkenstock",
-    "Subline": "Slide into the most comfortable sandals you can possibly find.",
-    "EventLabel": "BRA|Men|birkenstockawseventeen|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/RAYBAN-DEC17-M-N2.jpg",
+    "Exit Url": "/men/ray-ban/?csa=raybanawseventeen",
+    "Headline": "Ray-Ban",
+    "Subline": "Keep these lifestyle shades handy for your next big moment.",
+    "EventLabel": "bra|men|raybanawseventeen|all|na"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-N2.jpg",
-    "Exit Url": "/product-index/mensbasics/?price=20-10000&csa=basicsfrom",
-    "Headline": "Basics From Just S$19.90",
-    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/KICKINTHEYEAR-DEC17-M-N2.jpg",
+    "Exit Url": "/men/shoes/loafers-boat-shoes/?csa=festiveshoes",
+    "Headline": "Just For Kicks",
+    "Subline": "Make loafers your choice of shoes for all the December parties.",
+    "EventLabel": "RET|Men|festiveshoes|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/CW49-GIFTSETS-NOV17-M-N3.jpg",
-    "Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY&csa=giftsets",
-    "Headline": "Gift Sets Worth Giving",
-    "Subline": "Trust us, you’ll never run out of ideas this festive season.",
-    "EventLabel": "RET|Men|giftsets|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVEBRANDS-DEC17-M-N3.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--mango-man--selected-homme--topman&getSKU=MA449AA0RAY5MY--MA449AA84BRZMY--MA449AA0RAY2MY&csa=festivebrands",
+    "Headline": "Good Vibes Only",
+    "Subline": "Score points wherever you go, thanks to Selected Homme, Topman, Esprit and more.",
+    "EventLabel": "RET|Men|festivebrands|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Jackets-CW49.jpg",
-    "Exit Url": "/men/clothing/jackets-coats/?csa=jackets",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festivesneakers0all0na_men_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=festivesneakers",
     "Headline": "NA",
-    "Subline": "SHOP JACKETS >",
-    "EventLabel": "CAT|Men|jackets|ALL|NA"
+    "Subline": "SHOP SNEAKERS >",
+    "EventLabel": "RET|Men|festivesneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/C1245_300x198_Longpants-CW49.jpg",
-    "Exit Url": "/men/clothing/pants/?csa=pants",
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/ret0men0festivenewarrivals0all0na_men_300x198.jpg",
+    "Exit Url": "/men/new-products/?color=blue--gold--red--silver--white&csa=festivenewarrivals",
     "Headline": "NA",
-    "Subline": "SHOP PANTS >",
-    "EventLabel": "CAT|Men|pants|ALL|NA"
+    "Subline": "SHOP NEW ARRIVALS >",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "UNISEX HOMEPAGE",
@@ -543,11 +543,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-sg.zacdn.com/cms/cw48/Nov17/BASICFROM$1990-NOV17-M-HOMEPAGE-BANNER.jpg",
-    "Exit Url": "/product-index/mensbasics/?csa=basicsfrom",
-    "Headline": "Basics From Just S$19.90",
-    "Subline": "Leave room in your wardrobe for essentials that never compromise on style.",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-sg.zacdn.com/cms/1212/Dec17/FESTIVENEWARRIVALS-DEC17-M-HOMEPAGE-BOTTOM.jpg",
+    "Exit Url": "/product-index/festive-wear/?csa=festivenewarrivals",
+    "Headline": "Festive Season",
+    "Subline": "Be the centre of attention for all the right reasons.",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "ub2",
@@ -675,7 +675,7 @@
     "Device": "desktop",
     "Image": "#ffb202",
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Headline": "ENJOY 1 YEAR OF UNLIMITED NEXT DAY DELIVERY FOR JUST $14.90 >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -723,9 +723,9 @@
     "Placement": "skinny-half-right-women-global",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#98bff1",
+    "Exit Url": "/women/zalorastyleedit/?csa=zalorastyleedit",
+    "Headline": "DISCOVER MORE FASHION INSPIRATION WITH #ZALORASTYLEEDIT >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -753,9 +753,9 @@
     "Placement": "skinny-half-right-women-segment",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#98bff1",
+    "Exit Url": "/women/zalorastyleedit/?csa=zalorastyleedit",
+    "Headline": "DISCOVER MORE FASHION INSPIRATION WITH #ZALORASTYLEEDIT >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -765,7 +765,7 @@
     "Device": "desktop",
     "Image": "#ffb202",
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Headline": "ENJOY 1 YEAR OF UNLIMITED NEXT DAY DELIVERY FOR JUST $14.90 >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -783,9 +783,9 @@
     "Placement": "skinny-half-right-men-global",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#98bff1",
+    "Exit Url": "/men/zalorastyleedit/?csa=zalorastyleedit",
+    "Headline": "DISCOVER MORE FASHION INSPIRATION WITH #ZALORASTYLEEDIT >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -795,7 +795,7 @@
     "Device": "desktop",
     "Image": "#ffb202",
     "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Headline": "ENJOY 1 YEAR OF UNLIMITED NEXT DAY DELIVERY FOR JUST $14.90 >",
     "Subline": "#000",
     "EventLabel": ""
   },
@@ -813,9 +813,9 @@
     "Placement": "skinny-half-right-men-segment",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "#ffb202",
-    "Exit Url": "/zalora-now/?csa=ZaloraNow",
-    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Image": "#98bff1",
+    "Exit Url": "/men/zalorastyleedit/?csa=zalorastyleedit",
+    "Headline": "DISCOVER MORE FASHION INSPIRATION WITH #ZALORASTYLEEDIT >",
     "Subline": "#000",
     "EventLabel": ""
   }
