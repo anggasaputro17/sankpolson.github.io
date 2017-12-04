@@ -3,61 +3,61 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-W-HERO.jpg",
-    "Exit Url": "/women/new-products/?brand=zalia--mango--nike--zalora--velvet--topshop--river-island--something-borrowed--dorothy-perkins--aldo&gender=women&csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/TITANXNAELOFAR-DEC17-HERO-DESK.jpg",
+    "Exit Url": "/women/titan-x-naelofar/?csa=titanxnaelofarlaunch",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|newarrivals|ALL|NA"
+    "EventLabel": "BRA|Women|titanxnaelofarlaunch|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LIPSTICKLOVES-NOV17-N1-1.jpg",
-    "Exit Url": "/women/beauty/lips/?csa=lipsticloves",
-    "Headline": "Lipstick Loves",
-    "Subline": "Transform your look with new lip colours",
-    "EventLabel": "CAT|Women|lipsticloves|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/RIVERISLAND-OCT17-ZAP-W-N1-UPDATED.jpg",
+    "Exit Url": "/women/river-island/?sort=latest%20arrival&csa=riverislandzap",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love",
+    "EventLabel": "BRA|Women|riverisland|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BETSYZAP-NOV17-N2.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyzap",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/WOMEN-CU4-MUSLIM_WEAR.jpg",
+    "Exit Url": "/women/pakaian-tradisional/new-products/?csa=muslimwearmusthaves",
+    "Headline": "Muslim Wear Must-Haves",
+    "Subline": "Shop our latest arrivals now",
+    "EventLabel": "CAT|Women|muslimwearmusthaves|ALL|NA"
   },
   {
     "Placement": "wcu1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-W-ZAP-NOV17-N2-1.jpg",
-    "Exit Url": "/women/timberland/?csa=timberlandzap",
-    "Headline": "Timberland",
-    "Subline": "Venture into new style territory with boots from this familiar and iconic brand",
-    "EventLabel": "BRA|Women|timberlandzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/WATCES-DEC17-W-N2.jpg",
+    "Exit Url": "/women/watches/all-products/?csa=watches",
+    "Headline": "Watches",
+    "Subline": "Shop from chronographs to smart watches",
+    "EventLabel": "CAT|Women|watches|ALL|NA"
   },
   {
     "Placement": "wcu2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/PARTJEWELLERY-W-NOV17-N1.jpg",
-    "Exit Url": "/women/accessories/jewellery/?csa=partyreadyjewellery",
-    "Headline": "Party-ready Jewellery",
-    "Subline": "Dress up with new earrings, necklaces, bracelets and more",
-    "EventLabel": "CAT|Women|partyreadyjewellery|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/ELLIGERMANY-NOV17-W-N1.jpg",
+    "Exit Url": "/women/elli-germany?csa=elligermany",
+    "Headline": "Elli germany christmas set",
+    "Subline": "Festive jewellery sets now available",
+    "EventLabel": "BRA|Women|elligermany|ALL|NA"
   },
   {
     "Placement": "wcu3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/HOTTESTSKIRTS-W-NOV17-N1-GREEN.jpg",
-    "Exit Url": "/women/new-products/clothing/skirts/?csa=hottestskirts",
-    "Headline": "The Hottest Skirts",
-    "Subline": "Shop the latest style staple",
-    "EventLabel": "CAT|Women|hottestskirts|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSEDIT-DEC17-W-N1.jpg",
+    "Exit Url": "/women/sport/all-products/?csa=sportsedit",
+    "Headline": "The Sports Edit",
+    "Subline": "Make this the starting point of your fitsness journey & shop all the gear you need",
+    "EventLabel": "CAT|Women|sportsedit|ALL|NA"
   },
   {
     "Placement": "wcu4",
@@ -83,51 +83,51 @@
     "Placement": "wfb2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/COSRXHERMO-NOV17-B1.jpg",
-    "Exit Url": "/women/beauty/cosrx/?csa=cosrx",
+    "Image": "https://static-my.zacdn.com/cms/dy/NYX-OCY17-B1.jpg",
+    "Exit Url": "/women/nyx-professional-makeup/?csa=nyx",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|cosrx|ALL|NA"
+    "EventLabel": "BRA|Women|nyx|ALL|NA"
   },
   {
     "Placement": "wfb3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/GLAMX-NOV17-B1.jpg",
-    "Exit Url": "/women/glam-x/?csa=glamx",
+    "Image": "https://static-my.zacdn.com/cms/dy/ADIDAS-AUG17-W-B1.jpg",
+    "Exit Url": "/women/adidas/?csa=adidas",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|glamx|ALL|NA"
+    "EventLabel": "BRA|Women|adidas|ALL|NA"
   },
   {
     "Placement": "wfb4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LANEIGE-DELIGHTSPOP-NOV17-B1.jpg",
-    "Exit Url": "/women/laneige/?csa=laneige",
+    "Image": "https://static-my.zacdn.com/cms/dy/WANDERLUST-DEC17-W-B1.jpg",
+    "Exit Url": "/women/wanderlust-co/?csa=wanderlustco",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|laneige|ALL|NA"
+    "EventLabel": "BRA|Women|wanderlustco|ALL|NA"
   },
   {
     "Placement": "wfb5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/REDSREVENGE-DEC16-B1-6.jpg",
-    "Exit Url": "/women/red-s-revenge/?csa=redsrevenge",
+    "Image": "https://static-my.zacdn.com/cms/dy/AQEELAMUSLIMAHWEAR-OCT17-B1.jpg",
+    "Exit Url": "/women/aqeela-muslimah-wear/?csa=aqeelah",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|redsrevenge|ALL|NA"
+    "EventLabel": "BRA|Women|aqeelah|ALL|NA"
   },
   {
     "Placement": "wfb6",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ZHUCO-NOV17-B1.jpg",
-    "Exit Url": "/women/zhuco-cosmetics/?csa=zhucocosmetics",
+    "Image": "https://static-my.zacdn.com/cms/dy/LANVIN-OCT17-B1.jpg",
+    "Exit Url": "/women/-lanvin/?csa=lanvin",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Women|zhucocosmetics|ALL|NA"
+    "EventLabel": "BRA|Women|lanvin|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -183,131 +183,131 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/BESTSELLERSHOES-NOV17-HERO-DESK.jpg",
-    "Exit Url": "/men/shoes/?csa=bestsellershoes",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-DEC17-M-HERO-DESK.jpg",
+    "Exit Url": "/men/new-products/?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|bestsellershoes|ALL|NA"
+    "EventLabel": "SAL|Men|newarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-M-ZAP-NOV17-N1.jpg",
-    "Exit Url": "/men/timberland/?csa=timberlandzap",
-    "Headline": "Timberland",
-    "Subline": "Venture into new style territory with boots from this familiar and iconic brand",
-    "EventLabel": "BRA|Men|timberlandzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N1.jpg",
+    "Exit Url": "/men/zalora/?csa=zalora",
+    "Headline": "Zalora",
+    "Subline": "Shop our must-haves now",
+    "EventLabel": "BRA|Men|zalora|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/27112017-DENIMDUTY-M-N2-1.jpg",
-    "Exit Url": "/men/new-products/clothing/jeans/?csa=denimduty",
-    "Headline": "Denim Duty",
-    "Subline": "Fuss-free jeans for the modern man",
-    "EventLabel": "TRE|Men|denimduty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/LOAFERS-M-NOV17-N2.jpg",
+    "Exit Url": "/men/shoes/loafers/?csa=loafers",
+    "Headline": "Just for Kicks",
+    "Subline": "Make loafers and boat shoes your choice of shoes for all the December parties",
+    "EventLabel": "CAT|Men|loafers|ALL|NA"
   },
   {
     "Placement": "mcu1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "http://static-my.zacdn.com/cms/dy/LOAFERS-M-NOV17-N2.jpg",
-    "Exit Url": "/men/shoes/loafers/?csa=loafers",
-    "Headline": "Loafers",
-    "Subline": "Go from smart to casual effortlessly",
-    "EventLabel": "CAT|Men|loafers|ALL|NA"
+    "Image": "http://static-my.zacdn.com/cms/dy/WATCHES-DEC17-M-N2.jpg",
+    "Exit Url": "/men/watches/all-products/?csa=watches",
+    "Headline": "Watches",
+    "Subline": "Shop from chronographs to smart watches",
+    "EventLabel": "CAT|Men|watches|ALL|NA"
   },
   {
     "Placement": "mcu2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SHIRTSFOROCCASION-M-NOV17-N1.jpg",
-    "Exit Url": "/men/clothing/shirts/?age=0-60&csa=shirtsforeveryoccasion",
-    "Headline": "Shirts for Every Occasion",
-    "Subline": "Shop our latest arrivals now",
-    "EventLabel": "CAT|MEN|shirtsforeveryoccasion|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SHIRTS-DEC17-M-N1.jpg",
+    "Exit Url": "/men/clothing/shirts/?csa=shirts",
+    "Headline": "Shirts",
+    "Subline": "Fit for all occasions",
+    "EventLabel": "CAT|MEN|shirts|ALL|NA"
   },
   {
     "Placement": "mcu3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-OCT17-N1.jpg",
-    "Exit Url": "/men/all-products/watches/?csa=dressupwithwatches",
-    "Headline": "Dress Up with Watches",
-    "Subline": "Shop from chronographs to smart watches",
-    "EventLabel": "TRE|Men|dressupwithwatches|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/COSYCUTS-M-DEC17-N1.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=pants",
+    "Headline": "Cosy Cuts",
+    "Subline": "Found the right top? Complement it with the best pants",
+    "EventLabel": "CAT|Men|pants|ALL|NA"
   },
   {
     "Placement": "mcu4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/SUNGLASSES-M-NOV17-N2.jpg",
-    "Exit Url": "/men/sunglasses/?csa=sunglasses",
-    "Headline": "Must-Have Sunglasses",
-    "Subline": "Update your look with new shades",
-    "EventLabel": "CAT|Men|sunglasses|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTSEDIT-DEC17-M-N2.jpg",
+    "Exit Url": "/men/sport/all-products/?csa=sport",
+    "Headline": "The Sports Edit",
+    "Subline": "Make this the starting point of your fitness journey & shop all the gear you need",
+    "EventLabel": "CAT|Men|sport|ALL|NA"
   },
   {
     "Placement": "mfb1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-B1.jpg",
-    "Exit Url": "/men/topman/?csa=topman",
+    "Image": "https://static-my.zacdn.com/cms/dy/BURTON-MAR17-B1.jpg",
+    "Exit Url": "/men/burton-menswear-london/?csa=burtonmenswearlondon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|topman|ALL|NA"
+    "EventLabel": "BRA|Men|burtonmenswearlondon|ALL|NA"
   },
   {
     "Placement": "mfb2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/CW40-ZAP-ALDO-SEPT17-B1.jpg",
-    "Exit Url": "/men/aldo/?csa=aldo",
+    "Image": "https://static-my.zacdn.com/cms/dy/JAXON-AUGUST17-B1.jpg",
+    "Exit Url": "/men/jaxon/?csa=jaxon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|aldo|ALL|NA"
+    "EventLabel": "BRA|Men|jaxon|ALL|NA"
   },
   {
     "Placement": "mfb3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/FOSSIL-NOV17-M-B1.jpg",
-    "Exit Url": "/men/fossil/?csa=fossil",
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-M-B1.jpg",
+    "Exit Url": "/men/calvin-klein/?csa=calvinklein",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|fossil|ALL|NA"
+    "EventLabel": "BRA|Men|calvinklein|ALL|NA"
   },
   {
     "Placement": "mfb4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/ESPRIT-OCT17-70OFF-ZAP-M-B1.jpg",
-    "Exit Url": "/men/esprit/?csa=esprit",
+    "Image": "https://static-my.zacdn.com/cms/dy/CONVERSE-JUNE17-B1.jpg",
+    "Exit Url": "/men/converse/?csa=converse",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|esprit|ALL|NA"
+    "EventLabel": "BRA|Men|converse|ALL|NA"
   },
   {
     "Placement": "mfb5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/VANSPEANUTS-JUNE17-M-B1.jpg",
-    "Exit Url": "/men/vans/?csa=vans",
+    "Image": "https://static-my.zacdn.com/cms/dy/COTTONON-MAY17-M-B1.jpg",
+    "Exit Url": "/men/cotton-on/?csa=cottonon",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|vans|ALL|NA"
+    "EventLabel": "BRA|Men|cottonon|ALL|NA"
   },
   {
     "Placement": "mfb6",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-my.zacdn.com/cms/dy/LEVIS-45OFF-FEB17-B1.jpg",
-    "Exit Url": "/men/levis/?csa=levis",
+    "Image": "https://static-my.zacdn.com/cms/dy/FACTORIE-DEC16-M-B1-6.jpg",
+    "Exit Url": "/men/factorie/?csa=factorie",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "BRA|Men|levis|ALL|NA"
+    "EventLabel": "BRA|Men|factorie|ALL|NA"
   },
   {
     "Placement": "mc1",
@@ -363,31 +363,31 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALSNOV17-W-HERO-MOB.jpg",
-    "Exit Url": "/women/new-products/?brand=zalia--mango--nike--zalora--velvet--topshop--river-island--something-borrowed--dorothy-perkins--aldo&gender=women&csa=newarrivals",
+    "Image": "https://static-my.zacdn.com/cms/dy/TITANXNAELOFAR-DEC17-HERO-MOB.jpg",
+    "Exit Url": "/women/titan-x-naelofar/?csa=titanxnaelofarlaunch",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Women|newarrivals|ALL|NA"
+    "EventLabel": "BRA|Women|titanxnaelofarlaunch|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/BETSYZAP-NOV17-N2.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyzap",
-    "Headline": "Betsy",
-    "Subline": "British-inspired shoes designed for work, play and everything else.",
-    "EventLabel": "BRA|Women|betsyzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/RIVERISLAND-OCT17-ZAP-W-N2.jpg",
+    "Exit Url": "/women/river-island/?sort=latest%20arrival&csa=riverislandzap",
+    "Headline": "River Island",
+    "Subline": "Get the new outfit you truly deserve, from the brand we know you’ll love",
+    "EventLabel": "BRA|Women|riverisland|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-W-ZAP-NOV17-N2-1.jpg",
-    "Exit Url": "/women/timberland/?csa=timberlandzap",
-    "Headline": "Timberland",
-    "Subline": "Venture into new style territory with boots from this familiar and iconic brand",
-    "EventLabel": "BRA|Women|timberlandzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/WOMEN-CU4-MUSLIM_WEAR.jpg",
+    "Exit Url": "/women/pakaian-tradisional/new-products/?csa=muslimwearmusthaves",
+    "Headline": "Muslim Wear Must-Haves",
+    "Subline": "Shop our latest arrivals now",
+    "EventLabel": "CAT|Women|muslimwearmusthaves|ALL|NA"
   },
   {
     "Placement": "wc1",
@@ -413,31 +413,31 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/BESTSELLERSHOES-NOV17-HERO-MOB.jpg",
-    "Exit Url": "/men/shoes/?csa=bestsellershoes",
+    "Image": "https://static-my.zacdn.com/cms/dy/NEWARRIVALS-DEC17-M-HERO-MOB.jpg",
+    "Exit Url": "/men/new-products/?csa=newarrivals",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|bestsellershoes|ALL|NA"
+    "EventLabel": "SAL|Men|newarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/TIMBERLAND-M-ZAP-NOV17-N2.jpg",
-    "Exit Url": "/men/timberland/?csa=timberlandzap",
-    "Headline": "Timberland",
-    "Subline": "Venture into new style territory with boots from this familiar and iconic brand",
-    "EventLabel": "BRA|Men|timberlandzap|ALL|ZAP"
+    "Image": "https://static-my.zacdn.com/cms/dy/ZALORA-OCT17-N2.jpg",
+    "Exit Url": "/men/zalora/?csa=zalora",
+    "Headline": "Zalora",
+    "Subline": "Shop our must-haves now",
+    "EventLabel": "BRA|Men|zalora|ALL|NA"
   },
   {
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-my.zacdn.com/cms/dy/27112017-DENIMDUTY-M-N2-1.jpg",
-    "Exit Url": "/men/new-products/clothing/jeans/?csa=denimduty",
-    "Headline": "Denim Duty",
-    "Subline": "Fuss-free jeans for the modern man",
-    "EventLabel": "TRE|Men|denimduty|ALL|NA"
+    "Image": "https://static-my.zacdn.com/cms/dy/LOAFERS-M-NOV17-N2.jpg",
+    "Exit Url": "/men/shoes/loafers/?csa=loafers",
+    "Headline": "Just for Kicks",
+    "Subline": "Make loafers and boat shoes your choice of shoes for all the December parties",
+    "EventLabel": "CAT|Men|loafers|ALL|NA"
   },
   {
     "Placement": "mc1",
