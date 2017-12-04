@@ -3,51 +3,51 @@
     "Placement": "wh1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/segmentherow.jpg",
-    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wSEGMENT_HERO_996x500_CTA.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=8C52BAABDBC161GS--9A9F9AA7CA4C3FGS--4B92AAAFBB8BEDGS--38E21AAD192B0EGS--D60B2AA6FD9A91GS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
+    "EventLabel": "RET|Women|festivecny|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanN1_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/women/ray-ban/?csa=raybanawseventeen",
-    "Headline": "Ray-Ban",
-    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
-    "EventLabel": "bra|women|raybanawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN1_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/women/river-island/",
+    "Headline": "River Island",
+    "Subline": "精選品牌，立即擁有一直想要的單品",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/betsyN2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/melissa/",
+    "Headline": "Melissa",
+    "Subline": "創意設計的鞋子，踏出正確的一步",
+    "EventLabel": "bra|women|melissa2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N3w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/clothing/jackets-and-coats/?getSKU=456F9ZZB5C6D66GS",
-    "Headline": "奢華層次穿搭",
-    "Subline": "穿上大衣外套，讓這個冬天保暖又時尚",
-    "EventLabel": "CAT|Women|coatsandjackets|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/all-products/?brand=dorothy-perkins--esprit--mango--topshop&color=粉紅色--金色--銀色&getSKU=MA193AA0S6JMMY--DO816AA0SB7DMY--DO816AA0SB69MY--MA193AA0S36RMY--MA193AA0S9MXMY--DO816AA0S79TMY----DO816AA0SB63MY--MA193AA0RVZQMY",
+    "Headline": "歡慶佳節",
+    "Subline": "穿上Topshop、Esprit及Dorothy Perkins服飾，領先潮流和派對時尚",
+    "EventLabel": "RET|Women|bestbrands|ALL|NA"
   },
   {
     "Placement": "wn4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N4w_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/product-index/bootsandjeans",
-    "Headline": "時尚絕配：牛仔褲和靴子",
-    "Subline": "經典簡約穿搭，不變的時尚",
-    "EventLabel": "CA|Women|howtowearyourboots|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/product-index/gifts-for-women/?price=0-1000",
+    "Headline": "聖誕禮品低至NT$1000",
+    "Subline": "在這聖誕節，向心愛的人送上最真摯的祝福",
+    "EventLabel": "RET|Women|giftsunder|ALL|NA"
   },
 	{
 		"Placement": "wcu1",
@@ -153,111 +153,111 @@
     "Placement": "wc1",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_DRESSES.jpg",
-    "Exit Url": "/women/clothing/dresses/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festiveheels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/shoes/heels/?color=綠色--海軍藍色--粉紅色--銀色--金色藍色&getSKU=49B37SHE6F3E5FGS--GU020SH0S7KQMY--DO816SH0SB6WMY--63F10SH22F9C7EGS--A5B39SH4C24082GS--50D6EZZ02E4346GS",
     "Headline": "NA",
-    "Subline": "選購洋裝 >",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "Subline": "休閒高跟鞋 >",
+    "EventLabel": "RET|Women|festiveheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_HEELS.jpg",
-    "Exit Url": "/women/shoes/heels/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festivejewels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/accessories/jewellery/?getSKU=RI009AC0S9U9MY--ON573AC0S429MY--EL474AC0S1ZMMY",
     "Headline": "NA",
-    "Subline": "選購高跟鞋 >",
-    "EventLabel": "CAT|Women|heels|ALL|NA"
+    "Subline": "可愛配飾 >",
+    "EventLabel": "RET|Women|festivejewels|ALL|NA"
   },
   {
     "Placement": "wc3",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C3_375x500_BEAUTY.jpg",
-    "Exit Url": "/women/beauty/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festivedresses0all0na_women_375x500.jpg",
+    "Exit Url": "/women/clothing/party-dresses/?getSKU=BD7BFZZA058326GS--DO816AA0SB6AMY--DO816AA0SB69MY",
     "Headline": "NA",
-    "Subline": "選購美容產品 >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "氣質洋裝 >",
+    "EventLabel": "RET|Women|festivedresses|ALL|NA"
   },
   {
     "Placement": "wc4",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_SKIRTS.jpg",
-    "Exit Url": "/women/clothing/skirts/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festiveclutches0all0na_women_300x198.jpg",
+    "Exit Url": "/women/bags/clutches/?getSKU=CD8D9ACF8AE35CGS--MI665AC44FXJMY--VE975AC0SA7OMY",
     "Headline": "NA",
-    "Subline": "選購裙子 >",
-    "EventLabel": "CAT|Women|skirts|ALL|NA"
+    "Subline": "晚宴手拿包 >",
+    "EventLabel": "RET|Women|festiveclutches|ALL|NA"
   },
   {
     "Placement": "wc5",
     "Gender": "women",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_TOPS.jpg",
-    "Exit Url": "/women/clothing/fashion-tops/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festivemakeup0all0na_women_300x198.jpg",
+    "Exit Url": "/women/beauty/",
     "Headline": "NA",
-    "Subline": "選購上衣>",
-    "EventLabel": "CAT|Women|tops|ALL|NA"
+    "Subline": "聖誕妝感>",
+    "EventLabel": "RET|Women|festivemakeup|ALL|NA"
   },
   {
     "Placement": "wh1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/wMOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=7651FAA0A5159EGS--58838AABF1B766GS--6E124AADDEDF36GS--E2B38AA0DD1C00GS--9A9F9AA7CA4C3FGS",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wMOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/women/occasions/chinese-new-year/?getSKU=8C52BAABDBC161GS--9A9F9AA7CA4C3FGS--4B92AAAFBB8BEDGS--38E21AAD192B0EGS--D60B2AA6FD9A91GS",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "RET|Women|cnysneakpeek|ALL|NA"
+    "EventLabel": "RET|Women|festivecny|ALL|NA"
   },
   {
     "Placement": "wn1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/raybanN2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/ray-ban/?csa=raybanawseventeen",
-    "Headline": "Ray-Ban",
-    "Subline": "時尚的太陽眼鏡，每一刻都如此耀眼",
-    "EventLabel": "bra|women|raybanawseventeen|all|na"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN1_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/river-island/",
+    "Headline": "River Island",
+    "Subline": "精選品牌，立即擁有一直想要的單品",
+    "EventLabel": "BRA|Women|riverislandawseventeen|ALL|ZAP"
   },
   {
     "Placement": "wn2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/betsyN2_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/betsy/?csa=betsyawseventeen",
-    "Headline": "Betsy",
-    "Subline": "專為工作及玩樂皆相宜而設計的英倫風格鞋品。",
-    "EventLabel": "BRA|Women|betsyawseventeen|ALL|ZAP"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/melissa/",
+    "Headline": "Melissa",
+    "Subline": "創意設計的鞋子，踏出正確的一步",
+    "EventLabel": "bra|women|melissa2awseventeen|all|zap"
   },
   {
     "Placement": "wn3",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N3w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/women/clothing/jackets-and-coats/?getSKU=456F9ZZB5C6D66GS",
-    "Headline": "奢華層次穿搭",
-    "Subline": "穿上大衣外套，讓這個冬天保暖又時尚",
-    "EventLabel": "CAT|Women|coatsandjackets|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/wN3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/women/all-products/?brand=dorothy-perkins--esprit--mango--topshop&color=粉紅色--金色--銀色&getSKU=MA193AA0S6JMMY--DO816AA0SB7DMY--DO816AA0SB69MY--MA193AA0S36RMY--MA193AA0S9MXMY--DO816AA0S79TMY----DO816AA0SB63MY--MA193AA0RVZQMY",
+    "Headline": "歡慶佳節",
+    "Subline": "穿上Topshop、Esprit及Dorothy Perkins服飾，領先潮流和派對時尚",
+    "EventLabel": "RET|Women|bestbrands|ALL|NA"
   },
   {
     "Placement": "wc1",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_DRESSES.jpg",
-    "Exit Url": "/women/clothing/dresses/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festiveheels0all0na_women_300x198.jpg",
+    "Exit Url": "/women/shoes/heels/?color=綠色--海軍藍色--粉紅色--銀色--金色藍色&getSKU=49B37SHE6F3E5FGS--GU020SH0S7KQMY--DO816SH0SB6WMY--63F10SH22F9C7EGS--A5B39SH4C24082GS--50D6EZZ02E4346GS",
     "Headline": "NA",
-    "Subline": "選購洋裝 >",
-    "EventLabel": "CAT|Women|dresses|ALL|NA"
+    "Subline": "休閒高跟鞋 >",
+    "EventLabel": "RET|Women|festiveheels|ALL|NA"
   },
   {
     "Placement": "wc2",
     "Gender": "women",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_BEAUTY.jpg",
-    "Exit Url": "/women/beauty/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0women0festivedresses0all0na_women_300x198.jpg",
+    "Exit Url": "/women/clothing/party-dresses/?getSKU=BD7BFZZA058326GS--DO816AA0SB6AMY--DO816AA0SB69MY",
     "Headline": "NA",
-    "Subline": "選購美容產品 >",
-    "EventLabel": "CAT|Women|beauty|ALL|NA"
+    "Subline": "氣質洋裝 >",
+    "EventLabel": "RET|Women|festivedresses|ALL|NA"
   },
 	{
 		"Placement": "wb1",
@@ -303,11 +303,11 @@
     "Placement": "mh1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/SEGMENT_HERO_996x500herom.jpg",
-    "Exit Url": "/men/all-products/?cmpgn_one=bfcmtriplevc&csa=triplevc",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mSEGMENT_HERO_mokcup_996x500.jpg",
+    "Exit Url": "/product-index/festive-wear/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "SAL|Men|triplevc|ALL|NA"
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -323,31 +323,31 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N2m_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/mensbasics/?price=450-100000000",
-    "Headline": "基本款低至NT$450",
-    "Subline": "不容錯過的時尚基本款",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mN2v2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/product-index/bootsandboats",
+    "Headline": "就是自在",
+    "Subline": "讓靴子和帆船鞋<break>帶你自由進出年終各大派對",
+    "EventLabel": "RET|Men|festiveshoes|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N3mmm_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/mensouterwear/",
-    "Headline": "擁抱寒冬",
-    "Subline": "穿上毛衣和外套，體驗最真實的暖意",
-    "EventLabel": "TRE|Men|beatthecold|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mN3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--mango-man--selected-homme--topman&getSKU=TO413AA35XMIMY----ES374AA0ROA9MY--ES374AA0RVD8MY--ES374AA0RWHSMYY",
+    "Headline": "佳節歡樂氣氛",
+    "Subline": "感謝Selected Homme、Topman、Esprit及更多人氣品牌，讓您去到哪都是焦點.",
+    "EventLabel": "RET|Men|festivebrands|ALL|NA"
   },
   {
     "Placement": "mn4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N1w_NEWARRIVALS_360x420.jpg",
-    "Exit Url": "/men/all-products/?brand=abercrombie-fitch--adidas--burton-menswear-london--jack-jones--only-sons--selected-homme--topman",
-    "Headline": "最棒的精選",
-    "Subline": "不容錯過的Jack & Jones、Selected Homme和更多的人氣品牌",
-    "EventLabel": "TRE|Men|bestsellerbrands|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mN4_NEWARRIVALS_360x420.jpg",
+    "Exit Url": "/product-index/gifts-for-him/?price=0-50",
+    "Headline": "聖誕禮物j低至NT$1000",
+    "Subline": "精選男士保養、包款及配件讓你潮流過聖誕",
+    "EventLabel": "RET|Men|giftsunder|ALL|NA"
   },
 {
     "Placement": "mfb1",
@@ -409,65 +409,65 @@
     "Subline": "NA",
     "EventLabel": "bra|men|superdryawseventeen|all|na"
   },
-   {
+ {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_Jackets.jpg",
-    "Exit Url": "/men/clothing/jackets-and-coats/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festivesneakers0all0na_men_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/",
     "Headline": "NA",
-    "Subline": "選購外套 >",
-    "EventLabel": "CAT|Men|coatsandjackets|ALL|NA"
+    "Subline": "休閒鞋 >",
+    "EventLabel": "RET|Men|festivesneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_WATCHES.jpg",
-    "Exit Url": "/men/watches/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festiveouterwear0all0na_men_300x198.jpg",
+    "Exit Url": "/men/clothing/?category_id=4389--5773--5774",
     "Headline": "NA",
-    "Subline": "選購手錶 >",
-    "EventLabel": "CAT|Men|watches|ALL|NA"
+    "Subline": "大衣&外套 >",
+    "EventLabel": "RET|Men|festiveouterwear|ALL|NA"
   },
   {
     "Placement": "mc3",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/C3_375x500_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festivenewarrivals0all0na_men_375X500.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
-    "Subline": "選購長褲 >",
-    "EventLabel": "CAT|Men|pants|ALL|NA"
+    "Subline": "新品上市 >",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mc4",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_Sports.jpg",
-    "Exit Url": "/men/sports/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festivejeans0all0na_men_300x198.jpg",
+    "Exit Url": "/men/clothing/jeans/",
     "Headline": "NA",
-    "Subline": "選購運動服飾 >",
-    "EventLabel": "CAT|Men|sports|ALL|NA"
+    "Subline": "丹寧牛仔 >",
+    "EventLabel": "RET|Men|festivejeans|ALL|NA"
   },
   {
     "Placement": "mc5",
     "Gender": "men",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_Backpacks.jpg",
-    "Exit Url": "/men/bags/backpacks/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festiveblue0all0na_men_300x198.jpg",
+    "Exit Url": "/men/all-products/?color=藍色",
     "Headline": "NA",
-    "Subline": "選購後背包 >",
-    "EventLabel": "CAT|Men|backpacks|ALL|NA"
+    "Subline": "藍色祝福 >",
+    "EventLabel": "RET|Men|festiveblue|ALL|NA"
   },
   {
     "Placement": "mh1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/mMOBILEWEB_HERO_600x600.jpg",
-    "Exit Url": "/men/shoes/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mMOBILEWEB_HERO_600x600.jpg",
+    "Exit Url": "/product-index/festive-wear/",
     "Headline": "NA",
     "Subline": "NA",
-    "EventLabel": "CAT|Men|bestsellershoes|ALL|NA"
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "mn1",
@@ -483,41 +483,41 @@
     "Placement": "mn2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N2m_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/mensbasics/?price=450-100000000",
-    "Headline": "基本款低至NT$450",
-    "Subline": "不容錯過的時尚基本款",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mN2v2_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/product-index/bootsandboats",
+    "Headline": "就是自在",
+    "Subline": "讓靴子和帆船鞋<break>帶你自由進出年終各大派對",
+    "EventLabel": "RET|Men|festiveshoes|ALL|NA"
   },
   {
     "Placement": "mn3",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/N3w_NEWARRIVALS_620x420.jpg",
-    "Exit Url": "/product-index/mensouterwear/",
-    "Headline": "擁抱寒冬",
-    "Subline": "穿上毛衣和外套，體驗最真實的暖意",
-    "EventLabel": "TRE|Men|beatthecold|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/mN3_NEWARRIVALS_620x420.jpg",
+    "Exit Url": "/men/all-products/?brand=burton-menswear-london--esprit--mango-man--selected-homme--topman&getSKU=TO413AA35XMIMY----ES374AA0ROA9MY--ES374AA0RVD8MY--ES374AA0RWHSMYY",
+    "Headline": "佳節歡樂氣氛",
+    "Subline": "感謝Selected Homme、Topman、Esprit及更多人氣品牌，讓您去到哪都是焦點.",
+    "EventLabel": "RET|Men|festivebrands|ALL|NA"
   },
   {
     "Placement": "mc1",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/C1245_300x198_Jackets.jpg",
-    "Exit Url": "/men/clothing/jackets-and-coats/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festivesneakers0all0na_men_300x198.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/",
     "Headline": "NA",
-    "Subline": "選購外套 >",
-    "EventLabel": "CAT|Men|coatsandjackets|ALL|NA"
+    "Subline": "休閒鞋 >",
+    "EventLabel": "RET|Men|festivesneakers|ALL|NA"
   },
   {
     "Placement": "mc2",
     "Gender": "men",
     "Device": "mobile",
-    "Image": "https://static-tw.zacdn.com/cms/cw48/C1245_300x198_Longpants.jpg",
-    "Exit Url": "/men/clothing/pants/",
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ret0men0festivenewarrivals0all0na_men_300X198.jpg",
+    "Exit Url": "/men/new-products/",
     "Headline": "NA",
-    "Subline": "選購長褲 >",
-    "EventLabel": "CAT|Men|pants|ALL|NA"
+    "Subline": "新品上市 >",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
 	{
 		"Placement": "mb1",
@@ -573,11 +573,11 @@
     "Placement": "ub1",
     "Gender": "unisex",
     "Device": "desktop",
-    "Image": "https://static-tw.zacdn.com/cms/cw49/ub1SEGMENT_HEADER_326x304.jpg",
-    "Exit Url": "/product-index/mensbasics/?price=450-100000000",
-    "Headline": "基本款低至NT$450",
-    "Subline": "不容錯過的時尚基本款",
-    "EventLabel": "CAT|Men|basicsfrom|ALL|NA"
+    "Image": "https://static-tw.zacdn.com/cms/cw50/ub1HOMEPAGE_BANNER_326x304.jpg",
+    "Exit Url": "/product-index/festive-wear/",
+    "Headline": "歡樂節慶",
+    "Subline": "在這聖誕節，成為衆人矚目的焦點",
+    "EventLabel": "RET|Men|festivenewarrivals|ALL|NA"
   },
   {
     "Placement": "ub2",
@@ -713,9 +713,9 @@
 		"Placement": "skinny-half-right-men-global",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#000",
-		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
-		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
+		"Image": "#6BBAB7",
+		"Exit Url": "/men/zalorastyleedit/",
+		"Headline": "發掘更多時尚靈感，跟隨 #ZALORASTYLEEDIT >",
 		"Subline": "#FFF",
 		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	},
@@ -743,9 +743,9 @@
 		"Placement": "skinny-half-right-men-segment",
 		"Gender": "men",
 		"Device": "desktop",
-		"Image": "#000",
-		"Exit Url": "/men/accessories/?getSKU=SU137AC0RSGZMY--SU137AC0S4GIMY--SU137AC0RSH0MY--VO089AC0RX98MY--VO089AC0RX9EMY--VO089AC0RX9DMY--VO089AC0RX95MY--VO089AC26RNXMY",
-		"Headline": "超值禮品組合：選購佳節禮品，向心愛的人送上祝福 >",
+		"Image": "#6BBAB7",
+		"Exit Url": "/men/zalorastyleedit/",
+		"Headline": "發掘更多時尚靈感，跟隨 #ZALORASTYLEEDIT >",
 		"Subline": "#FFF",
 		"EventLabel": "RET|Men|giftsets|ALL|NA"
 	}
